@@ -1,0 +1,2493 @@
+CHAPTER 19: DROIDS
+(Páginas impressas 367-400 | PDF 369-402)
+
+[Página impressa 367 | PDF 369]
+
+19
+
+# DROIDS
+
+We droids are mechanical devices, often capable of intelligent and creative thought. Droid-types range from simple units that can only follow basic commands, to highly developed units capable of translating millions of languages or assisting in the piloting of a starship.
+
+Higher function droids like me are programmed with personalities, and are capable of acting independently and making decisions; some droids even seem to have emotions. In short, we are an electronic form of life.
+
+Most people consider droids as little more than tools, though I’m not convinced that is the case. Anyone who’s met Luke Skywalker’s astromech droid or Rogue Squadron’s protocol droid would probably agree with me. Many droids — if treated with a little care and respect — can seem as alive as you. Whether or not we constructs can truly be called “alive” is not for me to say... I simply refuse to be treated as an inferior, as something less than a sentient life, just because I’m different.
+
+If you do treat droids as non-lifeforms, you’d be no better than the Imperials you’re fighting. But perhaps you think I am waxing far too philosophical for a droid.
+
+So lets talk about what you came here for... on to your first lesson on droids.
+
+CHAPTER NINETEEN
+
+[Página impressa 368 | PDF 370]
+
+## DROIDS IN THE GALAXY
+
+Droids are one of the fundamental technologies of the galaxy. They are intelligent automatons programmed to perform very specific functions. Droids are often used for tasks which are too complex, dangerous or even dull for organic beings. Droids may be programmed to excel at one or two specific types of functions at the expense of having the versatility of organics. Due to their highly-developed logic circuits, droids lack the intuitive and associative capabilities of many organic species. Droids, in addition to high intelligence and the capacity for learning, are normally programmed to exhibit a specific personality in order to make them more palatable to organics.
+
+Droids take a variety of forms, from aesthetically pleasing humanoid shapes to the stark functionality of an astromech or probe droid. Many droids have normal speech capabilities for easy communication with other beings, although some are limited to high-density electronic languages that only other droids can interpret with any ease.
+
+Droids are often classified by function:
+
+• First Degree Droids: Usually utilitarian in disposition, droids of this class are programmed with the physical sciences, medical sciences, or mathematics in mind. First degree droids are usually teamed up with organic counterparts to facilitate the completion of any specific task. The 2-1B surgical droid is an example of a first degree droid.
+
+• Second Degree Droids: This type of droid is frequently designed for functionality over aesthetics. A second degree unit’s ability is often overlooked by the uninformed, simply because of the droid’s physical appearance. The lack of advanced personality programming on many models adds to this common misconception. Second degree droids are programmed for environmental, engineering, and technical duties as well as applied sciences. Astromech droids — such as the famed R2-series — are second degree droids.
+
+• Third Degree Droids: The most common models to be seen with organic beings are third degree droids. They are designed and programmed with the social sciences in mind, specializing in protocol, translation, organic relations, teaching, diplomatic, and other functions that put them in regular contact with organics. As such, these droids tend to be physically designed in the mold of their makers, or the manufacturer’s intended customer base. Protocol units like the 3PO and Siak-series are classified as third degree droids.
+
+• Fourth Degree Droids: Such units are illegal in most systems. Fourth degree droids are designed for military and security operations. After several accidents involving the design and manufacture of these “mechanical soldiers,” the use of fourth degree droids was prohibited, except for certain models designed for legitimate military use. Although publicly denouncing the use of lethal droids for any operation, the Empire (as well as several underworld organizations) use fourth degree droids in an assassin capacity. Defense droids, like the G- 2RD, are fourth degree droids.
+
+• Fifth Degree Droids: Similar to primitive robotic units, fifth degree droids are typically programmed for menial duties such as simple lifting, mining, salvage, transportation, sanitation and waste control. Fifth degree droids generally perform tasks deemed unfit or impossible for organic life. This class of droid is seldom equipped with any advanced knowledge processors, save
+
+for those that are required to perform an intended task. Fifth degree droids are the most common (and most affordable) found throughout the galaxy. The BLX-series labor unit is but one of the many fifth degree droids found throughout the galaxy.
+
+# ROLEPLAYING DROIDS
+
+Generating a droid player character in The Star Wars Roleplaying Game differs greatly from creating an “organic,” or “normal” player character. In addition to using a completely different set of character generation rules, players who decide to portray a droid have to take into account a different form of “living” in the Star Wars universe.
+
+### Creating a Template for a New Droid Model
+
+Like all player characters, starting droid characters begin with a total of 25D. The major difference is that organic characters divide these dice between attributes and skills, whereas a droid character breaks these dice down between attributes, skills, and attachments. Organic characters generally have 18D for their attributes, leaving 7D for allocation to skills. Droids do not have this limitation. They are not subject to species’ minimums and maximums like organics (though they are subject to the current state of technology). In the Classic Star Wars time frame, technology allows a droid no more than 13D in any particular attribute, with a minimum of 0D.
+
+Because of this, it becomes amazingly simple to create a new droid type to use as a character template. Simply divide the 25D between the droid’s attributes, skills, and attachments (equipment that provides the droid with a permanent skill bonus). Consult with your gamemaster during this process, as creating a character in this manner is much more collaborative than during the generation of an organic character. Talk with the gamemaster about what your droid’s Move rating should be, what equipment it has installed and other such considerations. When a consensus is reached, the droid is effectively created.
+
+Alternately, your gamemaster may allot you a credit limit and have you use the droid creation/modification rules from the previous chapter. Usually, the cost of creating a droid suitable for a player character is between 3,000 and 5,000 credits.
+
+### Optional Rule: Basing a Character Template Off an Existing Droid
+
+When modifying an existing droid for use as a player character, character generation becomes more complex. There are some droids that are simply not suited for use as a player character (large units like logging droids or the construction droids from Coruscant, for example). The first thing you should do if you choose to play an existing droid type is to select a “stock” droid you like. (These droids can come from the listings in this volume, or any other source.) All of the droids listed in this book are considered “stock” — they have not been modified in any way and are listed as they would be if purchased new. Count up the dice the new droid has allocated to attributes, skills, and attachments. Make sure to ignore any dice the droid receives from special abilities or story factors, as these usually only come into play at character creation, and are not counted in the characters standard 25D. For instance, the droid might have a special ability granting it any one Mechanical skill at 3D. Extra dice given in this manner do not count towards the droid’s 25D.
+
+[Página impressa 369 | PDF 371]
+
+If the droid has exactly 25D in its attributes, skills and attachments, it is ready to be run as a player character; just copy down the droid on apiece of paper and (as far as game rules are concerned) that character is ready to go.
+
+If the droid model you wish to play has less than 25D total, you can add the difference with “Build Dice.” Figure out what your “build dice” are by subtracting the total dice from the droid you want to play from 25. The value you come up with is your build dice, which can be allocated to skills, and attachments, not at tributes.
+
+Example: Dave wants to play a Rim Securities’ K4- series security droid. The droid has a total of 20D in attributes, skills, and attachments. In this case the Dave’s droid has 5D of “build dice.” (25D minus the 20D listed in the template = 5D still available for skills and attachments.) Dave can add these 5D of “build dice” to the skills and attachments to his character. Remember, Dave can’t spend these “build dice” on improving attributes.
+
+### Adding Skills
+
+Unlike a “normal” character, droids can spend more than 2D on improving a skill during character creation. In fact, a new droid character can begin play with a skill that is up to 4D above the governing attribute. In addition, droid characters taken from existing models start with skills already integrated into the droid type. Many droids already have at least 4D above a specific attribute in some skills and such skills can not be improved at the time of character creation.
+
+Example: Dave’s K4 droid has a Dexterity of 3D and comes off the assembly line with blaster 7D, dodge 8D, and running 4D. Because both blaster and dodge are already 4D or more above the ruling attribute (in this case Dexterity), Dave may not allocate any of his 5D of “build dice” to those skills.
+Because running is only 1D above Dexterity, Dave may add up to 3D to improve that skill.
+
+At the time of character creation only the player may use his build dice to give the droid skills that it didn’t receive when it was constructed without shelling out credits. Like an organic character, these skills start at the same die code as the governing attribute. However the player may allocate up to 4D in any one skill. The player should consider what skills the droid should have in addition to what it comes with. Is the droid designed for a specific application? Does its current skill package serve that purpose? The player should also select skills appropriate to what he or she intends to use the droid for; just because the droid is designed as an accounting unit doesn’t mean the owner will use it for its intended purpose. Is the droid destined for industrial intrigue or sabotage? Will it assist a smuggler during a sophisticated confidence scam? Or will it wind up providing maintenance assistance or astrogation backup aboard a freighter?
+
+During this process, the gamemaster should be kept apprised of the droid’s development. Gamemasters may wish to veto the use of certain skills on new droids unless the player can come up with an extremely good
+
+reason for having the skill. For example, there are very few astromech droids that can accurately fire a blaster, and fewer still that would actually want to. Without an adequate reason for the droid to possess such a skill (it has been specially commissioned with illegal software by a Black Sun Vigo, for example) the gamemaster may disallow it.
+
+## DROID CHARACTER DEVELOPMENT
+
+Unlike an organic character, droids come off the assembly line prefabricated to be identical in almost every way. They possess the same skills and knowledge, the same equipment and attachments, and look exactly alike (save for their paint jobs). Each droid of the same model comes pre-equipped with an identical personality matrix, though these can change over time, with experience and programming. Where an organic character has learned her skills through schooling and life experience, a droid is programmed with necessary knowledge. Consider the following topics when determining a droid character’s background and behavior:
+
+### Name/Designation
+
+The first thing you’ll want to do after creating the “rules” portion of your character is to come up with a name for it. Droid names are generally made up of a combination of numbers and letters (C-3PO, FX-7, EV99, and so forth). These designations are not unlike serial numbers, and they often include the droid’s model number as well as defining characters that separate the droid from others of its class.
+
+Most droid names include the unit’s model number; R2-D2 is an Industrial Automaton R2 astromech unit. Most other R2 units have the characters “R2” somewhere in their names, as well though they are not always pronounced. There are some companies that use words or symbols as a model designation, though these cases are rare (the Verpine Siak-series is one such example). Often, owners will spell out the droid’s designation
+
+[Página impressa 370 | PDF 372]
+
+phonetically, giving the droid a more “organic” name (“MD-18” becomes “Emdee-Oneight,” for example). Other owners have ignored the droid’s name altogether, opting for a nickname of some sort. “Whistler” and “Mynock” are examples of this.
+
+When choosing a name for your droid, take these things into account. There is no limit to the number of digits in a droid’s designation; there could very well be a 3PO unit with a designation of Q32H-3PO-9ST somewhere in the galaxy. Usually, organics shorten longer names for ease of reference (so the example above could simply be referred to as “Kyu-three” or “Ohnine”).
+
+### Manufacture/Design
+
+Of course, most of a droid character’s traits will come straight from the mold from which it was formed. Whether the droid was of a type depicted in this book or was created from scratch, someone built it. (In general, the droid’s manufacturer is found in the unit’s game stats.) Consider the manufacturing company’s policies regarding politics, society, the military, and so forth. How do those views affect the character’s basic programming? While the very nature of a personality matrix allows for learning and expansion on many levels, the beings who built the player character droid would instinctively leave traces of their personalities behind in the programming.
+
+Remember to consider the reason it was built in the first place. No matter how old the droid is, or how much the droid’s experiences and adventures may have affected its development, there will always be at least traces of the primary programming left over. An agricultural droid may, during the course of its existence, learn to fire a blaster, fly a speeder, or speak several languages. But the fact remains that it is still an agricultural droid. Keep this in mind when developing a droid player character. A battered and adventurous cook-droid may act like a brash pilot (but it will still talk about food preparation a great deal).
+
+### Activation
+
+Droids aren’t “born,” per se; they are “activated.” When activation occurs, the droid’s knowledge and personality are also activated. However, an older droid will have either been modified by a previous owner (or, in some cases, actually modified itself) over a long enough period of time. The time a droid player character has been activated can dramatically affect the droid’s behavior.
+
+### Simulated Emotions
+
+Droids are often programmed to react in very specific ways to their environment. Often, this programming is extremely sophisticated, resembling actual emotions a great deal. The emotional response programming a droid receives is related directly to its intended function. For instance, it is sometimes beneficial for an assassin droid to display aggression (or even outright anger), whereas a medical unit would most likely display compassion to facilitate interaction with organics under its care. These feelings are programmed into the unit at the factory, though the droid may develop and expand on the core emotional programming.
+
+It is up to the player to determine what emotional responses a droid character possesses. Base this on the unit’s primary design, and take into account responses the droid may have learned since it was activated. If, for example, you are playing a protocol droid who has somehow developed a very aggressive attitude and carries a big gun, decide where it learned to respond to situations in that manner. Was it intentionally pro-
+
+grammed that way by someone? Or has its previous experiences molded the droids reactions? Perhaps the central programming core from an assassin droid was placed into the chassis of a protocol droid to avoid detection. Was this done by the owner, or was it the act of a free-thinking droid that wanted to avoid destruction? Thinking about the reasons why a droid character reacts the way it does helps make that character more convincing (and more fun to play).
+
+### Droid Character Traits
+
+The following is a list of sample traits that a droid character may possess. They are intended only to spark some of the questions suggested in this chapter: why would a droid exhibit these behaviors? Players and gamemasters are encouraged to use this list as a starting point for creating more entertaining droid characters, though this list is by no means exhaustive.
+
+• Argumentative: No matter what is being discussed, the droid will constantly offer an “alternative viewpoint.” Typically, these “alternatives” are little more than an excuse to argue.
+
+• Backup personality: A previous owner hardwired a “backup” personality into the droid’s “brain.” When subjected to specific stimuli (such as damage, a code phrase, a transmission on a particular comm frequency) the droid’s alternate personality becomes evident. This personality can be very similar to (or completely different than) the droid’s main behavioral matrix.
+
+• Center of conversation: The droid always tries to work its way into a conversation, dominating the exchange with pointless anecdotes or stories.
+
+• Curious: The droid has a strong sense of curiosity, constantly seeking answers to any questions that may puzzle it.
+
+[Página impressa 371 | PDF 373]
+
+• Exaggerates: When asked to describe something that it witnessed, the droid invariably inflates the specifics of the account (or its role in the event).
+
+• Glitch: The droid has a minor malfunction that has stubbornly resisted all diagnostic and repair attempts. (This trait would be more common to older droids.) For example, a protocol droid’s vocabulator has somehow been damaged and the droid’s voice sounds peculiar (a drawl, a strange accent, a “nasal” quality to its speech).
+
+• Low self-esteem: The droid is convinced that it has somehow failed its primary function. Perhaps the droid strives harder to serve an organic master (in order to “atone” for the perceived failure); conversely, the droid feels that it no longer has worth and does not really try and operate at peak efficiency any longer (by not using Character Points during skill rolls).
+
+• No self-confidence: The droid is convinced that its abilities are not equal to a given task.
+
+• Obnoxious: The droid has a tendency to say “the wrong thing at the wrong time” and is often regarded as unpleasant.
+
+• Obsequious: The droid fawns over those it deems its “betters” (typically organic owners), constantly seeking their favor and approval.
+
+• Obsessive tendencies: The droid has an annoying, obsessive quirk (such as a need to clean its surroundings, or sort fairly unimportant files or datawork). Sometimes this obsession with minor tasks prevents the droid from adequately performing more important ones.
+
+• Paranoia: The droid is convinced that it has some sort of enemy, and is constantly worried that it is in danger.
+
+• Pompous: The droid believes it is “better” than other mechanicals (or organics; player’s choice) and constantly makes disparaging remarks when such beings are encountered.
+
+• Sullen: The droid is very reluctant to speak or interact with other organics. Questions to such a droid must be very specific, as the unit typically responds with as vague an answer as possible.
+
+• Talkative: The droid simply can not stop speaking at inappropriate times.
+
+### History
+
+The past is as important to a droid character as it is to an organic one — even more so in some cases. Because many droids are several decades old, it may have been through many events that other characters have never experienced. By the time Artoo and Threepio came to be in the employ of the Lars family, they had already been through many adventures with other owners. The following guidelines can also help to “flesh out” a droid character:
+
+### Previous Owners
+
+Depending on the age of the droid, it is quite possible that it has served a number of masters, all with their own personalities and agendas. Deciding who these owners were can round out the gaming experience by giving the droid a history from which it has learned (and modified its personality). Depending on the occupation of a previous owner (and how the owner used the droid’s services) the droid may have had many adventures prior to the events of its current campaign. Remember when coming up with previous owners that they didn’t necessarily purchase the droid, or use it for what it was specifically programmed for.
+
+(Even a protocol droid can get a job working on a moisture farm simply because it speaks Bocce.) You can use the following character hooks as they are or as a groundwork from which to create your own ideas:
+
+• A former owner was a government official of some sort: Imperial, Old Republic, or possibly a smaller system or planetary official. Under his ownership, you learned many things about dealing with politics and bureaucracies. Your master used you for a variety of tasks, including delivering private messages, light repairs on his star yacht, and watching over his children (who were prone to causing all manner of trouble).
+
+• One of your owners had taken the time to train you how to lie. (He was a smuggler after all, and “a little backup with a con never hurt,” he claimed.) You enjoyed the heroic nature of some of your more dangerous missions, even though you were the one forced to keep his ship’s faulty hyperdrive motivator operational....
+
+• A young bounty hunter took you as pay for a job. She never really needed a droid hanging around, but still you wanted to please your new master. While fulfilling your primary function (protocol, food-preparation, or other such task) you learned the basics of first aid, weapon repair and maintenance, and minor shipboard operations.
+
+• A small store owner bought you to help around the shop. While you were there, you met many “regulars” who came to know you on a personal level. The owner was a kind old man, and kept you well oiled, until you were stolen by one of the “regulars.“ Your existence has been a whirlwind of Black Market droid auctions, smuggling runs and menial labor ever since. You’ve seen a great deal, but you still want to find your kindly old master.
+
+• Pirates stole you from one of your owners when they captured him as a slave. They used you for administrative duties and when you weren’t pushing Imperial slaver datawork around, the crew used you for target practice. During this period you lost a lot of vital circuitry but the ruffians always managed to put you back together again, albeit haphazardly. (You still can’t manage to get rid of that fluctuation in your neck servos, though.)
+
+• After your last employment with an accounting agency, you were auctioned off to the head of a mercenary group. He let you keep all of your programming and knowledge, following his philosophy that “you never know when it’ll come in handy.” After some time with the group, they began installing new software and hardware on you. Now you can sneak into an enemy stronghold, plot an escape route for a personnel carrier, and figure out what the boss will save in salary, all at the same time.
+
+### Memory Wipes
+
+Many droid owners make it a practice to memory wipe a new droid, and continue to do so as a part of the droid’s regular maintenance. Has your droid player character ever had its memory erased? If so, how long ago? Was the technician competent? Remember that when a droid is memory wiped, its personality matrix resets to the factory standard. In some cases (depending on the technician’s ability) remnants of the former personality are left intact, as well as memory fragments.
+
+[Página impressa 372 | PDF 374]
+
+### Memory Wipes and Character Development
+
+From the time a droid is activated its personality matrix begins learning and developing. When a droid is mindwiped, the personality matrix and memory default to the factory settings. The droid no longer remembers its former owners or its experiences and is essentially “new” (save for any modifications or hardwired skills it has acquired over time). Nevertheless, many droid technicians don’t do a complete job when erasing a droid’s memory, and some personality quirks can be left over. This can make the droid more entertaining to play.
+
+Though the droid’s memory has been erased, it will still know how long it has been since it was activated. It will also know that it had been mindwiped. In most cases, a droid understands that a memory wipe is simply part of existence, though some droids often wonder what they were formerly like, who their owners were, and so on. In certain cases, a droid’s longing to understand its own existence has become obsessive.
+
+Remember that a mindwiped droid considers its history to be much shorter than it actually is. This can be used by gamemasters to alarming effect. Perhaps the character was a power droid refitted to process a cheater chip routine for its former master who was a sabacc gambler. Some of the victims who lost to the droid and his master might show up and remember the droid (even if the droid doesn’t recall ever meeting the being in question). Perhaps the droid was reprogrammed for surveillance duty for CorSec and some of its law enforcement protocols are still in place; if the droid sees a crime being committed, it immediately signals for the local constabulary (which would be extremely embarrassing to smugglers at a shadowport).
+
+# GAME STATISTICS
+
+All droids have a listing for game information. Droids can be listed as individuals (such as R2-D2 and C-3PO) or as a “stock” model of a droid (such as for the Industrial Automaton R2 Astromech droid).
+
+Type: The manufacturer, make and type of droid.
+Attributes and Skills: For individual droids, these are listed in the same manner as normal characters. For stock droids, these listings can be considered “minimum” skills for all droids of that type. Of course, some individual droids will have been altered or reprogrammed and thus will not meet the minimums, while other individuals can greatly exceed those minimums.
+Equipped With: Many droids are equipped with specialized tools.
+These tools are listed here.
+Special Skills: Some droids have specialized skills which are otherwise not commonly available. If that is the case, the skill (and its governing attribute) is listed and explained.
+Special Abilities: Some droids have unique special abilities.
+Story Factors: Some droids have very specific types of story factors. Story factors are things which can govern a droid’s behavior or how other beings interact with the droid, but are not “game rules” in the traditional sense.
+Move: For an individual droid, its movement rate. For a type of droid, it may have two listings: the first number is the droid’s basic Move, while the second number represents the droid’s maximum Move. Size: The droid’s size.
+Cost: The cost of the droid, sometimes with “new” and “used” listings. Equipment: Some droids carry equipment (just like characters). If this is the case, the droid’s equipment will be listed here.
+
+# SAMPLE DROIDS
+
+The following droids are presented as basic models, in their factory preset state. The skills possessed by a basic model represent the droid’s core programming — characteristics the droid maintains even after being subjected to a memory wipe.
+
+## FIRST DEGREE DROIDS
+
+### 2-1B Medical Droid
+
+Programmed by some of the finest medical minds in the galaxy, Industrial Automaton’s 2-1B Series was the first commercially successful surgical droid. Each 2-1B is equipped with a computer interface socket and tether; what it doesn’t know about a patient’s species or medical history, it can download from any medical mainframe.
+
+The 2-1B’s surgical pincer hand attachments are precision-engineered for smooth,
+ steady action. The core programming of 2-1 B surgical
+ droids includes the “physician’s code.” This prevents the droid from refusing medical aid to any being
+(unless specifically ordered otherwise by an authorized operator). As well as preventing it from deliberately inflicting harm on an organic creature (except as defined by extensive guidelines for saving a life). This includes a stricture against engaging in combat.
+
+#### 2-1B MEDICAL DROID
+
+Type: Geentech/Industrial Automaton 2-1B Surgical Droid DEXTERITY 1D
+KNOWLEDGE 2D
+
+Alien Species 5D MECHANICAL 2D
+
+(A) Bacta tank operation 5D PERCEPTION 3D
+
+(A) Injury/ailment diagnosis 6D STRENGTH 1D
+TECHNICAL 3D
+First Aid 6D, (A) medicine 9D Equipped With:
+
+• Computer interface tether (5 meters long). When connected to medical mainframe, adds +2D to all medical skills)
+• Medical diagnostic computer
+• Analytical computer
+• Surgical attachments
+• Hypodermic injectors (4D stun damage)
+• Medicine dispensers
+Move: 4
+Size: 1.5 meters tall
+Availability: 2, R
+Cost: 4,300
+
+[Página impressa 373 | PDF 375]
+
+### FX-6 Medical Droid
+
+The FX-6 medical droid was built during the Clone Wars as a mobile, autonomous, skilled medical assistant to field medics fighting on the front line. The Grand Army of the Republic even dropped FX-6 droids into areas where fighting was planned (or already going on) to grant additional medical aid to clone trooper forces. Of course, this also means that numerous battlefields were littered with FX-6s in various states of repair, and more than one scavenger took the opportunity to add a few to his inventory.
+
+The FX-6 is able to move over many different terrains with its three casters, a trick not available to many FX models. Many FX droids are immobile, but the FX-6 has a strong sense of balance and good movement ability over any reasonably even terrain. This additional capacity comes at the price of not including a personality package or even a vocoder, leaving the droid able to communicate only through readout panels. Although this limitation gives it a sinister bedside manner, it has no impact on the droid’s ability and desire to render medical assistance. Equipped with sensors, numerous surgical tools, and multiple appendages, an FX-6 can be equipped to deal with most medical problems and treat any species.
+
+Produced in vast numbers and seeded on dozens of battlefields, the FX-6 is a common sight in the years after the Clone Wars. Designed as an assistant, the model is capable of performing as a full doctor when necessary, though patients often complain about its apparent lack of compassion. The model was eventually replaced by the more advanced FX-7, and later the 2-1B.
+
+FX-6 MEDICAL DROID
+
+Type: Medtech Industries FX-series Medical Assistant Droid DEXTERITY 1D
+KNOWLEDGE 1D
+
+Alien Species 3D MECHANICAL 1D
+
+(A) Bacta tank operation 3D+1 PERCEPTION 2D
+
+(A) Injury/ailment diagnostics 3D+2 STRENGTH 1D
+TECHNICAL 2D
+
+First aid 3D+1, (A) medicine 4D Equipped With:
+
+• Medical computer scomp link: interface to adequate medical computer or surgeon droid adds +1D to all medical skills.
+• Readout screen
+• Medical diagnostic computer and sensor
+• Analytical computer and sensors
+• 14 light manipulator arms
+• 6 main manipulator arms
+• Various surgical attachments
+• Hypodermic injectors (4D stun damage)
+• Medicine dispensers
+• Mobility caster trio
+Move: 4
+Size: 1.83 meters tall
+Availability: 2, R
+Cost: 4,300
+
+## SECOND DEGREE DROIDS
+
+### IT-0 Interrogator
+
+With much the same programming as a medical droid, an IT-0 droid seems harmless enough in technological terms.
+Its sinister appearance, however, gives away its true function. A floating ball of black durasteel, an IT-0 interrogator droid bristles with instruments of torture and recording devices. Its claw, shock devices, and twisted versions of medical gear are designed to give it an aura of menace. Indeed, its reputation has spread far enough that many prisoners begin reciting their sins as soon as one floats into their cell.
+
+The IT-0 Interrogator is the product of Imperial military research and the ISB, and it is manufactured solely by Imperial factories. Use of the IT-0 is carefully controlled by the ISB, though models dc get into the hands of senior Moffs, military intelligence, and even CompForce. The Inquisition has begun manufacturing the model on its own, a fact the ISB is not aware of and won’t be pleased by. Stormtrooper garrison commanders are also known to employ them, though generally only under the guidance of a senior officer.
+
+The droid can interrogate a prisoner by itself, or in conjunction with living questioners. It is designed with an emotionless personality and asks questions in a flat monotone. When working with a living assistant, the IT-0 often says nothing at all, allowing the prisoner to come to fear and hate the droid, while seeing the living interrogator as a source of potential mercy. An IT-0 is well equipped to bring a victim to the brink of physical damage without doing permanent harm, though it also has medical supplies and training in case a session goes too far before valuable information can be obtained.
+
+#### IT-0 INTERROGATOR DROID
+
+Type: Imperial IT-0 Interrogator Droid DEXTERITY 1D
+
+Dodge 3D, melee combat 3D, melee combat: interrogation tools 4D+1 KNOWLEDGE 3D
+
+Alien species 4D, humanoid biology 5D, intimidation 6D, intimidation: interrogation 7D
+MECHANICAL 2D
+
+Sensors 3D
+PERCEPTION 4D
+
+Investigation 5D, search 5D
+STRENGTH 3D
+TECHNICAL 2D
+
+First aid 5D, (A) medicine 5D, security 4D Equipped With:
+
+• Repulsorlift engine
+• Visual/sound sensor package
+• Vocabulator speech/sound system
+• Laser scalpel (2D damage)
+• Hypodermic injectors (4D stun damage) • Power shears (5D damage)
+• Grasping claw (+1D to lifting)
+Move: 3
+Size: 1 meter
+Availability: 4, X
+Cost: 10,000
+
+[Página impressa 374 | PDF 376]
+
+### R2 Series Astromech Droid
+
+The R2 astromech is Industrial Automaton’s most successful series of diagnostic and repair droids, largely due to the compact design that enables it (unlike its predecessors) to fit precisely into the astromech sockets of starfighters. An R2 unit performs all of the most complex astrogation, flight data, technical diagnosis, and power management tasks, freeing fighter pilots to concentrate on staying alive.
+
+The R2 astromech droid is surprisingly versatile for its size. R2s boast an overwhelming array of tools and sensors, all tucked away behind various access panels, keeping the housing largely free of obstructions. Industrial Automaton’s designers even found a way to include “wasted space” in the chassis, allowing internal storage, easy upgrades, and modifications. Even the four standard appendages (two manipulator arms, an electric arc welder, and a circular saw) can be quickly and easily switched out with a number of specialty arms available. The two empty slots are typically filled with a fire extinguisher and a computer interface probe (for an additional cost).
+
+Because these droids are quick-witted, sincere, and often insightful, many owners are reluctant to have their memories wiped, resulting in headstrong, independent astromech droids.
+
+#### R2 ASTROMECH DROID
+
+Type: Industrial Automaton R2
+Astromech Droid
+DEXTERITY 1D
+KNOWLEDGE 1D
+MECHANICAL 2D
+
+Astrogation 5D, starfighter piloting 3D, space transports 3D PERCEPTION 1D
+STRENGTH 1D
+TECHNICAL 2D
+
+Computer programming/repair 4D, starfighter repair 5D*
+
+* Astromech droids, if acting in co-pilot capacity, may attempt starship repair while in flight.
+Equipped With:
+
+• Three wheeled legs (center leg retractable)
+• Retractable heavy grasping arm (lifting at 2D)
+• Retractable fine work heavy grasper arm
+• Extendable 0.3 meter long video sensor (360 degree rotation)
+• Small electric arc welder (1D to 5D, as fitting situation, 0.3 meters range)
+• Small circular saw (4D, 0.3 meter range)
+• Video display screen
+• Holographic projector/recorder
+• Fire extinguisher
+• Small (20 cm by 8 cm) internal “cargo” area
+• Some additional small tools and equipment
+Move: 5
+Size: One meter tall
+Availability: 2, F
+Cost: 4,500
+
+### R4-Series Agromech Droid
+
+With the massive success of the R2 astromech droid and the 2-1B medical droid in the last years of the Old Republic,
+Industrial Automaton needed to find new markets. The company decided to create a droid for casual users who were more likely to need a hand with a swoop than with a starfighter.
+The R4 agromech was designed to appeal to fringe world owners who needed a skilled hand around the garage, Core World designers who wanted help building prototypes, and farmers of any world who could use a droid that was reliable and loyal.
+
+The R4 is based on the basic design of the older R2, although its design includes cost-saving measures to make it more accessible and less specialized. The R4 droid uses fewer miniaturized parts, resulting in a taller profile but a sturdier overall design. Internal components are spaced farther apart, reducing the droid’s computing power (and making it unsuitable as an astromech unless modified), but enhancing its stability and decreasing the number of elements prone to malfunctions. The result is a droid that can survive in harsh conditions and remain operational even after taking damage that might wreck a more delicate model.
+
+The R4 is very popular with repair crews, who often prefer it to repair droids specifically designed for reconstruction tasks. The R4 can also monitor crops, medical equipment, and nearly any type of sensor. Like the R2 on which it is based, the R4 is seen as friendly and helpful. The Empire, the Rebellion, and thousands of other organizations and individuals employ R4s across the galaxy, and it is easy to obtain spare parts and instructions for common modifications for R4 droids.
+
+#### R4 AGROMECH DROID
+
+Type: Industrial Automaton R4 Astromech Droid DEXTERITY 2D
+KNOWLEDGE 2D
+
+Languages 3D MECHANICAL 3D
+
+Repulsorlift operation 4D PERCEPTION 2D
+
+Search 3D
+STRENGTH 2D
+TECHNICAL 3D
+
+Computer programming/repair 4D+2, droid repair 4D, repulsorlift repair 5D, security 4D
+Equipped With:
+
+• Three wheeled legs (one retractable)
+• Internal comlink
+• Photoreceptor with infrared vision (can see in the dark up to 30 meters)
+• Internal storage (extra space available for 8 kilograms of storage or upgrades)
+• 4 tool mounts (has four appendages that have tools attached to them)
+• Acoustic signaler
+Move: 8
+Size: 1 meter
+Availability: 2, F
+Cost: 2,500
+
+[Página impressa 375 | PDF 377]
+
+### WED Treadwell
+
+The WED Treadwell is not the most famous or most successful repair droid, but a large number of them have been manufactured and sold throughout the galaxy. Because the droid has a simple appearance — that of a rolling platform with a viewer on a stalk and four or more tool arms — raiders and pirates often overlook it when plundering. As a result, the Treadwell is one of the least often stolen droids. In fact, Treadwells are sometimes mistaken for tool racks, which is unsurprising since they essentially act as rolling tool racks for their owners. Treadwells are not particularly bright and don’t have much drive, but these factors make them obedient and reliable, and they are especially popular on fringe worlds where residents are suspicious of droids.
+
+Although WED Treadwells are fragile, requiring regular maintenance and environments that contain few hazards, they have a reputation for being adaptable and alert. The arms of a Treadwell can be swapped out quickly and easily, and many owners keep a stockpile of specialty arms for specific jobs. The droids are also single-minded, doing what they are told until they complete the task or receive new instructions.
+
+#### WED 15 TREADWELL DROID
+
+Type: Cybot Galactica WED 15 Treadwell Droid DEXTERITY 2D
+KNOWLEDGE 1D
+
+Languages: droid languages 4D
+MECHANICAL 1D
+PERCEPTION 3D
+
+Search 3D+1
+STRENGTH 1D
+TECHNICAL 2D
+
+Computer programming/repair 4D+2, machinery repair 6D, repulsorlift repair 4D, space transports repair 4D+1, starfighter repair 5D+1
+Equipped With:
+
+• Video sensor
+• Dual-tread locomotion
+• Fine manipulator arms (+1D to repair skills)
+• Extensible video microbinoculars (+2D to search for microscale work)
+• Various tools
+• Cybot acoustic signaler (droid languages)
+Move: 8
+Size: 1.6 meters
+Availability: 2, F
+Cost: 3,000
+
+## THIRD DEGREE DROIDS
+
+### 3PO Protocol Droid
+
+Supplied with a SyntheTech AA-1 Verbobrain, the 3PO protocol droid is capable of storing huge amounts of information, enabling it to understand over six million forms of communication and respond in nearly all of them. It also has a tremendous capacity for analyzing previously unknown languages and translating them into whatever language its master desires. The 3PO even includes an olfactory sensor for translating pheromonal communication. The 3PO’s additional memory storage is generally used to keep specific communication modes in active memory, avoiding lengthy delays while searching for linguistic information in mid-translation.
+
+Each 3PO comes with a factory-installed restraining bolt mount. They are also programmed for passive behavior — a typical 3PO droid never attacks under any circumstances. If the droid becomes a problem, the 3PO’s shutdown switch is conveniently located at the back of its neck.
+
+Built to resemble humanoids, 3POs come in a wide variety of colors.
+
+#### 3PO PROTOCOL DROID
+
+Type: Cybot Galactica 3PO Human-Cyborg Relations Droid DEXTERITY 1D
+KNOWLEDGE 3D
+
+Cultures 6D, languages 10D*
+MECHANICAL 1D
+PERCEPTION 1D
+STRENGTH 1D
+TECHNICAL 1D
+
+* The droid’s vocabulator speech/sound system makes the droid capable of reproducing virtually any sound it hears or is programmed to reproduce.
+Equipped With:
+
+• Humanoid body (two arms, two legs, head)
+• Two visual and audio sensors – human range
+• Vocabulator speech/sound system
+• AA-1 VerboBrain
+• TransLang III Communications module with over seven million languages
+Move: 8
+Size: 1.7 meters tall
+Availability: 2, F
+Cost: 3,000 (new)
+
+[Página impressa 376 | PDF 378]
+
+### CZ-Series Secretary Droid
+
+Designed to serve as a communications assistant for bureaucrats, corporate executives, and military administrators, the CZ-Series secretary droid specializes in managing, organizing, and directing all forms of communications through a particular office or organization. The droid handles audio signals from comlinks, text and data messages through planetary computer networks, and holographic messages from the HoloNet. The droid has internal systems capable of acting as a switchboard, receiving, analyzing, and routing many communications simultaneously. Furthermore, it is programmed to receive instructions from its owner on how to prioritize incoming communications, ensuring that during the work day, only the most urgent messages and comlink requests are passed on. The CZ-Series secretary droid serves as a buffer between its owner and those who want to contact him or her, and it comes loaded with the most common languages spoken by its owner’s associates.
+
+Once the owner links his or her comlink, data pads, portable computers, and other communications devices to the droid, its programming takes over, and the droid receives, sorts, and routes all messages.
+
+#### CZ SECRETARY DROID
+
+Type: Serv-O-Droid CZ Series Secretary Droid DEXTERITY 1D+1
+KNOWLEDGE 2D
+
+Business 5D, languages 5D
+MECHANICAL 1D
+PERCEPTION 2D
+
+Con 3D+1, persuasion 3D+2
+STRENGTH 1D
+TECHNICAL 2D
+
+Computer programming/repair 4D+2 Equipped With:
+
+• Humanoid body (two legs, two arms, head)
+• Locked access (The droid’s shut-down switch is secured or internally located)
+• Multinode communications link
+• Internalized datapad
+• TransLang I Communications module with over 500,000 languages. Move: 10
+Size: 1.7 meters tall
+Availability: 2, F
+Cost: 8,280
+
+### EV-Series Supervisor Droid
+
+MerenData designed the EV-Series supervisor droid to manage other droids. The idea of a droid supervising a company’s droid pool appealed to many organizations, and the humanoid-shaped unit sold reasonably well. When MerenData discovered shortly after the line’s release that the motivators originally planned for the EV-Series were accidentally swapped with ones meant to be installed in torture droids, they decided to wait and
+
+see how the droids performed. Much to their surprise, the droids with the swapped motivators actually outperformed the unaltered droids when it came to managing the droids under their care. However, the discovery that the EV-Series droids were using sadistic methods to accomplish their tasks, such as melting a droid’s feet to the floor to prevent it from leaving a station or treating it to an oil bath set afire, forced MerenData to issue a massive recall to exchange the motivators. Although most of the droids were brought in and repaired, some customers, such as crime lord Ploovo Two-for-One, preferred the flawed model.
+
+#### EV SERIES SUPERVISOR DROID
+
+Type: MerenData EV Supervisor Droid DEXTERITY 1D
+KNOWLEDGE 3D
+
+Intimidation: droids 4D, languages 4D, value: droids 5D MECHANICAL 1D
+PERCEPTION 2D
+
+Command: droids 5D
+STRENGTH 1D
+TECHNICAL 3D
+
+Computer programming/repair 4D, droid programming 5D, droid repair 4D+1
+Equipped With:
+
+• Humanoid body (two arms, two legs, head) • High frequency binary comlink
+• Broad band broadcast antenna/receiver system • Two visual and audio sensors – Human range • Vocabulator speech/sound system
+Move: 7
+Size: 1.8 meters tall
+Availability: 2, F
+Cost: 11,380
+Equipment: Arc welder (6D), datapad
+
+## FOURTH DEGREE DROIDS
+
+### B1 Series Battle Droid
+
+Frail in appearance but deadly in intent, Baktoid Combat Automata’s battle droid is a metal skeleton with a blaster. Built by the Geonosians to the Trade Federation’s specifications, battle droids are designed to resemble Geonosians, or perhaps desiccated Neimoidian corpses. Most intelligent beings regard them as startling, but Neimoidians see battle droids as positively ghoulish.
+
+Battle droids are drones controlled by a remote processor, taking their commands from a Central Control Computer that operates several thousand battle droids, destroyer droids, and droid starfighters simultaneously. A battle droid communicates with its fellow drones via comlinks, transmission antennae, and encryption computers, making for a control signal that is nearly impossible to jam (Heroic communications skill roll).
+
+[Página impressa 377 | PDF 379]
+
+#### BATTLE DROID
+
+Type: Baktoid Combat
+Automata B1 Series Battle Droid
+DEXTERITY 1D
+
+Blaster: blaster rifle 3D
+KNOWLEDGE 1D
+MECHANICAL 1D
+PERCEPTION 1D
+STRENGTH 2D
+
+Brawling 3D
+TECHNICAL 1D
+Equipped With:
+
+• Integrated comlink
+• Remote receiver
+(5,000 km range)
+• Body armor (+1D to
+Strength to resist all damage)
+• Vocabulator (the droid can replicate organic speech)
+Equipment: Blaster carbine (5D damage, range: 3-30/100/300) Move: 10
+Size: 1.8 meters tall
+Availability: 3, X
+Cost: 1,800 credits
+
+### B2 Series Super Battle Droid
+
+The B2 Series Super Battle Droid is a marked improvement in the original B1 Series Battle Droid design. Larger and armored, the Super Battle
+Droid relies on a central control computer for guidance, but it doesn’t deactivate when it loses contact with the remote processor thanks to a backup internal processor — a droid brain that takes over when the droid loses com-munication with the central computer. This second brain allows the droid to store its last set of orders and continue acting on them even after the remote processor has shut down.
+
+#### SUPER BATTLE DROID
+
+Type: Baktoid Combat Automata B2 Series Battle Droid DEXTERITY 2D
+
+Blaster 3D, blaster: blaster rifle 4D, dodge 3D, melee combat 3D, vehicle blasters 3D
+KNOWLEDGE 1D
+MECHANICAL 1D
+PERCEPTION 1D
+STRENGTH 2D
+
+Brawling 3D
+TECHNICAL 1D
+Equipped With:
+
+• Mounted blaster rifle (5D damage, range: 3-30/100/300)
+• Remote receiver (5,000 km range, with local back-up processor) • Light armor (+1D to Strength to resist damage)
+• Vocabulator (the droid can replicate organic speech)
+Move: 10
+Size: 1.8 meters tall
+Cost: 3,300 credits
+
+### Droideka Series Destroyer Droid
+
+Designed and built by the Geonosians of Geonosis and the Collicoids of Colla IV, the Droideka Series destroyer droids reflect the savage ferocity of their makers.
+
+The main propulsion method of destroyer droids is a microrepulsor-assisted wheel mode that allows a destroyer droid to fold itself into a roughly wheel-shaped package and roll along at high speeds. Though lightning-swift in this mode, destroyer droids are considerably more ponderous when unfolded for combat.
+
+Destroyer droids have two heavy repeating blasters that can lay down a devastating barrage. To augment its bronzium armor shell, a destroyer droid also comes equipped with a deflector shield generator. The tremendous energy drain of the blasters and shields necessitates that the destroyer droid be equipped with a mini-reactor.
+
+Destroyer droids can’t be played as droid heroes.
+
+#### DROIDEKA DESTROYER DROID
+
+Type: Droideka Series Destroyer Droid DEXTERITY 3D
+
+Blaster: heavy repeating blaster 8D+2 KNOWLEDGE 1D
+MECHANICAL 1D
+PERCEPTION 1D
+
+Search 3D+2 STRENGTH 3D
+
+Brawling 7D+1
+TECHNICAL 1D
+Equipped With:
+
+• Two mounted heavy repeating blasters (8D damage, range: 3- 75/200/500)
+• Body armor (+1D to Strength to resist all damage)
+• Defensive shields (+3D to Strength to resist damage)
+• Remote processor (500 Km range)
+Move: 4 walking, 25 in “wheel mode”
+Size: 1.5 meters tall
+Availability: 3, X
+Cost: 21,000 credits
+
+[Página impressa 378 | PDF 380]
+
+### Dwarf Spider Droid
+
+In the Battle of Geonosis, the Commerce Guild deployed forces of dwarf spider droids. Larger than a standard battle droid and armed with a powerful blaster cannon, the dwarf spider droid gives mobile heavy weapon support to advancing infantry.
+
+The original function of dwarf spider droids was to root out hidden mining operations. The Commerce Guild requires a tribute payment for all commercial operations within its borders; however, small independent operations often dig within Commerce Guild borders and attempt to smuggle the precious ore into a neutral region, avoiding tribute payments. Dwarf spider droids are equipped to descend down rocky crags like those found inside rough-hewn mine shafts, to catch offenders red-handed before they can reach the safety of the Commerce Guild border. Commerce Guild star cruisers also carry compliments of dwarf spider droids for security and tribute enforcement.
+
+Dwarf Spider droids can’t be played as droid heroes.
+
+#### DWARF SPIDER DROID
+
+Type: Commerce Guild Dwarf Spider Droid DEXTERITY 3D
+
+Blaster artillery: blaster cannon 4D KNOWLEDGE 1D
+MECHANICAL 1D
+PERCEPTION 2D
+
+Search 3D
+STRENGTH 3D+1
+
+Climbing 4D+1
+TECHNICAL 1D
+Equipped With:
+
+• Blaster cannon (9D)
+• Light armor (+2 to Strength to resist damage)
+• Comlink
+• Digging claws
+• Locked access (the droid’s shut-down switch is internally located) • Magnetic feet
+• Restraining bolt
+• Improved sensor package (+2 to all search skill rolls)
+• Infrared vision (can see in the dark up to 30 meters)
+• Self-destruct system
+Move: 10, 4 (burrowing)
+Size: 1.6 meters tall
+Availability: 3, X
+Cost: 3,500
+
+### Crab Droid
+
+Introduced late in the Clone Wars, the crab droids used by the Confederacy of Independent Systems were designed to function as advanced scouts and trailblazers in harsh environments. Nicknamed “muckrakers” by the clone trooper legions they faced, crab droids were often used on wet, swampy worlds where they could use their powerful vacuum system to clear a path for battle droids to follow.
+
+Crab droids range in size from 2 meters tall for the scout models to 6 meters tall for the assault models. They have metal armor plating on the outside and multiple jointed legs that grant them great stability and flexibility. Though they are well protected from incoming fire, they do have weak spots atop their central bodies that, while difficult to reach, leave vital equipment and computer systems exposed to anyone brave enough to get that close.
+
+#### CRAB DROID
+
+Type: Confederacy of Independent Systems LM-432 Crab Droid DEXTERITY 3D
+
+Blasters 4D+1
+KNOWLEDGE 1D
+MECHANICAL 1D
+PERCEPTION 1D
+
+Search 3D STRENGTH 3D
+
+Climbing/jumping 5D
+TECHNICAL 1D
+Equipped With:
+
+• Twin blasters (6D damage)
+• Water/mud jet sprayer
+• Armorplast shielding (+1D to resist damage)
+• Six legs (2 tipped with heavy duranium stabilizers, granting +3D to climbing/jumping)
+Move: 9
+Size: 1.49 meters tall
+Availability: 3, X
+Cost: 20,000
+
+### DRK-1 Probe Droid
+
+Excelling at espionage, probe droids can move about unnoticed, record information, and report to their masters without anyone being the wiser. The DRK-1 probe droid, also known as the Dark Eye, is a stealthy and observant droid developed by Arakyd Industries and used by the Sith apprentice Darth Maul. Like all probe droids, the DRK-1 is designed for passive observation as opposed to more overt espionage, and as such most of its systems are dedicated to sensors and data transmission. However, unlike most other probe droids (which are usually armed only with small blaster pistols), the Dark Eye can create a swath of destruction with its grenade launcher. Though using this feature calls a bit more attention to the droid than most owners would care for, such havoc can often cover the droid’s escape, allowing it to slip away and return to its master amid the chaos of a battle.
+
+[Página impressa 379 | PDF 381]
+
+#### DARK EYE PROBE DROID
+
+Type: Arakyd Industries DRK-1 “Dark Eye” Probe Droid
+DEXTERITY 3D
+
+Blaster 4D, dodge 5D KNOWLEDGE 3D
+
+Scholar: Jedi lore 6D, survival 7D MECHANICAL 1D
+PERCEPTION 3D
+
+Hide 7D, search 10D, sneak 6D
+STRENGTH 1D
+TECHNICAL 1D
+Equipped With:
+
+• Anti-scan shell (scan-absorbing shell provides a +1D+1 bonus to hide skill rolls)
+• Comlink
+• Improved sensor package (+2 bonus to all search skill rolls)
+• Infrared vision (the droid can see in the dark up to 30 meters)
+• Laser cannon (5D damage, range: 3-30/100/300)
+• Low light vision (the droid can see twice as far as a human in dim light)
+• Motion sensors (+2 bonus to search checks against moving targets) • Recording unit (the droid can record and play back up to 5 minutes of footage)
+• Self-destruct system (the droid will self-destruct/explode under predetermined circumstances)
+• Sonic sensors (+2 bonus to search checks that involve sound)
+• Stun blaster (4D stun damage, range: 3-10/30/120)
+• Poison dart needler (range 3-10/30/60, see below for other details) • Telescopic vision (the droid’s visual sensors include a long-range capability)
+• Mounts. The droid has three appendages that have weapons or equipment attached to them. They generally mount a holoprojector, grenade launcher, and a magazine of 6 frag grenades.
+Equipment Notes:
+
+Poison Dart Needler: This needler gun is loaded with darts that contain a paralytic poison. The darts inflict no damage, but if used against an unarmored target (or an unarmored portion of a target, see the rules for called shots, they inject their poison. The target of such an attack must succeed at a Difficult Strength check or be paralyzed and unable to move for 1D x 40 minute. The needler gun carries enough darts for ten shots.
+Move: 16
+Availability: 4, X
+Cost: Not available for sale.
+Size: 0.2 meters
+
+### IG-100 Series Bodyguard Droid
+
+Manufactured by Holowan Mechanicals, the first IG-l00 Series MagnaGuard droids were custom-built to General Grievous’s specifications. Quick and deadly, the MagnaGuards are designed to protect their charge to their own destruction. MagnaGuard droids have thick metal plating covering a wiry endoskeleton and have specially designed arms that are adept at wielding melee weapons.
+
+#### IG-100 MAGNAGUARD
+
+Type: Holowan Mechanicals IG-series bodyguard droid DEXTERITY 5D
+
+Blaster 7D, brawling parry 6D+2, dodge 7D, melee combat, 9D, melee parry 8D+2, missile weapons 7D
+KNOWLEDGE 2D
+MECHANICAL 2D
+PERCEPTION 3D
+
+Search 6D, search: tracking 8D, sneak 4D STRENGTH 4D+2
+
+Brawling 6D, climbing/jumping 6D, lifting 5D+1 TECHNICAL 1D+2
+
+Computer programming/repair 3D, droid programming 3D, droid repair 3D
+Equipped With:
+
+• Humanoid body (two arms, two legs, head)
+• Body armor (+1D to resist damage)
+• Long-range sensor (+2D to search for objects 50-750 meters away) • Motion sensor (+2D to search for moving objects up to 400 meters away)
+Move: 13
+Size: 1.95 meters tall
+Availability: 4, X
+Cost: 19,000 credits
+Equipment: Electrostaff (STR+2D, deflects lightsaber)
+
+### T-Series Tactical Droid
+
+Designed for tactical leadership among the droid forces of the Confederacy, T-
+Series tactical droids from Baktoid Combat Automata are originally deployed along side 00M-Series battle droids.
+Tactical droids boast advanced combat-analysis software that helps them determine exactly when and where to attack for the greatest effect. Tactical droids serve as combat consultants subordinate to droid commanders, but all too often, the tactical droid’s superior knowledge of combat strategies gives it a heightened sense of self-worth, leading
+T-Series tactical droids to exert their influence over the command structure.
+Unfortunately, the tactical droid’s commands override those of 00M-Series battle droid commanders, causing droid troops to receive conflicting commands. Consequently, Confederacy leaders learn to avoid posting tactical droids among droid forces with 00M-Series battle droids.
+
+#### T-SERIES TACTICAL DROID
+
+Type: Baktoid Combat Automata T-Series Tactical Droid DEXTERITY 2D
+
+Blaster 2D+1, vehicle blasters 2D+1 KNOWLEDGE 3D
+
+Tactics 4D+1 MECHANICAL 3D
+
+Capital ship piloting 3D+2, capital ship shields 3D+2 PERCEPTION 3D
+
+Command 3D+1, search 4D+2 STRENGTH 2D
+
+Brawling 2D+1 TECHNICAL 2D
+
+Computer programming/repair 3D+1 Equipped With:
+
+• Humanoid body (two arms, two legs, head)
+• Internal comlink
+• Synchronized fire circuits (+2D to command remotely linked droid)
+
+[Página impressa 380 | PDF 382]
+
+• Durasteel plating (+2D physical, +1D energy)
+• Vocabulator
+Move: 10
+Size: 1.8 meters tall
+Availability: 4, X
+Cost: 14,000 credits
+Equipment: Electrobinoculars, blaster carbine (5D, range: 3- 20/60/210).
+
+### Viper Series Probe Droid
+
+Before the rise of the Empire, probe droids — often referred to as probots — were used primarily to map space lanes, survey planets, and perform search-and-rescue operations. However, such friendly purposes fell by the wayside as the Emperor conquered more and more systems. Probots became tools for rooting out traitors on far-flung worlds. Arakyd Industries manufactures the Empire’s favored model, the Arakyd Viper, for this very purpose.
+
+Equipped with an extensive sensor system, the Viper is either deployed directly from the ground or fitted with an optional delivery system that guides the probot from a ship to the designated planet. The delivery system possesses only rudimentary breaking capabilities, so it includes buffers to prevent damage to the droid on impact. These are especially important, since the Imperial Viper’s self-destruct system is designed to destroy the droid if it takes significant damage (to prevent it from falling into enemy hands). The sublight delivery system costs an additional 5,000 credits; a hyperspace-capable version sells for 15,000 credits.
+
+#### VIPER SERIES PROBE DROID
+
+Type: Arakyd Viper Probe Droid DEXTERITY 3D
+
+Blaster 4D
+KNOWLEDGE 2D+2
+
+Planetary systems 4D MECHANICAL 3D
+
+Sensors 6D
+PERCEPTION 3D
+
+Search 4D, search: tracking 7D+1 STRENGTH 4D
+TECHNICAL 2D+1
+
+Equipped With:
+
+• Long-range sensor (+1D to search for objects between 200 meters and five kilometers away)
+• Movement sensor (+2D to search for moving objects up to 100 meters away)
+• Atmosphere sensor — can determine atmosphere class (Type I, Type II, Type HI, Type IV) within one half-hour
+• Blaster cannon (4D+2)
+• Self-destruct mechanism
+• Repulsor generator for movement over any terrain
+• Several retractable manipulator arms
+• Several retractable sensor arms for gathering samples
+Move: 14
+Size: 1.6 meters tall
+Availability: 3, X
+Cost: 18,500
+
+## FIFTH DEGREE DROIDS
+
+### 8D Smelter Droid
+
+With all the industries in the galaxy that rely on metals, several mining companies that also smelt their ores became quite successful in their fields.
+However, the smelting process proved to be extremely hazardous for organic workers who labored inside the blast furnaces. Roche, hoping to step up its presence in the droid market, designed the 8D smelter droid to work in incredibly hot smelting plants in pl ace of more vulnerable organic employees. Much to the delight of the Verpines that run Roche, the 8D was well accepted by the major smelting companies.
+
+The feature of the 8D smelter droid that makes it better at working in higher temperatures than the typical droid is the proprietary ore from which it is made. By molecularly combining high-grade durasteel with kevlex, Roche created a metal with a melting point of over 1,650 degrees Centigrade and used it to create the 8D, which can work in areas that would turn other droids into slag.
+
+#### 8D SMELTER DROID
+
+Type: Roche 8D Smelting Operator DEXTERITY 1D
+KNOWLEDGE 1D
+MECHANICAL 2D
+
+Machinery operation 4D
+PERCEPTION 2D
+STRENGTH 4D
+
+Stamina 6D
+TECHNICAL 1D
+Equipped With:
+
+• Humanoid body (two arms, two legs, head)
+• Vocabulator
+• Heat-resistant durasteel molecular bonded with kevlex chassis (+1D against physical and energy damage, 4,000 degrees resistance)
+• Protected photoreceptors (−1D to search plus infrared vision) Move: 7
+Size: 1.65 meters tall
+Availability: 2, F
+Cost: 7,200
+
+[Página impressa 381 | PDF 383]
+
+### ASP Labor Droid
+
+ASP Series labor droids are common throughout the galaxy.
+They perform a variety of simple tasks, including maintenance, repair, sanitation, delivery, and simple hard labor. Cheap and effective, they are designed as
+“entry-level” droids for first-time buyers. Many ASP owners modify the droids heavily instead of actually replacing them.
+
+ASPs are built for strength and sturdiness, not intelligence.
+Since the main virtue of the
+ASP is versatility, it’s programmed with only the most basic functions-leaving the owner to instruct the droid in its specific duties.
+
+#### ASP-7 WORKER DROID
+
+Type: Industrial Automaton ASP-7 Droid DEXTERITY 1D
+KNOWLEDGE 1D
+MECHANICAL 1D
+PERCEPTION 1D
+
+Search 2D STRENGTH 1D
+
+Lifting 2D
+TECHNICAL 1D
+Equipped With:
+
+• Humanoid body (two arms, two legs, head) • One photoreceptor
+• Two auditory receptors
+Story Factors:
+
+Basic Programming: basic ASP-7 droids are programmed only for the most menial of tasks. They are often out of place in other settings where more specialized droids would be used, such as starship engineering bays, medical suites and battlefields. They can be upgraded with improved programming and more attachments and equipment at an additional cost.
+Restricted Vocabulary: The basic ASP-7 unit can only reply with the words “affirmative” or “negative”, despite any question asked or situation encountered.
+Move: 6
+Size: 1.6 meters tall
+Availability: 2, F
+Cost: 1,000 credits (stock, new), 300 to 3,000 credits (used/modified)
+
+### MSE-6 Repair Droid
+
+The MSE-6, or “mouse droid,” is a wheeled droid used for basic tasks such as maintenance of a single mechanical system, message delivery, cleaning, and even testing dangerous areas of a damaged starship or station to make sure it is safe for living creatures (and more expensive droids). The MSE-6 is the result of a long line of small, dedicated, cheap droids used by the Old Republic and other governments. The MSE-6, however, is almost exclusively in use by the Empire, which bought nearly the whole run (at a steep discount). The droids are used for Imperial installations that have high crew requirements, such as Star Destroyers, to cut down on the need for larger droids and Human work crews as much as possible.
+
+#### MSE-6 UTILITY DROID
+
+Type: Rebaxan Columni MSE-6
+General Purpose Droid DEXTERITY 2D
+KNOWLEDGE 1D
+MECHANICAL 1D
+PERCEPTION 1D
+STRENGTH 1D
+TECHNICAL 1D
+Equipped With:
+
+• Electro-photoreceptor
+• Auditory sensors
+• Holocam
+• Treads
+• Retractable heavy manipulator (+2D to lifting)
+• Retractable fine manipulator (+1D to lifting)
+• One skill matrix programmed with one of the following skills:
+bureaucracy 3D, sensors 3D, hide 3D, search 3D, armor repair 3D, blaster repair 3D, capital ship repair 3D, capital ship weapon repair 3D, computer programming/repair 3D, droid programming 3D, droid repair 3D, security 3D, starfighter repair 3D
+Move: 5
+Size: 0.3 meters
+Availability: 3, R
+Cost: 2,000 credits
+
+# DESIGNING, CUSTOMIZING, AND MAINTAINING DROIDS
+
+Droids in the Star Wars universe can be built and modified the same as any vehicle or piece of equipment. In most cases however, the internal mechanics of a droid are so complicated that only the most learned and experienced of beings can adequately do the work required.
+
+## DROID-RELATED SKILLS
+
+There are three primary skills a character can possess with the express purpose of working on droids. These are droid programming, droid repair, and the advanced skill; (A) droid engineering.
+
+Droid Programming: Whenever a character wishes to modify a droid’s basic programming, she must make a droid programming roll to accomplish her task. For more information on droid programming, refer to the “Attributes & Skills” chapter.
+
+Droid Repair: Characters use this skill to repair or modify droids. See below for more information on droid repair, as well as the “Attributes & Skills” chapter.
+
+(A) Droid Engineering: The (A) droid engineering skill encompasses the various facets of layout, design, and implementation of producing a droid from scratch. (While it is possible for a character to construct a droid using the normal droid repair skill, the process is extremely difficult; hence the advantage to using (A) droid engineering.)
+
+As an advanced skill, (A) droid engineering requires double the amount of Character Points to advance, as well as a droid repair or droid programming die code of at least 5D. If a character has 5D in droid repair but not droid programming, that character may purchase (A) droid engineering (however the
+
+[Página impressa 382 | PDF 384]
+
+## NOTE TO GAMEMASTERS
+
+It should be stressed that the following material presents optional rules for designing and improving droid characters. If you feel the bookkeeping involved takes away from the flavor of your game, modify the rules to suit your campaign.
+
+bonus effects from the advanced skill will only apply to attempts that normally fall under the droid repair skill). The same is true of characters that possess droid programming and not droid repair, the advanced skill can be used in situations where droid programming skill rolls would also be allowed.
+
+If both prerequisite skills are at 5D or greater, (A) droid engineering can be used to both repair and program a droid. Refer to Chapter 3 for more information on advanced skills.
+
+## DESIGNING A DROID
+
+Owning a droid can be an interesting challenge for a character. The player has the ability to maintain, upgrade, and, with the gamemaster’s assistance, even create a droid. When a character wishes to build a droid, the first thing that must be decided upon is the intended function of the droid. What is the droid’s primary purpose, and what will it be used for? Remember that droids are always created with a specific purpose in mind, and the skills and components that the unit possesses should reflect that purpose.
+
+Other things to keep in mind are the droid’s appearance, how it interacts with other characters, and where the droid will see service. Does the droid appear humanoid? Will it work in a human-compatible surroundings or will it see service in zero-gravity or other such harsh environment? Is the droid a player character? Or will the droid be the tool of various characters? By answering questions like this — subject to gamemaster approval — the new droid will be more interesting in the course of the roleplaying campaign.
+
+### Time Taken
+
+Much of the information in this chapter will refer the reader to a difficulty number. Except where noted, these skill checks will require a certain amount of time to complete as well. In addition, certain modifications require more time than others: SkillWare (the programming a droid carries) is easier to modify than TraitWare (the actual physical components that make up a droid). Use the following chart to determine the length of time any particular task will take.
+
+Difficulty | SkillWare | TraitWare
+Very Easy | 1 hour | 2 hours
+Easy | 2 hours | 12 hours
+Moderate | 5 hours | 24 hours
+Difficult | 24 hours | 72 hours
+Very Difficult | 72 hours | 1 week
+Heroic | 1 week | 2weeks
+
+Gamemaster Note: The above estimates are fairly general; if a character rolls particularly well (or very badly), vary the Time Taken as appropriate.
+
+## THE DROID CHASSIS
+
+### TraitWare
+
+After deciding upon the droid’s intended function, it must be fit into one of the primary five degrees. (For example, a protocol unit would use a third degree chassis, an astromech droid would use a second degree chassis, and so on.)
+
+Once the droid’s degree has been determined, the engineer must purchase TraitWare for the droid; this is called “outfitting the chassis.” Trait Ware purchased in this fashion (the creation of a new droid type) is considered to be “hardwired” into the droid, and is the basic framework for all droids of this type. Note that TraitWare may be purchased either by full die, or by pips. Current technology limits any attribute to 10D (though it is possible — not recommended, but possible — that the droid character may have attributes with a die code of 0D).
+
+Example: Jeff’s character, Dug, wants to build an astromech unit similar to R2-D2. Dug wants his droid — PR6-3 — to have the following attributes: Knowledge 2D, Mechanical 2D+1, and Technical 3D. (All other attributes will have 1D each.)
+
+Jeff cross-references the degree of his droid (in this case, a second degree droid), with the specific attribute he is purchasing. (See “Attributes & Skills”).
+
+According to the TraitWare Cost Chart, edge dice cost 300 credits apiece. Since Jeff wants his droid to have 2D in Knowledge, he multiplies the 300 credits by 2 for a total of 600 credits.
+
+Mechanical dice for a second degree droid cost 150 credits; Mechanical “pips” for such droids cost 50 credits apiece. Jeff wants PR6-3 to have Mechanical 2D+1 so he must multiply the base cost for Mechanical dice (150) by 2, for a total of 300 credits; the “+1” costs an additional 50 credits, bringing the total for the droid’s Mechanical die code to 350 credits.
+
+Technical dice for a second degree droid are also 150 credits apiece. Jeff want his droid to have a Technical die code of 3D; he multiplies the base cost of the die (150 credits) by the number of dice desired (3D) for a total of 450 credits.
+
+Finally, Jeff wants his droid to have 1D in all other attributes. According to the chart, it costs 300 credits for 1D in Dexterity, 300 credits for 1D in Perception, and 350 credits for 1D in Strength. The total cost of these attributes is 950 credits.
+
+## NOTE TO GAMEMASTERS
+
+The process of selecting a droid chassis and purchasing SkillWare and TraitWare is a fairly “quick and dirty” system. The prices on the accompanying SkillWare and TraitWare tables reflect the cost of any programming modules as well as physical components of the droid. These are still gener-al guidelines, however; if the gamemaster does not want the characters to construct the droid, it is possible that parts are not available, or are so scarce that the price of constructing the new unit is prohibitive.
+
+[Página impressa 383 | PDF 385]
+
+The total cost for Jeff’s droid design is fairly steep: 600 credits for Knowledge dice, 350 credits for Mechanical dice, 150 credits for Technical dice, and 950 credits for the remaining attributes, bringing PR6-3’s total cost to 2,350 credits!
+
+Because Dug is purchasing this TraitWare for the creation of a completely new droid, Jeff does not have to roll to install it.
+
+Optional Rule: The above rules assume that the character is ordering a chassis from a manufacturer of some type. If the player and gamemaster agree, you may wish to follow the installation rules in “Upgrading TraitWare” to build a droid from scratch. Note that attributes are hardwired to a droid and the installation will take double the “normal” installation time.
+
+### Upgrading TraitWare
+
+Once a droid chassis has been created, the hardwired attributes are unchangeable. Through great difficulty an owner may choose to attempt to improve a droid’s attributes by purchasing and installing additional TraitWare. TraitWare used in this manner is considered “soft installed” and is therefore subject to erasure during memory wipes.
+
+TraitWare is purchased on datacards that contain TraitWare information. Each card holds enough information to boost the droid’s attribute by one pip, and is the same cost as purchasing an additional pip for chassis construction (as shown above). It is necessary to install the datacard using (A) droid engineering. If a character attempts to install a TraitWare datacard with droid repair (rather than (A) droid engineering) the difficulty for the
+
+attempt is increased by two levels. One (A) droid engineering roll must be made for each datacard the character is attempting to install onto the droid.
+
+When a character attempts to install information from a datacard, the information is erased from the card as it is transferred to the droid. Once installed, the datacard is useless and should be discarded. If the roll is successful, the pip is added to the attribute. If the roll fails, no pip is added and a new datacard must be purchased to attempt the installation process again. There have been rumors that some technicians have been able to copy the datacard’s TraitWare to a computer before installation, insuring that the information will not be lost. However, many manufacturers have incredibly complex copy-protection measures for such datacards, so any would-be droid slicer should be exceedingly cautious about such attempts.
+
+## OUTFITTING THE CHASSIS
+
+### SkillWare
+
+Once the chassis is designed, the character can now purchase and install SkillWare. These programs are readily available in most portions of the galaxy and (for the most part) are fairly easy to install. SkillWare allows a character — and in some cases the droid itself — to upgrade old systems and install new ones. (In game terms, this means that the droid’s skill die codes are increased.)
+
+SkillWare may or may not require the added installation of external hardware to fully utilize the programming. For instance, if a program is installed which the droid does not have the
+
+### TRAITWARE COST CHART - PER DIE
+
+Attribute | First Degree | Second Degree
+Dexterity | 300 | 300
+Knowledge | 150 | 300
+Mechanical | 300 | 150
+Perception | 225 | 300
+Strength | 350 | 350
+Technical | 150 | 150
+
+### TRAITWARE COST CHART - PER PIP
+
+Attribute | First Degree | Second Degree
+Dexterity | 100 | 100
+Knowledge | 50 | 100
+Mechanical | 100 | 50
+Perception | 75 | 100
+Strength | 150 | 150
+Technical | 50 | 50
+
+### TRAITWARE INSTALLATION DIFFICULTIES
+
+Attribute | First Degree | Second Degree
+Dexterity | Heroic | Heroic
+Knowledge | Difficult | Very Difficult
+Mechanical | Very Difficult | Moderate
+Perception | Moderate | Difficult
+Strength | Very Difficult | Very Difficult
+Technical | Moderate | Moderate
+
+Third Degree | Fourth Degree | Fifth Degree
+300 | 150 | 250
+150 | 350 | 400
+325 | 300 | 250
+200 | 250 | 350
+400 | 200 | 150
+325 | 400 | 200
+
+Third Degree | Fourth Degree | Fifth Degree
+100 | 50 | 85
+50 | 150 | 135
+110 | 100 | 85
+65 | 85 | 150
+135 | 65 | 50
+110 | 135 | 65
+
+Third Degree | Fourth Degree | Fifth Degree
+Very Difficult | Moderate | Difficult
+Moderate | Heroic | Heroic
+Difficult | Very Difficult | Very Difficult
+Moderate | Difficult | Moderate
+Heroic | Moderate | Moderate
+Very Difficult | Very Difficult | Very Difficult
+
+[Página impressa 384 | PDF 386]
+
+physical capacity for, only those elements that can function without the hardware will come into play.
+
+Example: Jeni installs the languages skill into her R2 unit. Because the R2 unit has no vocabulator, it may only understand many different languages, not speak them. Jeni solves this problem by adding Industrial Automaton’s R-series Voice Box Adapter
+
+Use the SkillWare Catalog (found on the next few pages) when purchasing skills for a droid. Find the degree of droid and cross-reference it with the base attribute on the SkillWare Degree Multiplier Chart. Note that SkillWare is not available in pips, only by “D.” The total cost of the SkillWare is the base cost from the SkillWare Catalog times the number found on the multiplier chart.
+
+At the time of creation, a droid chassis is able to accept 4D worth of SkillWare for a specific skill.
+
+Note: Current technology limits a droid’s skills to a maximum of die code of 13D.
+
+## SKILLWARE CATALOG
+
+### DEXTERITY SKILLWARE
+
+Skill | Availability | Cost (per D)
+Archaic guns | 4, R | 300
+Blaster | 3, R | 225
+Blaster artillery | 3, X | 250
+Bowcaster | 4, X | 400
+Bows | 4, X | 250
+Brawling parry | 2, F | 200
+Dodge | 1 | 150
+Firearms | 4, X | 300
+Grenade | 4, X | 250
+Lightsaber | 4, X | 550
+Melee combat | 3, R | 225
+Melee parry | 3, R | 175
+Missile weapons | 3,R | 250
+Pick pocket | 3, X | 400
+Running | 2 | 75
+Thrown weapons | 4, R | 275
+Vehicle blasters | 3, R | 250
+
+### KNOWLEDGE SKILLWARE
+
+Skill | Availability | Cost (per D)
+Alien species | 2 | 75
+Bureaucracy | 1 | 100
+Business | 1 | 75
+Cultures | 2 | 200
+Intimidation | 3, F | 300
+Languages | 1 | 75
+Law enforcement | 2 | 250
+Planetary systems | 1 | 75
+Streetwise | 3 | 350
+Survival | 2 | 200
+Value | 1 | 175
+Willpower | 4 | 300
+
+### MECHANICAL SKILLWARE
+
+Skill | Availability | Cost (per D)
+Archaic starship piloting | 4 | 250
+Astrogation | 2 | 200
+Beast riding | 3 | 300
+Capital ship gunnery | 3, R | 350
+Capital ship piloting | 2, F | 150
+Capital ship shields | 2 | 200
+Communications | 2 | 75
+Ground vehicle operation | 2 | 75
+Hover vehicle operation | 2 | 100
+Powersuit operation | 4 | 200
+Repulsorlift operation | 2 | 100
+Sensors | 2 | 75
+Space transports | 2 | 150
+Starfighter piloting | 2, F | 200
+Starship gunnery | 2, R | 350
+Starship shields | 2, F | 200
+Swoop operation | 3 | 250
+Walker operation | 4 | 175
+
+### PERCEPTION SKILLWARE
+
+Skill | Availability | Cost (per D)
+Bargain | 2 | 150
+Command | 3, F | 300
+Con | 3, R | 300
+Forgery | 4, X | 300
+Gambling | 2, F | 150
+Hide | 3 | 175
+Investigation | 2 | 100
+Persuasion | 3 | 125
+Search | 2 | 150
+Sneak | 3 | 200
+
+[Página impressa 385 | PDF 387]
+
+### STRENGTH SKILLWARE
+
+Skill | Availability | Cost (per D)
+Brawling | 3, R | 250
+Climbing/jumping | 3 | 75
+Lifting | 2 | 50
+Stamina | 3 | 150
+Swimming | 2 | 200
+
+### TECHNICAL SKILLWARE
+
+Skill | Availability | Cost (per D)
+Armor repair | 3 | 175
+Blaster repair | 2 | 150
+Capital ship repair | 2 | 100
+Capital ship weapon repair | 2, F | 125
+Computer prog/repair | 2 | 50
+Demolitions | 3, R | 250
+Droid programming | 2 | 75
+Droid repair | 2 | 125
+First aid | 2, F | 200
+Ground vehicle repair | 2 | 100
+Hover vehicle repair | 2 | 125
+(A) Medicine | 2, F | 250
+Repulsorlift repair | 2 | 150
+Security | 3, F | 250
+Space transports repair | 2 | 150
+Starfighter repair | 2 | 150
+Starship weapon repair | 3, F | 175
+Walker repair | 3 | 175
+
+### Installation
+
+Once the price is decided upon, the character constructing/ upgrading the droid makes a droid programming roll to install the SkillWare. Use the Time Taken chart and the information from the SkillWare Installation Difficulties chart to install.
+
+Example: Dug wants to install the sensors SkillWare onto his PR6 unit. The droid is an astromech (a second degree droid) and sensors is a Mechanical skill. The sensors SkillWare is listed at 75 credits per D in the SkillWare Catalog. PR6 has a ×1.5 multiplier for Mechanical skills, so sensors costs 113 credits per die (75 × 1.5=112.5, rounded up to 113 credits). Dug purchases 2D worth of sensors to bring PR6’s sensors skill to 4D+1; a total cost of 226 credits.
+
+Like TraitWare, SkillWare datacards are erased after installation. If the droid programming roll is failed, the information on the datacard is lost and a new datacard must be purchased.
+
+Example: When Dug attempts to install 2D sensors SkillWare on his astromech, he rolls his droid programming skill twice (one roll per D) against an Easy difficulty. (Installing a Mechanical skill on a second degree droid is an Easy task.) Dug’s first roll is a “7,” allowing 1D of sensors to be installed. His second roll isn’t as good; he gets a “1” on his Wild Die, ending up with a total of “4.” The second D of sensors doesn’t install properly and Dug must purchase another D to attempt to install it again.
+
+### Upgrading SkillWare
+
+Droids, during the course of a gaming session, are given Character Points by the gamemaster in much the same way an organic player character is. A droid can improve its own skills through the use of Character Points provided the following criteria are met:
+
+The droid must have at least 1D of SkillWare installed over the governing attribute. For example, a droid with Dexterity 3D and blaster 4D can improve its blaster skill with Character Points. If the droid has Knowledge 2D and has added no skill dice to cultures, 1D of cultures must be purchased and installed before the droid is allowed to improve the skill using Character Points.
+
+Example: After a time, PR6 has gained several Character Points and wants to improve its SkillWare. Its sensors skill is currently at 4D+1, 2D over the Mechanical attribute. PR6 is able to spend Character Points normally, increasing its sensors skill to 5D+1.
+
+However, PR6-3 has not added any dice to blaster, the droid cannot spend Character Points to upgrade its blaster die code. Instead, 1D of blaster SkillWare must be purchased and installed, after which PR6-3 may spend Character Points towards skill improvement.
+
+## EQUIPMENT
+
+### AND ATTACHMENTS
+
+Once the droid has had SkillWare installed, it is often necessary to purchase and install equipment and attachments. The items that follow allow a droid to better perform its primary function, (and some less-than-primary functions).
+
+### Equipment
+
+Many droids, like organic creatures, have the ability to pick up and use any piece of equipment they encounter (though they will not necessarily have the programming to use the equipment effectively). Most droids come with standard equipment to facilitate their primary programming. Equipment can be purchased for a droid in the same manner that it can be purchased for a character.
+
+If the droid has any manipulator limbs (hands, graspers, and so forth), the droid may simply pick up and use most types of equipment, provided the droid has the necessary programming. There are times, however, when the droid’s owner will wish to make a piece of equipment an integrated part of the droid. When attempting to install a piece of equipment, purchase it as you would for any other character. The price of the equipment is increased by 25% for “droid-ready” equipment (equipment that has been constructed with droid installation in mind).
+
+Characters may install the equipment using droid repair. The difficulty for installation is based on the availability of the equipment that is to be installed.
+
+If the equipment availability contains two codes (i.e., 3,X), two droid repair rolls must be made to install the equipment. If the character attempting to install the equipment rolls a “1” result on the Wild Die, the installation attempt fails catastrophically, destroying the equipment. Any subsequent attempts are one difficulty level higher, and these penalties are cumulative.
+
+[Página impressa 386 | PDF 388]
+
+Equipment installed: The piece of equipment is installed and functions normally.
+
+Installation attempt fails: The installation failed, but may be attempted again, though subsequent attempts are increased one difficulty level; penalties are cumulative.
+
+Equipment takes 2D damage: Roll 2D damage against the equipment’s Strength rating. (Normally standard character-scale equipment has Strength of 2D to resist such damage.)
+
+Equipment destroyed: The character botched the installation attempt and the equipment is damaged beyond repair. If this result is obtained after a character rolls a “1” on the Wild Die, the failure is doubly catastrophic; a short circuit or other malfunction inflicts 4D damage on the droid as well.
+
+Availability | Base Difficulty
+1 | Easy
+2 | Moderate
+3 | Difficult
+4 | Very Difficult
+F | Difficult
+R | Very Difficult
+X | Heroic
+
+Skill roll versus Difficulty | Result
+Skill roll ≥ Difficulty | Equipment installed
+Skill roll < Difficulty | Installation attempt fails Equipment takes 2D
+
+Skill roll+10 < Difficulty damage
+Skill roll ×2 < Difficulty Equipment destroyed
+
+Optional Installation Guidelines: If greater detail is desired, the gamemaster can use the above difficulty guidelines to determine the success or failure of attempt to install new equipment on a droid.
+
+### Attachments
+
+When a piece of equipment is modified or comes with resident SkillWare (giving the droid a bonus to a skill roll), it is considered an attachment. Essentially, equipment is considered to be an attachment if it meets any of the following qualifications:
+
+• The equipment has resident SkillWare (i.e. it boosts a droid’s skill).
+
+• The equipment provides a special ability or function (such as giving the droid a Move rating or a special skill of some sort).
+
+Most attachments are simply improved or modified equipment, however some attachments are specialized and have classifications to themselves. These are described below.
+
+### Databases
+
+Databases give droids bonus dice to Knowledge and Technical skills. Like SkillWare, databases are purchased by 1D at a time and must be installed. Unlike SkillWare, the price per die of a database is constant for all degree of droids. Once a database is installed, it cannot be modified. A droid’s behavioral circuitry matrix allows for one database at a time. Attempting to install a second database of any type will cause a programming conflict and void the effects of both.
+
+Database Die Code | Base Difficulty
++1D | Very Easy
++2D | Easy
++3D | Moderate
++4D | Difficult
++5D | Very Difficult
+
+Only Knowledge and Technical skills may be given bonuses in this fashion; however, since databases are attachments, they do not have a “degree multiplier” to the price. (In effect, attachments are less expensive than upgrading SkillWare and TraitWare.)
+
+### SKILLWARE DEGREE MULTIPLIERS
+
+Attribute | First Degree | Second Degree
+Dexterity | ×2.5 | ×3
+Knowledge | ×1.5 | ×2.5
+Mechanical | ×3 | ×1.5
+Perception | ×2 | ×2
+Strength | ×3 | ×3
+Technical | ×1 | ×1
+
+### SKILLWARE INSTALLATION DIFFICULTIES
+
+Attribute | First Degree | Second Degree
+Dexterity | Very Difficult | Very Difficult
+Knowledge | Moderate | Difficult
+Mechanical | Difficult | Easy
+Perception | Easy | Moderate
+Strength | Difficult | Difficult
+Technical | Easy | Easy
+
+Third Degree | Fourth Degree | Fifth Degree
+×3 | ×1 | ×2
+×1 | ×3 | ×3
+×2.5 | ×2.5 | ×1.5
+×1.5 | ×2 | ×3
+×3 | ×1.5 | ×1
+×2 | ×3 | ×2.5
+
+Third Degree | Fourth Degree | Fifth Degree
+Difficult | Easy | Moderate
+Easy | Very Difficult | Very Difficult
+Moderate | Difficult | Difficult
+Easy | Moderate | Easy
+Very Difficult | Easy | Easy
+Difficult | Difficult | Moderate
+
+[Página impressa 387 | PDF 389]
+
+Databases may boost a droid’s skill from +1D to +5D. The cost of the database is the base price for the SkillWare per D, as found in the SkillWare catalog. Installing the database requires a single droid programming roll, using the following difficulties.
+
+Example: Dug decides to install a Knowledge: planetary systems database to his second degree droid, PR6-3. The database he chooses will give PR6 +2D to all planetary systems rolls. The SkillWare for planetary systems costs 75 credits per die. Because this is an attachment, there is no degree multiplier for the price. So the database total is 150 credits. Dug must now install the database. Because Dug is installing a +2D database, the difficulty for his droid programming roll is Easy.
+
+### Locomotion
+
+Most droids move under their own power. A variety of locomotive attachments are available to provide a droid with a higher Move rating (wheels, legs, treads, and repulsorlifts, for example). Each come in a variety of models and Move ratings. Legs and wheels are the most common, largely because they are relatively inexpensive.
+
+• Wheels: Wheels are less-expensive attachments than legs simply because they have a more difficult time moving over terrain. Any motion that requires a movement roll is one difficulty level higher; Moderate terrain becomes Difficult, Difficult terrain becomes Very Difficult, and so forth.)
+
+• Legs: Droid legs react to terrain difficulties in the same way any organic’s legs would.
+
+• Treads: Treads make movement over terrain easier (terrain difficulties are decreased by one level).
+
+• Repulsorlifts: Droids equipped with repulsorlifts have no difficulty over any terrain, though they may need to make movement rolls to maneuver around objects.
+
+### LOCOMOTIVE TYPE
+
+Move | Wheels | Legs | Treads | Repulsorlift(s)
+1 | 50 | 100 | 150 | 200
+2 | 100 | 200 | 300 | 400
+3 | 150 | 300 | 450 | 600
+4 | 200 | 400 | 600 | 800
+5 | 250 | 500 | 750 | 1,000
+6 | 300 | 600 | 900 | 1,200
+7 | 350 | 700 | 1,050 | 1,400
+8 | 400 | 800 | 1,300 | 1,600
+9 | 450 | 900 | 1,450 | 1,800
+10 | 500 | 1,000 | 1,600 | 2,000
+11 | 550 | 1,100 | 1,750 | 2,200
+12 | 600 | 1,200 | 1,900 | 2,400
+13 | 650 | 1,300 | 2,150 | 2,600
+14 | 700 | 1,400 | 2,300 | 2,800
+15 | 750 | 1,500 | 2,450 | 3,000
+
+Many droid designers use a combination of systems to give the droid a larger range of movement. In these cases, the droid will usually have two move ratings. If there are two types of locomotion on a droid (such as a typical R2 unit, for example), and the Move ratings are identical, only one Move will be given.
+
+The installation difficulty for locomotion depends solely on the mode purchased. Wheels are Easy to install, legs are Moderate, treads are Difficult, and repulsorlifts are Very Difficult.
+
+Note: Gamemasters may wish to allow their players bonuses for having multiple locomotive attachments. For example, multiple legs may provide the droid with a Move bonus.
+
+Use the table to the lower left to determine the base cost of a particular locomotive attachment; all prices are given in standard credits.
+
+Example: Dug decides that PR6 should have wheels as its primary mode of locomotion. He spends 350 credits to give PR6 a Move of 7. Because PR6 doesn’t have a very high Dexterity, Dug doesn’t want the droid to have difficulty moving across rough terrain, so he also purchases a repulsorlift with a Move of 3 for 600 credits. The droid will have an easier time traveling over rougher terrain, though at a slower speed. PR6’s Move rating is 7 (wheels); 3 (repulsorlift).
+
+### Sensors
+
+Sensors are detection devices that can absorb outside stimuli and feed the data to a droid’s main processor for interpretation. The term “sensors” encompasses standard photoreceptors (or droid “eyes”) and auditory sensors (“ears”) to long range movement and combat sensors. Most droids are equipped with sensors of some kind, visual and auditory being the most common. Generally these sensors can detect stimuli within normal human range, though many droids have upgraded sensing apparatus.
+
+Other sensors will add dice to a droid’s search skill for specified target (such as moving targets, organic targets, and so on). When purchasing and installing sensors, the character must take into account how the specific sensor will aid the droid in performing its duties. A protocol droid has little use for combat motion sensors, though a guard droid or scouting droid may find such sensitivity necessary. Ocular, olfactory, and audio sensors with a standard human range may be purchased for approximately 100 credits.
+
+Enhanced sensors increase the cost of the attachment. General purpose sensors, or sensors that track five or more types of targets are considerably more expensive than standard sensing apparatus. Multiply the base cost of such equipment by 10; It is usually a better (and cheaper) idea to install secondary or tertiary sensors systems.
+
+A sensor’s price is based on the amount of dice it adds to the droid’s search skill. In addition, the number of target types available to the sensing apparatus increases the price. For example, a sensor that can only detect one type of target (such as a moving target, or a heat source) has no effect on the sensor’s base price. A sensor that can track two target profiles doubles the unit’s cost. Three or more target profiles triples the base cost, and so on. Use the chart on the next page to determine the cost of the sensor to be installed:
+
+[Página impressa 388 | PDF 390]
+
+### SENSOR BASE COSTS
+
+Sensor increases
+
++1D | 150
++2D | 300
++3D | 450
++4D | 600
++5D | 750
+
+search skill by:
+Cost
+
+### SENSOR COST MODIFIERS
+
+Types Available | Cost is increased by:
+1 | —
+2 | ×2
+3 | ×3
+4 | ×4
+5 | ×5
+6 | ×6
+
+# of Target
+
+Note: Droid sensors cannot track more than six kinds of targets.
+
+Example: Dug chooses to purchase a sensor package that adds +2D to PR6’s search when looking for objects at a distance (25 to 50 meters away), and sources of heat. He multiplies the cost of the 2D (300 credits) with the number of targets (in this case two), to arrive at a final cost of 600 credits.
+
+Not all sensors enhance the droid’s search skill. There are some motion sensors which provide a bonus to other skills such as blaster, dodge, and so on. “Search” sensors are by far the most common however, and providing an extensive list of sensors a droid will possess is far beyond the range of this system. Gamemasters can decide on pricing and availability for other types of sensors that a character may wish to install on a droid.
+
+# DROID EQUIPMENT AND ATTACHMENTS
+
+The following is a listing of optional attachments and additional equipment plausibly available for upgrade. Note that this is entirely subject to Gamemaster discretion. This is not meant to be a cumulative list, nor a controlling rule. Rather it is meant to give the droid creature guidelines as to the types of upgrades and attachments available.
+
+## ARMOR
+
+#### CHRYSTADURIUM PLATING
+
+Model: Techno Union Chrystadurium Armor
+Type: Droid armor plating
+Scale: Character
+Cost: 50,000
+Availability: 3, R
+Game Notes: +1D physical, +3D energy, −1D+2 to Dexterity and related skills. Droid armor is installed and integrated into the droid’s chassis, and thus cannot be easily donned or removed.
+
+#### DURANIUM BATTLE ARMOR
+
+Model: Arakyd Industries Heavy Duranium Armor
+Type: Heavy armor plating upgrade
+Cost: 10,000
+Availability: 4, X
+Game Notes: Adds +2D+2 physical and +1D+2 energy protection. If the armor is added as an aftermarket upgrade the droid incurs a −1D+2 to Dexterity. Droid armor is installed and integrated into the droid’s chassis, and thus cannot be easily donned or removed before or after battle.
+
+#### DURANIUM PLATING
+
+Model: Baktoid Combat Automata Duranium D-65 package
+Type: Medium armor plating upgrade
+Cost: 6,400
+Availability: 3, X
+Game Notes: Adds +2D+1 physical and +1D energy protection. If the armor is added as an aftermarket upgrade the droid incurs a −1D to Dexterity. Droid armor is installed and integrated into the droid’s chassis, and thus cannot be easily donned or removed before or after battle.
+
+#### DURASTEEL BATTLE ARMOR
+
+Model: Colicoid Creation Nest Battlesteel c-16
+Type: Medium armor plating upgrade
+Cost: 9,600
+Availability: 3, X
+Game Notes: Adds +2D+1 physical and +1D+1 energy protection. If the armor is added as an aftermarket upgrade the droid incurs a −1D to Dexterity. Droid armor is installed and integrated into the droid’s chassis, and thus cannot be easily donned or removed before or after battle.
+
+#### DURASTEEL PLATING
+
+Model: Baktoid Combat Automata Durasteel P-53 package
+Type: Light armor plating upgrade
+Cost: 3,600
+Availability: 2, R
+Game Notes: Adds +2D physical and +1D+1 energy protection. If the armor is added as an aftermarket upgrade the droid incurs a −1D to Dexterity. Droid armor is installed and integrated into the droid’s chassis, and thus cannot be easily donned or removed before or after battle.
+
+#### DURASTEEL SHELL ARMOR
+
+Model: Baktoid Combat Automata Durasteel D-21 package
+Type: Light armor plating upgrade
+Cost: 1,600
+Availability: 2, R
+Game Notes: Adds +1D+1 physical and +2 energy protection. If the armor is added as an aftermarket upgrade the droid incurs a −2 to Dexterity. Droid armor is installed and integrated into the droid’s chassis, and thus cannot be easily donned or removed before or after battle.
+
+#### DURAVLEX SHELL
+
+Model: Roche Durasteel-Kevlex Alloy Armor
+Type: Droid armor plating
+Scale: Character
+Cost: 1,000
+Availability: 2
+Game Notes: +1D physical and energy, +3D against fire and extreme heat, −1D to Dexterity and related skills. Droid armor is installed and integrated into the droid’s chassis, and thus cannot be easily donned or removed.
+
+[Página impressa 389 | PDF 391]
+
+#### LAMINANIUM PLATING
+
+Model: Tendrandro Arms Laminanium Armor
+Type: Droid armor plating
+Scale: Character
+Cost: 3,000
+Availability: 2, R
+Game Notes: +1D physical and energy, +2D against corrosive acids and similar environmental hazards, −1D to Dexterity and related skills. Droid armor is installed and integrated into the droid’s chassis, and thus cannot be easily donned or removed.
+
+#### LAMINANIUM HEAVY PLATING
+
+Model: Tendrandro Arms Laminanium Armor
+Type: Droid armor plating
+Scale: Character
+Cost: 20,000
+Availability: 3, R
+Game Notes: +3D physical and energy, +4D against corrosive acids and similar environmental hazards, −1D+2 to Dexterity and related skills. Droid armor is installed and integrated into the droid’s chassis, and thus cannot be easily donned or removed.
+
+#### MANDALORIAN SHELL ARMOR
+
+Model: Custom Mandalorian shell plating
+Type: Heavy armor plating upgrade
+Cost: 8,100
+Availability: 4, X
+Game Notes: Adds +2D+2 physical and +1D+1 energy protection. If the armor is added as an aftermarket upgrade the droid incurs a −1D+1 to Dexterity. Droid armor is installed and integrated into the droid’s chassis, and thus cannot be easily donned or removed before or after battle.
+
+#### NEUTRONIUM PLATING ARMOR
+
+Model: Custom Heavy Neutronium Armor Coating
+Type: Heavy armor plating upgrade
+Cost: 12,100
+Availability: 4, X
+Game Notes: Adds +3D physical and +2D energy protection. If the armor is added as an aftermarket upgrade the droid incurs a −2D to Dexterity. Droid armor is installed and integrated into the droid’s chassis, and thus cannot be easily donned or removed before or after battle.
+
+#### PLASTEEL SHELL ARMOR
+
+Model: Baktoid Combat Automata Plast 3c
+Type: Light armor plating upgrade
+Cost: 400
+Availability: 2, F
+Game Notes: Adds +1D physical and +1 energy. Droid armor is installed and integrated into the droid’s chassis, and thus cannot be easily donned or removed before or after battle.
+
+#### QUADANIUM BATTLE ARMOR
+
+Model: Colicoid Creation Nest Battlesteel c-16
+Type: Medium armor plating upgrade
+Cost: 4,900
+Availability: 3, X
+Game Notes: Adds +2D+1 physical and +1D energy protection. If the armor is added as an aftermarket upgrade the droid incurs a
+−1D+1 to Dexterity. Droid armor is installed and integrated into the droid’s chassis, and thus cannot be easily donned or removed before or after battle.
+
+#### QUADANIUM PLATING ARMOR
+
+Model: Baktoid Combat Automata Quad 7a
+Type: Light armor plating upgrade
+Cost: 2,500
+Availability: 2, R
+Game Notes: Adds +2D physical and +1D energy protection. If the armor is added as an aftermarket upgrade the droid incurs a −1D to Dexterity. Droid armor is installed and integrated into the droid’s chassis, and thus cannot be easily donned or removed before or after battle.
+
+#### QUADANIUM SHELL ARMOR
+
+Model: Baktoid Combat Automata Quad 7a
+Type: Light armor plating upgrade
+Cost: 900
+Availability: 2, F
+Game Notes: Adds +1D physical and +2 energy. If the armor is added as an aftermarket upgrade the droid incurs a −1 to Dexterity. Droid armor is installed and integrated into the droid’s chassis, and thus cannot be easily donned or removed before or after battle.
+
+## COMMUNICATIONS & SENSORS
+
+#### ANTITHEFT COMLINK LOCATOR
+
+Type: Traceable distress signaler
+Cost: 100
+Availability: 1
+Game Notes: A droid equipped with an antitheft comlink locator can send a distress signal to its master’s comlink with no apparent activity by the droid. The distress signal broadcasts no information, but it can it be tracked. The signal continues to broadcast if the droid is deactivated, but it shuts down if the droid is destroyed.
+
+#### ASTROMECH VOICE BOX
+
+Model: Industrial Automaton R-Series Voice Box Adaptor
+Type: Astromech verbal attachment
+Cost: 250
+Game Notes: Allows and R-series droid to speak a specific language (language programs run from 25 to 100 credits), with adjustable pitch, intonation and accent. Installation requires a Moderate droid repair rolls and takes 15 minutes. Removal requires an Easy droid repair roll and 15 minutes; failure causes 3D stun damage to the droid and randomly eliminates one skill.
+
+#### AUDIO ENHANCERS
+
+Type: Aural boosters
+Scale: Character
+Skill: Perception
+Cost: 2,000
+Availability: 1
+
+[Página impressa 390 | PDF 392]
+
+Game Notes: Audio enhancers increase the sensitivity of a droid’s aural sensors, enabling it to pick up sounds not normally perceived by standard sensors. When eavesdropping or listening for distant and ambient sounds, a droid equipped with audio enhancers can reroll Perception checks, taking the better of the two results. All other Perception modifiers still apply.
+
+#### COMMUNICATIONS COUNTERMEASURE SYSTEM
+
+Type: Anti-jamming device
+Scale: Character
+Skill: Communications
+Cost: 1,000
+Availability: 3, R
+Game Notes: A communications countermeasure system prevents jamming of a droid’s communications. The system broadcasts signals on multiple frequencies to counteract interference, granting the droid a +2D communications bonus to overcome communications jamming.
+
+#### COMMUNICATIONS JAMMER
+
+Type: Communications jamming device
+Scale: Character
+Skill: Communications
+Cost: 5,000
+Availability: 3, X
+Game Notes: The signal jammer emits signals at multiple frequencies to interfere with any comlink signals within a 1-kilometer radius of the droid. The droid must make Very Difficult communications roll to successfully jam any incoming or outgoing comlink signals. The device also grants the droid a +2D computer programming/repair bonus to slice into a computer system and shut it down. The droid also gets the +2D bonus to maintain that status if any slicers attempt to stop the jamming.
+
+#### INTERFERENCE GENERATOR
+
+Type: Droid eavesdropping deterrent
+Cost: 2,500 (deluxe version: 6,000)
+Availability: 2, R
+Game Notes: A droid with an interference generator emits a 3-meter wide bubble of low-frequency sound that interferes with any listening equipment such as bugs, microphones, or other audio recording devices. The deluxe version also interferes with video and holographic recording devices. Anyone eavesdropping or reviewing recordings of targets protected by an interference generator must make a Heroic search or communications roll to pick up even scattered words and phrases.
+
+#### INTERNAL COMLINK
+
+Model: Fabritech “VoxLink” Internal Comlink
+Type: Basic droid internal comlink
+Scale: Character
+Skill: Communications
+Cost: 100
+Availability: 2
+Game Notes: The VoxLink has a broadcast and reception range of 50 kilometers in clear weather. It can monitor up to 10 frequencies simultaneously.
+
+#### SCOMP-LINK
+
+Model: Cybot Galactica Nexus Scomp-link
+Type: Computer interface
+Scale: Character
+Skill: Computer programming/repair
+Cost: 800
+Availability: 2
+Game Notes: The scomp-link allows information transfer from a droid to virtually any type of data-storage device (such as a computer, dataplaque or datapad). In addition, the scomplink allows a droid to search computer networks for information (adding +1D to computer programming/repair rolls).
+
+#### SENSOR BOOSTER
+
+Type: Sensor range booster
+Skill: Sensors
+Cost: 200
+Availability: 1
+Game Notes: A sensor booster is a droid enhancement that extends the range of its sensors to a maximum of 2 kilometers, if the droid has a sensor pack installed.
+
+#### SENSOR COUNTERMEASURE PACKAGE
+
+Type: Droid sensor mask
+Scale: Character
+Skill: Sensors
+Cost: 1,000
+Availability: 3, F or X
+Game Notes: A sensor countermeasure package broadcasts signals that interfere with incoming sensor signals. It allows a droid to make an opposed sensors roll to avoid detection from scanners.
+
+#### SPACE-BEACON LAUNCHER
+
+Type: Space beacon deployment mechanism
+Cost: 5,000 (beacons 300)
+Availability: 2
+Game Notes: Space beacons are 25-cm long broadcast devices used to mark specific locations or to help navigate through hazardous areas of space. A beacon’s signal can be picked up throughout an entire star system with an Easy sensors roll. The space beacon launcher enables a droid to quickly position space beacons while in flight. The system can carry 12 beacons. Additional storage can be added, increasing the cost of the launcher by 10% for each additional beacon (up to a maximum of 24 beacons).
+
+#### WEAPON DETECTOR
+
+Type: On-board weapon detection scanner
+Skill: Search
+Cost: 1,500
+Availability: 2
+Game Notes: Adds +2D to any search roll to detect tell-tale high-frequency, energy and chemical signatures of weapons/explosives.
+
+#### YV SENSOR PACKAGE
+
+Model: Tendrando Arms YV Sensor Package
+Type: Yuuzhan Vong detecting sensor
+Scale: Character
+Skill: Sensors
+Cost: 1,000
+Availability: 3
+Game Notes: Grants a +5D sensors bonus against a Yuuzhan Vong’s sneak or con: disguise to detect within a 20-meter radius, even if utilizing an ooglith masquer.
+
+## LOCOMOTION
+
+#### CLIMBING CLAWS
+
+Model: Aro droid climbing claws
+Type: Droid friction-coated hands
+Skill: Climbing/jumping
+Cost: 200
+Availability: 2
+Game Notes: Adds +1D to all climbing rolls.
+
+#### DIGGING CLAWS
+
+Type: Droid digging claws
+Skill: Strength: digging
+Cost: 500
+Availability: 2
+Game Notes: A droid with digging claws gains a burrow speed equal to one-half its Move (rounded down). It can move at full burrow speed through solid stone and half this rate through transparisteel.
+
+[Página impressa 391 | PDF 393]
+
+#### GYROSCOPIC STABILIZERS
+
+Type: Droid stabilizers
+Cost: Move × 100
+Availability: 2
+Game Notes: Droid stabilizing packages are series of gyros and hydraulics that provide greater stability to the droid. They provide a +2D bonus to Dexterity when making any roll to resist being knocked or falling prone.
+
+#### JUMP SERVOS
+
+Model: Arakyd Industries servo upgrade
+Type: Enhanced locomotion system
+Skill: Climbing/jumping
+Cost: 550
+Availability: 2
+Game Notes: Adds +1D+2 to all jumping rolls.
+Locked Access
+Model: Kalibac Industries Secure Shut Down
+Type: Protected droid deactivation system
+Cost: 50
+Availability: 1
+Game Notes: Locked access circuits prevent the droids shut-down switch from being accessed by just anyone. The locked access systems move the activation and deactivation switches to inside the droid’s chassis. Thus, one must disable or subdue hostile droids before shutting them down.
+
+#### MAGNETIC FEET
+
+Model: Cybot Galactica a-550 Magnas
+Type: Magnetic locomotion appendages
+Cost: 185
+Availability: 1
+Game Notes: Allows droids to move normally across unstable or slanted metallic surfaces, like a ship’s exterior. Only droids with wheel, legs, or tread locomotion systems may be fitted with this kind of appendage.
+
+#### MAGNETIC HANDS
+
+Type: Magnetic droid appendage
+Cost: 100
+Availability: 2
+Game Notes: When used in conjunction with magnetic feet, magnetic hands provide a +1D bonus to any climbing/jumping roll when scaling portions of a starship’s hull. Also, the combination of magnetic hands and feet adds +5 to the difficulty of any attempt to knock the droid off a ship’s hull.
+
+#### UNDERWATER DRIVE
+
+Type: Droid aquatic propulsion
+Scale: Character
+Skill: Strength: swimming
+Cost: Desired underwater move speed × 215
+Availability: 3
+Game Notes: The underwater drive allows a droid to move easily underwater. The cost is dependent on the speed of the drive purchased, the cost is 215 times the movement speed when swimming. For example, a drive with a speed of 5 would cost 1075 credits. Models are only available in a Move between 1 and 15.
+
+## NAVIGATION
+
+#### ASTROGATION BUFFER
+
+Model: Cybot Galactica “Lifeline” Astrogation Buffer Type: Nav data backup system
+Scale: Character
+Skill: Computer programming/repair
+Cost: 1,300
+Availability: 2, F
+
+Game Notes: An astrogation buffer can store one set of nav coordinates indefinitely; note that any attempts to load more than one set of coordinates into the buffer will fail, the newest data overwriting the older information. A scomp-link (and a Moderate computer programming/ repair roll) allows this data to be downloaded into a nav computer, after which the information is deleted.
+
+#### AUTOMAP
+
+Type: Terrain scanner
+Skill: Search
+Cost: 1,000
+Availability: 1
+Game Notes: An automap system actively scans the area within a 20- meter radius of a droid in which it is installed, granting a +2D search bonus. The scan reveals terrain, atmospheric conditions, electromagnetic signatures, and lifeforms. However, an automap scan cannot penetrate solid objects such as walls and closed doors. The scan also includes navigational information, such as the droid’s direction and speed when readings were taken as well as global coordinates if the droid can establish a link to an orbiting satellite or starship.
+
+#### INTERNAL REFERENCE SYSTEM
+
+Model: SoroSuub “AutoTracker” Droid GPS Module
+Type: Global positioning system
+Scale: Character
+Cost: 4,000 credits
+Skill: Computer programming/repair
+Availability: 2
+Game Notes: It is virtually impossible for a character using an Internal Reference System to get lost. As long as the device is linked to an orbiting source of data (such as a ship’s sensors or a weather satellite) the device relays accurate data regarding the user’s location, local weather conditions, other moving objects and navigational hazards. The link requires a Moderate computer programming/repair roll once per hour to maintain. The droid using the automap link can automatically display this information on a datapad (with a scomp-link) or project it on any on-board imaging systems it possesses.
+
+## TOOLS
+
+#### CARGO WINCH
+
+Model: Utilitech AR5G Cargo Winch
+Type: Small cargo-lifting device
+Scale: Character
+Skill: Lifting
+Cost: 400 (for basic unit), 800 (for heavy lifting winch)
+Availability: 2
+Game Notes: A cargo winch typically comes equipped with 50 meters of durasteel cable, and is capable of supporting 80 kilograms
+(though the droid must anchor itself; factors such as unstable or uneven ground can increase the lifting difficulty by one level). A heavy cargo winch is also available; it performs much like a standard winch but gives the droid +1D to lifting attempts.
+
+#### CIRCULAR SAW
+
+Model: Industrial Automaton Type 10 Cutting Saw
+Type: Circular saw
+Scale: Character
+Skill: Any appropriate repair skill; use melee combat: circular saw in combat
+Cost: 500 (for external model), 1,200 (for retractable internal model; droid must be a minimum of 0.3 meters long/tall)
+Availability: 2
+Game Notes: The type 10 cutting saw does 4D damage and has a range of 0.3 meters. It can be used in combat, though the device’s limited range and damage make it an impractical weapon at best.
+
+[Página impressa 392 | PDF 394]
+
+#### FINE WORK GRASPER ARM
+
+Model: Varies widely
+Type: Droid appendage
+Scale: Character
+Skill: Lifting
+Cost: 350 credits
+Availability: 2
+Game Notes: Fine work grasper arms are retractable, folding into a small compartment in the droid’s chassis. The arm extends up to 0.5 meters and has servo-boosted mechanisms in the joints and “fingers” (which allow the droid to type or manipulate small objects). There are a number of types available, some tipped with claws or pincers, others with three- or five-fingered “hands.”
+
+#### HEAVY GRASPER ARM
+
+Model: Varies widely
+Type: Droid appendage
+Scale: Character
+Skill: Lifting
+Cost: 550 credits
+Availability: 2
+Game Notes: Heavy grasper arms are retractable, folding into a small compartment in the droid’s chassis. The arm extends up to 0.5 meters and has servo-boosted mechanisms in the joints and “fingers” (which allow the droid to type or manipulate small objects and add +2D to lifting attempts). There are a number of types available, some tipped with claws or pincers, others with three- or five-fingered “hands.”
+
+#### INTERNAL GRAPPLE GUN
+
+Type: Magnetic grappling hook thrower
+Scale: Character
+Skill: Missile weapons
+Cost: 200
+Availability: 2
+Range: 2-15/35/100
+Game Notes: The internal grappling gun allows a droid to fire a magnetic grappling hook with 15 meters of ultra-thin cord. An external magazine allows the droid to carry an additional 100 meters of cord. The cord can be detached from the droid as a free action.
+
+#### MULTI-FUNCTION APPARATUS
+
+Type: Multiple tool droid appendage
+Cost: 80
+Availability: 1
+Game Notes: This appendage can incorporate up to 3 tools or weapons. Only one can be used at a time, but switching between them is a free action.
+
+#### QUICK-RELEASE COUPLING
+
+Type: Detachable appendage-tool interface
+Cost: 50 (appendage), 10 (for each tool)
+Availability: 1
+Game Notes: By installing a quick-release coupling to both a droid’s appendage and to any tools it may use, the droid or its owner can easily and quickly replace installed tools. Attaching a specialized tool and detaching a tool each count as an action, but require no rolls.
+
+#### WELDING LASER
+
+Model: Drever Corporation HLAutomata-Assisted Welding Laser
+Type: Welding tool
+Scale: Character
+Skill: Any appropriate repair skill; use blaster: welding laser in combat Cost: 1,200 credits
+Availability: 2
+Game Notes: The HL welding laser is a small, versatile tool designed for ship-based repair efforts. The laser is small (5 cm long), attached to an external blaster power cell that can be strapped to a droid. The laser has a short range (3 centimeters) but is extreme
+
+ly powerful (5D+2 damage); the welding beam lasts for 10 rounds. If there is no power cell available, the laser can be powered for short periods of time by the droid’s own energy source; such a hook-up requires 1D rounds and a Moderate droid repair roll. The beam will last for 5 rounds if powered by the droid. If the droid attempts to run the beam for longer periods of time, it must make a Moderate stamina or Strength roll (whichever is higher); if the droid fails the roll, it takes 2D damage each round until the beam is deactivated. (Regardless, the beam will only last for a maximum of 10 rounds.)
+
+## DEFENSIVE ACCESSORIES & WEAPONS
+
+#### BLASTER RECHARGE INTERFACE
+
+Type: Power pack coupler
+Scale: Character
+Cost: 300
+Availability: 1, F
+Game Notes: This hand accessory enables a droid to recharge a standard blaster pack. The droid can plug in and transfer energy to the power pack in three rounds. Recharging a power pack drains energy from the droid, depleting it in 1 to 10 recharges, depending on the droid model.
+
+#### CONCEALED VIBROBLADE
+
+Model: Varies widely
+Type: Concealed melee weapon
+Scale: Character
+Skill: Melee combat, melee parry
+Cost: 500 credits (basic version), 800 credits (sensor-resistant)
+Availability: 2, X
+Difficulty: Moderate
+Damage: Strength+3D (Max: 6D+2)
+Game Notes: A concealed vibroblade is typically housed in the wrist or finger on humanoid droids. The basic version is not undetectable (an Easy sensors roll reveals the weapon), though a more-expensive, sensor-masked version is available (requires a Difficult sensors roll to detect the weapon).
+
+#### DROID SHIELDS
+
+Type: Protective shield upgrade
+Cost: See chart below *
+Availability: 3, X
+Game Notes: Once a droid has taken damage level of Damaged (the droid equivalent of Wounded) or greater, the energy shield are blown. The shield may be activated again with a moderate droid programming roll.
+* The Strength bonus to resist physical and energy damage determines the cost of the shield.
+
+Bonus | Cost
++2 | 2,500
+1D+2 | 5,000
+2D+1 | 7,500
+3D | 10,000
+
+#### ELECTRIC DEFENSE GRID
+
+Type: Exterior droid defense mechanism
+Scale: Character
+Cost: 3,000
+Availability: 2, R or X
+Game Notes: The electric defense grid is installed into the droid’s armor or outer casing. Whenever a physical melee weapon or a brawling attack makes contact with the droid, the attacker takes 3D energy damage.
+
+[Página impressa 393 | PDF 395]
+
+#### HIDDEN HOLSTER
+
+Type: Concealed blaster holster
+Scale: Character
+Skill: Blaster
+Cost: 500
+Availability: 2, X
+Game Notes: Installed in a droid’s leg, the hidden holster can hold a small weapon. As a free action, the droid can activate the holster, which opens up, providing access to the weapon. It adds +2 to the droid’s blaster skill when attempting to quickdraw.
+
+#### INTERNAL DEFENSES
+
+Type: Unauthorized access protection system
+Scale: Character
+Cost: 1,500
+Availability: 2, R
+Game Notes: The internal defenses activate when a character attempts to access any of the droid’s maintenance panels without the droid’s permission. It discharges and electric shock that does 3D damage to the invader, but leaves the droid unharmed. The system remains active until it is disabled (Very Difficult security or droid repair roll, 1 hour of work), or until its power is depleted after 10 attacks.
+
+#### MICRO SHIELD
+
+Type: Collapsible mini energy shield
+Scale: Character
+Skill: Melee parry
+Cost: 600
+Availability: 3, F
+Game Notes: If the droid makes a melee parry roll higher than the attacker’s blaster roll, the droid has placed the force shield in the way and gains +1D to resist the energy damage. The shield is designed to be installed on a droid’s arm, but a hand-held version is available for 400 credits, which can run continuously for 1 hour on a single energy cell.
+
+#### ONBOARD BLASTER
+
+Model: Varies widely
+Type: Concealed energy weapon
+Scale: Character
+Skill: Blaster
+Ammo: 100
+Cost: 1,200 (basic), 1,600 (sensor-resistant), 25 credits (power pack) Availability: 3, X
+Range: 3-10/30/120
+Damage: 4D
+Game Notes: Onboard blasters vary widely; the above stats are average. A basic version is visibly mounted on the droid and can be easily detected. A basic version possesses no sensor-masking or camouflage of any kind (an Easy sensors roll will detect the weapon). A sensor-resistant version is also available, making the weapon much harder to detect; a Very Difficult sensors roll or a Heroic search or Perception roll is needed to find the blaster.
+(Mounting a blaster on a droid’s exterior is also possible, though the weapon can easily be detected by the naked eye; base cost for such a blaster is 800 credits.) The damage code of the weapon can be increased +1D for every 400 credits the owner spends (maximum of 6D).
+
+#### ONBOARD FLAME PROJECTOR
+
+Model: Varies widely
+Type: Droid-operated flame projector
+Scale: Character
+Skill: Missile weapons
+Ammo: 10
+Cost: 600 credits (basic), 1,000 credits (sensor-resistant), 200 credits (additional ammo canisters)
+Availability: 3, X
+Fire Rate: 1/2
+
+Range: 3-4/5/7
+Fire Rate: 5D (first round, 3D for next five rounds unless extinguished)
+Game Notes: The basic version of the flame projector is detectable with an Easy sensors roll or a Moderate search or Perception total. The sensor-resistant version can be detected with a Difficult sensors roll or a Very Difficult search or Perception roll. A droid equipped with this type of weapon is susceptible to corrosion damage if the chemical tank that fuels the flame projector is damaged. (The chemical does 3D damage each round until it is washed off.) Internal tanks can be damaged if the droid is incapacitated. External tanks can be ruptured by stray blaster shots or physical blows; treat them as if they have Strength 3D to resist damage.
+
+#### ON BOARD GRENADE LAUNCHER
+
+Model: Varies widely
+Type: Concealed grenade launcher
+Scale: Character
+Skill: Missile weapons
+Ammo: 3
+Cost: 800 (standard), 1,200 (sensor-resistant)
+Availability: 3, X
+Fire Rate: 1/2
+Range: 5-25/100/250
+Damage: Varies by grenade type
+Game Notes: The droid grenade launcher cannot be equipped on droids smaller than 1 meter; targeting circuitry and the size of the weapon make such installation impossible. The basic version of the weapon can be detected with a Moderate sensors roll or a Difficult search or Perception roll. The sensor-resistant version requires a Difficult sensors roll or a Very Difficult search or Perception roll to detect.
+
+#### PROJECTILE HANDS
+
+Type: Launching projectile droid appendage
+Scale: Character
+Skill: Missile weapons: projectile hand
+Cost: 200 (installation: 250)
+Availability: 2, F
+Range: 2/7/12
+Damage: 3D+2
+Game Notes: Projectile hands can be used to attack a target or to knock a blaster away.
+
+#### ROCKET ARM
+
+Model: Custom missile arm
+Type: Concealed missile launcher
+Scale: Character
+Skill: Missile weapons: rocket arm
+Cost: 2,000
+Range: 3-30/120/350
+Blast Radius: 0-1/2
+Damage: 5D/3D
+Availability: 2, X
+Game Notes: A rocket arm is a hollowed-out droid arm with servo controls replaced by a short-range rocket engine and fuel. The arm suffers a −3D penalty for any actions that require fine manipulation, but it can be aimed and fired at a target, acting like a dumb missile. Installation of the rocket arm requires a Difficult droid programming/repair roll. If the roll fails by 5 or more, the detach system is faulty and, when fired, the rocket will remain attached, detonating the following round.
+
+#### SHIELD EXPANSION MODULE
+
+Type: Shield range extension upgrade
+Skill: Shields
+Cost: see chart below
+Availability: 3, X
+Game Notes: A shield expansion module allows a droid to extend the radius of its shields to provide protection to adjacent characters. The droid must make a Moderate shields roll to extend its shield to
+
+[Página impressa 394 | PDF 396]
+
+a single fire arc. Human-sized droids can only extend their shield to one arc at a time, though larger droids can install a second module. The cost of the module is dependent on the shield generator it has installed. Consult the chart below:
+
+Installed shield | Expansion Module Cost
++2 | 250
+1D+2 | 500
+2D+1 | 750
+3D | 1,000
+
+#### TASER
+
+Type: Droid stun weapon
+Scale: Character
+Skill: Firearms: taser / melee combat
+Cost: 250
+Availability: 2, F
+Range: 0-2/4/7
+Damage: 4D stun/ion damage
+Game Notes: A droid taser fires two small projectiles attached to long, thin wires that deliver an electric charge that incapacitates an organic target’s nervous and muscular systems, or interferes with a droid’s systems like an ion gun. Additionally, a taser can be used as a melee weapon like an electroshock probe.
+
+## GENERAL ACCESSORIES
+
+#### COLLAPSIBLE CONSTRUCTION
+
+Type: Collapsing droid modification
+Cost: 2,000
+Availability: 2
+Game Notes: This structural modification allows a droid to fold and collapse in order to be stored in places where it would not normally fit. The collapsed state decreases the droid’s size up to 45%, and it enters a standby mode while collapsed.
+
+#### CONCEALED ITEM
+
+Type: Hidden droid item modification
+Scale: Character
+Cost: Item cost + compartment cost x2
+Availability: 2, X
+Game Notes: Concealed items are functioning items installed into a droid, but are either hidden or disguised to appear as something else. For example, a blaster may be hidden inside an arm or disguised as a beam cutter. Discovering a concealed item requires a Very Difficult search roll.
+
+#### COURIER COMPARTMENT
+
+Type: Hidden cargo space
+Cost: 200 (plus 200 for optional toaster system)
+Availability: 2, X
+Game Notes: Courier compartments are hidden storage spaces which can be installed in the droid’s torso, head or limbs. The cargo space varies with the size of the droid. Detecting a courier compartment requires a Very Difficult search roll. A common accessory in a courier compartment is a toaster, which destroys the contents of the compartment with a brief blast of plasma energy triggered by the droid.
+
+#### CREDIT READER
+
+Type: Droid credit analyzer
+Skill: Business
+Cost: 50
+Availability: 2, F
+Game Notes: Whether a line of credit or hard currency, a credit reader determines whether a target’s credits are real or if a line of credit exists for that being. The credit reader gives the droid a +2D bonus against any forgery rolls made to forge credit accounts or financial documents. The droid can also instantly count any sum of hard credits presented to it as a free action.
+
+#### EARPHONE BINARY-TO-BASIC TRANSLATOR
+
+Type: Droid language translator
+Cost: 20 (headphone), 100 (earbud)
+Availability: 2
+Game Notes: This translator unit is installed on a droid’s Basic-output jack, and converts audible Binary into audible Basic, transmitting the spoken words to an earphone receiver. The less expensive version requires a large headphone set, while the more expensive version transmits to an earbud receiver that can only be detected with a Difficult search roll.
+
+#### EMERGENCY OXYGEN SUPPLY
+
+Type: Emergency respiration system
+Cost: 200
+Availability: 2
+Game Notes: Occasionally installed on rescue or medical droids, an emergency oxygen tank carries enough breathable air for 30 minutes. The oxygen may be attached to a character via a breath mask, or may be used to recharge a vac suit.
+
+#### HIDDEN CORE
+
+Type: Core function backup system
+Cost: 200
+Availability: 2, R
+Game Notes: A hidden core allows a droid to retain all of its programming, skill improvements, and personality after a memory wipe. 1D days after the memory wipe, the droid can try to make a Difficult droid programming/repair roll in order to restore its backup. If the roll fails, the droid may attempt it again every 1D days. In order to discover a hidden core, a character must be actively searching for something suspicious in the droid and succeed in a droid programming repair roll against the droid’s willpower, or against a Heroic difficulty if the droid has spent an extra 200 credits for the deluxe installation.
+
+#### HOLOCAM
+
+Model: Neuro-Saav TL3 Holo-Imaging Package
+Type: Droid recording device
+Scale: Character
+Skill: Sensors
+Cost: 2,500 (basic unit)
+Availability: 2
+Game Notes: The TL3 holocam is designed specifically for droids; it is a small processing device that can be tied into the droid’s existing optical modules, allowing a complete first-person view from the droid’s perspective (up to 20 meters, limited by droid’s line-of-sight). Images can be downloaded to datacards, dataplaques or holoprojectors, allowing playback and storage of the recording. The basic TL3 ties into the droid’s existing optics, though only human-range recordings are possible. For an additional 200 credits per upgrade, the TL3 can be adapted to record with the following improvements: macrobinocular hookup (improves range of recording to 100 meters), all-environment (360 degree recording, in a 10-meter radius; playback appears as if the viewer is “with” the droid and can look in any direction to see what else is nearby), thermal, motion sensor, and UV hookup (records in “night-vision” mode with thermal/UV hookups; focuses on moving objects with motion sensor option).
+
+#### HOLOGRAPHIC GAME SYSTEM
+
+Type: Holographic entertainment system
+Cost: 300
+Availability: 1
+Game Notes: The system provides fifteen of the galaxy’s more popular games, including dejarik and sabacc. The game uses the droid’s holoprojector (sold separately) and does not require a solid surface. The game-system processor allows a player to interact with the board as if he is actually picking up the holographic playing pieces. The system allows ten additional games to be added to its database with a Moderate computer programming/repair roll.
+
+[Página impressa 395 | PDF 397]
+
+#### HOLOGRAPHIC IMAGE DISGUISER
+
+Type: Holographic disguise system
+Scale: Character
+Cost: 20,000
+Availability: 3, R or X
+Game Notes: Holographic imagers are a series of holographic projectors installed at various points of the droid’s exterior. The projectors allow the droid to disguise itself by projecting a series of images capable of matching the droid’s movements and even synchronizing itself with the droid’s vocabulator. It takes a Very Difficult search roll to detect the illusion, though sensors, cameras and droids get a +2D bonus to detect it. An advanced model, for double the price, includes sensor nodes that track a number of other factors, such as ambient temperature and weather conditions, making the image react to those variables. This increases the search difficulty to Heroic, and lowers to +1D the bonus to electronic examiners.
+
+#### HOLOPROJECTOR
+
+Model: SoroSuub G-series Holoprojection Unit
+Type: Holoprojector
+Scale: Character
+Skill: Computer programming/repair
+Cost: 300-8,000 credits
+Availability: 2
+Game Notes: Basic holoprojectors — like those that are standard equipment on most R-series astromechs — can project a prerecorded hologram up to 1.5 meters away, with an image size ranging from 0.5 to 10 meters.
+
+#### ID DODGE
+
+Type: Biometric security countermeasure
+Scale: Character
+Skill: Security
+Cost: 5,000
+Availability: 3, X
+Game Notes: Some automated security systems check biometric data before granting access to an area. Droids cannot provide retinal scans, fingerprints, or other unique biological features. The ID dodge simulates such information, granting a +2D+2 security bonus to defeat biometric security systems.
+
+#### IMPROVED COORDINATION CIRCUITRY
+
+Type: Biometric security countermeasure
+Skill: Varies
+Cost: 1,000
+Availability: 2
+Game Notes: Droid brains work well in concert with each other, and improved coordination circuitry enhances this ability. This accessory links droids’ skill routines, allowing them to aid in tasks more effectively. Each circuit is keyed to a specific skill. When a droid with improved coordination circuitry aids another droid with the circuitry, they gain a +1D+1 bonus to that particular skill.
+
+#### MULTISPECTRUM SEARCHLIGHT
+
+Type: Multiple spectrum spotlight
+Cost: 100
+Availability: 2
+Game Notes: This spotlight shines visible, infrared, or ultraviolet light, negating 1D of low-lighting penalty, with a 6-km range. The light may also be used to blind targets within a 10-meter cone. The droid makes a Dexterity roll against the targets’ Perception. If the droid succeeds, the target stared into the light and is blinded for one full round (characters with specialized eye protection are not affected).
+
+#### PERSONALITY DOWNLOADER
+
+Type: Custom-built droid personality override device Cost: 5,000
+Availability: 3, X
+
+Game Notes: This highly illegal device must be plugged into a droid’s dataport in order to suppress its original personality, replacing it with a pre-programmed one. The attacker must then make a droid programming/repair roll against the droid’s willpower. If the droid loses, the personality copies itself to the droid’s processor and suppresses the existing personality in 5 minutes. The process is imperfect, however, and every 10 minutes the original personality can make an opposed droid programming/ repair roll against the attacker to regain control over the invasive programming.
+
+#### RADIANT HEAT ELEMENT
+
+Type: Droid heater
+Cost: 200
+Availability: 1
+Game Notes: This enables a droid to radiate heat from its torso, providing ambient warmth for a living being’s survival in extreme cold conditions. The heat can be adjusted to boil water or cook food on the droid’s exterior. On its highest setting, it does 2D+1 damage to anyone standing next to the droid, or 3D+1 if in contact with the heater.
+
+#### REMOTE LIMB CONTROL
+
+Type: Independent appendage system
+Scale: Character
+Cost: 1,500 (basic) 6,000 (deluxe)
+Availability: 3
+Game Notes: Limbs with the remote control package installed allow the droid to remove them while still retaining full control over their functions. The limb is fitted with a repulsor unit which gives it a flight ceiling of 10 meters and a maximum range of 40 meters from the controlling droid. While the basic package only allows the droid control over a single detached limb, the deluxe package enables multiple limbs to be active at once.
+
+#### REMOTE PROCESSOR
+
+Model: Baktoid Combat Automata Remote Processor
+Type: Remote control processing unit
+Cost: See chart below
+Availability: 2, R
+Game Notes: Remote processors allow all droid functions to be controlled from another location. Droids controlled by a remote processor cannot think or act independently unless equipped with a backup processor. Any stock droid that is modified to be controlled by remote processor cannot react as quickly as their internal processor and takes a −1D penalty to Perception to determine initiative and −1D to all reaction skills due to communication lag and transmission relay time.
+
+Range | Cost
+5km | 1000
+50km | 10,000
+500km | 100,000
+5,000km | 1,000,000
+
+#### REMOTE PROCESSOR (BACKUP)
+
+Model: Baktoid Combat Automata TD-12C
+Type: Droid control processing receiver
+Cost: 100
+Availability: 2, R
+Game Notes: Should a remote processor fail, be destroyed, or have its signal interrupted, a backup processor allows remote controlled droids to carry through on their last transmitted set of instructions.
+
+#### REMOTE RECIEVER
+
+Model: Baktoid Combat Automata TX-191 Receiver
+Type: Droid control processing receiver
+Cost: 70
+Availability: 2, R
+Game Notes: Remote receivers allow a droid to receive instructions from a remote processor.
+
+[Página impressa 396 | PDF 398]
+
+#### REMOTE RECEIVER JAMMER
+
+Type: Remote processing disruptor
+Skill: Communications
+Cost: 2,000
+Availability: 2, X
+Game Notes: The jammer incorporates a backpack transmitter and a hand-held computer controller. Once activated, the jammer affects all droids that rely on a remote processor for operation, within a 100-meter radius. The operator makes a communications roll against the targets’ Perception. A droid that fails the roll is rendered useless, unless it has a backup processor. The jammer operator must make the opposed roll every round to maintain the disruption as the droid’s subroutines attempt to evade it.
+
+#### REMOTE RECEIVER SIGNAL BOOSTER
+
+Type: Remote processor receiver booster
+Cost: 500
+Availability: 3
+Game Notes: A droid that relies on a remote processor for operation can have its receiving range increased by 50% with the use of a signal booster. With a Heroic communications roll, the droid may extend that range to 100% farther than the normal range for one hour.
+
+#### REMOTE STARSHIP STARTER
+
+Type: Remote vehicle controller
+Cost: 2,800
+Availability: 2, R
+Game Notes: Range is 2 kilometers. Allows a droid to perform basic diagnostics and remote pre-flight start-up routines within 5 minutes. This allows for immediate takeoff once a character returns to his or her ship.
+
+#### SENSOR-SHIELDED STORAGE COMPARTMENT
+
+Model: Illegally-modified Utilitech Droid Storage Module
+Type: Sensor-shielded storage compartment
+Scale: Character
+Cost: 500 credits (external compartment), 8,000 (internal compartment)
+Availability: 3, X
+Game Notes: Utilitech storage compartments can hold small amounts of “cargo.” External “storage packs” are generally magnetically sealed to a droid, and require a Difficult droid repair roll to remove. These packs are small (20 centimeters long, 10 centimeters, 8 centimeters deep) and can hold objects (such as a comlink, small blaster, datapad or medpac) that an owner may wish to retrieve later. External compartments are immediately visible but sensor-absorbent material makes it virtually impossible to detect what is inside (requires a Very Difficult sensors roll). Internal compartments can be detected with a Very Difficult search or Perception roll (or a Difficult sensors roll). Most droids of moderate size (1 meter or taller can be equipped with a maximum of two compartments).
+
+#### SILENCE-BUBBLE GENERATOR
+
+Type: Sound barrier generator
+Cost: 3,500
+Availability: 2, R
+Game Notes: Silence-bubble generators produce a sound dampening barrier around the droid with a 5-meter radius. Someone outside the bubble trying to listen into the bubble, and vice-versa, takes a −3D penalty to their search roll.
+
+#### SPECIALIZED SUB-PROCESSOR
+
+Type: Multitasking secondary processor
+Scale: Character
+Skill: Varies
+Cost: 1,000
+Availability: 2
+Game Notes: A specialized sub-processor enables a droid to carry out
+
+a specific calculation or analysis more quickly or simultaneously with other tasks. It grants the droid a single extra action each round that can only be used to perform an action related to a single skill, chosen at the time the sub-processor is created. This extra action does not count when calculation Multiple Action Penalties. A droid can only have one specialized sub-processor.
+
+#### STORAGE COMPARTMENT
+
+Model: Utilitech Droid Storage Module
+Type: Storage compartment
+Scale: Character
+Cost: 200 credits (external compartment), 4,000 (internal compartment)
+Availability: 2
+Game Notes: Utilitech storage compartments can hold small amounts of “cargo.” External “storage packs” are generally magnetically sealed to a droid, and require a Difficult droid repair roll to remove. These packs are small (20 centimeters long, 10 centimeters, 8 centimeters deep) and can hold objects (such as a comlink, small blaster, datapad or medpac) that an owner may wish to retrieve later. External compartments are immediately visible; internal compartments can be detected with a Moderate search or Perception roll (or an Easy sensors roll). Most droids of moderate size (1 meter or taller) can be equipped with a maximum of two compartments); smaller droids can be equipped with a single compartment (Utilitech custom-manufactures smaller compartments for the price of an internal compartment).
+
+#### STORAGE COMPARTMENT (SPRING LOADED)
+
+Model: Rim Securities F-9 ejection system
+Type: Storage compartment ejection device
+Cost: 150
+Availability: 2
+Game Notes: Droids with a storage compartment (or a shielded storage compartment) may also have the compartment spring loaded. A spring loaded compartment allows the droid to eject a small object (no more than 4kg), hurling it up to 8 meters. In order to aim the object at a desired location, the droid rolls its thrown weapons skill.
+
+#### SURVIVAL KIT
+
+Type: Droid survival assistance kit
+Cost: 100
+Availability: 2
+Game Notes: Contains a small refrigeration unit, a water recycler and dispenser, a rechargeable glow rod, and a fire sparker. Grants +1D to the droid master’s survival rolls.
+
+#### TACTICIAN BATTLE COMPUTER
+
+Type: Battle Computer
+Cost: 5,000 (transceiver set: 20)
+Availability: 2, R
+Game Notes: This software package and transmitter can be installed on any droid. Additionally, small transceivers must also be installed on the ranged weapons used with the package. If the equipped droid picks up a weapon not equipped with the associated transceiver, the tactician battle computer shuts down and requires a Very Difficult droid programming/repair roll to be restarted. The droid must spend an action to analyze the current battle conditions, transmitting its findings to the sensors installed on the weapons of its allies. This grants a +1D bonus to the next ranged attack roll made until the following round by a number of allies equal to the droid’s number of dice in the tactics skill.
+
+#### VIDEO SCREEN
+
+Type: Built-in video display
+Cost: 10 credits per square centimeter of screen size
+Availability: 1
+Game Notes: Built-in video screen displays text, translations, diagnostics, programming, pictures, and other information. Screen sizes vary from 5 to 50 centimeters.
+
+[Página impressa 397 | PDF 399]
+
+VOICE-PRINT COMMAND LOCK
+
+Type: Voice recognition security system Cost: 400
+Availability: 1
+Game Notes: With a voice-print command lock installed, a droid analysis the voice of its master and ignores commands from anyone else. Getting the droid to obey a recorded command by its master requires a droid programming roll against the droid’s willpower +5.
+
+## PERSONALITY
+
+At the time of activation, some droids are programmed with basic personality matrices. A droid personality matrix begins with a primary personality archetype which acts as the basis for a droid’s personality. Over time (and without memory wipes) a droid’s personality will mature and grow, customizing itself to its surroundings. Matrices come in a variety of types, much too many to list in this volume, so when a player is designing a droid, the gamemaster must judge the price and installation difficulty based on how complex of a personality is intended.
+
+### Personality Complexities
+
+There are five basic categories of droid personalities: none, simple, elementary, advanced, and complex:
+
+• None: The droid has no need for a personality; it will seldom interact with organics. A droid without a personality matrix may still communicate with both mechanicals and organics; it will simply tend to be cold and mechanical. Many fifth degree droids do not come with standard personality matrices.
+
+• Simple: Droids that come off the assembly line with simple personalities are required to be around organic beings only on rare occasion. Personalities of this type can be described in a single word (friendly, ornery, cruel, timid, and so forth). Power droids or some more sophisticated MSE-6s — “mouse droids” — have Simple personality matrices. Programming a simple personality matrix from scratch requires an Moderate (A) droid engineering roll, or a Difficult droid programming roll.
+
+• Elementary: Droids with occasional contact with organics are usually programmed with Elementary matrices. (Astromech droids are usually required only to assist a pilot, hence, they typically possess an Elementary matrix.) Programming an Elementary personality matrix from scratch requires a Moderate (A) droid engineering roll or a Difficult droid programming roll.
+
+• Advanced: Advanced personalities are installed on droids that need to interact with organics fairly often. The matrix used usually provides for limited intelligent conversation with organics, sometimes limited to simple information transfers and other pleasantries. Only after the droid has aged for some time will the unit display any “depth” of personality. (Medical droids, for example, typically have an Advanced matrix). Programming an Advanced personality matrix from scratch requires a Very Difficult (A) droid engineering roll, or a Heroic droid programming roll.
+
+• Complex: The droid’s primary function is to interact with organics regularly. Units that come with this matrix generally seem to be completely sentient. (Protocol droids have Complex matrices, allowing them to engage in dialogue with organics in a manner not unlike another organic being.) Programming a Complex personality matrix from scratch requires a Very Difficult (A) droid engineering roll, or a Heroic droid programming roll.
+
+### Personality Installation
+
+If the designer is programming the matrix from scratch (using the difficulty guidelines included in the above descriptions), there is no additional cost to installing the matrix. However, since more-sophisticated personality matrices are extremely difficult to program, the designer may opt to purchase a “ready-made” droid personality. Use the chart above to determine both cost and droid programming installation difficulty (note that the designer may use either the (A) droid engineering skill or the droid programming skill; only one skill roll is required).
+
+## MAINTENANCE SERVICES
+
+Once a droid has been built, purchased, or otherwise acquired, it is up to the owner to make sure her mechanical stays in functional condition. The upkeep of mechanical intelligence is not half as daunting as one might think. “The occasional oil bath, memory wipe, and actuator adjustment makes for a long, happy life for your new droid!” reads the New Users Manual that comes with Industrial Automaton’s droids.
+
+While standard maintenance is possible by the common droid owner, it is often much easier and less expensive to simply take the droid into an authorized center and have the droid serviced.
+
+### PERSONALTY MATRICES
+
+Type
+Cost
+
+(A) Droid Engineering Difficulty
+
+300 | Moderate | Easy
+600 | Difficult | Moderate
+900 | Very Difficult | Difficult
+
+Droid Programming
+Difficulty
+None
+None — —
+Simple
+150
+Easy
+Very Easy
+Elementary
+Advanced
+Complex
+
+[Página impressa 398 | PDF 400]
+
+### Repairs
+
+Droids will inevitably need repairs; like any tool that is used heavily, a droid is subject to wear. Owners may attempt such repairs themselves or take the unit to a service center. Use the following table to determine the difficulty and cost of repairing a droid unit.
+
+When repairing a droid, it is not necessary to pay for both service and parts. The service costs listed above include any parts needed.
+
+### Oil Baths
+
+Contrary to popular belief, an oil bath does not actually clean the droid. Rather, it simply lubricates the droid, allowing for more fluid and accurate movement. This is especially important on worlds that have harsh climates such as extreme heat or bitter cold. The droid is dipped into a tub or vat of lubricating oil, which loosens any debris and coats the droid with a layer of oil.
+
+Most droid service centers, as well as many starports, have facilities for oil bathing droids. The price of such a service depends greatly on the size of the droid in question; prices range from 50 credits for a small droid (such as an astromech) to 1,000 credits for a larger droid that is over two or three meters (a standard binary load lifter, for example). Beings and companies who own several droids often find it more economical to purchase a permanent oil bath to house in their workspaces. It should be noted, however, that it is unheard of for an oil bath large enough to be able to house a droid any larger than speeder scale. Droids larger than this usually require a maintenance team to manually oil and clean the droid. Often, the maintenance team itself consists of droids.
+
+It is recommended that a droid be given an oil bath twice a season, if not more depending on the surrounding environment. If in fact a droid does spend a great deal in a harsh environment, eventually grit and corrosion will begin to effect its physical abilities. The gamemaster may choose to penalize the droid −1 pip from Dexterity for each month a droid spends in a harsh environment without receiving an oil bath.
+
+#### DROID OIL BATH
+
+Model: Fryil Industries TD series bath
+Type: Droid oil bath
+Skill: N/A
+Cost: 50-1,000 credits (service), 1,500 credits (new, character scale), 5,000 credits (new, speeder scale)
+Availability: 1
+Game Notes: Oil baths are used to assist in the cleansing of droid movement control actuators. Giving a droid an oil bath negates all negative modifiers it had possibly acquired from existing in harsh environment for an extended period of time.
+
+### Memory Wipes
+
+Erasing a droid’s memory (referred to as “memory wipes” or “mindwipes”) has become common practice among many droid owners throughout the galaxy. Since many droids are purchased used, new owners often decide they don’t want the droid carrying internal baggage from a previous owner. A memory wipe will strip the droid’s memory banks of all previous knowledge, save for that hardwired into the droid. Once its memory has been erased the unit has no recollection of existing before the point that erasure took place.
+
+Widespread paranoia over rogue droids has brought the practice of memory wiping to the forefront over the past several centuries. Many local and system wide governments require all new or used droids to be memory-wiped. The theory is that a droid without an extensive memory will be easier to control. This assumption is true, to a point. If the droid came off the assembly line with a predisposed negative personality, a memory wipe will not change this nature. That particular problem can only be addressed by an experienced droid engineer with a background in personality programming. Likewise, a previous owner could have hardwired skills deemed illegal into the droid, which would not be erased by a memory wipe.
+
+On the opposite end of the spectrum, many owners enjoy the companionship that can come from owning a droid who has had time to develop a complex personality. These droids often haven’t had a memory wipe for many years. Depending on the
+
+### DROID REPAIR COSTS
+
+Damage Level | Difficulty
+Lightly Damaged | Easy (droid repair)
+Heavily Damaged | Moderate (droid repair)
+Severely Damaged | Difficult (droid repair)
+Nearly Obliterated | Difficult ((A) droid engineering)
+
+Cost (Parts) | Cost (Service)
+15% of Retail | 30% of Retail
+25% of Retail | 40% of Retail
+35% of Retail | 60% of Retail
+65% of Retail | 95% of Retail
+
+[Página impressa 399 | PDF 401]
+
+physical age of the unit, some droids have over a hundred years of experience to share. Many of the organic owners who would subscribe to this philosophy are criticized by their peers for endangering themselves and others. This is a societal conflict that seems to have no conclusion in sight.
+
+#### DROID MEMORY WIPE
+
+Skill: Droid programming
+Cost: 50-500 (depending on local fees)
+Availability: 1
+Difficulty: Difficult
+Game Notes: A successful memory wipe returns a droid’s personality matrix to its basic configuration, removing any personality development that has occurred since activation or its last memory wipe. Also, any pips that were added by way of “tinkering” will be lost. Only those skills hardwired (by either the factory, a previous owner, or the droid itself) will remain intact.
+
+### Restraining Bolts
+
+The use of restraint technology is often specified in most local criminal codes. Long ago, the Old Republic attempted to quell anti-droid sentiment by requiring droid owners to fit “restraining bolts” to their droids. These bolts are small receivers that are attached to the droid, allowing an owner to bypass the droid’s motivational programming. By using a signaling device, the owner can force the droid to perform certain simple actions. Typically, the restraining bolt forces a droid to activate or deactivate itself on command.
+
+#### RESTRAINING BOLT
+
+Skill: Droid repair
+Cost: 50 credits
+Availability: 1
+Game Notes: A droid fitted with a restraining bolt must obey commands sent by a “Caller.” The droid cannot resist the effects of the restraining bolt.
+
+#### CALLER
+
+Skill: Droid programming
+Cost: 100-500 credits
+Availability: 1
+Game Notes: A caller is a compact, short-range signaling device that broadcasts directly into a droid’s motivational processor (via a restraining bolt). Simple callers can only broadcast simple commands (such as ordering a droid to activate or deactivate). More sophisticated callers can transmit commands of greater complexity. The average range of a caller is 20 meters.
+
+#### RENTAL RESTRAINING BOLT
+
+Type: Credit-activated restraining bolt
+Cost: 10
+Availability: 2
+Game Notes: The rental restraining bolt works like a standard bolt,
+
+except it also has a credit reader. The user must deposit a specific number of credits to the credit reader in order to control the droid for a specified time. At the end of that time, the droid deactivates and does not reactivate until sufficent credits are again deposited.
+
+#### DROID REMOTE CONTROL
+
+Type: Navigation override system
+Cost: 500
+Availability: 2
+Game Notes: An advanced version of the restraining bolt system, the
+
+remote control allows the owner to use a droid caller to move the droid using its own locomotion system. The droid cannot be compelled to use any of its other systems or possessions. It simply moves as directed at Cautious speed.
+
+## OVERRIDING LIFE PRESERVATION PROGRAMMING
+
+In the Star Wars universe, droids (with the exception of some fourth degree models) are required by Imperial law to be equipped with life preservation programming (LPP).
+
+LPP subroutines prevent a droid from experiencing the compulsion to do harm to an organic being. The fact that these programming measures are installed is not necessarily a complete safeguard against rogue droids, but due to the sophistication of programming technology, the likelihood of a droid going rogue is lessened a great deal.
+
+Even fourth degree droids, who are by their nature aggressive, are given LPP routines defining when action against organic life may be taken. Still, there are those who would attempt to override the LPP, allowing a droid to participate in combat. This is not a simple task by any means.
+
+In game terms, if a character wishes to override a droid’s life preservation programming, she must make two successful skill rolls, a droid programming roll and a command roll. The droid programming roll is based on the degree of the droid, while the command roll is an opposed roll versus the droid’s willpower skill or Knowledge attribute (whichever is higher).
+
+Gamemasters may decide for themselves if the two rolls should be made in the same round (causing a multiple skill use penalty of −1D), or if the character may take two rounds to perform the action.
+
+Droid Programming Override Difficulties
+
+First Degree | Very Difficult
+Second Degree | Difficult
+Third Degree | Heroic
+Fourth Degree | Moderate
+Fifth Degree | Difficult
+
+Note that not all droids have LPP subroutines. While the Empire mandates this programming be installed in all civilian droids, it does not enforce this law outside of the Core Worlds. In the somewhat lawless Outer Rim Territories, for example, many outlaw techs and droid slicers have overridden this programming; characters should be made aware that it is possible that any droid they encounter could have had its LPP protocols erased.
+
+Anyone attempting to determine if a droid has had its LPP subroutine overridden must make a successful droid programming roll using the difficulties listed above. The attempt takes 1D minutes.
+
+## ADDITIONAL DROID ACCESSORIES
+
+#### DROID COMMAND STATION
+
+Type: Droid command station
+Cost: 10,000
+Availability: 1, F
+Game Notes: A droid command station can be set up in major work areas with a large droid labor pool, in large starships, and sometimes in major starports. The command station is generally password protected, either through manual entry or through a code cylinder. It allows an overseer to perform a number of functions provided that all of the droids have a comlink or remote receiver. The command station can:
+
+• Maintain active communication with droids, giving them instructions for specific tasks.
+
+[Página impressa 400 | PDF 402]
+
+• Coordinate actions between the droids, grants a +2D bonus to the droid overseer’s command skill.
+• Locate any specific droid within the pool within the droid’s normal operational ranges; provided the droid has a tracking device or restraining bolt installed.
+• Receive detailed information about a droid’s status within the labor pool.
+• Perform basic reprogramming of a droid within the system. • Automatically translate between Binary and common languages.
+
+#### DROID BATTLE STATION
+
+Type: Droid combat station
+Cost: 50,000 per 100 droids
+Availability: 1, R
+Game Notes: Droid battle stations provide the same functionality of regular droid command stations, but are used to direct droids in combat. They are typically large installations, capable of coordinating hundreds or thousands of droids of all types. Some droid battle stations emulate droid commanders. Typical stats for this droid brain are tactics 4D+2 and command 6D, but these vary.
+
+#### DROID RECHARGE STATION
+
+Type: Droid charging and analysis device
+Cost: 4,000
+Availability: 1
+Game Notes: Droid recharge stations allow a droid to be brought up to a full charge in one hour. Many starports and other public locations have droid recharge stations and allow them for public use for a fee of 20 credits. Most recharge stations provide a basic diagnostic (Easy droid repair roll) of the droid including its current status in terms of damage, and an operational status of all appendages, systems, and tools.
+
+#### DROID SOCKET
+
+Type: Starfighter/droid interface socket
+Cost: 10,000 (usually included in the cost of the starship)
+Availability: 3, R
+Game Notes: Droid sockets allow astromechs to combine copilot, systems monitoring, astrogation, and damage control operations for minimally crewed craft. The sockets are mostly found on starfighters, but can be found on shuttles, and a select few airspeeders. Usually they come pre-installed, but occasionally techs have managed to salvage or remove sockets from one craft and install them on another ship that does not normally make use of them.
+Installing a droid socket on a ship that was not designed with one requires a Very Difficult starfighter repair, space transport repair, or other related repair roll.
+
+Standard droid sockets generally allow droids to perform the following actions:
+
+• Pilot or copilot the ship with the pilot’s permission, or pilot the ship without it if the pilot is rendered unconscious.
+• Raise, lower, recharge, or angle deflector shields.
+• Reroute power to different systems.
+• Make related repair rolls as determined by the gamemaster. • Operate communications and sensor systems.
+• Input hyperspace coordinates and engage the hyperdrive.
+• Operate droid and pilot ejection systems, with the pilot’s permission.
+
+The following actions are generally prohibited, but can be overridden by the pilot:
+
+• Weapons activation and firing.
+• Jumping to hyperspace without approval.

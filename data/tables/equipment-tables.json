@@ -1,0 +1,390 @@
+{
+ "id": "equipment-tables",
+ "source": {
+  "chapter": 18,
+  "pages": [
+   334,
+   335,
+   342,
+   359
+  ],
+  "file": "raw-data/18-equipment-weapons.txt"
+ },
+ "availability_codes": [
+  {
+   "code": "1",
+   "meaning": "Readily available throughout the known galaxy."
+  },
+  {
+   "code": "2",
+   "meaning": "Normally available only in large cities and space ports, or on the item’s planet of origin."
+  },
+  {
+   "code": "3",
+   "meaning": "Specialized item, normally only available on the item’s planet of origin."
+  },
+  {
+   "code": "4",
+   "meaning": "Rare item, difficult to obtain anywhere."
+  }
+ ],
+ "restriction_codes": [
+  {
+   "code": "F",
+   "meaning": "Fee or permit often required for purchase."
+  },
+  {
+   "code": "R",
+   "meaning": "Restricted on most planets; normally may not be sold without a license."
+  },
+  {
+   "code": "X",
+   "meaning": "Illegal on most planets; possession and use generally violates Imperial, Republic or local laws except for authorized individuals."
+  }
+ ],
+ "availability_page": 334,
+ "licenses": {
+  "rule": "The fee is a percentage of the object’s base cost, bought in addition to the object. Then roll bureaucracy or a Knowledge skill; success grants the license after the time shown; failure costs the time and the fee, and you may retry. Bribing an official uses persuasion; a false or stolen identity uses forgery; failing either by 5 or more alerts the authorities. All applications leave a record in public files.",
+  "table": [
+   {
+    "rating": "Fee or Permit",
+    "fee_percent": 5,
+    "difficulty": "Moderate",
+    "time": "1 day"
+   },
+   {
+    "rating": "Restricted",
+    "fee_percent": 10,
+    "difficulty": "Difficult",
+    "time": "1D days"
+   },
+   {
+    "rating": "Military/Illegal",
+    "fee_percent": 50,
+    "difficulty": "Very Difficult",
+    "time": "2D days"
+   }
+  ],
+  "page": 334
+ },
+ "trade": {
+  "black_market": "Most restricted items can be found on the black market for enough effort and money.",
+  "selling_items": "A merchant generally buys used equipment at half its listed price (commodities excluded).",
+  "prices": "Listed costs are averages for typical equipment; local tariffs, availability and quality change them at the gamemaster’s discretion.",
+  "page": 334
+ },
+ "general_goods": {
+  "unit_note": "Cost in credits per unit shown.",
+  "verified_against": "PDF page 336",
+  "items": [
+   {
+    "commodity": "Animal, common",
+    "unit": null,
+    "cost": 100
+   },
+   {
+    "commodity": "Animal, exotic",
+    "unit": null,
+    "cost": 2000
+   },
+   {
+    "commodity": "Animal, livestock",
+    "unit": null,
+    "cost": 500
+   },
+   {
+    "commodity": "Art, common",
+    "unit": null,
+    "cost": 100
+   },
+   {
+    "commodity": "Art, quality",
+    "unit": null,
+    "cost": 1000
+   },
+   {
+    "commodity": "Art, precious",
+    "unit": null,
+    "cost": 10000
+   },
+   {
+    "commodity": "Bacta",
+    "unit": "1 liter (1 kg)",
+    "cost": 100
+   },
+   {
+    "commodity": "Food, common",
+    "unit": "1 kg",
+    "cost": 10
+   },
+   {
+    "commodity": "Food, quality",
+    "unit": "1 kg",
+    "cost": 20
+   },
+   {
+    "commodity": "Food, exotic",
+    "unit": "1 kg",
+    "cost": 50
+   },
+   {
+    "commodity": "Fuel",
+    "unit": "1 liter (1 kg)",
+    "cost": 50
+   },
+   {
+    "commodity": "Gems, semiprecious",
+    "unit": "1 gram",
+    "cost": 100
+   },
+   {
+    "commodity": "Gems, precious",
+    "unit": "1 gram",
+    "cost": 1000
+   },
+   {
+    "commodity": "Gems, exotic",
+    "unit": "1 gram",
+    "cost": 10000
+   },
+   {
+    "commodity": "Holovid",
+    "unit": null,
+    "cost": 10
+   },
+   {
+    "commodity": "Metal, common",
+    "unit": "1 metric ton",
+    "cost": 2500
+   },
+   {
+    "commodity": "Metal, semi-precious",
+    "unit": "1 kg",
+    "cost": 200
+   },
+   {
+    "commodity": "Metal, precious",
+    "unit": "1 kg",
+    "cost": 10000
+   },
+   {
+    "commodity": "Ore, common",
+    "unit": "1 metric ton",
+    "cost": 1500
+   },
+   {
+    "commodity": "Spice, common",
+    "unit": "1 kg",
+    "cost": 1000
+   },
+   {
+    "commodity": "Spice, exotic",
+    "unit": "1 gram",
+    "cost": 20
+   },
+   {
+    "commodity": "Textiles, common",
+    "unit": "1 meter",
+    "cost": 5
+   },
+   {
+    "commodity": "Textiles, quality",
+    "unit": "1 meter",
+    "cost": 20
+   },
+   {
+    "commodity": "Textiles, exotic",
+    "unit": "1 meter",
+    "cost": 100
+   },
+   {
+    "commodity": "Water",
+    "unit": "1 liter (1 kg)",
+    "cost": 1
+   }
+  ],
+  "page": 334
+ },
+ "services_and_expenses": {
+  "items": [
+   {
+    "service": "Dining (meal): Luxurious",
+    "cost": 150
+   },
+   {
+    "service": "Dining (meal): Upscale",
+    "cost": 50
+   },
+   {
+    "service": "Dining (meal): Average",
+    "cost": 10
+   },
+   {
+    "service": "Dining (meal): Budget",
+    "cost": 2
+   },
+   {
+    "service": "Lodging (day): Luxurious",
+    "cost": 200
+   },
+   {
+    "service": "Lodging (day): Upscale",
+    "cost": 100
+   },
+   {
+    "service": "Lodging (day): Average",
+    "cost": 50
+   },
+   {
+    "service": "Lodging (day): Budget",
+    "cost": 20
+   },
+   {
+    "service": "Bacta tank treatment (per hour)",
+    "cost": 300
+   },
+   {
+    "service": "Long-term medical care (per day)",
+    "cost": 300
+   },
+   {
+    "service": "Medpac treatment",
+    "cost": 300
+   },
+   {
+    "service": "Surgery (per hour)",
+    "cost": 500
+   },
+   {
+    "service": "Treat disease (per day)",
+    "cost": 500
+   },
+   {
+    "service": "Treat poison (per hour)",
+    "cost": 100
+   },
+   {
+    "service": "Treat radiation (per day)",
+    "cost": 1000
+   },
+   {
+    "service": "Taxi, local",
+    "cost": 10
+   },
+   {
+    "service": "Passage, steerage (up to 5 days)",
+    "cost": 500
+   },
+   {
+    "service": "Passage, average (up to 5 days)",
+    "cost": 1000
+   },
+   {
+    "service": "Passage, upscale (up to 5 days)",
+    "cost": 2000
+   },
+   {
+    "service": "Passage, luxurious (up to 5 days)",
+    "cost": 5000
+   },
+   {
+    "service": "Chartered space transport (up to 5 days)",
+    "cost": 10000
+   },
+   {
+    "service": "Upkeep (month):Luxurious",
+    "cost": 10000
+   },
+   {
+    "service": "Upkeep (month): Wealthy",
+    "cost": 5000
+   },
+   {
+    "service": "Upkeep (month): Comfortable",
+    "cost": 2000
+   },
+   {
+    "service": "Upkeep (month): Average",
+    "cost": 1000
+   },
+   {
+    "service": "Upkeep (month): Struggling",
+    "cost": 500
+   },
+   {
+    "service": "Upkeep (month): Impoverished",
+    "cost": 200
+   },
+   {
+    "service": "Upkeep (month): Self-sufficient",
+    "cost": 100
+   },
+   {
+    "service": "Vehicle Rental (day): Speeder bike",
+    "cost": 20
+   },
+   {
+    "service": "Vehicle Rental (day): Landspeeder, average",
+    "cost": 50
+   },
+   {
+    "service": "Vehicle Rental (day): Landspeeder, luxury",
+    "cost": 100
+   },
+   {
+    "service": "Vehicle Rental (day): Airspeeder",
+    "cost": 500
+   },
+   {
+    "service": "Vehicle Rental (day): Shuttle, interplanetary",
+    "cost": 1000
+   },
+   {
+    "service": "Vehicle Rental (day): Shuttle, interstellar",
+    "cost": 2000
+   }
+  ],
+  "page": 359
+ },
+ "cybernetics": {
+  "replacement_prosthetics": {
+   "cost_credits_each": {
+    "hand": 1000,
+    "arm": 2000,
+    "leg": 2000,
+    "knee": 1200,
+    "eye": 2750,
+    "ear": 2750,
+    "heart": 5000,
+    "kidney": 4500,
+    "lungs": 4000
+   },
+   "cyber_points": 1,
+   "availability": "4",
+   "effect": "Duplicates the natural part; no special abilities. A Difficult Perception roll tells it from an organic one.",
+   "page": 341
+  },
+  "enhancements": {
+   "rule": "Increase one attribute by a number of pips or dice; every skill under it that is already above the attribute rises equally. Cost for the attribute and for each such skill: base cost x pip increase x starting die code (ignoring pips). The operation must include the attribute and all those skills. Each full die of increase counts as three pips.",
+   "example": "Strength 3D+1 to 5D+1 on a cybernetic hand (base 1,000): 1,000 x 6 pips x 3 = 18,000 credits.",
+   "extra_dark_side_points": [
+    {
+     "enhancements": "1-2",
+     "extra_per_transgression": 1
+    },
+    {
+     "enhancements": "3-4",
+     "extra_per_transgression": 2
+    },
+    {
+     "enhancements": "5-6",
+     "extra_per_transgression": 3
+    }
+   ],
+   "replacement_counts_as": "half an enhancement (rounded down) for Dark Side Points",
+   "optional_force_user_penalty": "Each prosthetic gives one cyber point; cyber points reduce all Force skills by 2 pips each for enhancements and 1 pip each for replacements.",
+   "social_cost": "Obvious cybernetics meet fear, suspicion and hatred; cybernetics are not meant as a shopping list for player characters.",
+   "page": 342
+  }
+ }
+}

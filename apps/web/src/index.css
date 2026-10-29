@@ -1,0 +1,206 @@
+@import '@fontsource/chakra-petch/500.css';
+@import '@fontsource/chakra-petch/600.css';
+@import '@fontsource/chakra-petch/700.css';
+@import '@fontsource-variable/exo-2';
+@import '@fontsource-variable/jetbrains-mono';
+@import 'tailwindcss';
+
+/* ------------------------------------------------------------------ tokens (docs/visual-direction.md) */
+:root {
+  --void: #05070c;
+  --space: #0a0f1a;
+  --glass: rgba(14, 22, 36, 0.72);
+  --glass-solid: #0f1724;
+  --glass-2: rgba(22, 34, 54, 0.8);
+  --line: rgba(120, 170, 220, 0.18);
+  --line-strong: rgba(79, 209, 255, 0.45);
+  --text: #e8f1fa;
+  --muted: #8fa3ba;
+  --holo: #4fd1ff;
+  --ion: #3a7bff;
+  --wild: #ffb020;
+  --wild-hot: #ffe08a;
+  --cp: #b48cff;
+  --fp: #fff1c9;
+  --dark: #ff4d5e;
+  --ok: #48e5a4;
+  --warn: #ffc85c;
+  --house: #7fe3d0;
+  --grad-holo: linear-gradient(90deg, #3a7bff, #4fd1ff);
+  --grad-wild: radial-gradient(circle, #ffe08a 0%, #ffb020 45%, rgba(255, 176, 32, 0) 70%);
+  --scan: repeating-linear-gradient(0deg, rgba(79, 209, 255, 0.045) 0 1px, transparent 1px 3px);
+  --blur: 14px;
+  --glow: 0 0 24px rgba(79, 209, 255, 0.25);
+  --ease: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --font-display: 'Chakra Petch', system-ui, sans-serif;
+  --font-body: 'Exo 2 Variable', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono Variable', ui-monospace, monospace;
+}
+:root[data-theme='paper'] {
+  --void: #e9e5da; --space: #f5f2ea; --glass: rgba(255, 255, 255, 0.82); --glass-solid: #fffdf8; --glass-2: #ffffff;
+  --line: rgba(30, 50, 80, 0.2); --line-strong: rgba(20, 100, 150, 0.6); --text: #14202e; --muted: #50627a;
+  --holo: #0b6f99; --ion: #2447b8; --wild: #b36b00; --wild-hot: #d98a00; --cp: #6a45c9; --fp: #7a5a00; --dark: #c0182c; --ok: #0d7a52; --warn: #8a5a00; --house: #0b7566;
+  --grad-holo: linear-gradient(90deg, #2447b8, #0b6f99); --scan: none; --glow: none;
+}
+/* modo mesa: calmo (sem scanlines, brilho e paralaxe) */
+:root[data-mode='mesa'] { --scan: none; --glow: none; }
+/* baixa luz: luz vermelha de cockpit; ambar so no Wild Die */
+:root[data-mode='lowlight'] {
+  --void: #000; --space: #000; --glass: rgba(20, 4, 4, 0.9); --glass-solid: #120404; --glass-2: #1a0707; --line: rgba(255, 106, 90, 0.28); --line-strong: rgba(255, 106, 90, 0.6);
+  --text: rgba(255, 106, 90, 0.88); --muted: rgba(255, 106, 90, 0.6); --holo: #ff6a5a; --ion: #ff6a5a; --cp: #ff8f7a; --fp: #ffb3a3; --dark: #ff3b3b; --ok: #ff9a8a; --warn: #ff9a8a; --house: #ff9a8a;
+  --grad-holo: linear-gradient(90deg, #a83226, #ff6a5a); --scan: none; --glow: none; --blur: 0px;
+}
+@media (max-width: 699px) { :root { --blur: 8px; } }
+
+@theme inline {
+  --color-void: var(--void);
+  --color-space: var(--space);
+  --color-glass: var(--glass);
+  --color-line: var(--line);
+  --color-text: var(--text);
+  --color-muted: var(--muted);
+  --color-holo: var(--holo);
+  --color-ion: var(--ion);
+  --color-wild: var(--wild);
+  --color-cp: var(--cp);
+  --color-fp: var(--fp);
+  --color-dark: var(--dark);
+  --color-ok: var(--ok);
+  --color-warn: var(--warn);
+  --color-house: var(--house);
+  --font-display: var(--font-display);
+  --font-sans: var(--font-body);
+  --font-mono: var(--font-mono);
+}
+
+@layer components {
+/* ------------------------------------------------------------------ base */
+html { color-scheme: dark; -webkit-text-size-adjust: 100%; }
+html[data-theme='paper'] { color-scheme: light; }
+body {
+  margin: 0; min-height: 100dvh; background: var(--space); color: var(--text); font-family: var(--font-body); font-size: 1rem; line-height: 1.5;
+  -webkit-font-smoothing: antialiased; overflow-x: hidden;
+}
+h1, h2, h3, h4 { font-family: var(--font-display); letter-spacing: 0.02em; margin: 0; }
+a { color: var(--holo); text-decoration: none; }
+a:hover { text-decoration: underline; }
+:focus-visible { outline: 2px solid var(--holo); outline-offset: 2px; border-radius: 4px; }
+::selection { background: color-mix(in srgb, var(--holo) 35%, transparent); }
+.mono, .code { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.label { font-family: var(--font-display); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.75rem; color: var(--muted); }
+button { font-family: inherit; }
+
+/* ------------------------------------------------------------------ vidro, cantos, holograma */
+.glass {
+  position: relative; background: var(--glass); border: 1px solid var(--line);
+  backdrop-filter: blur(var(--blur)) saturate(120%); -webkit-backdrop-filter: blur(var(--blur)) saturate(120%);
+  border-radius: 6px;
+}
+.glass::before { /* borda de luz no topo */
+  content: ''; position: absolute; inset: 0 0 auto 0; height: 1px; pointer-events: none;
+  background: linear-gradient(90deg, transparent, color-mix(in srgb, var(--holo) 40%, transparent), transparent);
+}
+@supports not (backdrop-filter: blur(1px)) { .glass { background: var(--glass-solid); } }
+.chamfer { clip-path: polygon(0 0, calc(100% - 10px) 0, 100% 10px, 100% 100%, 0 100%); }
+.chamfer-2 { clip-path: polygon(10px 0, 100% 0, 100% calc(100% - 10px), calc(100% - 10px) 100%, 0 100%, 0 10px); }
+.scan::after { content: ''; position: absolute; inset: 0; background: var(--scan); pointer-events: none; border-radius: inherit; }
+.holo-text { text-shadow: 0 0 12px currentColor; }
+:root[data-mode='mesa'] .holo-text, :root[data-mode='lowlight'] .holo-text { text-shadow: none; }
+.reticle { position: relative; }
+.reticle::before, .reticle::after { content: ''; position: absolute; width: 8px; height: 8px; border: 2px solid var(--holo); pointer-events: none; }
+.reticle::before { top: -1px; left: -1px; border-right: 0; border-bottom: 0; }
+.reticle::after { bottom: -1px; right: -1px; border-left: 0; border-top: 0; }
+.glow { box-shadow: 0 0 0 1px var(--line-strong), var(--glow); }
+
+/* hexagono do Wild Die: forma + rotulo, nunca so cor */
+.hex { clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%); }
+.die-n { display: inline-grid; place-items: center; width: 2.6rem; height: 2.6rem; border: 2px solid var(--holo); border-radius: 8px; font-family: var(--font-mono); font-weight: 700; font-size: 1.25rem; background: color-mix(in srgb, var(--holo) 8%, transparent); }
+.die-w { display: inline-grid; place-items: center; width: 3rem; height: 3.2rem; background: var(--wild); color: #1a1000; font-family: var(--font-mono); font-weight: 800; font-size: 1.4rem; box-shadow: 0 0 22px color-mix(in srgb, var(--wild) 55%, transparent); }
+:root[data-mode='lowlight'] .die-w { box-shadow: none; }
+.die-w.boom { background: var(--wild-hot); }
+.die-w.one { background: var(--dark); color: #fff; }
+.die-cp { border-color: var(--cp); background: color-mix(in srgb, var(--cp) 14%, transparent); }
+
+/* ------------------------------------------------------------------ botoes e campos */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; min-height: 44px; padding: 0 1rem; border-radius: 8px;
+  border: 1px solid var(--line-strong); background: color-mix(in srgb, var(--holo) 8%, transparent); color: var(--text); font-weight: 600; cursor: pointer;
+  transition: transform 120ms var(--ease), background 120ms, box-shadow 120ms; user-select: none; text-decoration: none;
+}
+.btn:hover { background: color-mix(in srgb, var(--holo) 16%, transparent); text-decoration: none; }
+.btn:active { transform: scale(0.97); box-shadow: 0 0 0 6px color-mix(in srgb, var(--holo) 18%, transparent); }
+.btn:disabled, .btn[aria-disabled='true'] { opacity: 0.45; cursor: not-allowed; transform: none; box-shadow: none; }
+.btn.primary { background: var(--grad-holo); color: #04101a; border-color: transparent; }
+:root[data-mode='lowlight'] .btn.primary { color: #000; }
+.btn.danger { border-color: color-mix(in srgb, var(--dark) 60%, transparent); color: var(--dark); background: color-mix(in srgb, var(--dark) 10%, transparent); }
+.btn.ghost { border-color: transparent; background: transparent; }
+.btn.sm { min-height: 36px; padding: 0 0.7rem; font-size: 0.875rem; }
+.btn.icon { padding: 0; width: 44px; }
+.btn.icon.sm { width: 36px; }
+.btn.big { min-height: 56px; font-size: 1.1rem; }
+.input, select.input, textarea.input {
+  width: 100%; min-height: 44px; padding: 0.55rem 0.75rem; border-radius: 8px; border: 1px solid var(--line); background: color-mix(in srgb, var(--void) 55%, transparent);
+  color: var(--text); font: inherit;
+}
+textarea.input { min-height: 5.5rem; resize: vertical; }
+.input:focus { border-color: var(--line-strong); outline: none; box-shadow: 0 0 0 3px color-mix(in srgb, var(--holo) 20%, transparent); }
+.input[aria-invalid='true'] { border-color: var(--dark); }
+select.input option { background: var(--glass-solid); color: var(--text); }
+.field { display: grid; gap: 0.3rem; }
+.field > span { font-size: 0.8rem; color: var(--muted); }
+.chip { display: inline-flex; align-items: center; gap: 0.3rem; padding: 0.1rem 0.55rem; border-radius: 999px; border: 1px solid var(--line); font-size: 0.78rem; font-family: var(--font-mono); background: color-mix(in srgb, var(--void) 40%, transparent); }
+.seal { display: inline-block; padding: 0 0.4rem; border-radius: 4px; border: 1px solid currentColor; font-size: 0.68rem; font-weight: 700; letter-spacing: 0.06em; vertical-align: middle; text-transform: uppercase; }
+.seal.casa { color: var(--house); } .seal.prov { color: var(--warn); } .seal.raw { color: var(--muted); }
+.pg { font-family: var(--font-mono); color: var(--muted); font-size: 0.85em; }
+.err { color: var(--dark); } .okc { color: var(--ok); } .warnc { color: var(--warn); }
+.tbl-wrap { overflow-x: auto; margin: 0.5rem 0; }
+.prose table { border-collapse: collapse; font-size: 0.875rem; width: 100%; }
+.prose th, .prose td { border: 1px solid var(--line); padding: 0.3rem 0.5rem; text-align: left; vertical-align: top; }
+.prose th { background: color-mix(in srgb, var(--holo) 8%, transparent); font-family: var(--font-display); }
+.prose p, .prose ul, .prose ol { margin: 0.5rem 0; } .prose ul, .prose ol { padding-left: 1.3rem; }
+.prose h3, .prose h4, .prose h5 { margin: 1rem 0 0.3rem; color: var(--holo); }
+.prose code { font-family: var(--font-mono); font-size: 0.85em; background: color-mix(in srgb, var(--holo) 10%, transparent); padding: 0 0.25rem; border-radius: 3px; }
+
+/* ------------------------------------------------------------------ fundo / estrelas */
+.stars { position: fixed; inset: 0; z-index: -1; pointer-events: none; background:
+  radial-gradient(1.2px 1.2px at 12% 18%, #fff8 50%, transparent 51%), radial-gradient(1px 1px at 78% 32%, #cfe8ff99 50%, transparent 51%),
+  radial-gradient(1.4px 1.4px at 44% 76%, #fff7 50%, transparent 51%), radial-gradient(1px 1px at 90% 82%, #fff6 50%, transparent 51%),
+  radial-gradient(1px 1px at 28% 52%, #cfe8ff77 50%, transparent 51%), radial-gradient(120% 90% at 70% 0%, #12324a 0%, #0a1422 45%, var(--void) 100%); }
+.stars.layer2 { background-size: 340px 340px, 280px 280px, 400px 400px, 320px 320px, 260px 260px, 100% 100%; animation: drift 90s linear infinite; }
+:root[data-mode='mesa'] .stars, :root[data-mode='lowlight'] .stars { animation: none; background: var(--space); }
+:root[data-theme='paper'] .stars { background: var(--space); }
+@keyframes drift { to { background-position: 340px 200px, -280px 120px, 400px -200px, -320px 260px, 260px 160px, 0 0; } }
+@keyframes flicker { 0% { opacity: 0.35; } 40% { opacity: 1; } 55% { opacity: 0.5; } 100% { opacity: 1; } }
+@keyframes pulse-dot { 50% { opacity: 0.35; transform: scale(0.8); } }
+@keyframes shake { 25% { transform: translateX(-2px); } 75% { transform: translateX(2px); } }
+@keyframes warp { 0% { transform: scaleX(1); opacity: 1; } 100% { transform: scaleX(14); opacity: 0; } }
+.holo-in { animation: flicker 240ms steps(3, end) both; }
+.pulse { animation: pulse-dot 1.2s ease-in-out infinite; }
+.hurt { animation: shake 120ms 2; }
+.rise { animation: rise 380ms var(--ease) both; }
+@keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+
+/* respeita reduced-motion e o interruptor "Animacoes" */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 120ms !important; animation-iteration-count: 1 !important; transition-duration: 120ms !important; scroll-behavior: auto !important; }
+  .stars.layer2 { animation: none; }
+}
+:root[data-motion='off'] *, :root[data-motion='off'] *::before, :root[data-motion='off'] *::after { animation: none !important; transition: none !important; }
+
+/* ------------------------------------------------------------------ modo mesa */
+:root[data-mode='mesa'] .btn, :root[data-mode='lowlight'] .btn { min-height: 56px; }
+.mesa-total { font-family: var(--font-mono); font-weight: 700; font-size: 4rem; line-height: 1; }
+@media (min-width: 700px) { .mesa-total { font-size: 5rem; } }
+
+/* ------------------------------------------------------------------ impressao A4 */
+@media print {
+  html, body { background: #fff !important; color: #000 !important; }
+  .no-print, nav, .stars { display: none !important; }
+  .print-sheet { color: #000; background: #fff; font-size: 10pt; }
+  .print-sheet * { color: #000 !important; border-color: #000 !important; background: transparent !important; text-shadow: none !important; }
+  @page { size: A4; margin: 12mm; }
+}
+.print-sheet { max-width: 800px; margin: 0 auto; }
+
+}

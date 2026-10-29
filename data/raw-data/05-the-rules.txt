@@ -1,0 +1,976 @@
+CHAPTER 5: THE RULES
+(Páginas impressas 72-87 | PDF 74-89)
+
+[Página impressa 72 | PDF 74]
+
+CHAPTER FIVE 5
+
+# THE RULES
+
+If you’re going to be the gamemaster, you need to know the rules. That’s where I come in.
+
+Let me tell you about myself. I’ve been an Imperial Admiral for nearly a decade. People like Shae and Risha don’t think too much of people like me. You know what? I don’t care. I do my job right and if some outlaw or smuggler doesn’t like it, they just better not cross me.
+
+In my line of work, you have to play hardball with people like them or they’ll walk all over you. That’s where the rules come in. The set of rules I have to play by — Imperial laws — explain exactly what I’m supposed to do when I’m working.
+
+The game rules do the same thing for you. They tell you how to run your game. They make sure everyone gets treated fairly. You need them to keep control.
+
+Now, let me tell you how to use these rules. In my job, I’m allowed what’s called “discretion” — sure, I may play the tough one and give lip service to following the letter of the law, but if I think someone deserves a break, I might let them off with a warning for a minor infraction. I follow the law when someone’s giving me a hard time: I’ll bust them on every minor charge I can think of if they give me attitude.
+
+You’ve got even more latitude in your game. First, you only have to use rules you feel like using. Why? Because it’s your game. Run it the way you want to.
+
+Next, if you don’t like the rules here, go ahead and make up your own.
+
+When you’re running your game, you can choose which rules to follow strictly, which to overlook... and which to make up when you think they’re needed.
+
+[Página impressa 73 | PDF 75]
+
+But, let me warn you, you’ve got to be firm with the people who’re going to try to bend the rules to suit themselves.
+
+So let’s begin. The rules are divided into three major sections. The first is “Rolling Actions.” You already know that the players roll skill dice when they want their characters to try to do something... now you’ll learn how to decide difficulty numbers so you know how well the players have to roll. You’ll also find out how to decide what happens when a character succeeds or fails.
+
+Section two covers “Scenes and Rounds.” Scenes are used when characters are doing “ordinary” things like meeting a contact in a cantina and traveling by starship to a distant planet. You’ll use rounds when things get “intense” like when the characters get into a battle or go on a frantic chase through an asteroid belt.
+
+The final section of this chapter is “Character Information.” It covers Character Points, Force Points and other things that characters use during the game.
+
+Tan boxes highlight the essential rules. The rest of the chapter has examples and explanations — you can read them right away or come back to read them later.
+
+# ROLLING ACTIONS
+
+Characters roll their skill dice (or their attribute dice if they haven’t improved the skill) whenever they do something important and there’s a risk of failure.
+
+A player makes a skill roll when his character is trying to shoot a stormtrooper, fix a starship, or get information out of a computer. A player doesn’t have to roll to see if his character can walk down to the corner droid shop.
+
+An Advantage or piece of equipment may provide a bonus to the roll. If the bonus is in the form of a die code (such as +1D), then you add the listed number of regular dice to the amount you would roll. If the bonus is in the form of a pip (such as +2), then you add the amount to the total that you rolled on the dice.
+
+## THE WILD DIE
+
+Whenever a character makes a skill or attribute die roll, the player must choose one die of a different color to be the character’s wild die (this is not an extra die; it’s just a different color).
+
+Whenever the wild die comes up as a 2,3,4, or 5, just add it into the die total normally.
+
+Example: Thannik is rolling his blaster skill of 5D. His four normal dice roll a 1, 2, 5 and 6. His wild die (the different colored one) comes up as a 2. His total is 16.
+
+When the wild die comes up as a 6, add it to the die total. Roll it again and add the new number to the total, too.
+
+If the new roll is a 6, add it to the total and roll the die again. You can keep on rolling as long as you get sixes. (As you can see, it’s possible to get really high totals if your wild die rolls several sixes in a row.)
+
+Example: Thannik is rolling his blaster skill again. His normal dice come up as a 2, 4, 5 and 2, while his wild die comes up as a 6. He gets to roll the wild die again — and gets another 6! He rolls the die again, and gets a 3. His total is 28!
+
+For the first roll only, if the wild die comes up as a 1, the player must tell the gamemaster. The gamemaster can choose one of three options:
+
+• Add up the dice normally.
+
+• Total up the skill dice normally to see if the skill roll succeeded, but a “complication” occurs. (See “Complications” below.)
+
+• Subtract the one and also subtract the highest other die.
+
+Example: Thannik is rolling his blaster: blaster pistol specialization of 6D. He rolls a 3, 4, 2, 5, 3 on his normal dice and a 1 on his wild die. The gamemaster decides to subtract the 1 and the highest other die, which is a five. That leaves him with a 3, 4, 2 and 3, for a skill total of 12.
+
+The wild die rule counts for all die rolls in the game, including skill and attribute checks, weapon damage, and rolling Perception for initiative.
+
+If the player is rolling two different types of dice at once — for example, rolling the character’s starfighter piloting skill and the starship’s maneuverability die code — only one die counts as the wild die.
+
+Why The Wild Die? The wild die represents the quirkiness of fate and luck. Sometimes characters are really, really lucky... and other times they just can’t seem to do anything right!
+
+For example, Luke is able to successfully fight off scores of stormtroopers while on board the Death Star... but feared bounty hunter Boba Fett falls prey to the Sarlacc. One was having a good day — one was having a very bad one.
+
+### Complications
+
+Complications make a character’s life more... well... complicated. Something directly related to the die roll has gone wrong — sometimes horribly so — and now the characters must deal with the situation.
+
+You should use complications to help tell a more interesting and exciting story. Complications should only happen a couple of times in an adventure — most often during its dramatic conclusion — and should get the players excited and more involved in the game. When you use a complication, the players should be asking themselves, “What do we do now?”
+
+Complications should be fair and balanced: they may put characters in danger, but they shouldn’t be “death traps” with no possibility of escape. They should challenge the characters, forcing them to be clever and courageous in dealing with the situation.
+
+[Página impressa 74 | PDF 76]
+
+Complications can also be used to balance powerful characters. If one character has become nearly invincible — perhaps due to a fantastic set of bounty hunter armor — the armor may short out if a complication is rolled.
+
+Complications should be directly related to what the character was doing — if a character gets a complication while repairing a droid, perhaps the droid’s components short out and start a fire, or a malfunction makes the droid harder to fix.
+
+Below are some examples of complications from the Star Wars movies:
+
+• Luke Skywalker and Princess Leia are running through the halls of the Death Star, being chased by stormtroopers. They come to a door and run out to see... an empty chasm. Luke makes his Perception roll to find the door controls, but his roll isn’t high enough for him to figure out how to work them — and he gets a complication. Thinking quickly, Luke blasts the door panel to shut the door. The complication is that the panel also has the controls to the bridge, so they can’t extend it.
+
+• Han Solo is chasing a squad of stormtroopers down a hall of the Death Star, and has conned them into thinking that he’s a whole squad of soldiers — but he also got a “1” on the wild die. The complication is that the stormtroopers round a corner into a dead-end — they have no choice but to turn and fight. That’s when they realize that Han is alone.
+
+• Han Solo is trying to sneak up on an Imperial scout trooper in the forests of Endor. Han gets right up close to the trooper, and thinks his sneak is successful, when CRACK!!!, he steps on a twig, alerting the trooper. The snapping twig distracted Han, giving the scout trooper the chance to make an attack.
+
+• Lando Calrissian is flying the Millennium Falcon down one of the tunnels within the Death Star. He makes a space transports
+
+roll to get through a tough stretch of tunnel, and succeeds at the roll, but a complication occurs. The Falcon hits a support beam, snapping off the ship’s antenna dish and disabling some of its sensor systems.
+
+### Pushing the Story Along
+
+Notice that Han’s stepping on the twig advances the story. Without the scout troops getting away, the Rebels never would have met the Ewoks, who ultimately disrupt the Emperor’s carefully laid trap. The Alliance fleet would have been decimated by the Death Star, while the Emperor would have continued his domination of the galaxy... the fate of the galaxy hinged on Han Solo failing a sneak roll!
+
+### CREATING COMPLICATIONS
+
+Gamemasters should take a few minutes to come up with complications for key scenes in adventures. Here are a few possibilities:
+
+• One of the characters kills a stormtrooper. Unfortunately, when the trooper hits the ground, it triggers the grenade on his belt. The characters have only a few seconds to act before the grenade explodes...
+
+• A character is doing a routine sensor scan of a planet and either picks up something completely erroneous or misses something absolutely vital. In the first instance, the character may believe that the planet has a small Imperial outpost, while in the latter, the character may completely overlook said outpost and land on the planet, thinking it is a safe haven.
+
+• While sneaking up on enemy troops, the character’s comlink beeps, spoiling the surprise attack. This is a great trick for players who didn’t think to turn off their character’s comlinks.
+
+• A blaster’s power pack comes up unexpectedly empty. Alternately, the pack overloads, short-circuiting the blaster.
+
+• A character slips and falls while moving, perhaps spraining an ankle. The character cannot run until the sprain heals... this can be even worse if the character is caught out in the open during the middle of a battle.
+
+• While haggling over the price of a blaster with a merchant, someone else interrupts and offers the merchant’s original asking price. This is especially useful if the weapon is somehow necessary to continue the adventure — for instance, if its circuit boards have been imprinted with a secret Rebel code.
+
+• The characters are tracking someone who’s carrying a sensor beacon when the beacon is discovered, dropped, or stolen. Now, the characters are on a wild gundark chase while the target escapes.
+
+• The vehicle the character is piloting runs out of fuel, its controls freeze up, or perhaps the weapons become locked on autofire because of a computer glitch.
+
+• Two characters in a lightsaber duel have their blades fuse. The characters must make opposed Strength rolls to free the blades.
+
+• A computer system the characters are slicing through freezes up for a second. Is it just a glitch or something else?
+
+[Página impressa 75 | PDF 77]
+
+### DIE CODE SIMPLIFICATION
+
+Die |  | Wild | Die |  | Wild
+Code | 5D | Die | Code | 5D | Die
+1D | 0 | 0 | 26D | +74 | +88
+2D | 0 | +4 | 27D | +77 | +91
+3D | 0 | +7 | 28D | +81 | +95
+4D | 0 | +11 | 29D | +84 | +98
+5D | 0 | +14 | 30D | +88 | +102
+6D | +4 | +18 | 31D | +91 | +105
+7D | +7 | +21 | 32D | +95 | +109
+8D | +11 | +25 | 33D | +98 | +112
+9D | +14 | +28 | 34D | +102 | +116
+10D | +18 | +32 | 35D | +105 | +119
+11D | +21 | +35 | 36D | +109 | +123
+12D | +25 | +39 | 37D | +112 | +126
+13D | +28 | +42 | 38D | +116 | +130
+14D | +32 | +46 | 39D | +119 | +133
+15D | +35 | +49 | 40D | +123 | +137
+16D | +39 | +53 | 41D | +126 | +140
+17D | +42 | +56 | 42D | +130 | +144
+18D | +46 | +60 | 43D | +133 | +147
+19D | +49 | +63 | 44D | +137 | +151
+20D | +53 | +67 | 45D | +140 | +154
+21D | +56 | +70 | 46D | +144 | +158
+22D | +60 | +74 | 47D | +147 | +161
+23D | +63 | +77 | 48D | +151 | +165
+24D | +67 | +81 | 49D | +154 | +168
+25D | +70 | +84 | 50D | +158 | +172
+
+## UNTRAINED SKILL USE (OPTION)
+
+If a character doesn’t have dice in the skill required to attempt an action, they generally may use the die code of the attribute under which that skill falls. This is sometimes referred to as defaulting to the attribute or using the skill untrained or unskilled. The gamemaster may include an unskilled modifier to the difficulty. This modifier takes into account that people who aren’t trained or don’t have experience in certain tasks usually have a harder time doing them. Typically, this modifier is +5, but it could be as low as +1 for simple tasks or much higher for complex plans. The gamemaster may rule that some situations, such as building a spaceship or performing brain surgery, are impossible for anyone to attempt without the proper training and the correct skills.
+
+When attributes are given in the text along with the skill, such as resisting Wounds, do not apply the untrained modifier. This also includes most uses of dodge and brawling in combat situations, attempts to find clues in a room with search, and resisting interaction attempts or Force attacks with willpower.
+
+## DIE CODE SIMPLIFICATION
+
+As characters progress, often the number of dice players have to roll and add becomes daunting. With this in mind, this chart provides two ways of reducing the amount of dice needed.
+
+The fast way is to roll five dice, including the Wild Die, add the results, and then add the die code’s pips and a bonus num-
+
+ber. To determine the bonus number, find the die code (ignoring the pips) of the original attribute, skill, weapon, or other value in the “Die Code” column. Then read across to the “5D” column to get the bonus number.
+
+Example: A character has a ranged weapon that does 30D of damage. Instead of rolling 30 dice, the player rolls five and adds 88 to the total on the dice.
+
+The faster way is to roll only the Wild Die, adding to its result the corresponding bonus listed in the “Wild Die” column of the chart.
+
+Example: A character has a skill with a value of 10D. The gamemaster rolls the Wild Die and adds 32 to the result.
+
+Because Character Points function similar to a Wild Die, roll any dice gained from Character Point expenditure separately. When using Force Points on a roll, double the original die code and use that to determine the bonus number.
+
+For bonus numbers beyond the 50D level for the “5D” column, subtract 5 from the die code and multiply the number by 3.5. Round up.
+
+To get bonus numbers beyond the 50D level for the “Wild Die” column, subtract 1 from the die code and multiply the number by 3.5. Round up.
+
+## DIFFICULTY NUMBERS
+
+### AND OPPOSED ROLLS
+
+When the characters make a roll, what are they rolling against? They’re rolling against a difficulty number or they’re rolling directly against another character to see who does better. (That’s called an “opposed roll”)
+
+Star Wars Rule of Thumb: Use the rule of thumb whenever you’re not sure how to handle a situation:
+
+Pick a difficulty number. If the character’s skill roll is
+
+equal or higher, he succeeds.
+
+### Difficulty Numbers
+
+You should pick a difficulty number when the characters are doing a task and not rolling directly against someone else. For example, you’d pick a difficulty number when a character tries to repair a landspeeder, run across a rope bridge, or pick a lock.
+
+First, you decide how hard the task is: Very Easy, Easy, Moderate, Difficult, Very Difficult or Heroic.
+
+Then, pick a number from the difficulty’s range. If the character’s roll is equal to or higher than the difficulty number, the character succeeds; if the roll is lower, the character fails.
+
+Difficulty | Difficulty Numbers
+Very Easy | 1-5
+Easy | 6-10
+Moderate | 11-15
+Difficult | 16-20
+Very Difficult | 21-30
+Heroic | 31+
+
+[Página impressa 76 | PDF 78]
+
+Heroic difficulty numbers may be any number above 30. Some skills will call for a difficulty of Heroic +10 (the difficulty number falls in the range of 40-49) or Heroic +20 (50-59) or more. Difficulty numbers can go as high as 100... or even higher!
+
+Here are some guidelines for choosing a difficulty:
+
+Very Easy — Almost anyone should be able to do this most of the time. Example: Hitting a target with a blaster at point-blank range. Driving a landspeeder across Very Easy terrain, like a good road. Knowing that Coruscant is the capital of the New Republic and was the capital of the Empire.
+
+Easy — Most characters should be able to do this most of the time. While these tasks aren’t too difficult, there’s still a chance of failure. Example: Hitting a target with a blaster at short range. Driving a landspeeder over somewhat rough terrain, like a choppy lake. Knowing that Coruscant’s major “industry” is government and that billions of people live there.
+
+Moderate — This kind of task requires skill, effort and concentration. There’s a good chance that the average character could fail at this type of task, but most highly-skilled characters can succeed at something this hard. Example: Hitting a target with a blaster at medium range. Keeping control when jumping a landspeeder over a big ditch (or other obstacle). Knowing which neighborhoods in Imperial City are safe and which are dangerous at night.
+
+Difficult — Difficult tasks are hard and “normal” characters can only succeed at them once in a while. These tasks take a lot of skill... and luck doesn’t hurt either.
+
+Example: Hitting a target with a blaster at long-range. Driving a landspeeder at high speed around moving pedestrians and other obstacles. Knowing a safe house in Imperial City where your character can hide during a manhunt.
+
+Very Difficult — Even professionals have to work to pull off Very Difficult tasks. Only the most talented individuals in the galaxy (like Luke, Han and Leia) succeed at these tasks with any regularity. Example: Hitting someone with a blaster at long range who is mostly hidden behind cover. Safely driving a landspeeder at high speed through a traffic jam by taking to walkways and making “insane” maneuvers. Knowing which bureaucrats in Imperial City can facilitate the acquisition of high-grade weapons permits.
+
+Heroic — Something that’s almost impossible and calls for extraordinary effort and luck. Even “heroes” have a tough time pulling off Heroic tasks. Example: Shooting a proton torpedo into a small exhaust port without the benefit of a targeting computer. Flying the Millennium Falcon at all-out speed through a dense asteroid field.
+
+Gamemasters can choose any difficulty number in the difficulty’s range; normally, the higher the difficulty number, the tougher the task.
+
+Example: An X-wing has had its shield generators blown out by a TIE fighter in combat. The gamemaster decides that the character needs to make a Moderate
+
+starfighter repair roll to fix the ship. A Moderate task can have a difficulty number ranging from 11 to 15 — since the damage isn’t too bad, the gamemaster chooses a difficulty number of 12.
+
+Later, the X-wing has a near-miss with a stellar body in hyperspace. The gamemaster decides that another Moderate starfighter repair roll is needed to fix the ship, but this time the damage is substantial, including blown power lines and a short in the main generator. The gamemaster chooses a difficulty number of 15 to reflect the severity of the damage.
+
+When choosing difficulties and difficulty numbers, you can check the skill’s description for guidelines in the chapter discussing “Attributes and Skills.”
+
+### Random Difficulties (Optional)
+
+You can randomly determine a difficulty number instead of picking one. First, determine the difficulty level: Very Easy, Easy, Moderate, Difficult, Very Difficult, or Heroic. Then roll the dice and use the total as the difficulty number (don’t forget to use the wild die).
+
+Task Difficulty | Random Difficulty
+Very Easy | 1D
+Easy | 2D
+Moderate | 3D-4D
+Difficult | 5D-6D
+Very Difficulty | 7D-8D
+Heroic | 9D+
+
+Example: A character wants to repair a busted skyhopper. The gamemaster decides that this is a Moderate task and decides to roll four dice to determine the difficulty number. The four dice come up as a 3,1 and a 6, with a 5 on the wild die: the difficulty number is 15.
+
+## OPPOSED ROLLS
+
+When one character acts against another, both roll their skills: the higher roll succeeds. This is called an “opposed roll.”
+
+(If the two rolls tie, the first roller — the person who initiated the action — succeeds.)
+
+Here are some examples:
+
+• Two characters playing sabacc make opposed gambling rolls; the higher roll wins.
+
+• A merchant and a player character are haggling over the cost of a blaster. While you could just pick a difficulty, you decide to use opposed rolls: both characters roll their bargain skill codes. If the merchant rolls higher, the asking price will be a lot higher.
+
+• A character shooting a blaster rolls the baster skill; a target may dodge out of the way. If the blaster roll is equal to or higher than the dodge, the attack hits; if the blaster roll is lower than the dodge, the attack misses. (See Chapter Five, “Combat & Injuries,” for more information.)
+
+[Página impressa 77 | PDF 79]
+
+### Modifiers
+
+If one character has a clear advantage over another, you may want to assign a modifier. Modifiers aren’t used when one character simply has a better skill; they’re used to reflect unusual situations where skill is not the only determining factor. Add the modifier to the character with the advantage.
+
+Here are some situations where modifiers could be used:
+
+• The characters are racing each other to get information out of a computer system. If one character already knows the system inside and out, and the other has never seen a system like this before, the first character might get a +10 bonus modifier to the die roll.
+
+• Two characters are playing sabacc. One character has a cheater chip to control which cards are dealt to him. He might get a +15 bonus modifier to his gambling skill roll.
+
+• The player characters are trying to sneak out of an Imperial base undetected. The Imperial Moff knows the layout of the base and is aware that the characters have escaped. The Moff might get a +10 bonus modifier when rolling his search skill to figure out what route the characters will use to escape.
+
++1-5 | Character has only a slight advantage.
++6-10 | Character has a good advantage. +11-15 Character has a decisive advantage.
++16+ | Character has an overpowering advantage.
+
+### Modifier Guidelines
+
+Note: You don’t need to use modifiers with difficulty numbers... but you can apply them to justify making difficulty numbers as low or high is as needed to make the game challenging for the players. Think of modifiers as a way of tailoring your game to best suit your players.
+
+### Should Players Know Difficulty Numbers?
+
+Should the players know the difficulty number or opposed skill roll they’re rolling against? Only if you want them to.
+
+You can tell their players the difficulties they are rolling against, but usually it’s a lot more exciting to describe the situation in general terms and keep the players guessing — “I don’t know, this looks pretty hard,” or “It’ll take a few minutes, but it looks pretty simple.”
+
+If the situation is really tense or a player needs a little help, you may want to drop a hint. For example, if a player doesn’t quite beat the difficulty, you may want to say something like, “Are you done... or do you want to spend a Character Point?”
+
+# SCENES AND ROUNDS
+
+The Star Wars roleplaying game uses two “kinds” of time: scenes and rounds.
+
+## SCENES
+
+Scenes are used whenever what is going on every second doesn’t really matter. The gamemaster simply describes the situation and the setting, the players say what they want their characters to do (and make skill rolls if necessary), and the gamemaster tells them what happens and how long it takes.
+
+A scene can cover a couple of minutes, a few hours, or even days or weeks of time.
+
+A scene could show a conversation between two characters. Another scene might cover several hours, such as the scenes in Star Wars: A New Hope when the Millennium Falcon is flying to Alderaan.
+
+When describing scenes, you can just state how much time has passed, let the players tell you what their characters are doing and get on with the story.
+
+Example: Bill is gamemastering, while Greg is playing Thannik.
+
+Bill: “You enter the cantina. You know you’re supposed to meet your contact here — he’s a Rodian bounty hunter named Reeveid.”
+
+Greg: “I’ll go in and check out the bar. I’ll order a drink and get a booth, waiting for Reeveid to show up.”
+
+Bill: “No problem. The drink costs 5 credits. No one in the bar seems to really notice you — or at least enough to want to start a fight. Do you want to do anything in particular?”
+
+Greg: “Nah. I’ll just wait for Reeveid.”
+Bill: “Okay. About half an hour later, Reeveid walks in...”
+
+## ROUNDS
+
+Star Wars uses rounds to keep track of time when every second counts. Each round represents five seconds of time — give or take a few seconds for dramatic license.
+
+Rounds are most often used for combat, but they can be used any time there’s an exciting conflict or battle. You may use rounds for the climactic elements of an intense chase — like when Luke and Leia chased Imperial scouts on speeder bikes through the forests of Endor — or when the characters are racing a deadline, like trying to defuse a bomb before it explodes.
+
+Rounds are also used when it’s important to know who acts first — such as when a character wants to grab a datadisk before a bounty hunter can.
+
+Each round has two phases:
+ 1. Initiative
+ 2. Roll Actions
+
+When both phases are finished, the next round begins. Rounds continue as long as you think they’re necessary — often until the end of a battle. Once the round-by-round action is finished, go back to using scenes.
+
+### 1. Initiative
+
+Decide how many sides are in the battle — normally there’s just two: the player characters and whoever they’re fighting. However, sometimes there will be three or more sides — for example, you may run a battle where the player characters, Imperial stormtroopers, and a group of pirates are all shooting at each other.
+
+[Página impressa 78 | PDF 80]
+
+The character with the highest Perception on each side rolls that attribute. The character who gets the highest roll gets to decide whether his side acts first or last in that round. (Reroll in the event of a tie.)
+
+(Sometimes it makes sense to act last — by letting the other side go first, you can react to their actions.)
+
+Rolling for initiative doesn’t count as an action. (See “Multiple Actions” below.) The gamemaster and players may not use Character Points or Force Points, to increase their initiative roll, but penalties for being wounded count. (Chapter Six, “Combat and Injuries,” explains how wounds affect characters.)
+
+Example: The player characters are are confronted by a nasty looking group of thugs. Bill is the gamemaster.
+
+Bill: “You’re in an open air market. It’s midday, and the brilliant blue sun hangs directly overhead. Everything has an odd green-yellow hue.
+
+“A few minutes ago the market was filled with customers, but now the place has cleared out. Two goons are standing straight ahead, about 20 meters away; they’re both pointing blaster rifles at you. Ten meters further back is a tall human in a long cloak; he’s holding a blaster pistol in one hand and a comlink in the other. He shouts, ‘We finally caught up with you. Now, where’s our money?’”
+
+George’s character, Cev, has a Perception of 3D+2 — the highest in the group. George rolls for initiative and gets a 14. The highest Perception on the gamemaster characters’ side is the tall human’s Perception of 4D. Bill rolls for him and gets a 15.
+
+Since Bill rolled higher, he gets to decide whether the goons go first or last; in this case, he chooses last.
+
+Initiative Ties. In the event of ties, comparing attribute and skill die codes can decide the initiative winner. The side with the character with the highest value in the characteristic goes first, and so on. Ties are broken by moving to the next factor and looking at those values.
+
+The order:
+
+1. Ability or talent that allows the character to go first.
+2. Perception
+3. search
+4. Dexterity
+5. dodge
+6. Special equipment or situation that allows the character to go before another character.
+
+### 2. Roll Actions
+
+The first side acts now. The character with the highest Perception goes first. The player tells you how many actions he’s making this round and you assign the multiple actions penalty. Then, the player rolls his character’s first action.
+
+Acting in Perception order (highest to lowest), every player tells you how many actions his character is making and rolls his first action.
+
+(If the gamemaster characters go first, you just have to know how many actions each character is taking, assign the multiple actions penalties, and have the characters take their first actions.)
+
+This process is repeated for each character on the second side. (If there are three or more sides, these characters now take their first actions.)
+
+After every character has taken his/her first action, the characters on the first side take their second actions. (Again, go in Perception order.) Characters without second actions are skipped. Then the characters on the second side roll their second actions... and so on.
+
+This process continues until every character on both sides has taken all actions.
+
+Each action occurs as it is rolled — a split-second after any actions that have already been rolled and a split-second before the next action that’s rolled.
+
+Characters can’t “skip” actions and wait to go later in the round.
+
+After everyone has completed all actions, the next round begins or you can switch back to “scenes.”
+
+Character Points & Force Points. Players can declare that they’re using a Force Point or Character Points at any time, but they can’t use both in the same round.
+
+Multiple Actions. Characters may attempt to perform several tasks in a single round, or, if the action takes longer than one round to complete, in the same minimum time period. The more they try to do, the less care and concentration they can apply to each action. It becomes more difficult to succeed at all of the tasks.
+
+For each action taken beyond the first, the player must subtract 1D from all skill or attribute rolls (but not damage, damage resistance, or initiative rolls). Thus, trying to do four actions in one round gives the character a −3D modifier to each roll.
+
+If a character has a special ability that increases the base number of actions, the multi-action penalty doesn’t take effect until the character uses up his allotment of actions. For example, a character with an action allotment of four per round wants to do five actions, each of the five actions is at −1D.
+
+Only equipment and weapons suited for quick multiple actions may be used several times (up to the limit of their capabilities) in a round. Some examples include blasters or items with little or no reload time, like hands or small melee weapons.
+
+A character may not rely on any skill or attribute reduced to zero.
+
+Example: Bill has already described the scene for the players, who go first this round. George’s character has the highest Perception and goes first.
+
+Bill: “The goons have their blasters out. What are you going to do? Remember, we’re going in Perception order. George, what’s Cev doing?”
+
+George: “I bet they found out about those crates of blasters we’re smuggling for the Rebellion! I’m only taking one action... I’m running to one of the side buildings for cover.”
+
+[Página impressa 79 | PDF 81]
+
+Bill: “It’s 10 meters to the nearest door. You can make it.”
+
+George: “Running away like a true hero. I’m hiding in the doorway.”
+
+Bill: “No problem. Greg, what’s Thannik doing?”
+
+Greg: “I’ve seen their kind before! I’m taking two actions. For my first action, I’m shooting at their leader with my heavy blaster pistol. My blaster: heavy blaster pistol skill is 6D...”
+
+Bill:
+“You’re taking two actions, though... that’s −1D to both actions, so you only roll 5D.”
+
+Greg: “No problem.” (Rolls dice) “Got a 17...”
+
+Bill: “He’s about 15 meters away. That’s medium range — a Moderate difficulty. You hit! Roll damage!”
+
+Greg: “Great!” (Rolls damage) “My blaster does 5D damage... a 14.”
+
+Bill: (Rolls Strength for the human, getting a 9.) “Okay, he’s wounded! He falls to the ground and drops his pistol. Amy, what’s Rhen doing?”
+
+Amy: “The kid had a good idea. I’m running for cover.”
+
+Paul: “Me too!”
+
+Bill: “Both of you can make it.”
+
+Greg: “Okay, I’ll open fire on the goon on the left!”
+
+Bill: “Not yet you don’t. The bad guys get to go now. Normally, the lead goon would go first but since he’s been wounded, he can’t take any actions for the rest of the round. The goon on the left is going to fire at you, Thannik!”
+
+Greg: “Why is he shooting at me?”
+
+Bill: “Maybe it’s because you’re shooting at them!”
+
+Amy: “And the rest of us got out of the line of fire!”
+
+Greg: “Can I dodge out of the way?”
+
+Bill: “Yeah... hold on a second.”
+
+Reaction Skills. When a character gets attacked, he can react by trying to get out of the way: the most common reaction skills are acrobatics, dodge, melee parry and brawling parry.
+
+A character can wait until he’s attacked to use a reaction skill.
+
+The character can use up any remaining actions for a reaction or have the reaction be an extra action, accepting the higher multiple action penalty for the rest of the round.
+
+The reaction skill roll is in effect for the rest of the round and replaces the original difficulty number. (Even if the difficulty number was higher — sometimes characters “zig” when they should have “zagged.”)
+
+(Reaction skills are only used in combat. See Chapter Five, “Combat & Injuries,” for a complete explanation.)
+
+Example: (This is a combat round, so it involves things like dodges and damage rolls — they’re explained in Chapter Five, “Combat & Injuries.”)
+
+Bill: “Greg, you want Thannik to dodge. You’ve got one action left. Or, do you want the dodge to be an extra action? That would be three actions this round, so the rest of your rolls would be at −2D.”
+
+Greg: “It’ll be an extra action. My dodge is 6D.”
+
+Bill: “With the −2D penalty, your dodge drops to 4D. Roll.”
+
+Greg: (Rolls dice.) “Got a 15.”
+
+Bill: (Rolls dice) “The goon got a 12. The laser bolt goes flying over you! You know, it’s a good thing you dodged... otherwise Thannik would have eaten that blaster bolt. The goon on the right is attacking... he rolls a 14. That’s still not enough to beat your dodge... the other shot hits the dirt in front of you.”
+
+Greg: “Great! Now I’ll take my second action. I’m shooting at the goon on the left. My blaster: blaster pistol skill is 6D, so that drops to 4D too.” (Rolls dice) “A 13. Does it hit?”
+
+Bill: “The goon decides to dodge.” (Rolls dice) “He got a 15. The goon dives to the side as the blaster bolt just misses his head. The goons aren’t taking any other actions this round”
+
+George: “That wasn’t so bad after all!”
+
+Bill: “Not so fast. Cev, you didn’t pay much attention to where you were running, did you? It turns out you stumbled into the doorway of a seedy cantina. Just as you’re turning to watch the battle, you feel a firm hand grab you by the shoulder. A mono-tone
+
+[Página impressa 80 | PDF 82]
+
+mechanically-modulated voice mutters, ‘Don’t move kid, and you won’t get hurt.’ You see light reflecting off a blaster. Then you notice several more blasters pointing in your general direction.”
+
+Amy: “What have we gotten ourselves into?”
+
+Bill: “You’re about to find out... next round.”
+
+# GAMEMASTER TIPS
+
+While the rules for rounds are fairly specific, they’re intended to make the game more fun. What follows are a few tips and game options that you can use in your games.
+
+You may want to use some of them all of the time; others you may want to use only once in a while; you may never want to use the rest — the choice is up to you.
+
+### Speeding Play
+
+You’ll probably want to seat players in their character’s Perception order so you can simply go around the table in order each round.
+
+You may sometimes want to have characters act in reverse order (let the character with the lowest Perception go first) so the same players aren’t going last all of the time.
+
+Don’t let a player hesitate when it’s time to decide what to do. If the player is dragging his heels, count out loud to three — if you get to three and the player hasn’t decided what to do, the character hesitated and can’t act that round. Go straight to the next character.
+
+(Don’t be too strict with new players; give them a chance to get used to the game. It’s also bad form to allow a player’s character to be killed after he or she was skipped...)
+
+### Roleplay it Out
+
+It’s often a good idea to use a combination of roleplaying and die rolls to figure out what happens.
+
+If a player comes up with a brilliant plan and explains it in character, that should count for a lot more than a bad die roll.
+
+On the other hand, if a character has a high level of skill but the player isn’t very good at getting into character, the die rolls should play a larger part in determining whether the character succeeds (as long as the player is making an honest effort).
+
+You may want to reward player’s ingenuity and intelligent roleplaying with bonus modifiers. Conversely, if the players insist on doing something that isn’t too bright, the gamemaster characters should get a hefty bonus modifier to reflect the poor decisions of the players.
+
+### Interpreting Rolls
+
+You can use the die rolls as an indication of how well (or poorly) a character did. Don’t get bogged down in detail; use these rough guidelines.
+
+If a roll beats the difficulty by only a few points — less than five — the character may have only barely succeeded. If a roll beats the difficulty by 15 or more points, the character may have made a spectacular success.
+
+Likewise, if a roll misses the difficulty number by 1-5 points, the character may have just barely failed. When a roll fails by 15 or more points, the character has failed spectacularly, possibly triggering a few other problems along the way! (This kind of failure can be similar to a complication.)
+
+Example: A character who is trying to use the survival skill to forage for food gets a success, but just barely — she finds “subsistence level” food; it’s barely better than garbage. The next day she gets exceeds her survival roll by 17 points — not only does she find good, wholesome food, but she finds enough for two days instead of one.
+
+### Free Actions
+
+Free actions are anything that a character can automatically perform except under the most extreme conditions. They’re extremely simple actions that don’t require a skill roll or much effort; if something requires significant concentration, it’s not a free action.
+
+Examples of free actions include:
+
+• Rolling Perception to determine initiative.
+
+• Shouting a sentence or two to someone across a corridor.
+
+• Taking a quick look around a room — at the gamemaster’s discretion, characters may be allowed to make search or Perception rolls to see if they spot something that’s unusual or hidden.
+
+• Grabbing something off a counter. (Of course, this action may be pretty difficult in the middle of a heated battle — in some cases it wouldn’t count as a free action!)
+
+• Walking very slowly in Moderate, Easy or Very Easy terrain. This is “cautious movement” and is explained in Chapter Six, “Movement and Chases.”
+
+• Making a Strength roll to resist damage in combat. A character always rolls his or her full Strength to resist damage (even if wounded), although diseases and other circumstances may reduce a character’s Strength dice.
+
+• Making a control Force skill or Perception roll to resist the effects of Force or other mental powers. Characters roll their full control or Perception unless otherwise noted.
+
+### Actions That Take Time
+
+Each entry on this non-exhaustive list generally counts as one action in a round (subject to multiple action penalties mentioned previously). The gamemaster may decide that certain types of actions offer a bonus or special effect and, thus, have requirements to perform. The suggested skill to use with each action is included at the end of the task’s description.
+
+• Bash: Hit an opponent with a blunt weapon. (melee combat)
+
+• Catch: Stop the movement of a thrown or dropped object or person. (grenade or thrown weapons)
+
+• Choke: Grab a person’s neck and gripping tightly. (brawling)
+
+• Communicate: Relay plans or exchange complex ideas and information with other characters (more than a sentence or two). (communication skill or only roleplaying)
+
+• Disarm: Remove an object from an opponent’s hand. This action is treated as a called shot. (brawling, firearms, melee combat, missile weapons, throwing, various blaster and other ranged weapon skills)
+
+• Dodge: Actively evade an attack. (dodge)
+
+• Entangle: Throw an entangling weapon at an opponent. (thrown weapons)
+
+[Página impressa 81 | PDF 83]
+
+• Escape: Break a hold. (lifting)
+
+• Grab: Latch onto an opponent. Depending on where the opponent was grabbed, he can take other actions. (brawling,)
+
+• Kick: Strike out at an opponent with a foot. (brawling)
+
+• Leap: Jump over an opponent, onto a table, or any other such maneuver. (climbing/jumping)
+
+• Lunge: Stab forward with a pointed weapon, such as a sword or a knife. (melee combat)
+
+• Move: Maneuver 51% of the character’s Move or more around the area. The gamemaster should call only for a roll if the terrain is challenging or the maneuvering complex. During some rounds, the gamemaster may decide that existing factors dictate all movement, regardless of length, require an action. (acrobatics, running, swim)
+
+• Parry: Block an opponent’s blow. (brawling parry, lightsaber, melee parry)
+
+• Pin: Trap an opponent by either holding him to the ground or tacking a piece of his clothing to a wall or other nearby object. When pinning the whole opponent, this is the same concept as tackling. Pinning prevents the victim from using the fastened part. (brawling, melee combat, missile weapons, thrown weapons)
+
+• Punch: Strike out at an opponent with a fist. (brawling)
+
+• Push: Forcibly move an opponent. (brawling)
+
+• Ready a Weapon: Draw or reload a gun or bow, unsheathe a knife, and similar actions. This generally does not require a skill roll, but the gamemaster may chose to require one related to the weapon in question for particularly stressful situations.
+
+• Run Away: Flee from the scene. (running)
+
+• Shoot: Fire a missile, blaster, or projectile weapon. (firearms, blaster, missile weapons)
+
+• Slash: Swing an edged weapon. (melee combat)
+
+• Switch a Weapon or Equipment’s Setting: Although rare, some weapons and equipment have more than one damage or effect setting. It takes an action to change the setting. This generally does not require a skill roll, but the gamemaster may chose to require one related to the item in question for particularly stressful situations.
+
+• Tackle: Bodily overcome an opponent. Once tackled, the opponent can do no other physical actions other than speak or attempt to break the attacker’s grip. (brawling)
+
+• Throw a Weapon or Object: Toss something at an opponent. (thrown weapons, grenade)
+
+• Trip: Quickly force one or both of an opponent’s legs upward. (brawling)
+
+• Use a Skill or Ability: Perform a quick action related to a special ability the character possesses or a skill he wants to use. A character may not use a special ability he does not have, though he may use a skill he has no experience in (possibly at a penalty). Note that some skills and special abilities take longer than one action or one round to perform, so trying to do them in five seconds incurs penalties.
+
+• Vehicle Maneuver: Perform a stunt in a moving vehicle. (various piloting skills, various vehicle operation skills)
+
+### Non-Roll Actions
+
+Characters often attempt non-roll actions: these are actions that don’t require a skill roll but are complicated enough to count as an action (reducing the character’s die codes for all other skill and attribute rolls that round.)
+
+Examples of non-roll actions:
+
+• Reloading a weapon.
+
+• Getting very basic information out of a datapad.
+
+• Piloting a vehicle very slowly in Moderate, Easy or Very Easy terrain. This is “cautious movement” and is explained in Chapter Six, “Movement and Chases.”
+
+• Anything that requires a lot of concentration but doesn’t require a skill roll.
+
+### How Long Does it Take?
+
+Firing a blaster takes only a split-second, but programming a droid or fixing a starship can take hours... sometimes days. So how do you figure out how long it takes to do something?
+
+Each skill description lists a “time taken.” (See Chapter Two, “Attributes and Skills.”) Anything listed as “one round” can be completed in a round — some skills, like blaster, can be used several times in a round.
+
+Some skills may only take a round, but require such concentration that the character can do nothing else in the round — first aid, computer programming/repair or piloting a landspeeder are good examples. (A character could conceivably try to do more than just that action, but it would probably be very difficult; the task’s difficultly numbers should reflect this.)
+
+Several skills list a range of times, such as “one round to five minutes” or “one round to two hours.” You must estimate how long it takes to complete the task.
+
+Rely on your “best guess.” For example, it may only take a minute or two to fix a busted cooling coil in a landspeeder, but it could take days to completely replace a repulsorlift generator. As a general rule of thumb, a simple, straightforward task probably won’t take that long, but a really complicated repair job requires a lot of time. Just make sure that if the characters encounter a similar situation in the future, it takes a similar amount of time.
+
+### Multiple-Roll Tasks
+
+You may also use multiple-roll tasks, where the task is resolved with several die rolls. Each roll covers a different part of the task and may represent minutes, hours or even days of work. (Use discretion to determine how long each task takes.)
+
+Sometimes a task is too difficult for the characters; you may want to break it down into several smaller, easier tasks. The players will have a better chance of succeeding, but the job takes a lot more time.
+
+Example: Steve’s character, Drebble, is attempting to repair an ion drive that suffered damage in battle. Bill decides that the repair attempt requires the following rolls:
+
+• A Moderate starfighter repair roll to realign the power converter cells. This takes one hour.
+
+• An Easy starfighter repair roll to disconnect the fusion chamber from the alluvial dampers, and prune the dampers to be fitted with a new chamber. This takes about 15 minutes.
+
+[Página impressa 82 | PDF 84]
+
+• Drebble couldn’t find exactly the right fusion chamber, but he found something close. A Moderate starfighter repair roll is required to properly hook it into the ship’s drive systems. This takes two hours.
+
+### Preparing
+
+A character willing to spend twice as much time to complete a task receives a +1D bonus for the die roll for every doubling of time, up to a maximum bonus of +3D. However, the character can do nothing else or be otherwise distracted (such as getting shot at) during this time.
+
+You have to use your judgment when deciding whether “preparing” can be used for a given task; if in doubt, ask the player to justify the preparing bonus.
+
+Preparing is often used for blaster by aiming at a target for an extra round. This rule can be applied to many long-term technical tasks, such as repairing a droid or starship — the character could be taking extra care or “studying” technical manuals to make sure the task is done properly.
+
+Of course, preparing doesn’t make sense for many tasks. Characters generally should not be allowed to prepare for dodges, parries, or driving or piloting skills like repulsorlift operation, space transports and starfighter piloting. Characters probably won’t be able to prepare for skills like survival, hide, stamina or swimming, but there may be circumstances when the bonus is justified.
+
+Example: Drebble is trying to use his droid repair skill of 3D+2; the repair takes two hours. If Drebble is willing to spend four hours working on the droid (doing nothing else), he gets to roll 4D+2.
+
+### Rushing
+
+At your discretion, characters can try to “rush” an action that takes two rounds or longer. (Actions which take one round cannot be rushed.)
+
+A rushing character is trying to do the task in half of the time and the player rolls only half of the character’s skill.
+
+You have final discretion as to whether a task can be rushed. With some tasks — like fixing a starship in a hurry — it’s reasonable to say a character could rush, especially if the character is racing a deadline. In other cases, rushing doesn’t make much sense. If in doubt, ask the player to justify how the task could be rushed.
+
+Example: Drebble is trying to fix a busted power coupling on Thannik’s Ghtroc freighter. Drebble has space transports repair at 6D. This is a Moderate space transports repair task; the gamemaster says it will take one hour. Drebble knows that they’ve got to get off-world soon, so he rushes the task. Drebble can try to make the repair in half an hour, but the player only rolls 3D.
+
+### Alternate Between Scenes and Rounds
+
+You’ll want to use a good mix of scenes and rounds to keep the game tense and challenging. For example, what if the characters have 10 minutes to race to a landing pad before the building’s reactor explodes? While this could certainly make for a great conclusion to an adventure, it would take 120 rounds if you played out every round. That’s a good way to deaden the excitement of your grand finale.
+
+Instead, use a combination of scenes and rounds to move the action along. The scenes describe the characters racing down hallways and up stairwells. Tell the players how long these actions take — and you might want to have the players roll the relevant skill (in this case running) to see if something unusual happens. (A character who rolls poorly may have tripped over something, slowing the entire group down. A character who rolls really poorly or gets a complication may have twisted his ankle in a fall or gotten separated from the group and is now lost.)
+
+After establishing the tension and the basic action, you can use “events” — run in a round-by-round situation — to highlight the most important moments. Here are a couple of examples:
+
+• Maybe the characters are headed for a turbolift. When they get there, the lift is out of commission. Maybe the characters need to make a few security or Technical rolls to get the lift working again; if they fail, they’re going to be cutting their rescue close... perhaps too close.
+
+• A preliminary explosion sends a ball of fire racing up the turbolift shafts. If the characters are in a turbolift, they may have to make an emergency stop and get out now! The characters may have to make lifting or Strength rolls to open the doors, or make climbing rolls to get out of the top of the lift car and then attach a rope (with a magnetic grapple) to climb up the shaft... all before the fireball consumes the lift and anything else in its way.
+
+• After the characters have reached the relative safety of a hallway, maybe the fireball triggers the building’s firefighting systems. Suffocating (and very slippery) foam begins to fill the halls. The character’s movement is slowed and they lose precious minutes getting to the roof.
+
+• The character’s foes — security droids, stormtroopers, or whatever — may have an ambush planned at some point.
+
+• The main villain can make a final appearance to hamper the characters. Maybe he’s got an escape speeder and waits until the characters reach the rooftop landing pad... at which point he destroys the character’s only escape ship. Now, a desperate character must make a running leap to jump on the villain’s speeder, somehow wrest control of it (as the villain speeds away at 800 kilometers per hour) and get back in time to pick up the rest of the characters!
+
+• What’s the weather like outside? A raging storm — with lightning and hurricane force winds — can certainly liven up any rescue operation.
+
+Using scenes to set the stage and rounds centered around “events” can heighten the tension and keep the players very excited about the game.
+
+This principle also applies to chases (see Chapter Six, “Movement and Chases”) and the characters’ involvement in epic battles like the Battle of Yavin or the Battle of Hoth — see Chapter Eight, “Roleplaying Battles.”
+
+### Secret Checks
+
+There are times when you’ll need to know if a character notices something, but you don’t want to alert the players that “something’s up.” (This is especially handy if the characters are blithely wandering into an ambush.)
+
+[Página impressa 83 | PDF 85]
+
+Before the game, make several rolls for each die code (1D, 2D, 3D, 4D, etc.).
+
+Keep a record of each player character’s attributes, skills and equipment.
+
+When you need to know if a character noticed something, find the character’s search or perception die code and choose one of the die rolls you made (add the +1 or +2 as necessary).
+
+If the die roll is higher than the difficulty, the character “noticed something;” if not, the character remains unaware. Cross off each die roll as it’s used. This is a good way to give the characters a fair chance while not arousing the player’s suspicions.
+
+### Combined Actions
+
+Two or more characters can work together to more effectively accomplish a single task: this process is called combined actions.
+
+Combined actions can be used for combat (several stormtroopers shooting at a single character) or a situation where several characters are working closely together (a group of mechanics overhauling a busted landspeeder or several Rebels working to build a rope bridge across a canyon).
+
+The characters must agree to combine actions. The only other thing a combining character can do is roll reaction skills (such as dodge, melee parry or brawling parry).
+
+The character in the group with the highest command skill (or Perception attribute) is going to be the leader. He can only command as many characters as he has command (or Perception) skill dice.
+
+Example: Threll, a Rebel officer, has a command skill of 8D+2. He can command a maximum of eight characters when leading combined actions.
+
+The leader rolls his command (or Perception) skill to see if the group can be combined. If the leader is just supervising (not working on the task), he rolls his full command skill. If he’s commanding and working on the task, this counts as two actions, giving him a −1D penalty to his command roll.
+
+You have to use your best judgment in selecting a command difficulty. Here are some factors to consider:
+
+• How hard or complex is the task? (The easier the task, the lower the command difficulty.)
+
+• How much precision is needed? (A task where the end result must be very precise — components must line up to the millimeter, for example — is a lot harder to combine on than something where “that’s good enough” is indeed good enough.)
+
+• How many characters are involved? (Generally, the more people who have to work together, the harder it is to get them to work together effectively.)
+
+• How much skill or experience do the characters have? (Characters with a very high level of skill in the task or who have done this type of task in the past will be better able
+
+to understand what’s expected of them and do their part. Characters who’ve never done anything like this before are going to have a tough time figuring out what to do, especially if the task is of any complexity.)
+
+• How well do the characters know each other? (If the characters are a group of Rebels who’ve been adventuring together for years, they’re probably pretty good at working together — even if they’re completely inexperienced at the task. People who barely know each other sometimes have trouble working together effectively. And people who can’t stand each other probably aren’t going to be very easy to combine either.)
+
+• How much time is being taken to complete the task? (If the task would normally take two hours to complete and the group is taking just two hours, the difficulty should be a little higher just because it takes some time to coordinate a group of people. If the characters are willing to take extra time — three or more hours in this example — the difficulty should be lower; perhaps significantly lower if they’re willing to take much longer to finish the task. If the characters are rushing things — in this example trying to finish the task in an hour or less — the command difficulty should be higher to reflect the challenge of getting a group of people to work together under pressure.)
+
+Very Easy. The task isn’t too complicated or is not at all precise. The characters are highly skilled or work together regularly.
+
+Easy. The task is fairly easy or requires a minimal amount of precision. The characters are skilled or work together well.
+
+Moderate. The task requires a good deal of effort or requires precision. The characters have a modest level of skill or have worked together before (although not all that often).
+
+Difficult. The task is difficult or requires a high degree of precision. The characters don’t have very much skill or have seldom worked together before (if at all).
+
+Very Difficult. The task is very difficult or requires extreme precision. The characters are completely unskilled in the task or have never worked together (or despise each other).
+
+Heroic. The task is incredibly difficult or requires an almost impossible level of precision. The characters are completely unskilled, despise each other or don’t even speak the same language.
+
+[Página impressa 84 | PDF 86]
+
+You can increase or decrease the difficulty based on other factors, such as weather conditions (people are going to have a harder time working in torrential rains than in pleasant weather) or anything else that affects the commander’s ability to get the characters to work together as a unit. If a task is Very Easy and the characters are highly skilled or experienced, you may even allow a leader to combine actions for more characters than he has command skill dice.
+
+Example: Threll is supervising a group of eight troops who are fixing a cargo hauling speeder that broke down in the middle of a dense jungle.
+
+Threll is only supervising the action (and not working on the speeder), so he rolls his full command skill.
+
+The cargo hauler needs to have its cooling system fixed (the Rebels don’t have replacement tubes, so they have to patch the ones that are already on the speeder) and re-calibrate the repulsorlift generator. This repair job is a fairly difficult task and none of the characters are very experienced at working on landspeeders, but they’ve all worked together for a long time. The gamemaster selects a command difficulty of Moderate, with a difficulty number of 12.
+
+Threll’s command roll is 27 — he succeeds in combining the actions of his troops.
+
+If the command roll is successful, the combined action bonus is +1D for every three characters combining. Add a +1 for one “extra” character and a +2 for two “extra” characters.
+
+Example: Threll has commanded eight Rebel troops. That’s a combined action bonus of +2D+2. (The first six characters earn a +2D, with a +2 for the two “extra” characters.)
+
+If the commander fails the roll, there may still be a smaller combined action bonus. Subtract −1D from the bonus for every point the roll failed by. (A bonus cannot go below 0D.)
+
+Example: Threll successfully commanded eight troops to get the combined action bonus of +2D+2.
+
+The command difficulty number was 12. If Threll had rolled an 11, he would have missed the difficulty number by one: the bonus would have been +1D+2. If he’d rolled a 10 (missing the difficulty number by two), the bonus would have been +2.
+
+If he’d rolled a 9 or less, there would have been no bonus at all.
+
+The combined action bonus is added to the character with the highest skill who’s working on the task.
+
+Example: Threll has commanded the troops to get a +2D+2 bonus. Repairing the busted speeder is a repulsorlift repair (or Technical) task; one Rebel trooper has repulsorlift repair at 4D+1.
+
+Because of the bonus, the trooper now gets to roll 6D+3 to fix the busted speeder.
+
+If a group of characters are combining actions on a combat task, the bonus can be split between the attack roll and the damage roll. Likewise, if the task requires two or more skill rolls, the bonus can be split up among any of these rolls.
+
+Example: Threll’s troops have repaired the speeder and continue through the jungle. Several hours later, the Rebels sneak up on an Imperial biker scout.
+
+Threll decides that his troops should ambush the scout. The Rebels have to take out the Imperial with one shot, since he could get off a warning on his comlink if he has a chance.
+
+Threll commands eight of his troops to combine fire on the biker scout. The command difficulty is Moderate; Threll beats the difficulty number to get the +2D+2 bonus.
+
+One of Threll’s troopers has a blaster skill of 6D and uses a blaster rifle that does 5D damage. The Rebel is pretty likely to hit the trooper, but he wants to add +1D of the bonus to his blaster skill just in case. If the Rebel hits, he gets to roll 6D+2 for damage. (5D for the normal damage, plus the remaining combined action bonus of +1D+2.)
+
+### Groups
+
+To save time, gamemasters may chose to roll one action for a group of characters he controls. Any number can belong to the group. Each member of the group does not have to perform exactly the same maneuver, but they do need to take similar actions. A gamemaster could make one roll for a pack of womp rats who attack different characters, but he would have to separate the pack into those attacking and those circling if the gamemaster wanted to have them perform those distinctly different activities.
+
+# CHARACTER ELEMENTS
+
+Characters can use Character Points and Force Points during the game. They may also receive Dark Side Points for committing evil.
+
+## CHARACTER POINTS
+
+Character Points are a very minor manifestation of the Force that reflect the ability of some individuals to push themselves. Character Points are more plentiful than Force Points, but less powerful. There is no limit to the number of Character Points that a character may have.
+
+Character Points may be spent during the game to improve a character’s skill or attribute rolls. A player spending one Character Point rolls one extra die and adds it to the skill (or attribute) total.
+
+If the roll is a 1, 2, 3, 4 or 5, simply add the roll to the character’s total. If the roll is a 6, add six to the total and roll the die again, adding the new roll as well — keep on rolling if you keep on getting sixes.
+
+A player can wait until after a skill or attribute roll is made before deciding to spend Character Points, but they must be spent before anyone else takes an action.
+
+(A player cannot spend Character Points in the same round or scene that he spends a Force Point or calls upon the dark side.)
+
+The “Characters” chapter explains how Character Points may be spent to permanently improve skills.
+
+[Página impressa 85 | PDF 87]
+
+Example: Thannik is haggling with a merchant to get a good price on a new droid. Since Thannik hasn’t improved his bargain skill, he uses only his Perception attribute of 3D. Greg rolls a 1, 2 and a 2 on his wild die — for a total of 5.
+
+Greg wants Thannik to do better, so he decides to spend a Character Point, and rolls a 6. He gets to roll the die again, getting a 4. That boosts his Perception total to 15. Greg tells Bill he’s done with this roll.
+
+Bill now rolls the merchant’s bargain total. Greg can’t go back and have Thannik spend another Character Point — he is stuck with the 15 once he says he’s done rolling dice.
+
+There are limits to the number of Character Points that can be spent:
+
+• Two to improve a skill or attribute roll.
+
+• Two to increase the damage of an attack. (This often counts as an evil action.)
+
+• Five to improve a specialization roll.
+
+• Five on any use of acrobatics, dodge, melee parry or brawling parry, parries when using the lightsaber skill, or dodging when piloting a vehicle or starship.
+
+• Five to increase a Strength roll to resist damage.
+
+• A character may not spend Character Points on another character’s actions.
+
+• A character can spend Character Points during scenes, but only for one continuous action. The bonus ends as soon as the character does something else.
+
+Example: Thannik is trying to repair a busted freighter. Bill tells Greg that it will take two hours to fix the ship. Thannik’s space transports repair skill is only 2D; Greg decides to spend a Character Point to boost his roll. Bill allows the Character Point to be spent as long as Thannik does nothing but work on the ship.
+
+## FORCE POINTS
+
+Force Points represent a character doing his or her best to use skill, talent (and luck) to accomplish something. Force Points represent a common and seemingly “subconscious”
+manifestation of the Force — the player knows that a Force Point is being used, but the character only knows that he’s trying his best to be successful.
+
+All player characters begin the game with at least one Force Point; certain gamemaster characters who are prominent leaders, Force-users and major villains may have several Force Points.
+
+A player may spend one Force Point in a round; all skills, attributes and special ability die codes are doubled for the rest of that round.
+
+Anything that’s not part of the character — weapon damage die codes, starship hull die codes and so forth — is not doubled.
+
+A character may not spend Character Points in the same round that a Force Point is used.
+
+Example: Thannik is firing his blaster pistol (4D damage) with his blaster: blaster pistol skill of 6D. Greg declares that Thannik is spending a Force Point. Thannik rolls 12D to hit with his blaster: blaster pistol skill; however, if Thannik hits, he only rolls the normal 4D damage for the blaster pistol.
+
+• Non-Force-sensitive characters may have a maximum of five Force Points.
+
+• Force-sensitive characters can have any number of Force Points.
+
+Melee Weapons. Melee weapons are unusual, since damage for the weapon is normally based on the user’s Strength, with a bonus for the weapon itself — roll double the Strength, but do not double the weapon’s damage.
+
+Example: Thannik, with a Strength of 3D+2, is using a vibro-ax (STR+2D damage). When Greg spends a Force Point and Thannik hits with a weapon, he rolls 6D+4 for his Strength, plus the normal +2D for the weapon.
+
+• A Force Point can also be used in a scene, but only for one continuous action. The bonus ends as soon as the character does something else. (The character can’t spend Character Points in the same scene.)
+
+[Página impressa 86 | PDF 88]
+
+Example: Thannik is searching a room for a lost data disk. The gamemaster says it will take five minutes to search the room. Greg decides to spend a Force Point to double Thannik’s search total to 8D; the bonus ends if Thannik gets into a blaster fight three minutes after he starts searching the room.
+
+A character who spent a Force Point “to fly through an asteroid field” would only have his die codes doubled for the first round of flight since it’s not a “continuous” usage.
+
+### Getting Force Points Back
+
+How Force Points are spent during an adventure determines whether or not the character gets more at the end of the adventure.
+
+Doing Evil. When a character commits evil while spending a Force Point, the character loses the Force Point permanently. The character does receive a Dark Side Point. (See “Dark Side Points.”)
+
+Examples of committing evil include:
+
+• Killing a helpless innocent.
+
+• Causing unnecessary, gratuitous injury.
+
+• Killing except in self-defense or the defense of others.
+
+• Using the Force while angry or filled with hate.
+
+(Force-sensitive characters receive Dark Side Points any time they commit evil since they are closely attuned to the ways of the Force — both its light and dark sides. Force-sensitive characters must be very careful or they will be consumed by the dark side.)
+
+Being Unheroic. When a character uses a Force Point to do something that is neither particularly heroic nor evil, the character loses the Force Point permanently. Examples of being unheroic include:
+
+• Using lies or deception for gain or advantage.
+
+• Avoiding danger in a non-heroic situation.
+
+• Saving your life in a non-heroic situation.
+
+• Using the point for power, wealth or other personal gain.
+
+Being Heroic. When a character uses a Force Point in a heroic fashion, he gets the Point back at the end of the adventure. Examples of being heroic include:
+
+• Exposing yourself to great danger in the name of good.
+
+• Making sacrifices to help others.
+
+• Taking big risks to help the Republic, Rebel Alliance, New Republic or fighting the Empire.
+
+• Fighting other forces of evil, such as crime lords or any other group that serves the objectives of the dark side.
+
+Being Heroic at a Dramatically Appropriate Moment. When a character spends a Force Point in a heroic way at the dramatically appropriate moment, the character receives the Force Point back at the end of the adventure and gets another one as well.
+
+Dramatically appropriate moments are any time when success is vital to the story. It’s the climactic moment of an adventure, where the characters confront the main villain or when they’re in dire straits. The characters’ success or failure will likely decide the final outcome of the whole story.
+
+Examples of being heroic at the dramatically appropriate moment include:
+
+• Conquering a more powerful and evil foe.
+
+• Saving a city from destruction.
+
+• Preventing the deaths of millions of innocent people.
+
+In most cases, a dramatically appropriate moment for a character may happen during the climax of an adventure or, at most, one other time during an adventure.
+
+In Star Wars: A New Hope, Luke’s destruction of the Death Star was a dramatically appropriate moment. In Return of the Jedi, a dramatically appropriate moment was when Luke confronted the Emperor and refused to become evil — not when he fought the rancor in Jabba’s palace.
+
+Not all characters will have a dramatically appropriate moment available to them in every adventure — not even every adventure necessarily has a dramatically appropriate moment. However, when the character seizes the moment and acts heroically, the rewards can be great.
+
+Doing the Right Thing. How can a character with no Force Points earn them? By being heroic regardless of the risks. If, in your opinion, the character is heroic at the dramatically appropriate time, a character with no Force Points may receive one at the end of the adventure. (Perhaps the Force favors the character and grants a Force Point at the dramatically appropriate moment even if the character begins the game with none.)
+
+## DARK SIDE POINTS
+
+Whenever a character is at risk of receiving a Dark Side Point, you should inform the player that his action will give the character a Dark Side Point. Give the player the option of changing his mind. (If he continues on, he has no right to complain if his character is consumed by the dark side.)
+
+When a character gets a Dark Side Point, roll 1D. If the roll is less than the character’s number of Dark Side Points, the character has turned to the dark side. (See “Dark Side Characters” in Chapter Ten, “The Force.”)
+
+Atonement. A character may cleanse himself of the corrupting influence of the dark side through atonement. The process is difficult and long, and the character must be of the most serious mind while attempting to atone. The character must fast, reflect on the evil of his actions, and renew his commitment to live by the ways of the light.
+
+[Página impressa 87 | PDF 89]
+
+When a character has 1-5 Dark Side Points (6 Dark Side Points indicates he has “fallen to the Dark Side”), he may begin to atone. He must strictly abide by the tenets of the Jedi code (even if he isn’t Force-sensitive). The character must not only be good in action, but he must actively work to prevent evil from occurring. The player must take this process very seriously — the character must make a point of being clearly good in all actions.
+
+A character must generally atone for two adventures (or 40 days in “game time”) to remove one Dark Side Point. If the player plays the character appropriately, you may remove one Dark Side Point. If you feel that the character behaved improperly (for example, you had to repeatedly warn the player that the character is committing evil), then the character hasn’t achieved any enlightenment and the Dark Side Point remains. For information on atonement, see Chapter 10 “The Force”.
+
+Temptation. You’re encouraged to occasionally use temptation when a character is attempting to atone. When the character is confronting his own personal evil, you may want to suggest things to push the character towards the dark side: “You know, if you kill him, you won’t have to worry about what he’s going to do a little later on” or “You could get this information so easily if you just tortured him.” (Temptations can be considerably more subtle too... the dark side is seductive.)
+
+You’re effectively playing the role of the dark side of the Force, as its dark whisperings are intended to prevent the redemption of those who have started down the dark path. If the character chooses the clearly evil action, the character receives a Dark Side Point without warning.
+
+Calling Upon the Dark Side. Characters, Force-sensitive or not, may call upon the dark side, especially when angry, aggressive, desperate or otherwise out of balance.
+
+The character automatically receives a Dark Side Point, whether the attempt is successful or not. The character has opened himself up to anger, fear and hate; whether he “benefits” from this anger is irrelevant.
+
+It is easy to call upon the dark side of the Force — at first. If the character is Force-sensitive, the difficulty is Easy. If the character is not Force-sensitive, the difficulty is Moderate. If the actions are not intended to bring harm or pain to other beings, increase the difficulty by two levels (Difficult for Force-sensitives; Very Difficult for non-Force sensitives).
+
+Increase the difficulty by +3 for each additional time the character calls upon the dark side during an adventure. (At the beginning of a new adventure, the difficulty drops back down to Easy for Force-sensitive characters and Moderate for non-sensitives.)
+
+The character rolls either his control Force skill or Perception attribute when calling upon the dark side.
+
+A character who successfully calls upon the dark side receives a Force Point which must be spent immediately — this is in addition to any other Force Points which have been spent that round.
+
+If a character fails in an attempt to call upon the dark side, it demands something of him. The dark side’s corrupting influence is dominating the character.
+
+Roll 1D — the character must lose that number of Character Points or the dark side will “take” 1D from either an attribute or Force skill (character’s choice as to which attribute or Force skill). If any attribute or skill is reduced to OD, the character is consumed by the dark side and dies.
+
+Note: This option is not open to characters who refuse to believe in the existence of the Force, including many Imperial troops and officers.
+
+Favors: A very few individuals are “favored” by the dark side of the Force. This favor is fickle, but powerful. Occasionally, these characters will be “given” Force Points by the dark side. These characters are either very powerful servants of evil (like the Emperor) or characters the dark side is actively and desperately trying to recruit. (For example, Luke at the end of Return of the Jedi.)
+
+If the Force Point is not used immediately, it fades away and the character suffers no harm. Characters who use these Force Points automatically receive a Dark Side Point. (Some characters will no doubt argue that they used the Force Point to bring about good. That is mere justification — the means is as important as the end.)
+
+These Force Points are normally offered when a character is desperate, fearing for his life, and has no hope — when the character is most vulnerable.
+
+I know there’s a lot here, but everything’s pretty consistent. Remember, if you’re not sure about how to do something, just pick a difficulty number and have the characters roll their skills — the higher they roll, the more likely it is that they succeed.
+
+Next up is “Combat & Injuries.” I’m going to let Shae take over and explain… she seems to be an expert when it comes to battles.

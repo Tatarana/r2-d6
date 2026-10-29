@@ -1,0 +1,755 @@
+CHAPTER 14: THE GALAXY
+(Páginas impressas 243-262 | PDF 245-264)
+
+[Página impressa 243 | PDF 245]
+
+14
+
+# THE GALAXY
+
+You’ve no doubt heard the stories of the Republic’s battles against the Separatists... of a young pilot named Luke Skywalker who destroyed the Death Star with a single incredible shot... of the terrible Battle of Hoth, where Imperial walkers devastated the main Rebel base... of the climactic Battle of Endor, where Luke Skywalker confronted Emperor Palpatine and Darth Vader aboard the second Death Star.
+
+But there are many more stories to be told... tales of other valiant heroes and other great struggles against evil.
+
+You have been born into a civilization that has stood intact for twenty-thousand years... one which can lay claim to millions of worlds, populated by thousands of different species. You have been witness to the most important events in this terrible war with the Galactic Empire, or perhaps the Sith War, or the Clone Wars. You have lived in an era of social and political upheaval which has shaken the very foundations of the galaxy.
+
+Even twenty years after the Rebels’ victory at the Battle of Yavin, people are experiencing a period of great change. The remnants of the Empire and other forces continue to threaten the security of the New Republic. The ideals of freedom and justice are still imperiled by those who crave power and disregard the rights of others. I suspect the challenges of the future will be just as difficult as those of the past.
+
+If you want to gamemaster, go ahead and read this chapter since you need to know a lot about the Star Wars universe.
+
+However, the players don’t need to know everything. For example, while they should know how money and languages are handled and have a basic grasp of the Republic’s history, you might not want them to know about the rise of the New Republic, especially of your games are going to be set in that era. Go through this chapter and decide for yourself what the players should read...
+
+CHAPTER FOURTEEN
+
+[Página impressa 244 | PDF 246]
+
+### Note on Dating Conventions
+
+We have chosen to mark the years in this rulebook with the emerging dating standard, one that establishes the true significance of the Empire’s decline and the Rebellion’s unstoppable triumph. We have taken as our calendar “zero point” the date of the Battle of Yavin, the destruction of the first Death Star, and the first overwhelming victory of the Rebel Alliance. We see this as the primary beginning of our time and way of life. Thus, events that precede the historic Battle of Yavin are indicated BBY, while those occurring after are ABY. Future generations will recognize these years as the genesis of a golden age for the galaxy.
+
+# HISTORY
+
+As the gamemaster, you are free to set your Star Wars campaign in any time period. The information presented in this history is intended to give you enough of a backdrop to comfortably set adventures in any of these eras. In order to simplify the “history” of the Star Wars universe, we have divided it into several “eras”. Each era generally revolves around a particular event, or series of events.
+
+### Summary of the Eras
+
+The Old Republic. 25,000-1,000 years before the Battle of Yavin. The Old Republic was the legendary government that united a galaxy under the rule of the Senate. In this era, the Jedi are numerous, and serve as guardians of peace and justice. The Tales of the Jedi comics take place in this era, chronicling the immense wars fought by the Jedi of old, and the Empire of the Ancient Sith who sought domination.
+
+The Rise of the Empire/Clone Wars. 1,000- 19 years before the Battle of Yavin. For a thousand years, the Galactic Republic maintained democracy in the galaxy with the Jedi as its guardians of peace and justice. But a Sith plot, a millennia in the making, engulfs the galaxy in the Clone Wars, leading to the ascendancy of the Emperor and the fall of the Jedi. This is the era that contains the prequel trilogy and the Clone Wars animated series.
+
+The Dark Times. 19-0 years before the Battle of Yavin. After the fall of the Republic, the galaxy was plunged into a less civilized age. The Empire has risen to full power and has begun its crushing domination. But a spark of resistance has just begun to ignite, what would soon become an inferno of rebellion. The Rebels animated series takes place during this era.
+
+The Rebellion. 0-5 years after the Battle of Yavin. An outcry of resistance begins to spread across the galaxy in protest to the new Empire’s tyranny. Cells of the Rebellion fight back, and the Galactic Civil War begins. This era begins with the Rebel victory that secured the Death Star plans, now known as the Battle of Yavin, and ends a year after the death of the Emperor high over the forest moon of Endor. The Rebellion starts to reform itself into a body of government, first as the Alliance of Free Planets, and later the New Republic. This is the era that contains the classic trilogy.
+
+The New Republic. 5-25 years after the Battle of Yavin. Having defeated the Empire at the Battle of Endor, the Rebel Alliance must now transform itself from a militant resistance force into a functioning galactic government. As Imperial territory is reclaimed, the New Republic suffers growing pains, having to fend off insurrections, Imperial loyalists, and wayward warlords. Also, Luke Skywalker, the last of the Jedi, begins training apprentices, rebuilding the Jedi order. This era is largely described in the Bantam novels, such as the Thrawn Trilogy.
+
+The New Jedi Order. 25-30 years after the Battle of Yavin. The Jedi Knights are now a hundred strong. The New Republic has signed a peace treaty with what little remains of the Empire. The galaxy is finally enjoying a peaceful respite from decades of war. It’s at this time that a horrible alien menace invades the Republic from beyond known space. The Yuuzhan Vong lay waste to entire worlds in their scourge, as depicted in the Del Rey novels of the New Jedi Order.
+
+Legacy of the Force. 30-140 years after the Battle of Yavin. This is the era of Luke Skywalker’s legacy: The Jedi Master has unified the order into a cohesive group of powerful Jedi Knights. Coruscant has begun to undergo reconstruction from the Yuuzhan Vong invasion, and the Galactic Alliance weathers internal pressures. However, as the era begins, planetary interests threaten to disrupt this time of peace and Luke is plagued by visions of approaching darkness.
+
+## THE OLD REPUBLIC
+
+The Old Republic era takes place from 25,053 BBY (the founding of the Republic), until 1000 BBY (the Seventh Battle of Ruusan and the end of the New Sith Wars). The Old Republic Era focuses on the period between the Great Sith War and the final destruction of the old Sith Empire. During this time, the galaxy is embroiled in one war after another, and the Jedi are all but wiped out.
+
+### The Great Sith War
+
+The Great Sith War begins with the fall of two Jedi Students to the dark side: Exar Kun and Ulic Qel-Droma. The spirit of an ancient Sith Lord, Marka Ragnos, tempts the two Jedi and trains them in ancient teachings of the Sith. Flush with power, the two new Sith Lords lead the forces of the Krath — a dark-side cult founded on the Deep Core world of Empress Teta — in a war against the Republic. As the galaxy becomes embroiled in a conflict between the Sith and the Republic, many Jedi fight on either side of the battle. Some defend the Republic from their former comrades, while others are tempted by the lure of the dark side.
+
+The Great Sith War takes an interesting turn with lasting repercussions when Ulic Qel-Droma vanquishes Lord Mandalore in single combat. This binds the Mandalorian clans to the Sith Lord, and he uses their prowess and numbers to redouble the Sith war effort. With both the Krath and the Mandalorians at their command, the Sith ravage the galaxy and deal the Republic blow after blow, staggering their forces. As more and more Sith train on the planet Korriban, thousands of Jedi die at the hands of Krath and Mandalorian forces.
+
++
+
+-/
+
+#
+
+!
+
+@
+
+=
+
+\
+
+[Página impressa 245 | PDF 247]
+
+The tide turns once more in favor of the Republic as the brothers Ulic and Cay Qel-Droma engage in a vicious duel on Ossus. After slaying Cay, a despondent Ulic surrenders to the Jedi Nomi Sunrider. Following his capture, the Republic begins an offensive that drives the forces of the Sith back, eventually shattering the Krath forces, routing the Mandalorians, and scattering the few remaining Sith to the farthest reaches of the galaxy. Crippled by the prolonged war effort, the Republic cannot pursue the Sith forces, and Korriban remains under Sith control.
+
+### The Restoration Period
+
+The Great Sith War is a devastating event that causes more damage than any conflict since the Great Hyperspace War a thousand years before. The Jedi Order, greatly depleted, turns inward to heal itself, increasing the responsibilities of a Republic that is barely standing. Piracy is rampant. Trade routes, which had been blazed and developed over centuries at enormous cost, require redevelopment at nearly every stop. Nearly one quarter of the civilized worlds in the Republic have been devastated by the conflict, and most worlds are left on their own to rebuild as the Republic’s resources are depleted.
+
+With the Republic itself on the verge of collapse for over a decade following the war, a group of politicians put into motion a series of events that eventually restores the Republic to its prior strength. By guaranteeing the various corporations throughout the galaxy safe passage and trade along the space lanes in exchange for commercial investment in the Republic’s infrastructure, the Republic is able to rebuild its military and provide much needed goods to the devastated people of the galaxy. Hyperspace explorers once again began scouting the galaxy in
+
+earnest, discovering newer and safer routes. Across the galaxy, planets begin to rebuild, commerce resumes, and the Republic’s military might is reestablished.
+
+The enemies of the Republic are far from inactive during this time, however. The Sith, who had fled back to Korriban, bide their time and keep a low profile, while those who had fled to the Unknown Regions practice their dark arts in secret. The Mandalorians continue their nomadic existence, rebuilding their ranks and continuing the Mandalorian tradition. Though the Sith would remain silent for a time, the Mandalorians marshal their forces in secret for a return to the galactic stage.
+
+### The Mandalorian Wars
+
+The first battles of the Mandalorian Wars begin nearly a year before the Mandalorian’s major invasion. The nomadic mercenary army begins testing the rebuilt Republic’s defenses by raiding Outer Rim worlds and interrupting trade routes, forcing the Republic to push its resources further than they were prepared. When the Republic has been stretched thin across the Outer Rim, the Mandalorians launch a major offensive, invading worlds and devastating the Republic military in battle after battle. As the Mandalorians launch focused strikes against the Republic’s poorly defended targets, chaos spreads throughout a Republic that fears the devastation of the Great Sith War.
+
+After a series of military failures, the Republic once again turns to the Jedi Order for aid. Having been hit the hardest by the casualties of the Great Sith War, the Jedi Order refuses, at first, to join the military effort. However, among the Jedi are a few who cannot stand by while the Mandalorian invasion batters at the Republic’s defenses, including a powerful Jedi called Revan. Revan leads other like-minded Jedi into battle once
+
+[Página impressa 246 | PDF 248]
+
+more, despite the Order’s directive that they should not be involved. After victories against the Mandalorians, even more Jedi flock to Revan’s call. Over time, the Republic cedes control of many of its military assets to the Jedi, and the Mandalorian Wars begin in earnest.
+
+As battles rage across the galaxy, Mandalorians win victories against the Republic and the Republic reclaims territories lost to the Mandalorians. Quickly, Jedi such as Revan and his apprentice Malak, become war heroes. After years of violent conflict, the Republic finally manages to repel the Mandalorians with a devastating victory at Malachor V. There, the Mandalorian forces are nearly wiped out. The surviving Mandalorians go into exile, and the Jedi are heralded as saviors of the Republic. Surprisingly though, Revan and Malak gather the remnants of their fleets and flee into the Unknown Regions. For a short few months, peace reigns in the Republic once more, but questions surround the departure of the Jedi.
+
+### The Jedi Civil War
+
+Celebration of victory over the Mandalorians soon turns bitter when Revan and Malak return from the Unknown Regions at the head of a massive Sith Armada. Darth Revan and Darth Malak, now Dark Lords of the Sith, quickly reclaim the planet Korriban, seize control of a large swath of Republic space and declare themselves the leaders of a new Sith Empire. While in the Unknown Regions, Revan and Malak steep themselves in the teachings of those Sith who had been defeated in the Great Sith War, and empowered by the Jedi victories in the Mandalorian Wars they set out to conquer the galaxy. The Sith military continue their assaults on Republic worlds, conquering one planet after another, embroiling the galaxy in conflict once more.
+
+Even though the Republic military that travel with Revan and Malak have long since been corrupted by the dark side, upon their return they are joined by many other Republic loyalists. Former comrades-in-arms now fight one another in desperate battles. A Republic that is already damaged by the Mandalorian Wars, struggles to fight off a new enemy made up of their former allies. Many worlds voluntarily join the Sith, believing that because Revan and Malak saved them from the Mandalorians they are more fit to lead than the Republic. Revan recruits to his cause those Jedi who will follow him, and he attacks the rest, forcing the Jedi to choose between joining the Sith or death.
+
+A Jedi strike force alters the course of the Jedi Civil War by boarding a starship controlled by Revan and Malak, and engaging the two Sith Lords in combat. Malak turns on his master, and Revan is struck down, only to be saved by a young Jedi named Bastila Shan. A captive of the Jedi, Revan’s memory is erased and his identity rebuilt as a loyal agent of the Republic. This ruse does not last long, and soon Revan rediscovers who he is and what he has done. Rejecting his former self and embracing the way of the light, Revan retraces his steps and discovers a massive artifact known as the Star Forge, aboard which he duels and vanquishes his former apprentice, Malak, ending the Jedi Civil War.
+
+### The Dark Wars
+
+After Darth Malak’s defeat at the Battle of Rakata Prime, the forces of the Sith fall into chaos. Retreating from continued attacks by the Republic, the Sith Empire fragments into hundreds of smaller territories ruled over by Sith warlords. The
+
+few remaining Dark Lords of the Sith fight with one another over the scraps of their Empire, damaging themselves as much as the Republic. While the Republic rebuilds its forces, the Sith seem content to eradicate themselves, as each Dark Lord of the Sith becomes determined to be the new leader of the Sith Empire.
+
+Though the Sith are at war with themselves, a small number of Sith Lords band together to form new leadership for their crumbling Empire. Three Sith Lords, Darth Nihilus, Darth Sion, and Darth Traya, decide to restore their former power by eliminating the greatest threat facing the Sith: the Jedi Order. Over the course of several months, these Sith Lords dispatch assassins and strike forces to eliminate the few remaining members of the Jedi Order. In the middle of the Dark Wars, the Jedi order collapses and only a few survivors escape death at the hands of the Sith.
+
+The Sith Triumvirate eliminates the Jedi and seizes control of the failing Sith Empire, planning to reclaim lost territory and launch a united offensive once more. However, these plans are dashed when a Jedi survivor slays all three members of the Sith Triumvirate and helps eliminate the last of the Sith threat. At the end of the Dark Wars, the Jedi survivors begin to rebuild their Order, the Republic solidifies its forces, and the galaxy is once again peaceful and prosperous.
+
+## RISE OF THE EMPIRE
+
+The events of Episode I: The Phantom Menace, Episode II: Attack of the Clones, and Episode III: Revenge of the Sith take place during the twilight of this era. The events of The Clone Wars animated series also happen in this era.
+
+During the era, all species are equal. For every Human senator, there are many more alien species in the Senate. Some species from the later eras haven’t been encountered yet (such as Ewoks). and some have made only cursory visits to the galaxy (such as the advance scouts from the Yuuzhan Vong). The Order of the Jedi Knights is held together by the Jedi Council, and some ten thousand Knights roam the galaxy as the defenders of the Republic. Many more Force-sensitive beings train in Jedi academies throughout the Republic, each hoping to be selected as a Padawan learner. Those who aren’t selected for advanced training use the skills they have acquired to help the Republic in some other way. Some, for example, become farmers in the Agri-Corps or healers in the Medi-Corps.
+
+Corrupt officials, various criminals, evil corporations, assassins, petty warlords, and dark Jedi abound in this time frame. New worlds still await discovery, and new alien species are encountered all the time. Any of these topics can become the seeds for great adventures. Remember also that the Jedi Council wants to learn more about the new Sith menace. From its chamber high atop the Jedi Temple in Coruscant, the capital world of the Republic, the Jedi Council quietly directs key members of the Jedi order to investigate incidents that might somehow be tied to the Sith. Although the Sith started as an empire controlled by corrupt Jedi, eventually Darth Bane altered the nature of the Sith forever. He dictated the rule of the new Sith order: There could be only two Sith at any time, a master and an apprentice. This doesn’t limit the number of followers and lackeys the Sith could utilize, just the number of actual Sith.
+
+[Página impressa 247 | PDF 249]
+
+### The Battle of Naboo
+
+Though the Battle of Naboo is little more than a skirmish between the Trade Federation and the planetary defense forces of the planet Naboo, it is the precursor to the Clone Wars, which begin ten years later. The repercussions of this battle echo through the Clone Wars and beyond. After the Battle of Naboo, Palpatine is elected to the post of Supreme Chancellor, allowing him to manipulate the Republic into the Clone Wars. Meanwhile, the Trade Federation is rebuffed and joins with the other trade organizations to form the alliance that eventually becomes the Confederacy of Independent Systems. Lastly, the Battle of Naboo leads to Anakin Skywalker becoming the Padawan of Obi-Wan Kenobi, a course of events that shakes the entire galaxy.
+
+### The Clone Wars
+
+The Clone Wars encompasses a complicated series of battles and skirmishes with a complex history covering approximately three years. The first true battle of the Clone Wars, the Battle of Geonosis, introduced the Grand Army of the Republic and unleashed the clone troopers upon the galaxy. On the desolate planed of Geonosis, the first shots of the galactic conflict were fired, and the full extent of Count Dooku’s betrayal became evident to the Jedi. Many Jedi were killed on Geonosis, but just as may were thrust into the command of the clone forces, setting a precedent that drew the Jedi out into the galaxy as military leaders.
+
+The Clone Wars rage on for years. The episodes of The Clone Wars animated series account for many of the battles and happenings during this time. The Confederacy and Republic are locked in war, each side waxing and waning from time to time. Various plots among the Jedi Order unfold as they must deal with the threats of General Grievous, plots in the Republic Senate, and other internal struggles. The Confederacy also struggles with its own legitimacy under a despotic leader.
+
+After three years of struggling against the Confederacy, the Jedi strike a major blow against the Separatists with the death of Count Dooku. In the process of rescuing Supreme Chancellor Palpatine from the flagship of the Separatist fleet, Anakin Skywalker dispatches the Sith apprentice, and the Republic wins a
+
+significant victory. A short time later, Obi-Wan Kenobi ends General Grievous’s reign of terror during the siege of Utapau. In a short time, the Jedi eliminate two of the Confederacy’s powerful leaders, and the tide shifts heavily in favor of the Republic.
+
+### Order 66
+
+Without strong military leadership, the Confederacy is on the brink of collapse. The Jedi suspect that Palpatine has no intention of giving up his power after the Clone Wars end. After a confrontation leaves Mace Windu dead and Anakin Skywalker as the new apprentice of Darth Sidious, clone forces throughout the galaxy respond to Order 66, turning on their Jedi generals and slaughtering the noble defenders of the Republic. With the Jedi Order wiped out, Skywalker, now named Darth Vader travels to Mustafar, murders the remaining leaders of the Confederacy, and brings the Clone Wars to its true end.
+
+## THE DARK TIMES
+
+The Republic has fallen. The Jedi are all but extinct. The Sith rule the galaxy, and the new Galactic Empire tightens its grip on star systems with no one to oppose it. The Dark Times consist of the period beginning immediately after the conclusion of Revenge of the Sith and leading up to the destruction of the first Death Star at the Battle of Yavin. This time frame encompasses the true rise of the Empire to full prominence and the descent of the galaxy into a less civilized age.
+
+### Establishment of the New Order
+
+The Dark Times arguably begin with the execution of Order 66 and Supreme Chancellor Palpatine’s famous Declaration of a New Order speech. From this point the Empire begins its ascendancy toward total domination. With clone troopers spread throughout the galaxy for the Clone Wars, the Empire begins its reign with personnel deployed almost everywhere from the first day. Regional governors are given a higher degree of control over their domains than ever before, and the Empire begins to crack down on dissent wherever it arises.
+
+The military machine starts to extend its reach throughout the galaxy, with Star Destroyers hovering over every major planet. Machines of war, ostensibly there to protect the peace, now roll through the streets of every city from the Core to the Outer Rim. Imperial Moffs replace planetary leaders as the authority on every world, and law enforcement becomes the domain of stormtroopers and officers of the Empire.
+
+### Ascension of Imperial Leaders
+
+Some of the galaxy’s most tyrannical leaders rise to power during the Dark Times. Grand Moff Tarkin, the man who will eventually be responsible for the destruction of Alderaan, rises through the Imperial hierarchy during this time. Grand Admiral
+
+[Página impressa 248 | PDF 250]
+
+Thrawn revolutionizes Imperial naval tactics, while famous officers such as General Veers, Admiral Motti, and Admiral Ozzel continue their ascension to command roles. Imperial Intelligence reaches new levels of pervasiveness under the control of Armand Isard, and ambitious Moffs such as Jerjerrod and Tavira accumulate power.
+
+This time period also sees the rise of several Imperial leaders who will go on to play a major role in the Empire’s downfall. Rebel Alliance leaders such as Crix Madine and Jan Dodonna serve as Imperial officers for a time during this period, though they will later defect to the Rebellion when the Empire’s tyranny becomes too much for them to bear. Although they serve as Imperial agents during the Dark Times, the seeds of their defection have already been planted. Additionally, late in the Dark Times some famous heroes such as Han Solo even serve the Empire for a short time, but as it becomes apparent how deep the Empire’s evil goes, they strike out on their own.
+
+### Growing Threat of the Dark Side
+
+With the Sith dominating the galaxy and the Jedi Order nearly completely wiped out, it comes as no surprise that the agents of the dark side of the Force become prevalent during these years. The establishment of the Inquisitorius (the Empire’s cabal of Jedi hunters) gives Jedi traitors and fallen Jedi a place to continue service under the Empire, while the Emperor and Vader begin training a small number of Force-users to serve as their personal servants. During the Dark Times, Emperor’s Hands such as Mara Jade and Shira Brie have already begun their training, and they will start taking on missions for the Empire despite being merely teenagers.
+
+The Emperor also allows the spread of dark side Force-users in other areas. The Prophets of the Dark Side, cultists and evil Force adepts from the world of Dromund Kaas, serve the Emperor and train his agents in the ways of the dark side. On the Emperor’s personal fortress world of Byss, dark side adepts use
+
+Sith alchemy to create Imperial Sentinels, while the Emperor’s elite Royal Guardsmen are taught the techniques of the dark side of the Force in their training as Sovereign Protectors. Everywhere throughout the galaxy, the presence of the dark side seeps in like the fetid waters of corruption.
+
+### Imperial Atrocities
+
+With no one to oppose them, agents of the Empire commit atrocities on a scale previously considered unimaginable. The Empire razes the planet Caamas at Palpatine’s command, leaving the planet devastated and inhospitable to the native Caamasi. Innocent beings on worlds controlled by the Empire are slaughtered, as in the case of the Ghorman Massacre (an event that would help mobilize early Rebels to action). Other worlds, such as Duro and Centares, are simply used up and discarded to improve the Imperial war machine.
+
+Moreover, many species are subjected to the horrors of slavery, such as the Mon Calamari and the Wookiees. During this time period, non-Human aliens are treated as second-class citizens, and the Empire passes legislation with a distinct anti-alien bias. The Empire allows the Corporate Sector Authority to expand into nearly thirty thousand star systems, in the process coming into contact with and eventually exploiting a number of native alien species, with no regard for those species’ rights. Even Humans from worlds out of favor with the Emperor find themselves trapped under the government’s boots, making it a difficult time to be a citizen of any species.
+
+### A Less Civilized Age
+
+Another side effect of the Dark Times is that criminal activity increases as well. Major criminal organizations see exceptional growth and prosperity, such as the Black Sun crime syndicate, mostly due to the fact that Imperial governors and bureaucrats were so prone to corruption. Many leaders will turn a blind eye to the crime and vice spread by these crime syndicates, allowing
+
+[Página impressa 249 | PDF 251]
+
+them to run rampant. Where once the decency of common citizens could hold criminals in check, the oppression of the Empire stamps out most of the resistance left in the general populace, leaving organized crime to prosper as never before.
+
+In the wake of the Clone Wars, the Empire seizes control of the economic and trade assets of the former members of the Confederacy. This turn of events creates a commercial void as the Empire puts strict limitations on trade — a void that will quickly be filled by smugglers and criminal cartels. Large smuggling cartels, such as the one run by Jorj Car’das, engage in lucrative contraband operations across the galaxy. The black market flourishes, and despite Imperial efforts to crack down on criminals, in truth it is only legitimate businesses and their honest customers that suffer from Imperial regulations.
+
+The Dark Times begin their end with the signing of the Corellian Treaty. Mon Mothma, Garm Bel Iblis, and Bail Organa create the document that officially establishes the Rebel Alliance, which is considered to be the act of treason that begins the Galactic Civil War. The treaty has its origins in a clandestine meeting on Corellia, but is finalized on Kashyyyk.
+
+## THE REBELLION
+
+The events of the Classic/Original Trilogy (Episode IV: A New Hope, Episode V: The Empire Strikes Back, and Episode VI: Return of the Jedi) take place during this era.
+
+The largest element that distinguishes the Rebellion era from the Dark Times is the presence of the Rebel Alliance. Also known as the Alliance to Restore the Republic, the organization is dedicated to ridding the galaxy of the tyranny of the Empire. However, since the Empire still has a merciless grip on untold worlds, the Rebellion must operate in secret. Most of the Alliance is organized into decentralized cells that receive sporadic instructions from Alliance leaders.
+
+Within these cells are individual heroes who have given up their normal lives in the service of the Rebellion. They live in the shadow of the Empire’s power, lying low until the time comes to strike. Many cells operate openly on remote worlds, escaping the Empire’s notice until they rise to action. The life of a Rebel is hard; it demands sacrifice and tough work. In the end, the soldiers of the Rebellion know that they have left their former lives for a purpose, and that one day all the hardships they endured will result in the downfall of the Empire.
+
+The Rebellion era lasts for only about four and a half years, from the Battle of Yavin (some site the signing of the Corellian Treaty as the beginning of this Era) until the Battle of Endor. This period, also called the Galactic Civil War, pits the Alliance against the Empire in a struggle to free the galaxy. The following section highlights some of the major events in the Rebellion era that serve as mile-stones in galactic history.
+
+### The Corellian Treaty
+
+The Rebellion era arguably begins with the signing of the Corellian Treaty, the document that founded the Rebel Alliance. The three primary founders are Mon Mothma, Bail Organa, and Garm Bel Iblis. Having been brought together under false pretenses by agents of Darth Vader, the governments of Chandrila, Alderaan, and Corellia agree to form an alliance, pooling the resources of their resistance groups to form the Rebellion. Shortly thereafter, the Rebel Alliance issues the Declaration to Restore the Republic, a political document that makes clear the purpose and mission of the new organization. With the publica
+
+tion of the Declaration, resistance cells spring up on Imperial planets throughout the galaxy. With three major worlds willing to take a stand against the Empire, others find the resolve to resist as well.
+
+### The Death Star Plans
+
+The early years of the Rebellion see some success. One of the most notable accomplishments is the theft of the plans for the newly completed Death Star. The leaders of the Rebel Alliance have known about the existence of the Death Star since before the organization’s founding — in fact, several of them had been held hostage on the incomplete space station before the signing of the Corellian Treaty. But on Toprawa, Rebel agents steal the plans and transmit them to the Alliance. The plans eventually make their way to the Tantive IV, the ship carrying Leia Organa. The capture of the plans is the first step toward bringing down the Empire, setting off a chain of events that eventually leads to the Emperor’s death.
+
+### The Battle of Yavin
+
+The Death Star plans fall into the hands of a young farm boy from Tatooine named Luke Skywalker. After Alderaan is destroyed in retribution for its rebellion, Luke rescues Princess Leia and arrives at Yavin IV. Shortly thereafter, the Battle of Yavin takes place, resulting in the destruction of the Death Star. Not only is this the first major blow that the Rebellion lands against the Empire, but it also brings Skywalker — and Han Solo — into the Alliance. The Battle of Yavin inspires more systems to join the Rebels and marks the start of a time when the Empire begins to take the Rebellion seriously.
+
+### The Battle of Derra IV
+
+The Rebel Alliance suffers its first crushing defeat above Derra IV. Imperial forces ambush a Rebel supply convoy, destroying it. The convoy’s destruction is a major blow to the Rebels’ supply chain and leaves them shorthanded at their new base on Hoth. The Battle of Derra IV ends the euphoria the Alliance had felt since its victory at Yavin and sets up a defeat that nearly unravels the Rebellion a short time later.
+
+### The Battle of Hoth
+
+The Rebel defeat at the Battle of Hoth is the first in a series of events that comes close to eliminating several of the Alliance’s greatest heroes. With Echo Base understaffed as a result of the convoy ambush at Derra IV, the Empire overruns the base and scatters its occupants to the far reaches of the galaxy. More important, the battle sets off a sequence of events that leads to the capture of Rebel leader Han Solo and nearly results in the loss of both Luke Skywalker and Leia Organa. Fortunately, Lando Calrissian’s assistance on Cloud City foils Darth Vader’s plans, leaving Luke and Leia free to fight another day.
+
+### The Capture of the Suproso
+
+During the search for Han Solo, the Rebellion chances upon knowledge of a freighter, the Suproso, which transports more than its manifest indicates. In truth, the ship carries information about the construction of the second Death Star, and the Alliance learns that the Emperor is overseeing the final stages of its construction. Combining this knowledge with technical readouts of the battle station, the Rebellion hatches a plan to strike a decisive blow against the Empire.
+
+[Página impressa 250 | PDF 252]
+
+### The Battle of Endor
+
+After Luke, Leia, and others rescue Han Solo from Jabba the Hutt, the time for the attack comes at last. As the Alliance sabotages the Death Star’s shield generator on Endor, the Rebel fleet assaults the incomplete space station. However, the ships fly into a trap, and only through the guile of Rebel leaders such as Han Solo and Lando Calrissian does the Alliance fight through to victory. Shortly before the station’s destruction, Luke Skywalker redeems Darth Vader, who in turn slays the Emperor. With the second Death Star destroyed and the Emperor dead, the Alliance finally claims the upper hand in the Galactic Civil War.
+
+### The Bakura Incident
+
+Immediately after the Battle of Endor, Rebel forces rallied to the defense of the distant Imperial world of Bakura, the target of an invasion by the mysterious Ssi-ruuk. (While the Rebels helped defeat the aliens, the encounter remains classified.) Shortly after the Bakura Incident, the Alliance (temporarily renamed the Alliance of Free Planets) repelled a preliminary invasion by the Nagai, who allied with desperate Imperial factions.
+
+### An Empire at its Peak
+
+A major difference between the Rebellion era and the Dark Times era is that during the Rebellion era, the Empire has reached its full power. Its grasp on the galaxy is like a iron, and even the most distant reaches of known space have been converted to the Imperial New Order. As a result, there are very few
+
+safe places to hide from the Empire. Although some spaceports and out-of-the-way worlds might have only a small Imperial presence, there are still Imperial forces on nearby planets, as well as sector task forces jumping from system to system in search of Rebel activity.
+
+The Empire hasn’t staged a military occupation of the entire galaxy; instead, it has converted the cultures and philosophies of many worlds to the New Order. Young men and women grow up dreaming about attending the Imperial military academies, and noble families of the galaxy vie with one another for the Empire’s favor. Local bureaucrats have become Imperial officials with the full might of the Empire at their backs. Humanocentrism (the view that Humans are the most important species in the galaxy) is at an all-time high, encouraged by Emperor Palpatine as a means of controlling the populace. Indeed, many of the galaxy’s citizens are more than simply the subjects of Imperial tyranny — they are willing participants. Citizens’ organizations such as COMPNOR indoctrinate people into believing that it is their civic duty to serve unquestioningly and to abandon personal freedom in order to strengthen the Empire.
+
+The military, cultural, and political strength of the Empire makes the Rebellion’s task especially important. Within two decades, the Empire has transformed worlds that once backed the Republic into supporters of Emperor Palpatine. The Rebel Alliance knows that with each passing day, the Empire grows stronger. In many ways, this is the galaxy’s most desperate hour, as countless words teeter on the edge of forgetting what freedom was like.
+
+[Página impressa 251 | PDF 253]
+
+## A NEW REPUBLIC
+
+One month after the Battle of Endor, Mon Mothma and the Alliance’s leaders declared the founding of a “New Republic.” The New Republic spent the next three years unifying its forces and chipping away at territory once held by the Empire. The Empire’s loss of territory was precipitated by the greed of those who remained in power: Palpatine carefully cultivated a climate of fear and cut-throat political maneuvering among his advisers and military leaders. Now, petty disputes among Moffs and nobles often erupted into full-scale warfare. Those who once served the Empire now set their sights on creating their own personal strongholds. Miscommunication, distrust and conflict plagued the lawless Imperial territories. Imperial soldiers were pitted against each other and desertion rates skyrocketed. The New Republic slowly increased its sphere of influence by overwhelming Imperial groups which had exhausted their resources through senseless in-fighting.
+
+Imperial loyalist officers and nobles sponsored a number of reunification efforts, although they failed due to lingering feuds. Several claims of “royal” lineage to Emperor Palpatine — and thus claims to the throne — were discredited, only increasing the sense of confusion and conflict. With the Empire disorganized and disheartened, the New Republic’s military forces marched toward the Core Worlds.
+
+### The Fall of Coruscant
+
+Three years after Palpatine’s death, members of Rogue Squadron engineer the capture of Coruscant, and the New Republic seizes control of the seat of galactic power. Imperial forces salvaged what they could and fled to stronghold areas such as the Deep Galactic Core and pockets of the Outer Rim Territories.
+
+While the New Republic waged its military campaign against rogue military commanders such as Warlord Zsinj, it also dealt with the challenges of keeping the peace among its member worlds. Internal squabbles plagued the New Republic’s government: the conflicts between the Mon Calamari and the Bothans were but the best-known of the lingering feuds. Other struggles were concealed by the language of diplomats.
+
+Imperial sympathizers remained active in many planetary governments, stirring resentment against the laws of the New Republic. Those who profited from policies of the Emperor retaliated through force and sabotage when the New Republic’s “idealistic diplomats” promised to remove those fortunes in the name of “justice.”
+
+Many member worlds owed allegiance to the New Republic in name only, their governments retaining the same bureaucrats who brought terror to enslaved populations under the Empire. The New Republic set its sights on bringing universal laws and rights to the galaxy, yet provincial and local law was found more often than not. The economy faltered due to the devastation inflicted upon the galaxy’s communications and transportation networks.
+
+All these factors posed a serious threat to the New Republic’s stability, but the strong leadership skills of people such as Mon Mothma, Admiral Ackbar and the Bothan Borsk Fey’lya held the government together. Five years after the Emperor’s death, the New Republic controlled over three quarters of the territory once under the Empire’s rule.
+
+### The Thrawn Campaign
+
+Five years after the Battle of Endor, the New Republic faced the most serious challenge since its founding. One of the Emperor’s great military strategists, Grand Admiral Thrawn, returned from the Unknown Regions of the galaxy. Rallying whole fleets to his command and using a series of brilliant tactical maneuvers, Thrawn nearly managed to depose the New Republic and his forces restored Imperial rule to half of the galaxy.
+
+### Return of the Emperor
+
+Despite Thrawn’s defeat at the Battle of Bilbringi, Imperial forces rallied to recapture several Core systems, including Coruscant. The New Republic was steadily pushed back, with its military leaders establishing a new main base in Hutt Space on the fifth moon of Da Soocha.
+
+With the New Republic on the run, the Imperial factions returned to bickering and these conflicts soon degenerated into all-out civil war. Coruscant was devastated, whole sections of the planet leveled. The worst fears of the New Republic were realized — it was learned that somehow Emperor Palpatine had returned in a clone body. Operating from the “fortress world” Byss in the Deep Core, Palpatine launched an all-out attack on Calamari with his new World Devastator super weapons. Luke Skywalker, seeking a means by which to defeat Palpatine, embraced the dark side — but he also provided the computer command codes that allowed the New Republic to seize control of the World Devastators and halt the attacks. Luke was brought back from the dark side and the combined efforts of Leia Organa Solo and Luke defeated the Emperor.
+
+Despite Palpatine’s fall, Byss and the vast military fleets remained virtually intact. Imperial Executor Sedriss, one of Palpatine’s trusted warriors, initiated “Operation Shadow Hand,” a complex battle plan designed to destroy the New Republic. It was soon learned that the Emperor had reincarnated himself in a clone body, but New Republic forces rallied to once again defeat Palpatine in a dramatic military campaign that culminated in a battle above Byss itself.
+
+[Página impressa 252 | PDF 254]
+
+### The Jedi Praxeum
+
+Within a year of Palpatine’s defeat, the New Republic managed to retake Coruscant and begin the tedious task of rebuilding the once-splendid capital. Jedi Luke Skywalker, acknowledging the need to train a new generation of Jedi Knights, established his Jedi praxeum, or academy, on Yavin IV. Princess Leia Organa Solo accepted the post of Chief of State upon Mon Mothma’s retirement. New Republic military forces defeated the fleet of Admiral Daala, a former close aide of Grand Moff Tarkin and the head of the Maw Installation, a secret super weapon research lab.
+
+### The New Republic Thrives
+
+Following Daala’s defeat, the last decade of the era saw several major campaigns against the New
+Republic, (such as the Black Fleet crisis, and the
+Corellian conflict) but the government withstood them all. This time could be regarded as a kind of
+“golden age”: freedom had returned to many worlds in the galaxy, while a new generation of Jedi Knights stood ready to defend the New Republic. Trade and commerce networks had been rebuilt and many of the wounds of the past began to heal. Perhaps the Republic had been restored in both deed and name.
+
+## NEW JEDI ORDER ERA
+
+In this era the New Republic is in place, although a small Imperial remnant maintains control of a portion of the galaxy. The Jedi, on the rise again thanks to the efforts of Luke Skywalker, are at a crossroads. Some members of the order, which numbers about one hundred individuals, want to take a more direct and deliberate role in galactic affairs. Skywalker, meanwhile, is struggling with whether or not he wants to reestablish the Jedi Council. Rash Jedi have led New Republic officials to be wary of the Knights and suspicious of their true motives. Indeed, this leads to varying degrees of mistrust and even fear in the general populace, many of whom still remember the Emperor’s anti-Jedi rhetoric from years before.
+
+### The Vong War
+
+The first galaxy-wide threat in the New Jedi order era is the Yuuzhan Vong invasion. It begins with Nom Anor, a spy who sows additional seeds of discord throughout the galaxy. His efforts give rise to anti-technology cults dedicated to the destruction of innocent droids. Masking his true identity, he recruits agents from the native populations to carry out acts of sabotage and subversion. Nom Anor, however, is only the beginning of the Yuuzhan Vong threat.
+
+The Yuuzhan Vong are humanoids that follow a religion of pain and nature. They hate machines of all kinds, using instead living technology that they have bioengineered to serve as ships, weapons, and tools. These fierce, holy warriors seek to conquer the galaxy and bring their faith to the infidels who regularly make use of unclean machines. Their invasion begins on far-flung worlds such as Belkadan and Helska, but they quickly widen their hold on key sectors of the Outer Rim and Mid Rim, terraforming worlds to produce the yorik coral and other living materials that serve as their ships and weapons.
+
+The Jedi learn, to their horror, that this intractable new enemy cannot be sensed through the Force. The Jedi, former guardians of peace, become the hunted prey of the Yuuzhan Vong. Meanwhile, the extra-galactic intruders continue their relentless advance toward the Core, crushing any force that dares stand in their way. A few worlds surrender without a fight, while those that resist are rendered uninhabitable. In time Coruscant itself falls, signaling the death of the New Republic.
+
+Eventually the Yuuzhan Vong discover their history may not be as they thought, when the living planet Zonama Sekot came to Coruscant and fought defensively against the Yuuzhan Vong, “welcoming home it’s true inhabitants.”
+
+The new Galactic Federation of Free Alliances (Galactic Alliance) allows the Yuuzhan Vong to surrender and take Zonama Sekot as their homeworld. While not all Yuuzhan Vong accept this, the primary threat of the Yuuzhan Vong ends as Zonama Sekot flies into hyperspace to seek a new home for the Yuuzhan Vong in the Unknown Regions.
+
+Though the war is over, many threats still exist. Some Yuuzhan Vong and their cults still fight against technological civilization. The Galactic Alliance has to rebuild the galaxy. And the New Jedi Order seeks out threats to peace and justice.
+
+## LEGACY ERA
+
+This era includes the early years of the Galactic Alliance, but focuses on the time surrounding the Imperial Civil War, particularly starting around the year 137 ABY. During this era, the Empire rules the galaxy with Darth Krayt on the throne, and the Galactic Alliance Core Fleet (what is left of it) represents one of the last hopes of freedom and democracy. At the same time, the Jedi are scattered and hunted, while rebellious Imperial forces pit themselves against the ruling tyrants.
+
+### The Ossus Project
+
+Nearly a century after the defeat of the Yuuzhan Vong and the establishment of the Galactic Alliance, a powerful and influential Jedi named Kol Skywalker champions a cause that many see as risky, even dangerous. What Skywalker proposes comes to be called the Ossus Project, and its premise is bold: to take
+
+[Página impressa 253 | PDF 255]
+
+Yuuzhan Vong terraforming biotechnology and use it to rebuild devastated worlds. Skywalker advocates allowing the Yuuzhan Vong — many of whom now coexist in the galaxy among those that they once sought to conquer — to develop terraforming methods to restore ravaged worlds such as Caamas, Honoghr, and Ossus.
+
+Collaborating with Yuuzhan Vong shapers, Alliance and Jedi scientists develop a plan to transform dead worlds into vibrant, livable planets similar to the way that the Yuuzhan Vong transformed Coruscant during their galactic invasion.
+
+The first terraforming test is conducted on Ossus. In a short amount of time, Yuuzhan Vong biotechnology restores Ossus to its state as a lush jungle world. After this rousing success, other worlds vie for a chance to be restored. A small number are chosen for the second phase of the Ossus Project. However, efforts to revitalize these worlds are sabotaged by the resurgent Sith whose existence is still unknown to both the Jedi and the galaxy at large. As a mysterious disease ravages the inhabitants of these worlds, the galaxy’s mistrust of the Yuuzhan Vong surges once more. The Yuuzhan Vong are blamed for the sabotage, Kol Skywalker and the Jedi are accused of complicity, and the Sith divide the galaxy once more.
+
+### The Sith-Imperial War
+
+Shortly after the apparent Yuuzhan Vong sabotage becomes public knowledge, worlds and sectors begin seceding from the Galactic Alliance. The Galactic Empire, still prominent and powerful, withdraws from the Alliance. Anger toward the Alliance and hatred for the Yuuzhan Vong causes many worlds, some prominent and powerful, to flock to the Empire for protection. With new-found resources and a tide of support, the Empire grows in power and size, allowing it to challenge the Galactic Alliance militarily.
+
+War between the Galactic Alliance and the Galactic Empire rages for some time, with both sides trading victories and defeats, until a new faction enters the scene. The Moff Council,
+
+unbeknownst to Emperor Roan Fel, has been working behind the scenes to reach an agreement with the Sith. The Sith emerge as a fighting force on the side of the Empire, openly opposing the Galactic Alliance and the Jedi Order. With the aid of these dark Force-users, the revitalized Empire sweeps across the galaxy.
+
+The decisive battle in the Sith-Imperial War occurs at Caamas. Years of battling the Empire have depleted the Galactic Alliance’s resources and strained the capabilities of the Jedi Order, and too many neutral worlds have united under the banner of the resurgent Empire. At the end of the Battle of Caamas, after his superiors order him to surrender, Admiral Gar Stazi of the Galactic Alliance takes a remnant of the Core Fleet and flees, leaving the Empire in control of the galaxy.
+
+Although the Battle of Caamas marks the end of the war, the Sith have one more victory to achieve. Against the wishes of Emperor Fel, the Sith attack the Jedi at Onus, slaughtering them and scattering the few remaining Jedi to the far corners of the galaxy. With the massacre at Ossus, the Jedi Order is crushed and the last hopes of any victory for the Alliance are dashed.
+
+### Ascent of the Empire
+
+Following the destruction of the Jedi Order at Ossus, Darth Krayt seizes control of the Empire by force. He murders the man he believes is Emperor Roan Fel — a man later revealed to be a decoy — and demands the fealty of the Moff Council. When the Moffs acquiesce, Darth Krayt becomes the new Emperor, and the Sith Lords and apprentices under his command become the new rulers of the galaxy.
+
+The real Roan Fel retreats into exile, taking his loyal Imperial Knights and other Imperial personnel with him. In his absence, Darth Krayt’s Empire solidifies its hold on the galaxy through fear and military might. Across the galaxy, shipyards produce Imperial warships, and within a few short years the Empire becomes as powerful as it was during the height of Emperor Palpatine’s tyranny. Stormtroopers are recruited and trained, the Imperial Navy patrols the space in all parts of the galaxy, and the Sith Lords and their Moff cronies squeeze the planets under their control.
+
+### The Imperial Civil War
+
+Seven years after the Battle of Caamas, the Empire-in-exile, under the command of Roan Fel, begins concerted efforts to undermine Krayt’s authority. By disrupting the plans of the Sith, this Imperial insurgency sparks an all-out civil war. Meanwhile, Admiral Stazi and the remnants of the Galactic Alliance Core Fleet continue to engage in hit-and-run attacks against Imperial forces. Though its supplies are low and its fleet is constantly on the move to avoid detection, the Alliance grows ever more daring with its attacks. The crowning achievement of the Alliance rebellion proves to be the capture of a prototype Star Destroyer, stolen from the Empire’s shipyards at Mon Calamari.
+
+The Jedi, scattered across the galaxy, begin to rebuild their fallen Order. The reappearance of Cade Skywalker, the son of Kol Skywalker, offers a glimmer of hope to those who long for freedom. Cade, however, has rejected his destiny time and again, meaning that the galaxy may need other heroes to step up and do what he will not.
+
+[Página impressa 254 | PDF 256]
+
+# TECHNOLOGY
+
+The pervasive influence of the Republic has spread advanced technologies such as hyperdrive, blasters, droids, and repulsorlift generators across the Known Galaxy. What follows is a summary of some of the common technologies travelers are likely to encounter.
+
+## STARSHIPS
+
+The society of the Known Galaxy depends upon starships for travel among the millions of stars and worlds. Travel between worlds requires a “hyperdrive,” while a “sublight drive” is used for travel within a system.
+
+### Hyperdrive
+
+It is unknown whether hyperdrive was invented by the humans of the Core Worlds or introduced by alien traders from far off in the Unknown Regions, but this miraculous technology, which predates the Republic, allowed the formation of a galactic civilization.
+
+Hyperdrive allows starships to quickly and easily journey between stars, sometimes in a matter of hours. (Ships without hyperdrives are limited to sublight speeds, meaning that it would take years just to reach a system’s nearest stars.)
+
+While there are many makes and brands of hyperdrive, they are all similar in function. The universal nature of hyperdrive components allows starship mechanics to maintain and repair the units with relative ease. This, combined with the relatively low cost of a hyperdrive, enables many citizens to afford their own ships; those that cannot purchase a starship still have access to interstellar travel by hiring ship owners for transit or by purchasing tickets from one of the galaxy’s many passenger lines.
+
+### Sublight Drives
+
+Sublight drives allow starships to travel within a star system. They are used to propel a ship far enough from a planet’s surface to make a safe jump to hyperspace, and for trips between planets or moons in a system. Ships also use their sublight drives for atmospheric flight.
+
+The most common sublight drive is the Hoersch-Kessel ion drive, which is extremely efficient, mechanically simple and quite affordable. This type of unit, manufactured under many different brand names, can be found on vessels ranging from the small, suborbital Incom T-16 Skyhopper to Imperial Star Destroyers.
+
+## COMMUNICATIONS
+
+There are several communications technologies in widespread use. Military and government forces use the HoloNet and hypertransceivers for instantaneous communication along secured channels; private citizens often must make do with more limited subspace communication networks.
+
+### The HoloNet
+
+The HoloNet was built during the height of the Republic and was one of its greatest accomplishments. Using specially-developed hyperspace technology to link all members of the Republic in a real-time holographic communication network, the HoloNet
+
+relied upon a complex network of hundreds of thousands of transceiver satellites to transfer messages through hyperspace.
+
+However, the HoloNet was very expensive to maintain. Its use was commonly restricted to official Republic government functions and the largest corporations, yet it provided a vital sense of belonging and membership to the average citizen.
+
+During his rise to power, Palpatine seized control of the military and governmental portions of the Net and used censors to oversee academic, civilian and corporate communications. Increasingly, access to the HoloNet was directed to the Imperial military, although several “private” HoloNet networks sprung up to service the needs of civilian corporations. Military censors ensured that no treasonous or seditious messages were broadcast over the HoloNet (although Rebel and fringe computer slicers often found ways to hide messages within transmissions).
+
+In later years, the HoloNet networks continue to service most of the galaxy, although this technology still remains prohibitively expensive for many citizens.
+
+### Hypertransceivers
+
+Hypertransceivers, also called “hyperradio,” are a cheaper and less-sophisticated form of instantaneous communication. Like the HoloNet, the technology relies on a network of satellites to broadcast messages through hyperspace. Many HoloNet transceivers carry hyperradio transmissions, but dedicated hypertransceiver satellites are considerably cheaper.
+
+Hypertransceivers allow for instant, real-time communication with any world in the galactic network (although not every system is serviced). The medium is limited to audio and video transmission. While still ridiculously expensive for everyday communications, citizens can buy transmission time in the event of an emergency.
+
+### Subspace Transceivers
+
+Subspace transceivers allow faster-than-light audio, video and hologram communications, but their ranges are quite limited. Small subspace transceivers may only reach a few light-years away, although high-powered units can reach a distance of well over 100 light-years. Most starships have a subspace transceiver for distress signals, and the average citizen can normally afford to send a subspace message at a relatively modest cost.
+
+Many sector governments maintain subspace satellite networks for a sector-wide communications grid. In theory, messages can be relayed across the galaxy by skipping them across several subspace networks, but it can take several days (or even weeks) for a message to be delivered. That, of course, assumes that the message isn’t inadvertently “terminated” while crossing networks. Security is also a concern with such messages.
+
+Private citizens often send messages aboard NewsNet drone ships or starship couriers, which deliver messages, package and news on a regular schedule to various systems. These ships are significantly slower than subspace relays, but using them is also fairly cheap.
+
+### Comms, Intercoms, and Comlinks
+
+Comms, intercoms and comlinks all use essentially the same technology: cheap, speed-of-light communication systems, similar to old-style radionics and broadcast systems.
+
+Comlinks are short-range two-way communication devices. Smaller units can be hand-held, and most vehicles and buildings have an integrated comlink array.
+
+[Página impressa 255 | PDF 257]
+
+Comms are used for ship-to-ship or ship-to-planet communications — they can interact directly with comlinks or intercoms.
+
+Intercoms are internal ship-board communication systems and are typically “hard-wired” into a ship.
+
+Planetary and local communication grids often use comlink transceivers, “hard-wired” intercoms or any of a number of variants on this technology.
+
+## REPULSORLIFT VEHICLES
+
+Most vehicles are powered by a form of anti-gravity drive called “repulsorlift.” These drives repel against a planet’s gravity, allowing the vehicles to hover and fly above the planet’s surface. Repulsorlift drives don’t work in space — although they can be used aboard starships by repelling against the ship’s artificial gravity field.
+
+Landspeeders, snowspeeders, speeder bikes and sail barges use repulsorlift drives. Some high-performance vehicles, such as swoops and T-16 Skyhoppers, add ion drive afterburners to increase speed. Many starships are equipped with repulsorlift drives for fine maneuvers during landings on a planet’s surface.
+
+## DROIDS
+
+Droids are intelligent, mobile automatons used throughout the Empire. There are an amazing variety of droid designs, ranging from specialized-function to general labor units. The machines may be designed for any number of fields, including labor, military, scientific, protocol, communications, and engineering.
+
+Within the Empire and even the Republic, droids are generally treated as property. Some people harbor a deep sense of distrust and prejudice against the machines.
+
+## MEDICINE AND CYBORGING
+
+Medical technology in the galaxy is quite sophisticated. Advanced medicines can heal many deadly diseases, while bacta tanks often allow individuals to completely recover from severe injuries. Advanced cybernetics and prosthetics can replace severed limbs. Cyborg units allow users to directly interface with droids, computers and communication systems, while enhanced cybernetic limbs allow individuals to enhance their physical capabilities beyond natural limits. In grave cases, life-support systems can sustain individuals who otherwise would die from their injuries.
+
+# ASTROGRAPHY
+
+The following sections covering astrography, politics and culture offer only the broadest generalities. Even the lowliest village and city tends to have vast cultural variations: rich and poor; contrasting political, social and moral views; neighborhoods where differing species are in the majority, and so forth. Very few planets have homogeneous cultures, and guidelines should only be taken as that: a summary of a category that has a multitude of exceptions to disprove the “stereotype.”
+
+That being said, the galaxy is vast... so vast that no person could ever travel its breaths, or understand every intricacy of its cultures, economy, etc... Therefore a particular beings account of the galaxy may differ (even greatly) from another.
+
+## THE KNOWN GALAXY
+
+The galaxy has over one hundred million stars in an area of space over 100,000 light years in diameter: much of it remains unknown and unexplored even today. The Known Galaxy — the area of space mapped and settled by the Old Republic and the Empire — has millions of officially-logged and inhabited planets, including colonies, corporate-owned worlds, and protectorates. Millions of worlds that aren’t on Imperial or Republic logs but are nonetheless inhabited remain hidden in remote systems and on the fringes of civilization.
+
+Even within the Known Galaxy, there are vast tracts of unexplored space. Hyperdrive travel across the Republic/ Empire can take months if one strays from the known trading routes, yet fortunes await those lucky enough to discover new worlds teeming with resources and native civilizations eager to trade for advanced technology.
+
+Because of the size of the Known Galaxy, the Old Republic created regions as a convenient means of grouping worlds; the terminology remains in use today. Each region contains many sectors. The Republic’s original definition of a sector was any area of space with 50 inhabited planets, but as colonization and exploration added worlds to the Republic, many sectors grew and expanded far beyond their original borders.
+
+## CORE WORLDS
+
+It was from here that the Republic’s first explorers branched out in their efforts to colonize and explore the galaxy. Coruscant (capital of the Republic, and the Empire), Corellia, Chandrila and many other ancient homeworlds are in this region. The Core Worlds region is among the most densely populated and wealthiest regions of the galaxy.
+
+During Palpatine’s rule, this area was a stronghold of Imperial support. Core Worlders tended to accept the Empire as a necessary extension of the Old Republic; the populace seldom heard about Imperial tyranny in the outer regions.
+
+Most of the Core Worlds region was under New Republic control within three years of Palpatine’s death. In its early days, support for the New Republic was broad, but not particularly deep — the people simply wanted peace and prosperity. When the New Republic reclaimed the Core Worlds a second time (after the final defeat of the revived Emperor), the New Republic gained widespread support.
+
+## THE COLONIES
+
+The Colonies region was one of the first portions of The Slice to be settled. The area soon established its own identity, and most worlds broke away from the direct control of their founding planets. Now this region is very heavily populated and industrialized, yet it lacks the prestige and tradition of the Core Worlds (or so those from the Core Worlds would have you believe). Although all of the worlds have been free for millennia, the term “Colonies” lingers.
+
+This area was ruthlessly controlled by the Empire, creating a great deal of support for the Alliance.
+
+While the New Republic pushed into the Core Worlds, the remaining Imperial regimes inflicted great damage rather than allow the Colonies to fall to the New Republic. After several bitter battles, the final Imperial governments were overthrown. The area was a firm ally of the New Republic.
+
+[Página impressa 256 | PDF 258]
+
+
+
+[Página impressa 257 | PDF 259]
+
+## INNER RIM PLANETS
+
+Originally known as “The Rim” when this area was first opened to settlement, rapid colonization and venture corporations quickly built an economic powerhouse.
+
+The Inner Rim Planets region is diverse, with vast agricultural and industrial concerns. The area avoided the chronic overpopulation problems of the Core Worlds and the Colonies by opening up the “Expanded Rim,” which was renamed the Expansion Region.
+
+This area was held in check under the Empire, with martial law being more common than not, resulting in a major population drain in the final years of Imperial rule. Many citizens chose to relocate to the Expansion Region rather than face repression at the hands of overzealous Imperial governors.
+
+Even as the New Republic captured Coruscant, this region remained in thrall to brutal Imperial military leaders. This region was freed by the New Republic shortly before Grand Admiral Thrawn began his campaign; the victory celebrations ended just in time for Thrawn’s armada to arrive and re-subjugate the rebellious worlds.
+
+This area was finally freed of Imperial rule several years after Thrawn’s defeat. Many worlds joined the New Republic, although there is lingering anger among many citizens who feel that the New Republic didn’t make enough of an effort to free the region.
+
+## EXPANSION REGION
+
+Formerly a center of manufacturing and heavy industry, the Expansion Region began as an experiment in corporate-controlled space. While profits were amazing, the Republic found it difficult to regulate this area and it was removed from corporate control, although the ruling companies received generous compensation when the Corporate Sector was created.
+
+Early in its history, the Expansion Region fueled much of the The Slice’s economic growth, providing raw materials for starships and heavy industry. Due to millennia of intensive mining and development, most of the region’s planets are now played out. In recent centuries, the Expansion Region has suffered from prolonged economic distress. The area relied on a handful of massive “port systems,” which generate transportation revenues (and Imperial shipping contracts). In recent years, the region has seen an influx of “refugees” from the Inner Rim Planets and it has tried to promote itself as a cheap alternative to the heavily-populated and more expensive Core Worlds and Colonies regions.
+
+Under the Empire, this region provided several important staging areas for military and cargo fleets entering the outer territories. Due to the region’s reliance on military shipping, the Empire had much popular support prior to Palpatine’s death.
+
+After the New Republic liberated Coruscant, the Expansion Region generally allied with the new government. In the early days, New Republic support was bolstered by Darvon Jewett, the charismatic governor of the Boeus sector. In recent years, Jewett went on to be selected as a New Republic Senator, while the Expansion Region has experienced a modest economic boost due to corporate investment and increased trade.
+
+The region is a blending of the culture of the Core worlds, with the independence and individualistic spirit of the Rim worlds. This spirit is highly treasured by the residence of the Expansion Region.
+
+## MID-RIM
+
+The Mid-Rim has fewer resources, less wealth and a smaller population than the Expansion Region, yet it offers opportunity to those willing to work hard. Several worlds have bustling economies, while vast tracts far from the main trade routes remain unexplored providing many havens for pirate fleets.
+
+Imperial strategists feared the region could provide suitable locations for Rebel bases. The area remained a stronghold of Imperial support even a full decade after the Battle of Endor.
+
+In recent years, the New Republic pushed into the region, forcing the Imperials to resort to hidden bases and makeshift shipyards. While the New Republic eventually wrested control of the region, the fierce campaign exacted a heavy toll. Public support for the New Republic is strong... but there are a great many Imperial sympathizers in hiding.
+
+## OTHER REGIONS
+
+What follows are brief descriptions of several additional regions scattered throughout the Known Galaxy. This list is far from comprehensive; rather, it is intended to give the reader a sense of the immense size of the galaxy.
+
+### Centrality
+
+The Centrality is a “quaint” (some would say “backward”) region of space best known for its corrupt politicians and the Oseon asteroid field, which supports many pleasure palaces and vacation resorts. A puppet government of the Empire, the Centrality long ago swore allegiance to Palpatine in exchange for a certain degree of autonomy. Lando Calrissian spent some of his youth wandering this region of space.
+
+### Corporate Sector
+
+Described as “one wisp off one branch at the end of one arm of the galaxy,” the Corporate Sector is about as far from the Core as one could get. A region of space encompassing tens of thousands of stars — yet completely lacking in native intelligent species — the Sector was ruled with an iron fist by the Corporate Sector Authority. Thanks to well-established trade routes, the Sector’s goods could be transported to the Empire proper: metals and technology coming out of the Sector helped fuel much of the Empire’s military build-up. The Authority had complete discretion as long as it met Palpatine’s quotas. Smuggler Han Solo operated here for a brief time.
+
+### Deep Core
+
+The Deep Core lies at the heart of the galaxy and borders the Core Worlds. A region of densely-packed stars, the region was long thought impassable. However, Palpatine sponsored exploration missions which pioneered several routes and cataloged hundreds of potentially habitable worlds. The reincarnated Emperor Palpatine used the Deep Core world of Byss as his base of operations.
+
+### Hapes Cluster
+
+A small, independent cluster of 63 settled worlds, the Hapans ruling this area of space are extremely isolationist, militantly defending their borders. While not part of the Empire, the region maintained an uneasy peace with nearby Imperial governors. The worlds of the Cluster are very wealthy, but Hapan starship technology lags somewhat behind the standards of the
+
+[Página impressa 258 | PDF 260]
+
+Empire and the Republic. It is thought that the Hapan government, led by the Queen Mother, is somewhat repressive, but the Cluster’s “closed borders” have kept a tight curtain of secrecy around the region.
+
+### Hutt Space
+
+This region of space borders the
+Outer Rim Territories and is owned almost in its entirety by the various
+Hutt clans. Although the area was part of the Empire, the Hutts seemed to have a high degree of autonomy. A region known for its criminal activities, lawless worlds such as Nar Shaddaa, the “smuggler’s moon,” are notorious throughout the Outer Rim.
+
+### Outer Rim Territories
+
+The Outer Rim Territories is an immense area of space, widely regarded as one of the last bastions of civilization before reaching Wild Space and the Unknown Regions. The Outer Rims Territories is character zed by lightly-settled frontier worlds populated by rugged individualists. Notable planets of the region include Tatooine (Arkanis sector), Calamari (homeworld of the Mon Calamari), Ryloth (homeworld of the Twi’leks), Eriadu (capital of Seswenna sector, the sector ruled by Moff Tarkin) and Bakura.
+
+### Tion Hegemony
+
+The Tion Hegemony is an outlaying region of space bordered by the Cronese Mandate and the Allied Tion. While the Tion Hegemony is now considered a galactic backwater, it was once the center of power for Xim the Despot, the barbarian warlord who conquered a vast empire long before the founding of the Galactic Republic.
+
+### Wild Space
+
+This term applies to any area of space on the fringe of the Known Galaxy; Wild Space is the “frontier” of the galaxy. Wild Space areas typically have a handful of remote settlements catering to isolationists, speculators and scouts looking for potentially lucrative colony worlds.
+
+### Unknown Regions
+
+The term “Unknown Regions” is applied to any area of space far beyond the borders of the Known Galaxy. These areas of unexplored space are exceptionally remote and lightly populated, with perhaps a few isolated settlements, independent scouts, “lost colonies” and native civilizations.
+
+# CULTURE AND SOCIETY
+
+The Republic Senate was entrusted with the incredible responsibility of governing an entire galaxy. One of its main tasks was to establish universal law while maintaining the peace among its many alien and human cultures (ranging from planet-wide nation states to monarchies that had lasted thousands of years to insectoid hive minds to coalition governments that
+
+relied on the support of hundreds of varied alien communities). The Republic standardized trade and legal codes, while allowing each planet and people to maintain local culture, customs, laws, language and government.
+
+Even under the Empire, local cultures and governments often remained intact if they surrendered their freedom and promised to serve the Emperor. Those who dared to question Imperial policies faced forceful subjugation, but the cultures which submitted to Imperial rule often were left to their own devices... provided, of course, they stayed away from “sensitive” issues such as political reform and Imperial policy.
+
+With the rise of the New Republic, renewed emphasis has been placed on balancing the need for universal legal principles and respecting local legal and cultural traditions among member worlds.
+
+### Humans
+
+Humans — particularly those from Coruscant, the Corellians, the Chandrilans and the Alderaanians — have traditionally had a large impact on Republic culture and politics. One of the more numerous species, there are dense human populations in the Core and human settlements can be found throughout the galaxy.
+
+The rise of Emperor Palpatine brought about the rise of “Human High Culture:” the ideology that humans were inherently superior to aliens. While this philosophy was not supported by all humans — most found the idea of “Human High Culture” repugnant — many aliens found their rights and freedoms restricted under Imperial law and faced a high degree of prejudice that was formally encouraged by Imperial dictates.
+
+The rise of the New Republic has seen a return to the days of humans and alien species fully cooperating and sharing ideas, as was the norm during the height of the Old Republic. Unfortunately, lurking in the darkest corners of human society are some who still embrace the Empire’s “humans first” philosophy.
+
+### Aliens
+
+The number of alien civilizations in the Known Galaxy is staggering. Duros, Aqualish, Rodians, Wookiees, Sullustans, Bothans... just a list of alien species would fill scores of datascreens. Amazingly, despite fundamentally different biological drives and perspectives — indeed, entirely different ways of understanding the universe — many aliens have had a long and peaceful history as members of the Republic.
+
+[Página impressa 259 | PDF 261]
+
+The Empire made a great effort to marginalize the impact of alien civilizations, but the New Republic has worked hard to ensure that all beings are treated as equals. The New Republic wants all species to have the opportunity to excel and contribute their unique skills, cultures, arts and technology.
+
+It is interesting to note that many people tend to discuss an “alien species” as if all its members belong to a single “culture” — this perception is flawed. Consider the diversity of human cultures, languages and perspectives... and remember that many alien species are equally varied.
+
+## ECONOMY
+
+The Known Galaxy’s economy is perhaps the ultimate “economy of scale.” Worlds with billions of inhabitants producing trillions of credits in goods per year are little more than a footnote in the grand scheme of things.
+
+Many worlds strive to develop a self-sustaining economy or have a few key industries and conduct trade with only a handful of nearby planets. Other worlds are extremely specialized, producing only certain products and entirely dependent upon others for essential goods. Huge starports (such as those found at Kuat and Byblos) and fleets of super transports and bulk freighters make such restricted planetary economies possible.
+
+The galaxy has many huge corporate conglomerates operating in dozens of fields and with facilities in several regions: Santhe/Sienar Technologies, SoroSuub Corporation and The Tagge Company (TaggeCo.) are but three examples of the galaxy’s more famous conglomerates.
+
+Smaller companies may “only” have operations in a few key sectors. The corporations that are barely noticed by galactic economists operate in only a handful of systems. Most systems also support a large number of “local” companies, which are rarely known outside of their home systems, but which manage to compete against the major conglomerates through a combination of “home system pride,” excellent product quality and shrewd marketing.
+
+Powerful guilds, other professional groups and trade associations also figure prominently in galactic affairs.
+
+Another key player in the economy — despite official claims to the contrary — is the galactic underworld. Under the Empire, a single organization — Black Sun — controlled much of the galaxy’s crime, although the Hutts and other groups were key players in this “industry.” Under the New Republic, criminal interests have better kept themselves hidden from the scrutiny of the government, although their influence is undoubtedly just as strong.
+
+The Galactic Republic’s economy was quite diversified, with strong industrial, transportation, communication, agricultural and medical industries. Under Palpatine, the economy was largely directed into supporting the military infrastructure, emphasizing weapons and starship manufacturing.
+
+The New Republic, on the other hand, inherited an economy in shambles: years of ceaseless warfare, particularly in areas long controlled by Imperial remnant groups, devastated many industrial facilities and crippled communication and transportation networks. With a limited amount of investment capital — and the need to continue fighting the Empire, on several fronts — the New Republic’s economic recovery has been slow.
+
+## TIMEKEEPING AND THE CALENDAR
+
+“Galactic standard” timekeeping measurements are derived from those which originated on Coruscant. While many planets maintain traditional local timekeeping measurements, all official communications and records use galactic standard measures.
+
+There are 60 standard seconds in a standard hour, 24 standard hours in a standard day, five standard days in a standard week and seven standard weeks in a standard month. A standard year is 368 standard days: ten standard months plus three fete weeks and three more holidays, all devoted to traditional celebrations, festivals and observances.
+
+## MONEY
+
+Credits is the standard term for money, although depending upon a person’s reference point, they may be referring to a completely different currency. For thousands of years, Republic credits were the common currency of the galaxy.
+
+As the Republic waned and the Rise of the Empire approached (circa Episodes I-III). Republic credits (also called “dataries”) no longer had much value beyond the Core Worlds and the Inner Rim. Instead, local currencies became popular. More often, people living and working in the distant regions wanted to trade in hard currency, not electronic credit chips.
+
+During the rule of the Empire, Imperial credits were the only universally accepted currency in the Known Galaxy. Because they were backed by the entire galactic economy, and the Empire was perceived to be exceptionally stable, credits were considered of value almost anywhere, even outside the boundaries of the Empire. Imperial credits could be issued in a variety of ways, including electronic credit sticks and cards, stocks, coins, corporate and bank notes, and credit vouchers.
+
+Cred sticks can be encrypted with security codes to prevent theft and to allow secure interplanetary transfer of money. However, what makes an electronic cred stick secure also makes it traceable — needless to say, most criminal elements in the galaxy use coins for exchange, or launder their money through many sources so that it is difficult to trace the “electronic path.”
+
+[Página impressa 260 | PDF 262]
+
+Imperial credit coins were issued in many denominations: 0.1, 0.2, 0.5, 1, 2, 5, 10, 20, 50, 100, 200, 500, 1,000, 2,000 and 5,000 credits. Larger denomination coins existed, but they weren’t widely circulated.
+
+With the rise of the New Republic, Imperial credits became worthless. The New Republic issued its own currency — also called credits — However, individual planets, regions, and sectors also adopted their own currencies, and the Imperial remnants issued their own scrip. During the many conflicts between the New Republic and the Imperial remnants, the exchange values of these currencies fluctuated wildly (at least in those areas where both currencies were in use — on many New Republic worlds it was illegal to possess Imperial currency and vice-versa). Some traders made a good living “speculating” on currency fluctuations, but a great many also lost fortunes in this risky market. Barter was often a preferred method of exchange in those troubled days.
+
+The New Republic credit eventually emerged as the leading currency by the time of The New Jedi Order era.
+
+Many planets, local governments, banks, guilds and corporations issue their own currencies, notes and “marks” — which may or may not be accepted depending upon where in the galaxy you are. The currencies’ depends entirely upon the stability and financial status of the issuer. Several companies specialize in buying “non-standard currency” (offering the seller New Republic credits or locally-acceptable currencies) on the premise that those credits can be “resold” somewhere else at a profit.
+
+### Carrying Credits
+
+Currencies can be issued in any number of forms: coins, electronically-encoded flimsiplast notes, or even simple metal slugs, beads or anything else that happens to be handy for the issuer. The most common method for keeping track of your credits are the credit chip or cred stick. These contain memory algorithms that can securely monitor the amount of credits available to the owner and accurately add to and subtract from the amount as transactions occur.
+
+## LANGUAGE
+
+Intelligent species have developed a bewildering array of communication forms. Fortunately, Basic, the standard language of the Old Republic, enables almost everyone to understand almost everyone else.
+
+Basic, derived from the native tongue of Coruscant’s Humans, is designed to be easy to understand and pronounce. Most alien species can speak it, and almost all of them can understand it. It’s the official language of the Old Republic and the Empire (and the New Republic and Galactic Alliance after it) and most records, scholarly texts and other works are stored in Basic.
+
+Nonetheless, there are many other languages in use. It isn’t unusual for someone to speak several languages: Basic, a native tongue, a couple of regional dialects, and a smattering of trade languages. A well-traveled citizen may speak dozens of languages.
+
+Translation devices are readily available for various languages. These computers can either vocalize specific phrases in a particular languages, or — in the case of the more expensive models — translate entire sentences in “real time.”
+
+# THE FORCE
+
+Knowledge of the Force and how to manipulate it is what gives the Jedi power. An energy field generated by all living things, the Force permeates the galaxy. The Force has both a positive and a negative side: the light and the dark.
+
+While even Jedi scientists were at a loss to explain exactly what the Force is, long ago, the Jedi Knights learned how to feel the ebb and flow of the Force. They mastered its power, using it to accomplish deeds others would call “miraculous.”
+
+The light side represents peace, tranquility... life itself. Power in the light side comes through meditation, thought and discipline. The light is called upon to defend others from evil and to do what is good.
+
+The dark side represents all that is evil: death, selfishness, greed, destruction and anger. The dark side isn’t more powerful than the light, but it is easier... quicker. Those who are quick to feel hate or fear are tempted by the dark side.
+
+At the height of the Republic, many people believed in the power of the Force, largely due to the beneficial actions of the Jedi Knights. The Empire waged an extensive campaign to stamp out belief in the Force... a campaign that was largely successful. (Of course, many in the Rebellion believed in the power of the Force and “May the Force be with you” was a common rallying cry in the ranks of the Alliance.)
+
+The rise of the New Republic and Luke Skywalker’s founding of the Jedi praxeum on Yavin IV has sparked renewed interest and belief in the Force, although there are still skeptics who say the Force is no more than “simple tricks and nonsense.”
+
+Most people spend their entire lives unaware of the Force’s influence. Whether good, evil, or neutral, they are blind to the
+
+[Página impressa 261 | PDF 263]
+
+power of the Force — although they may subconsciously use its power, calling it luck, fate, destiny, religion or magic. Such beings can commit evil, yet not be swallowed by the dark side; they can do good, yet not find the path of the Jedi and the light.
+
+However, to those who are “Force-sensitive,” the Force is more than an abstract concept. They can feel the Force flowing through them. A Force-sensitive person is more closely attuned to the Force than most people and is able to somehow sense the mystic rhythms of the universe. While this gives the individual many advantages, it also makes the person more susceptible to the corrupting influence of evil.
+
+Now that you know a lot more about the galaxy, you can start making decisions about the types of games you want to run.
+
+After you’ve played a few games, you might want to turn back to this chapter — particularly the sections on history and astrography — where there are plenty of ideas that you can develop for games.
+
+# ROLEPLAYING SETTINGS
+
+Now that you know the basics of how the galaxy works, you can start deciding what type of game you want to create. Your options for Star Wars adventures are virtually unlimited, but here are a few ideas and suggestions. (Of course, there’s no “right” or “wrong” ways to do things — if you and the players are enjoying the way the game is run, you’ve done your job.)
+
+## LOCATIONS
+
+The galaxy is a really big place and your adventures can happen anywhere in it. Through all the game books, comics and novels, there are literally hundreds of fleshed-out worlds you can drop into your adventures.
+
+When it comes to creating new worlds, you can fit almost anything into the galaxy as long as you “limit” it properly. If something is really powerful, you have to explain why it didn’t show up in the movies, novels and comics. By making something just “dangerous” instead of “the most dangerous,” or “the best in the sector” rather than “the best in the galaxy,” you can throw some really great settings and ideas into your game.
+
+Some gamemasters choose the “galaxy-spanning” approach, where characters go gallivanting all over the place. In one adventure, they may visit the heart of the Core Worlds, only to go racing out to the remote Outer Rim worlds in the next. The characters will get to visit many exciting places and this method is a good way to create the sense of scope that makes Star Wars a fun gaming environment.
+
+Other gamemasters may set their games in one of the established regions (the Corporate Sector is a popular choice). You may even limit your game setting to a single sector or a handful of worlds.
+
+By only using a few worlds in your setting (at least to start with), you can concentrate on creating really interesting planets, characters and settings. Even a “limited” setting (with only a few worlds) can still evoke the sense of wonder that’s essential to a great Star Wars game. (The original Star Wars movies only used seven planets, yet the audience got the impression that the galaxy was a lot larger: the scenes set in the Mos Eisley cantina,
+
+Jabba’s palace and the assembled Rebel fleet suggested that there was a lot more going on beyond what was shown on-screen.)
+
+Of course, the characters need a reason to stay put in your meticulously-designed setting. A base of operations or an arch-villain who hounds them every step of the way can provide that motivation.
+
+By limiting the scope of the game to a small region of space, it makes it much easier for the player characters to play a major role there — Luke Skywalker and the others may have destroyed the Empire, but it’s up to the characters to overthrow the local Moff and defeat the space pirates who plague the shipping lanes.
+
+## CHARACTERS
+
+For convenience, the Star Wars roleplaying game divides characters up into four broadly-defined social “classes,” with plenty of variety in each class. When setting up a game, you must decide what types of characters are appropriate so the players know which templates to pick from.
+
+### The “Good Guys”
+
+This type of game revolves around the soldiers, diplomats and supporters of the Republic, Rebel Alliance and the later New Republic.
+
+In the Old Republic, many characters will be “underdogs” fighting against the Sith or Mandalorians.
+
+During the Rise of the Empire Era, players may play the role of freedom fighters in a Separatist system, attempting to sabotage the forces of Count Dooku.
+
+Most Rebel character games, however, will revolve around underground Alliance freedom-fighters trying to defeat the awesome Galactic Empire. This type of game may be more than the characters constantly being sent to foil Imperial plots — perhaps the game revolves around Rebel spies working undercover on an Imperial world; perhaps the characters are responsible for rescuing Rebel agents who’ve had their covers blown. Maybe the characters are sent to help rebuild a world devastated by an Imperial occupation and the adventures revolve around the characters dealing with extremely dangerous situations with very limited resources.
+
+“New Republic” games may simply be “Rebels” in a different time — the heroes are still fighting to overthrow the Empire. The switch is that the “New Republic” characters are now the respectable ones — instead of sneaking around and hiding from Imperial forces, they now must formally represent the New Republic to new governments. Naturally, they make great targets for any Imperial forces that happen to be sore losers.
+
+There are many more New Jedi Order and Legacy game options such as political intrigue, corporate espionage, scouting and exploration, setting up trade routes, and smuggling goods to resistance groups on Vong/Imperial-held worlds.
+
+### The “Bad Guys”
+
+Star Wars is very clearly a story about good versus evil and it’s expected that you’ll be playing the good guys. Still, there are some people who want to see what it’s like on the other side of the war. Players may want to take on the role of Separatist characters or the forces of the Yuuzhan Vong. Imperial character-oriented games can focus on rank-and-file soldiers and
+
+[Página impressa 262 | PDF 264]
+
+pilots, or involve spying on local governments suspected of being disloyal to the Empire, or center around political and court intrigue — imagine trying to survive in the cut-throat environment of the Emperor’s court.
+
+If the players want to play “true” bad guys (those who choose to be evil), the gamemaster is strongly encouraged to make sure the characters get what they deserve (and then some) — this is a universe where evil is punished. On the other hand, not everyone who worked for the Empire or the Separatists was a thoroughly despicable person — General Madine was once an Imperial commando and Mara Jade was the Emperor’s Hand, a high-level security operative. Some people felt that the best way to reform the Empire was from within, while others believed that they had to work within the Imperial system to protect their homeworlds or families. Still others were so patriotic that they discounted any rumors of atrocities — when confronted by the truth behind the Empire, they had to make difficult choices. All of these themes can make for a memorable “bad guy” characters game.
+
+### Fringers
+
+Those who work in the shadows of society, on the edge of the law, are collectively called “the fringe.” This group includes people such as smugglers, bounty hunters, mercenaries, pirates, dealmakers, infochants and computer slicers. (Of course, many rather despicable professions are also a part of the fringe.)
+
+Many players enjoy the excitement of playing fringe characters — they’re flamboyant and quick with both a blaster and an amusing quip. Fringe games can be set almost anywhere and during any era — such characters may end up helping the Alliance; New Republic-era fringe games may find the characters either supporting the new government or conning into conflict with its “hard-nosed enforcers.”
+
+Due to the tyrannical policies of the Empire, many once-legitimate cargo haulers were forced into smuggling, although there are also those who truly love the free-wheeling fringe lifestyle. Other character possibilities can include cold-hearted mercenaries or “heart of gold” profiteers torn between their desire for wealth and a deeply-ingrained sense of morality.
+
+Just as with the Imperial characters, gamemasters are encouraged to make sure that immoral characters get exactly what they deserve.
+
+### Independents
+
+The independent characters are composed of those with vast wealth and the leisure time to freely travel among the stars. The reasons for their journeys vary — perhaps business, government negotiations, recreation or socializing — but these fortunate beings live on the wealthiest worlds, attend the best parties, know the most important people, and visit the poshest vacation worlds.
+
+During the Republic, this includes nobles and members of the ruling classes, those with rich inheritances, merchants, elite politicians, corporate leaders, talented artisans, and anyone else gifted with both great wealth and high social standing.
+
+During the reign of the Empire, most members of the independent class were either part of the Imperial establishment or said just enough to be allowed to go about their business without much interference. Under the New Republic, many members of the independent class distanced themselves from the new government since it seemed to lack the will and the resources to coerce “proper” behaviors, as the Empire had.
+
+While it may be impractical to allow player characters who are truly part of the independent class — after all, there’s not much challenge when characters can buy their way out of any problems — those who strive to be part of the independent class yet lack limitless resources can be a challenge to play.
+
+### Other Options
+
+There are many other game opportunities for gamemasters and players. Some ideas may be suitable to “one-shot” games, while others can form the basis of a truly memorable long-term campaign.
+
+Groups of Jedi characters can be used in either Old Republic/Republic games, or they can be novice and intermediate students from Luke Skywalker’s Jedi academy on Yavin IV.
+
+Perhaps the characters can be a group of Twi’leks cooperating to save their home city from pirate attacks and slavers, all the while trying to earn honor and prestige for their individual clans.
+
+The characters could be a group of Sullustans all employed by the SoroSuub Corporation — they may be torn between a sense of duty to their employer (SoroSuub is an Imperial-allied company and the government of the Sullustan people) and the desire to do what is right. The characters may slowly be drawn into the Rebellion, or they may be playing a behind-the-scenes role in SoroSuub’s eventual alignment with the Rebel Alliance (as happened shortly before the Battle of Endor).
+
+For a more humorous angle, perhaps the characters are novice (and inept) Gamorrean mercenaries, faced with the challenge of learning the ropes in a bewildering and unfairly complex society. What more could one want out of life than food and the chance to flex one’s muscles in a good brawl?
+
+Now, if only you can find someone who understands your language.
+
+# SO MUCH TO EXPLORE
+
+There’s an incredible amount of material you can use in developing your Star Wars adventures.
+
+• West End Game’s and Womp Rat Press’ line of game products include sourcebooks, Galaxy Guides, Adventure Journals, supplements, stat books and adventure books. These products provide short stories, detailed character backgrounds, and plenty of new starships, aliens, planets, droids and equipment for your games... and all with complete game statistics.
+
+• Bantam Spectra and Del Rey’s line of Star Wars novels, the Young Jedi Knights and Junior Jedi Knights series from Boulevard Books, the original Star Wars novels from Del Rey Books, and special projects like The Illustrated Guide to the Star Wars Universe, The Star Wars Technical Journal, the “Essential Guides,” the “Art of” books and many other Star Wars publications introduce new characters and situations. These stories continue the development of the Star Wars galaxy and can inspire many original adventures.
+
+• Likewise, new Star Wars adventures from Dark Horse Comics also introduce many new characters, planets, ships and other elements.
+
+• LucasArts’ video/computer games X-Wing, TIE Fighter, Rebel Assault, Rebel Assault II, Dark Forces, Knights of the Old Republic, and The Force Unleashed all add an exciting new dimension to the Star Wars universe that can be used in your games.

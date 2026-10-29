@@ -1,0 +1,176 @@
+{
+  "id": "starship-combat",
+  "source": { "chapter": 8, "pages": [131, 132, 133, 134, 135, 136, 137, 138, 139], "file": "raw-data/08-space-travel-combat.txt" },
+  "movement": {
+    "space_score": "Moves in Space units per round at cruising speed. Slow ships 2-3, average freighters 5-6, fastest starfighters 11-12. Moving is an action; once per round.",
+    "roll": "Pilot rolls the ship's piloting skill (capital ship piloting, space transports or starfighter piloting) plus the ship's maneuverability code; >= difficulty or movement failure.",
+    "speeds": [
+      { "speed": "cautious", "multiplier": 0.5, "note": "Round up. Free action in Very Easy/Easy/Moderate space (no roll); in harder space roll with the difficulty one level lower." },
+      { "speed": "cruising", "multiplier": 1, "note": "An action; automatic in Very Easy/Easy/Moderate space; roll for Difficult or worse." },
+      { "speed": "high", "multiplier": 2, "note": "Roll in all space; Difficult becomes Very Difficult, Very Difficult becomes Heroic, Heroic becomes Heroic +10." },
+      { "speed": "all-out", "multiplier": 4, "note": "No other action (no starship dodges, no weapons; shields at the gamemaster's discretion). Difficulty +1 level in easy space, +2 levels in hard space." }
+    ],
+    "acceleration": "One level per round (high speed can go to cruising or all-out, not to cautious or a stop).",
+    "partial_moves": "Anywhere from half to the full distance of the chosen speed.",
+    "long_distance": "All-out: hull code roll every 10 minutes (first Very Easy, +1 level each). High speed: every hour. Fail by 1-10: strain, rest twice as long; fail by 11+: mechanical failure (Moderate repair roll, at least an hour).",
+    "terrain_difficulty": [
+      { "level": "Very Easy", "range": "1-5", "examples": "Clear space with no navigational hazards." },
+      { "level": "Easy", "range": "6-10", "examples": "Near other ships (orbiting a station); minor obstacles such as a small dispersed asteroid belt." },
+      { "level": "Moderate", "range": "11-15", "examples": "Crowded space (busy spacedock staging area); moderate debris; the Death Star's artificial canyon." },
+      { "level": "Difficult", "range": "16-20", "examples": "Starfighter combat with many ships close by; areas clogged with debris or asteroids." },
+      { "level": "Very Difficult", "range": "21-30", "examples": "Space densely packed with ships or debris." },
+      { "level": "Heroic", "range": "31+", "examples": "Almost impossible: inside the Death Star to the reactor core; Hoth's asteroid field." }
+    ],
+    "maneuver_modifiers": [
+      { "modifier": "+1-5", "meaning": "fairly easy" },
+      { "modifier": "+6-10", "meaning": "somewhat difficult, needs some skill" },
+      { "modifier": "+11-15", "meaning": "very difficult, needs a very talented or lucky pilot" },
+      { "modifier": "+16+", "meaning": "almost impossible" }
+    ],
+    "movement_failures": [
+      { "missed_by": "1-3",   "result": "Slight slip", "effect": "Pilot -1D to all actions for the rest of the round." },
+      { "missed_by": "4-6",   "result": "Slip", "effect": "Half the Space move; pilot -3D this round and -1D next." },
+      { "missed_by": "7-10",  "result": "Spin", "effect": "A quarter of the Space move, then out of control: no control this round and next." },
+      { "missed_by": "11-15", "result": "Minor collision", "effect": "If anything to hit: collision damage -3D; otherwise spins out of control (no control this round and next)." },
+      { "missed_by": "16-20", "result": "Collision", "effect": "Normal collision damage if anything to hit; otherwise spins out of control." },
+      { "missed_by": "21+",   "result": "Major collision", "effect": "Collision damage +4D if anything to hit; otherwise spins out of control." }
+    ],
+    "collision_damage": [
+      { "speed": "cautious", "damage": "2D" },
+      { "speed": "cruise", "damage": "4D" },
+      { "speed": "high", "damage": "6D" },
+      { "speed": "all-out", "damage": "10D" }
+    ],
+    "collision_angle": [
+      { "angle": "Head-on", "modifier": "+3D" },
+      { "angle": "Rear-ender/sideswipe", "modifier": "-3D" },
+      { "angle": "T-bone", "modifier": "0D" }
+    ],
+    "collision_notes": "Roll collision damage against the hull code roll; account for scale; reduce by -1D, -2D or more if the ship hits something very light.",
+    "source_pages": [131, 132, 133, 134]
+  },
+  "combat": {
+    "attack": "Difficulty by the weapon's range in Space units; roll starship gunnery (starfighter-scale weapons) or capital ship gunnery (capital-scale weapons) plus the weapon's fire control; >= difficulty hits; roll damage. All starships provide full cover.",
+    "reaction": "Starship dodge: piloting skill + maneuverability becomes the new difficulty. Full reaction (only action of the round): the roll is added to every attack's difficulty.",
+    "weapons_rules": "Starship weapons use the fire control, ammo, fire rate, blast radius and scale rules of the Combat chapter, and ranges, crew and fire arcs of the Movement chapter. 'Range' is in Space units; 'Atmosphere Range' applies in an atmosphere or when firing into one from orbit.",
+    "fire_linked": "Statistics are for fire-linked groups (X-wing: four laser cannons, 6D together). Fired separately, apply the combined-action bonus in reverse: four cannons subtract -1D+2, so each does 4D+1.",
+    "weapon_types": {
+      "laser_cannons_and_turbolasers": "Laser cannons are standard on starfighter-scale ships; turbolasers are capital-scale.",
+      "ion_cannons": "Interfere with electrical and computer systems, cause no physical damage, and ignore shields (only the hull code resists)."
+    },
+    "ion_cannon_damage": [
+      { "damage_minus_hull_code": "0-3",   "effect": "controls ionized" },
+      { "damage_minus_hull_code": "4-8",   "effect": "2 controls ionized" },
+      { "damage_minus_hull_code": "9-12",  "effect": "3 controls ionized" },
+      { "damage_minus_hull_code": "13-15", "effect": "4 controls ionized" },
+      { "damage_minus_hull_code": "16+",   "effect": "controls dead" }
+    ],
+    "missiles_bombs_torpedoes": {
+      "rule": "Difficulty rises with the target's speed.",
+      "rows": [
+        { "difficulty_increase": "+5",  "target_space": "3",  "target_move_atmosphere": "100-150" },
+        { "difficulty_increase": "+10", "target_space": "4",  "target_move_atmosphere": "151-200" },
+        { "difficulty_increase": "+15", "target_space": "5",  "target_move_atmosphere": "201-250" },
+        { "difficulty_increase": "+20", "target_space": "6+", "target_move_atmosphere": "251+" }
+      ]
+    },
+    "tractor_beams": {
+      "rule": "Hit with a normal attack. Roll the beam's damage against the target's hull code. A captured ship that does not resist is reeled in 5 Space units per round. If it resists: hull code higher breaks free; beam equal or higher reels it in and may damage the drives.",
+      "table": [
+        { "beam_minus_hull_code": "0-3",   "reeled_in": "no change", "target_damage": "none" },
+        { "beam_minus_hull_code": "4-8",   "reeled_in": 1, "target_damage": "-1 Move" },
+        { "beam_minus_hull_code": "9-12",  "reeled_in": 2, "target_damage": "-2 Moves" },
+        { "beam_minus_hull_code": "13-15", "reeled_in": 3, "target_damage": "-3 Moves" },
+        { "beam_minus_hull_code": "16+",   "reeled_in": 4, "target_damage": "-4 Moves" }
+      ]
+    },
+    "source_pages": [134, 135, 136]
+  },
+  "shields": {
+    "types": "Particle shields deflect physical objects (asteroids, missiles, torpedoes); they are lowered to launch fighters or fire missiles/torpedoes, which gives -2D hull code. Losing the main generator loses particle shields. Energy/ray shields also exist.",
+    "use": "Shields are a reaction skill (starship shields; capital ship shields). Split the ship's shield dice among the four fire arcs (front, back, left, right). Hits from a covered arc add those shield dice to the hull code to resist damage.",
+    "difficulty_by_arcs": [
+      { "arcs": 1, "difficulty": "Easy" },
+      { "arcs": 2, "difficulty": "Moderate" },
+      { "arcs": 3, "difficulty": "Difficult" },
+      { "arcs": 4, "difficulty": "Very Difficult" }
+    ],
+    "example": "Hull 4D, shields 2D all on the back arc: attacks from the back resist with 6D. Split 1D front and 1D back (Moderate): 5D against either, 4D against the sides.",
+    "capital_ship_option": "When shield dice are lost, roll 1D per die lost to set the difficulty of shunting the overload (capital ship shields). Success: only controls ionized. Failure: roll the lost dice against hull dice as damage. A Wild Die complication or a 'shields lost' result makes the shield module explode.",
+    "source_pages": [134, 135]
+  },
+  "called_shots_on_ships": {
+    "rule": "A weapon cannot target a location on a ship of a lower scale than itself (a capital weapon can hit a capital ship's engines but not a starfighter's).",
+    "difficulty_modifiers": [
+      { "location": "Primary section (conning tower, engines, landing bay, main body)", "modifier": "+2D" },
+      { "location": "Subsection (gun battery, one engine, shield generators, command section)", "modifier": "+4D" },
+      { "location": "Specific location (a gun, the bridge, a thruster, an exhaust port)", "modifier": "+8D" }
+    ],
+    "damage_to_location": [
+      { "damage": "Light", "penalty": "-1D or -1 Move" },
+      { "damage": "Heavy", "penalty": "-2D or -2 Move" },
+      { "damage": "Severe", "penalty": "System disabled" },
+      { "damage": "Destroyed", "penalty": "Catastrophic damage; threatens the ship" }
+    ],
+    "source_pages": [136, 137]
+  },
+  "power_control_optional": {
+    "capacity": "A ship has power for all systems and can channel up to +2D extra to any system from other systems. Raw power does not help computers (nav, targeting) but can boost comms range or active sensor scans. All-out ships cannot fire or maneuver and may not use shields.",
+    "base_difficulty": [
+      { "condition": "Simple rerouting (one system to one recipient)", "difficulty": "Moderate" },
+      { "condition": "Several systems to one recipient", "difficulty": "Difficult" },
+      { "condition": "Several systems to several recipients", "difficulty": "Very Difficult" }
+    ],
+    "switching_time": [
+      { "operator_roll": "1-5",   "time": "2D rounds" },
+      { "operator_roll": "6-10",  "time": "1D rounds" },
+      { "operator_roll": "11-15", "time": "2 rounds" },
+      { "operator_roll": "16-20", "time": "1 round" },
+      { "operator_roll": "21+",   "time": "1 second" }
+    ],
+    "source_page": 137
+  },
+  "starship_damage": {
+    "resolution": "Roll damage (attack or collision) against the hull code roll. Lower: no damage. Equal or higher: use the chart.",
+    "chart": [
+      { "damage_minus_hull_code": "0-3",   "result": "Shields blown / controls ionized" },
+      { "damage_minus_hull_code": "4-8",   "result": "Lightly damaged" },
+      { "damage_minus_hull_code": "9-12",  "result": "Heavily damaged" },
+      { "damage_minus_hull_code": "13-15", "result": "Severely damaged" },
+      { "damage_minus_hull_code": "16+",   "result": "Destroyed" }
+    ],
+    "shields_blown": "-1D from shields until repaired; with none left, controls ionized.",
+    "controls_ionized": "-1D from maneuverability, shields, weapon fire control and damage for the rest of this round and the next. As many ionized results as maneuverability dice freeze the controls for two rounds (same speed and direction, no turning, weapons, shields or other actions); piloting rolls must still be made or the ship crashes (or spins if nothing to hit).",
+    "lightly_damaged": { "roll": "1D", "repeatable": true, "results": [
+      { "roll": "1", "effect": "-1D maneuverability (if already 0D: -1 Move)." },
+      { "roll": "2", "effect": "One weapon emplacement (random) destroyed; gunners take damage." },
+      { "roll": "3", "effect": "One weapon emplacement (random) inoperative: lightly damaged." },
+      { "roll": "4", "effect": "Hyperdrive damaged: double astrogation calculation times; a one-round jump adds +10 to the difficulty. Fix: one hour and a Moderate repair roll (capital ship, space transports or starfighter repair)." },
+      { "roll": "5", "effect": "-1D shields (if none: controls ionized)." },
+      { "roll": "6", "effect": "-1 Move." } ] },
+    "heavily_damaged": { "roll": "1D", "note": "Lightly or heavily damaged again becomes severely damaged.", "results": [
+      { "roll": "1", "effect": "-2D maneuverability (if already 0D: -2 Move)." },
+      { "roll": "2", "effect": "Weapons system in one fire arc (random) inoperative: all weapons of that type in that arc." },
+      { "roll": "3", "effect": "Weapons system destroyed: all weapons of one type in the same arc; gunners take damage." },
+      { "roll": "4", "effect": "Hyperdrive damaged: +10 to all astrogation difficulties until fixed (Moderate repair, one hour)." },
+      { "roll": "5", "effect": "-2D shields (if none: 2 controls ionized)." },
+      { "roll": "6", "effect": "-2 Move." } ] },
+    "severely_damaged": { "roll": "1D", "note": "Lightly, heavily or severely damaged again is destroyed.", "results": [
+      { "roll": "1", "effect": "Dead in space: all drives and maneuvering systems destroyed." },
+      { "roll": "2", "effect": "Overloaded generator: explodes in 1D rounds unless shut down." },
+      { "roll": "3", "effect": "Hyperdrives (main and backup) disabled until fixed (Moderate repair, one hour)." },
+      { "roll": "4", "effect": "All weapons lose power; roll 1D: 1-4 severely damaged but repairable, 5-6 all weapons destroyed." },
+      { "roll": "5", "effect": "Structural damage: the ship disintegrates; the crew has 1D rounds to evacuate." },
+      { "roll": "6", "effect": "Destroyed: disintegrates or explodes." } ] },
+    "destroyed": "Instantly destroyed; everyone aboard is killed.",
+    "lost_moves": [
+      { "total": "-1", "effect": "No all-out; limited to high speed." },
+      { "total": "-2", "effect": "Limited to cruising speed." },
+      { "total": "-3", "effect": "Cautious speed only." },
+      { "total": "-4", "effect": "Sublight drives disabled; dead in space." },
+      { "total": "-5", "effect": "Ship destroyed." }
+    ],
+    "lost_moves_note": "Lost Moves add together.",
+    "source_pages": [137, 138, 139]
+  }
+}

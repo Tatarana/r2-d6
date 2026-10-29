@@ -1,0 +1,753 @@
+CHAPTER 2: CHARACTERS
+(Páginas impressas 18-31 | PDF 20-33)
+
+[Página impressa 18 | PDF 20]
+
+2
+
+# CHARACTERS
+
+Hi there! Shae asked me to tell you how to create your own characters. My name’s Risha and I make my living sneaking cargoes under the noses of Imperial Customs inspectors. I like to call myself a “freelance entrepreneur,” but most people just call me a smuggler. I’m not quite as famous as Han Solo, but then again, I don’t have half the bounty hunters in the galaxy chasing after me.
+
+On to business. If you want to play Star Wars, you’re going to need a character. The best way to start is to flip to the back of the book and pick out a template that appeals to you. You can play a smuggler, a Rebel pilot, a mercenary (or “merc”), a Wookiee... whatever suits you.
+
+Either make a copy of the template, or copy the game information — the attribute die codes, Move and equipment — onto a sheet of scratch paper or a blank character sheet.
+
+(If none of the templates appeal to you, turn to “Creating a New Template” later in this chapter for rules for creating your own template.)
+
+So, you’ve picked a template. Now what? Each template has background information — personality, background, objectives and things like that — describing your character. There’s even a quote your character might say during an adventure. These things help you understand who you’re playing, but they are only a starting point. You can make changes as long as the gamemaster approves them. (See “Selecting a Character” for a few suggestions.)
+
+Make up a name for your character. Try not to use an “Earth” name, especially if you’re playing an alien. Remember, this is the Star Wars galaxy here, and it’s filled with exotic places and names. Han Solo, Wedge Antilles, Tru’eb Cholakk, Biggs Darklighter, Vorrin Tal, Mali Starslinger, Casta Famib, and Leia Organa are all good “non-Earthly” names.
+
+Pick your character’s height, weight, sex and age, and come up with a brief description of what he or she looks like. Some aliens have special abilities. For example, Sullustans have such a good sense of direction that they almost never get lost; they also get a bonus for astrogation rolls. Some characters even have Force skills like the Jedi Knights.
+
+CHAPTER TWO
+
+[Página impressa 19 | PDF 21]
+
+If there’s something on your character sheet you do not understand, just ask the gamemaster to explain it to you. If the gamemaster approves, you can change your character’s species, but that may affect the game statistics, so turn to the “Creating a New Template” section later in this chapter.
+
+You’re probably wondering, “Do I have to read this whole chapter?” Not really. You’ll notice several tan boxes — they highlight the rules you need to know. The rest of the text has examples, clarifications and detailed explanations, you can read these sections if you want to, but if you understand the highlighted ideas, just skip the rest.
+
+The same applies to the rest of the rules chapters in this book, although only would-be gamemasters have to read those. The stuff that has to be read will be highlighted, and all the rest the reader can go back to at his leisure. You can basically learn the whole game just by reading the colored boxes.
+
+Hey, we’ve made this game easier than bribing hungry Imperial Customs officers with a cargo hold filled with glazecakes. So go ahead, read on, play and enjoy.
+
+# SELECTING A TEMPLATE
+
+If you have already picked a template to play, skip ahead to “Finishing the Template.” If you are still trying to pick one or want a few tips on how to make your character different, keep on reading this section.
+
+Think about what kind of person you want to play. Do you want to play a dashing smuggler like Han Solo? A cunning Jedi like Obi Wan Kenobi during the Clone Wars? An impressionable Jedi-in-training, like Luke Skywalker at the beginning of A New Hope? A headstrong diplomat like Padmé Amidala? A seedy con artist? An engineer who is more at home with droids than people? There are many, many different types of people in the galaxy and you can play almost anyone.
+
+Before you pick a template, ask the gamemaster what type of adventure is being run. If the adventure features a group of Rebel freedom-fighters, almost anyone fits in as long as they are moral and decent at heart: the Rebels are the “good guys” after all.
+
+However, if the adventure is for a bunch of ruthless bounty hunters, being a Wookiee or a Jedi Knight probably isn’t going to work. Some gamemasters even run adventures for Imperial or Separatist player characters.
+
+It is not a bad idea to ask the other players what kind of characters they will be playing. Normally, your game should have a diverse group of characters with a mix of skills — not everyone can be a pilot, a smuggler or a Jedi Knight.
+
+## DETAILING A CHARACTER
+
+A character template is a good starting point, but it is only a description of a type of character. There are thousands of smugglers in the galaxy — how do you make yourself different?
+
+### Physical Description
+
+What does your character look like? Appearance can say a lot about your character; spend some time thinking about this.
+
+Figure out hair color, eye color, and other physical qualities. Is your character in shape or overweight? Attractive or plain? List anything unusual about your character’s appearance, like bright blue hair, tattoos, facial scars or anything else that springs to mind.
+
+Think about your character’s presence, body language and mannerisms. Is he menacing? Shy? Outgoing and popular? Does he walk with a limp, or have a strange accent? Does he have a nervous twitch when he lies? What kind of impression does your character give people?
+
+Write down how your character dresses: a smuggler dresses differently than a soldier or a wealthy business leader. For example, most of the time Han Solo wears a vest, boots, and a white tunic, and he always wears his heavy blaster pistol.
+
+### Background
+
+This tells you a little about what your character did up until you started playing him or her. The background is for you and the gamemaster only — you only have to tell the other players as much about your character as you want to. (One of the most interesting things things about Han Solo is that you do not really know what he did before he joined up with Luke Skywalker or Princess Leia.)
+
+Your character may want to hide things about his past, and perhaps there is even an old foe or two lurking in the background. Your character can even lie about his past! If your character is bitter and cynical, there is probably a good reason he is that way — so what happened to him?
+
+You can develop a much more detailed background if you want to. What kind of odd jobs did your character hold? Where has he traveled and who does he know? What was his home planet like? Who were his parents, siblings, relatives and friends — and how does he get along with them?
+
+A well-developed background can give the gamemaster plenty of ideas for adventures, while allowing for new developments during play. The gamemaster may “remind” you of things your character knows or introduce other people that “knew” your character in the past.
+
+### Personality
+
+This is how your character generally acts — he will not always act this way, but it is a good summary. You should spend a few minutes creating a personality that is interesting and fun for you to play.
+
+Characters should have both good points and bad points. For example, Luke in A New Hope is a good pilot, has a strong sense of right and wrong, and is a pretty likable person — but he is also impatient, tends to rush into things without realizing what he is getting himself into, and is driven by revenge because of the deaths of Uncle Owen and Aunt Beru.
+
+Detail your character’s personality. Is he perpetually worried? Too eager to fight? Does he have an almost neurotic need to assert authority?
+
+Think about your character’s sense of morality. Some characters have very strong codes of behavior while others tend to “adapt” their ethics to fit the current situation. You can play heroes, like Luke Skywalker, or rogues and other “shady” characters, like Han Solo and Lando Calrissian. Would your character be willing to betray his friends for the sake of a few credits, or would he refuse to betray them no matter the cost?
+
+[Página impressa 20 | PDF 22]
+
+### Objectives
+
+This is what your character hopes to accomplish. What motivates your character? Greed (for money, power or something else)? Love? A sense of honor? A desire for adventure and excitement?
+
+Objectives can be immediate, short-term, or long-term. Some characters do not care much about anything past their next paycheck, while others have long-term goals, like starting a shipping company or becoming a top officer in the Rebel Alliance. Goals can be noble or selfish, grandiose or modest... or whatever else you come up with.
+
+Character objectives can also change during play — this is just what your character is interested in now.
+
+### Connection With Other Characters
+
+How did your character get involved with the other characters in the group? “Connections” give the characters a reason to risk their necks for each other. They also help the players figure out how the characters react to each other.
+
+Here are a few possible connections that can be fleshed out with the other players and the gamemaster...
+
+• Friends. The most obvious (and the most often overlooked) connection. Friends will do a lot to help each other even if they have been out of touch for years.
+
+• Relatives. No one gets to choose who they are related to, but most people feel obligated to help out their relatives (even if they don’t like them all that much). This can be particularly interesting if the characters would tend to be at odds
+— how does the egalitarian young Senatorial react to the seedy smuggler who happens to be her step-brother?
+
+• Employees. One character may hire another for any number of reasons. Maybe the characters have worked together for a long time... or the adventure revolves around a one-time deal that gets more complicated along the way.
+
+• Joint Ownership of a Ship. Starships are expensive. Two or more characters could jointly own a ship (and have to deal with the debts that go with it).
+
+• Traveling Companions. Even the most unlikely pair might have traveled together for months or years before the game begins. “Fringe” characters might be buddies or partners in crime. Wealthy characters might be friends who have decided to “see the galaxy” in style.
+
+• Mentors. Any older character can take a younger character under his or her wing. The younger character has a teacher or mentor while getting a chance to explore distant worlds.
+
+• Rivals. Friendly competition can add a lot to an adventure (as long as it does not get out of hand). Han Solo and Lando Calrissian are rivals who continually strive to out-do each other.
+
+• Same Homeworld. Characters from the same planet share a few things in common even if they are very different types of people. Two characters from Corellia will invariably swap stories about home even if they have nothing else in common.
+
+• Classmates. Characters of the same age could have attended the Imperial Academy or a university together. For example, Han Solo’s old Academy friend Shug Ninx shows up when Han returns to Nar Shadaa in Dark Empire.
+
+• Known by Reputation. Even if characters have never met before, they may know of each other by reputation. A smuggler might have heard of other smugglers, pirates or bounty hunters. Senators might be well-known public figures.
+
+• Love. A romantic interest can be difficult to play, but some players are comfortable with the idea. Let the players choose this kind of tie; gamemasters should never force this connection.
+
+## MAKING CHANGES
+
+What if you want to play a happy-go-lucky scout instead of a cynical old grump? Or a quiet and shy pilot instead of a brash one? That’s no problem.
+
+You can change the background and personality to create the character you want to play, but be sure to clear all your changes with the gamemaster.
+
+Some things — like debts owed to crime lords — are adventure hooks and are supposed to make the character’s life tougher. And not everyone can be a noble princess or the long-lost child of a famous Jedi...
+
+[Página impressa 21 | PDF 23]
+
+# FINISHING THE TEMPLATE
+
+Be sure to review the “Player Handout” on pages 14-17 for an explanation of attributes, die codes and other basic rules.
+
+Make up a name, height, weight, sex, age and physical description for your character. (Your character does not have to look like the sample character shown on the template.)
+
+All characters start the game with five Character Points. Write that down on your character sheet, but be sure to use a pencil since this number changes during game play.
+
+You only have to do four things to finish a template:
+
+1. Pick Skills.
+
+2. Decide if the character is Force-sensitive.
+
+3. Spend credits on equipment.
+
+4. Pick Force powers.
+
+## 1. PICK SKILLS
+
+While attributes cover a character’s inborn ability in certain areas, you must be wondering, “Can my character get better at anything?”
+
+That is where skills come in. Each template has several skills listed under each attribute. The skills are explained in the chapter titled “Attributes and Skills.”
+
+A beginning character has 7D to spend on skills; you can add 1D or 2D to any of the skills shown on the template. All the skills listed beneath a given attribute begin with that attribute’s die code.
+
+With the gamemaster’s permission, you can add other skills to the template.
+
+If a character has any of the Force skills — control, sense or alter (they’ll be listed under special abilities) — you may improve them, but you cannot add these skills to the template if they’re not already listed.
+
+Example: Greg decides he wants to play a bounty hunter; he names his character Thannik.
+
+Greg decides to take 1D of his beginning 7D and put it in blaster. Thannik’s Dexterity is 4D, so his new blaster skill is 5D (4D+1D); he’s got 6D left over for other skills.
+
+Then, he puts 2D in dodge (also a Dexterity skill) — his new dodge skill is 6D (4D+2D). He’s got 4D left.
+
+Greg then decides to put 2D in space transports, a Mechanical skill. Since Thannik’s Mechanical attribute is 2D+2, the extra 2D bumps up his space transports to 4D+2.
+
+Greg puts 1D in search, which is a Perception skill. That makes his search 4D (since his Perception is 3D).
+
+That still leaves 1D of beginning skill dice... maybe it’s time to see how specializations work.
+
+“What happens if I don’t improve a skill?” Simple — just roll the attribute. Remember, skills that are not improved still have the same die code as their attribute.
+
+Example: Thannik has improved his blaster and dodge, which are Dexterity skills. He didn’t improve a lot of other skills, like grenade, melee combat or melee parry. When he does anything covered by those skills (or uses any other part of Dexterity), he simply rolls his Dexterity of 4D.
+
+### Specializations
+
+You can spend 1D of your character’s beginning skill dice to get three specializations; add 1D to each specialization.
+
+Each skill in the “Attributes and Skills” section lists several specializations; you may create new specializations with the gamemaster’s permission.
+
+You roll the specialization’s die code only when you use the specific item or knowledge covered by the specialization; otherwise, you roll the basic skill (or the attribute if you haven’t improved the skill).
+
+Example: Greg decides to use his remaining 1D of beginning skill dice to get three specializations.
+
+Greg decides Thannik specializes in blaster pistol (a specialization of blaster), Wookiees (a specialization of alien species), and Ghtroc freighter (a specialization of space transports. He adds 1D for each specialization.
+
+Thannik’s blaster skill is 5D. Greg writes down the blaster: blaster pistol specialization, which is 6D.
+
+Now, whenever Thannik uses a blaster pistol, Greg gets to roll 6D. Whenever Thannik uses any other type of blaster, Greg only rolls 5D.
+
+Since Thannik doesn’t have any skill dice in alien species, his alien species: Wookiees specialization is 3D+2 (1D plus his 2D+2 Knowledge).
+
+Thannik’s final specialization, 1D in space transports: Ghtroc freighter, makes his specialization die code 5D+2. Whenever Thannik pilots a Ghtroc freighter, Greg gets to roll 5D+2; when Thannik pilots any other starship that uses the space transports skill, Greg rolls his space transports die code of 4D+2.
+
+Specializations are really useful when a character is going to be using the same item over and over. For example, Han Solo might specialize in YT-1300 transports (a space transports specialization) since most of the time he flies the Millennium Falcon, a modified YT-1300.
+
+However, if Han piloted many different types of transports — Ghtroc freighters, YT-2400 freighters, bulk transports and more — he’d be better off not specializing and only using the space transports skill instead.
+
+[Página impressa 22 | PDF 24]
+
+### Advanced Skills
+
+If there is an “(A)” listed in front of a skill name, it’s an “advanced skill”. Advanced skills demand years of disciplined study to master and cannot be attempted unless a character has the skill. Some examples include (A) medicine, (A) space transports engineering, (A) starfighter engineering and (A) droid engineering.
+
+A character may have an advanced skill listed on the template. If your character meets the “prerequisite skills” requirement, you may put beginning skill dice in the advanced skill. Check the skill’s description in the “Attributes and Skills” chapter to find the prerequisite skills; you will probably have to put some of your beginning skill dice in the prerequisite skills.
+
+Example: The prerequisite for the advanced skill of (A) medicine is first aid 5D. If your character has at least 5D in first aid, you can put 1D or 2D of your beginning skill dice in (A) medicine.
+
+When a character purchases an advanced skill, it begins at 1D. Advanced skills do not begin at the same level as their corresponding attribute.
+
+When a character uses one of the prerequisite skills, add the advanced skill to the prerequisite skill’s roll.
+
+If you don’t place beginning skill dice in an advanced skill, cross it off the template.
+
+Example: A character has first aid at 5D and (A) medicine at 1D. He rolls only 1D for (A) medicine checks, such as performing surgery or diagnosing an unusual disease. However, if the character makes a first aid check, he gets to roll 6D — 5D for first aid plus the 1D for (A) medicine.
+
+## 2. FORCE SENSITIVITY
+
+Only a rare few are sensitive to the Force. If the “Force-sensitive” line is blank, choose “Yes” or “No.”
+
+A character with a “Yes” on the Force-sensitive line starts the game with two Force Points.
+
+A character with a “No” on the Force-sensitive line starts the game with one Force Point.
+
+Force-sensitive characters feel the pull of both the light and the dark. They must be careful not to do evil or they risk being forever corrupted by the dark side.
+
+Force-sensitive characters can’t be as mercenary as Han Solo is at the beginning of A New Hope. They must be moral, honest and honorable, like Luke Skywalker and Obi-wan Kenobi, or the dark side will dominate them.
+
+Guidelines for playing Force-sensitive characters are detailed in “The Rules” chapter.
+
+## 3. SPEND CREDITS
+
+A character starting with “credits” (that’s money in the Star Wars universe) can buy more equipment or weapons. Turn to the “Weapons and Equipment” chapter for a list of items your character can purchase.
+
+You can ask for more equipment, but be warned that most gamemasters will attach a few strings — nothing comes for free!
+
+Example: Thannik, Greg’s bounty hunter, doesn’t have a ship. Bill, the gamemaster, decides to help Greg out a bit.
+
+“I’ll give Thannik a ship. How about an old Ghtroc 720 freighter? He got it used and battered, but had some of his smuggler friends modify it. You still owe a loan shark on Celanon 5,000 credits for the ship. Be sure to keep your payments timely.”
+
+Bill gives Greg a sheet of paper listing the ship’s game statistics. If Bill wanted to be really devious, he could have come up with something else; maybe Thannik’s ship is stolen and Imperial Customs wants to confiscate it and Greg doesn’t know the real story.
+
+## 4. PICK FORCE POWERS
+
+If your character is Force-sensitive and starts with any of the three Force skills (control, sense or alter), your character knows at least one Force power. Turn to “The Force” chapter, and have the gamester help choose your character’s beginning Force powers.
+
+[Página impressa 23 | PDF 25]
+
+# CREATING A NEW TEMPLATE
+
+You’re not limited to the templates provided here; you can create your own template. It takes a little bit of work, but you can create exactly the character you want to play.
+
+First, decide what type of person you want to play and write up his or her background and personality. (Refer back to “Selecting A Template” for some hints.)
+
+Type. Your template needs a “type”: a short title that describes your character. Some of the types shown in this book’s templates include the “smuggler,” the “brash pilot” and the “failed Jedi” — your type should be just as descriptive. If you want to play an alien, the type can include your species, such as “Mon Calamari pilot” or “Wookiee bounty hunter.”
+
+Now, you can start defining your character in game terms.
+
+Example: You’d like to play a smuggler and pilot type... not too unlike Han Solo or Dash Rendar. The smuggler template isn’t quite what you want so you decide to create a new template. For “type,” you write down “Freewheeling Smuggler.”
+
+Select a Species. Many characters are humans, but you can also choose to be an alien. Several aliens are described (with game statistics) in the chapter on “Aliens”.
+
+Example: You want to start simple and have your first character be a human.
+
+Attribute Dice. Each alien species description has an “Attribute Dice” listing; your character begins with an extra 6D for attribute dice.
+
+Example: Turning to “Aliens,” you see that humans have 12D attribute dice. Your character gets an extra 6D, for a total of 18D attribute dice.
+
+Determine Attributes. Each alien species description has a listing for each attribute. The left number is the minimum attribute die code; the right number is the maximum attribute die code.
+
+#### HUMANS
+
+Attribute Dice: 12D
+DEXTERITY 2D/4D
+KNOWLEDGE 2D/4D
+MECHANICAL 2D/4D
+PERCEPTION 2D/4D
+STRENGTH 2D/4D
+TECHNICAL 2D/4D
+Move: 10/12
+
+Split up your attribute dice among the six attributes, making sure that each attribute is no less than the minimum and no more than the maximum die code.
+
+You can split a die into three “pips.” A +1 means “one pip,” while a +2 means “two pips.” (When you split a die, you either get three “+1”’s or one “+2” and one “+1.”) You’ll never see a “+3” — instead, the die code increases to the next full die — 2D, 2D+1, 2D+2, then 3D, 3D+1, 3D+2, then 4D... and so on.
+
+### CHANGING A TEMPLATE’S SPECIES
+
+If you’ve picked a template but want to change the species, you may have to make a few changes.
+
+Check to make sure everything fits within your species’ rules for “Attribute Dice,” “Determine Attributes,” “Special Abilities” and “Move.” (All of this is explained in detail in the chapter on “Aliens.”)
+
+Then go back to “Finishing a Template.”
+
+### DROID CHARACTERS
+
+You’re not limited to playing humans and aliens. If you’d like to play a droid, turn to the “Droids” chapter for complete rules.
+
+Example: Your human character starts with 18D. The description of humans in “Aliens,” notes the human minimum for all attributes is 2D, while the maximum for all of them is 4D.
+
+You want a character who’s good with a blaster and good at dodging out of the way so you put the maximum of 4D in Dexterity.
+
+You decide your character is about average when it comes to Knowledge, so you put 2D in that attribute.
+
+Next is Mechanical... you want a really good pilot, so you put 4D in Mechanical... you’d love to be able to put 5D in Mechanical, but that’s above the human Mechanical maximum of 4D (You notice Rodians have a Mechanical maximum of 4D+2 ... maybe your next pilot will be a Rodian!)
+
+You have 8D to split among Perception, Strength and Technical. For Perception, you put in 3D; that’s a little better than average.
+
+You want a high Strength for your character, but you also want him to have a half-way decent Technical skill so he can fix things. You put 2D in both Strength and Technical.
+
+You have one attribute die left. You decide to split the die into three pips, and you add “+1” each to Perception, Strength and Technical. That gives your character a Perception of 3D+1, a Strength of 2D+1 and a Technical of 2D+1.
+
+Special Abilities. Some alien species have special abilities that can be used during the game: write these down on your character sheet.
+
+Some other special abilities only matter when you’re creating a character — you may get bonuses when choosing skills, for example. You don’t have to write them down on your character sheet, but pay attention to them when you choose skills.
+
+Example: Your character is a human: humans don’t have any special abilities.
+
+Then you notice that Ewok characters have a lot of special abilities. The first two — skill bonus and skill limits — only matter when you create an Ewok character.
+
+[Página impressa 24 | PDF 26]
+
+The final one — the Ewoks’ highly-developed sense of smell — could come up during game play. Whenever an Ewok tries to track something by scent, the character gets to roll an extra +1D on his search skill. If you were creating an Ewok character, you’d want to write that down — “+1D to search when tracking by scent.” You’d probably also want to write down the page number so you could check it during game play.
+
+Move. Each alien species’ Move has two numbers. The left number is the normal Move for an adult of the species; your character starts with this Move.
+
+The right number is the maximum Move a member of the species can have — the section “Character Advancement” tells you how you can increase your character’s Move rate.
+
+(The Move rate is how many meters your character can move in a round — movement rules are discussed in the chapter on “Movement and Chases.”)
+
+Example: The human Move listing is 10/12. Your character’s Move is a 10. The highest Move a normal human can have is a 12.
+
+Force-Sensitive. Decide whether to make your character Force-sensitive. If the answer is “Yes,” your character starts with two Force Points. A character who’s not Force-sensitive only gets one Force Point. You can also leave this line blank and let each player choose for himself.
+
+Example: You decide to leave the Force-sensitive line blank and decide later.
+
+Force Skills. With the permission of the gamemaster, you may choose to give a Force-sensitive character Force skills. There are three Force skills: control, sense and alter. You can give your character 1D in a Force skill at a cost of 1D of attribute dice.
+
+Force skills are very unusual, so a character needs a very good reason to start the game with them! You must also get permission from the gamemaster to have a Force-using character.
+
+Example: If you make your character Force-sensitive and take 1D in both control and sense, the cost is 2D in attribute dice: you’ll have to subtract the 2D from among your attributes.
+
+You could choose to lower your Dexterity from 4D to 3D — that’s 1D to go.
+
+How about reducing that Technical attribute of 2D+1? Subtracting the 1D would leave the Technical at 1D+1, which is below the human Technical minimum of 2D; you can’t do that.
+
+Instead, you could lower your Perception from 3D+1 to 2D+1.
+
+After some thought, you decide not to make your character a Force-user and you put his Dexterity and Perception back to their original totals.
+
+Dark Side Points. A character particularly tainted by the dark side of the Force may start with a Dark Side Point or two. This is up to you and the gamemaster, but if your character starts with Dark Side Points, it means you have to be very
+
+careful to make sure your character isn’t pushed over the brink to embrace the dark side. Playing this type of character can be a real challenge! (Dark Side Points are fully explained in “The Rules.”)
+
+List Skills. List several skills under each attribute. There’s no need to go overboard since a beginning character only has 7D for starting skills. (Your character can later learn a skill even if it’s not listed on the template — only list the skills you want to pick right now.)
+
+The gamemaster can eliminate any unusual or advanced skills from a template, so have a good explanation for how the character could know these types of skills.
+
+Example: For Dexterity, you pick out blaster and dodge — those are skills you’ll probably be using a lot.
+
+For Knowledge skills, you’ll need planetary systems (your character needs to know a lot about planets in the galaxy) and streetwise... languages and survival wouldn’t hurt either.
+
+Now Mechanical skills. Your smuggler is going to rely on some of these skills, so you’ll choose carefully. He’ll need astrogation to plot hyperspace jumps, sensors for scanning incoming ships and searching for hidden bases on planets, space transports for piloting your ship and starship gunnery for firing the ship’s weapons. Of course, a smuggler should be good at piloting just about anything, so you decide to add repulsorlift operation for flying airspeeders and landspeeders and starfighter piloting in case your character ever has to fly an X-wing against the Empire.
+
+Now Perception skills... bargain is good, and so is con for fast-talking your way out of trouble. Search and sneak can be handy too.
+
+Strength skills... there aren’t any you want to improve, so you skip down to Technical.
+
+For Technical skills, you pick first aid and space transports repair.
+
+You’ve narrowed the choices down and listed 18 “important” skills on the template... it’s too bad you only have 7D for starting skill dice.
+
+Starting Credits. At the gamemaster’s discretion the player may roll 2D on the following table to determine how many credits their character has at the beginning of the game. The gamemaster should determine which “class” the character falls under. Wealthy characters are usually nobles, senators, or businessmen. Average characters are typically soldiers, spacers, or anyone with a regular job. Poor characters are generally Jedi, outlaws, or natives.
+
+Class | Credits
+Poor | 2D × 100
+Average | 2D × 250
+Wealthy | 2D × 400
+
+Starting Equipment. List reasonable starting equipment for that character. If the gamemaster assigns a starting credit amount, or if you are rolling on the above “Starting Credits” table, additional equipment may be purchased for a starting character.
+
+[Página impressa 25 | PDF 27]
+
+The gamemaster has final say over what’s “reasonable,” striking off any equipment, or assigning disadvantages (such as owing money to a crime lord for a ship, or your character’s equipment is stolen and the original owner is trying to get it back.) The gamemaster isn’t even required to tell you about disadvantages if the character wouldn’t know about them.
+
+Example: Your smuggler will definitely need a blaster — how about a heavy blaster pistol like Han Solo? You also pick out a comlink, a medpac (in case your character gets injured), a starship repair kit and 500 credits starting money.
+
+You’ll also need a ship, so you pick out a stock Ghtroc freighter like the one described in “Starships.” Of course, ships are expensive and you know that the gamemaster will assign a real disadvantage if you don’t pick a reasonable one yourself — you decide that you owe 10,000 credits on the ship and one “favor” to be specified later. Of course, you’ll owe that money to a crime lord, but you’ll leave the details up to the gamemaster.
+
+When you’re done, show your new template to the gamemaster for approval. The gamemaster can change or cross out anything that can unbalance play.
+
+To finish the character, go back to “Finishing the Template.”
+
+# CHARACTER ADVANCEMENT
+
+Now it’s time to talk about
+“Character Advancement.” That’s a fancy way of saying, “Your character gets better at things with practice.” You can’t just start off as this hot-shot smuggler — you have to work hard, make plenty of dangerous contraband runs, and dodge your share of stormtroopers and bounty hunters. Just as you learn from your experiences — good ones and bad ones — your character gets better at things by using his or her skills and practicing.
+
+For a good example, think about Luke Skywalker. He’s not real good at using his lightsaber when he’s first given it by Obi-Wan Kenobi. How could he be? He’s never even seen a lightsaber until Ben hands one to him. Luke’s just starting out and that’s why he trains with the remote aboard the Millennium Falcon.
+
+Years later, when he saves Han Solo from the clutches of Jabba the Hutt, he’s gotten a lot better with his lightsaber. He’s good enough that he can block blaster bolts and reflect them back at people — now that’s “advancement!”
+
+Characters receive Character Points after each adventure. (The better your character did during the game, the more Character Points awarded.) You can use Character Points to improve your character’s skills and other abilities between adventures.
+
+## IMPROVING SKILLS
+
+Skills. It costs as many Character Points as the number before the “D” to improve a skill’s die code by one pip.
+
+(Increasing a skill from a “+2” to the next higher die — from 3D+2 to 4D for example — counts as a one pip improvement.)
+
+A character can only improve a skill one pip between each adventure, although the character may improve more than one skill between adventures.
+
+Example: Thannik has a search skill of 4D. It costs 4 Character Points to improve search to 4D+1.
+
+At the end of an adventure, Thannik can improve his search skill from 4D to 4D+1 for four Character Points and his space transports skill from 4D+2 to 5D for four Character Points.
+
+However, Thannik can’t improve his search skill from 4D to 4D+2 in one jump because that would mean improving the skill more than one pip.
+
+Characters normally improve skills between adventures. At the gamemaster’s discretion, a character may also learn or improve a skill if there is a significant lull in the adventure, such as when Obi-Wan Kenobi taught Luke Skywalker the rudimentary Force skills while on Tatooine and during the journey to Alderaan.
+
+Specializations. For specializations, the Character Point cost is one-half the number before the “D” (rounded up).
+
+[Página impressa 26 | PDF 28]
+
+Example: Thannik wants to improve his space transports: Ghtroc freighter specialization from 5D+2 to 6D. The cost is three Character Points. (Five divided by two is 2.5; that rounds up to three.)
+
+Specializations are separate skills. If a character improves the basic skill, the specialization doesn’t improve; if the specialization is improved, the basic skill doesn’t go up.
+
+Example: Thannik has space transports at 4D+2 and space transports: Ghtroc freighter at 5D+2. When Greg improves Thannik’s space transports skill from 4D+2 to 5D, his space transports: Ghtroc freighter stays at 5D+2; it does not improve. Later, if Greg improves Thannik’s space transports: Ghtroc freighter from 5D+2 to 6D, his space transports skill stays at 5D.
+
+Training Time. If the character used a skill or specialization in the last adventure, there is no “training time” requirement. The character can just spend the Character Points and the skill improves one pip.
+
+If the character didn’t use the skill or specialization in the last adventure, the character must spend time training. If the character has a “teacher” (see below), the training time is one day for every Character Point spent to improve the skill. If the character doesn’t have a teacher and is training on his own, the training time is two days for every Character Point spent to improve the skill.
+
+When training, a character must concentrate on improving the skill. A character cannot train in more than one skill at a time, nor can a character train while off adventuring. Only through dedicated study and practice can a character train to improve a skill.
+
+Example: Thannik wants to increase his blaster skill from 5D to 5D+1 at a cost of five Character Points; he must train because he didn’t use the skill in his last adventure. If he has a teacher, he must train for five days; if he doesn’t have a teacher, he must train for 10 days.
+
+The character’s skill does not improve until training is completed.
+
+Characters can reduce their training time by spending one additional Character Point per day cut from the training time. (The minimum training time is always one day.)
+
+Example: Thannik finds a teacher to help him improve his blaster skill to 5D+1. After two days of training, he interrupts his mission to go track down a bounty.
+
+When he returns, he needs three more days of training before his blaster skill improves. Thannik decides to spend two Character Points to cut two days from his training time — he only needs to complete one more day of training to improve his blaster skill.
+
+Teachers. A teacher makes it much easier for a character to improve a skill. A “teacher’s” skill must be at least equal to what the character’s skill will be after completing training.
+
+(If a character is improving a specialization, the teacher’s skill or the specific specialization must be equal to what the character’s specialization will be after completing training.)
+
+Many teachers will be gamemaster characters. Sometimes a student will have to search for a teacher — the gamemaster is under no obligation to provide a teacher just because the player wants his character to be taught something. This is especially true for rare skills, those known only on primitive worlds, very unusual specializations, or advanced skills. Teachers may demand service, special favors, missions, or payment in exchange for their instruction.
+
+Example: Thannik has blaster at 5D. His teacher is a marksman named Hist, who has blaster at 5D+1. At the end of his training, Thannik’s new skill is 5D+1, matching Hist’s skill level. Thannik has learned all he can from Hist and must find a new teacher for blaster or try to train by himself.
+
+Later, Thannik wants to improve his blaster: blaster pistol specialization from 6D to 6D+1. He needs to find a teacher who has either blaster or blaster: blaster pistol at 6D+1 or higher.
+
+Advanced Skills. The Character Point cost to improve an advanced skill is two times the number before the “D.”
+
+Example: A character has (A) medicine at 2D+2. It costs four Character Points to go from 2D+2 to 3D.
+
+Advanced skills take much longer to improve because they are such complex subjects. A character must train to improve an advanced skill.
+
+A character with a teacher must spend one week training for every Character Point spent to improve the skill. A character without a teacher must spend two weeks training for every Character Point spent to improve the skill.
+
+Characters can reduce their training time by spending one Character Point per day cut from the training time. (The minimum training time for an advanced skill is always one week.)
+
+Example: The character improving his (A) medicine from 2D+2 to 3D spends four Character Points. If he has a teacher — anyone with (A) medicine at 3D or higher — he must train for four weeks. If he can’t find a teacher, he must train for eight weeks.
+
+[Página impressa 27 | PDF 29]
+
+## LEARNING NEW SKILLS
+
+Skills and Specializations. Characters can learn a new skill or specialization by paying enough Character Points to advance it one pip above the attribute.
+
+There is no training time if the character “used the skill” in the last adventure (i.e., used the attribute when doing something that would be covered by the skill). Otherwise, use the normal rules for training time.
+
+Example: Thannik wants to learn the bargain skill, which is based on his Perception (which is 3D). He pays three Character Points and gets bargain at 3D+1. If Thannik “bargained” in the last adventure — haggled with a merchant, for example — there’s no training time and the skill improves immediately.
+
+If he didn’t bargain in the last adventure, he has to train. If he has a teacher (anyone with bargain at 3D+1 or higher), it takes three days of training to learn the skill. If he doesn’t have a teacher, he needs six days of training to learn the skill. He can reduce that time one day for each extra Character Point he spends.
+
+The character must seek out an appropriate location and teacher for unusual skills. A character who wants to learn archaic starship piloting must find a willing teacher who has access to such a ship. Often, this will require going to a very primitive world, where such ships are still in common use.
+
+Advanced Skills. A character may learn an advanced skill if he has the prerequisite skills and pays the Character Point cost to learn the skill at 1D. (It costs two Character Points to learn most advanced skills at 1D.) Use the normal rules for advanced skills to determine training time.
+
+Example: (A) medicine has a prerequisite of first aid 5D. If the character has first aid 5D, the character can learn (A) medicine at 1D for two Character Points. A character with a teacher must train for two weeks; without a teacher, the character must train for four weeks.
+
+## OTHER GAME STATISTICS
+
+Improving Attributes. Characters may improve an attribute one pip at a time. The Character Point cost is the number before the “D” times 10.
+
+The training time is one week per Character Point spent if the character has a teacher. Without a teacher, the training time is two weeks per Character Point. A character must train to improve an attribute, but the training time is reduced one day per additional Character Point spent (minimum of one week training).
+
+When a character improves an attribute one pip, all skills under that attribute (except advanced skills) also increase by one pip.
+
+Example: Thannik wants to improve his Knowledge attribute from 2D+2 to 3D. It costs 20 Character Points and takes 20 weeks of training if he has a teacher. When his Knowledge improves to 3D, all of his Knowledge skills also go up by one pip: alien species: Wookiees, goes from 3D+2 to 4D.
+
+There is a limit to how high an attribute can go — a person can only be so smart or strong. At the end of the training time, the character rolls the new attribute die code. The gamemaster must roll the attribute’s maximum (as listed in the species description in “Aliens”).
+
+If the character’s roll is equal to or less than the gamemaster’s die roll, the character’s attribute goes up.
+
+If the character’s roll is higher, the attribute doesn’t go up and the character gets half of the Character Points back.
+
+Example: A player’s human character has a Dexterity of 4D and wants to improve it to 4D+1. After spending 40 Character Points and training, the player rolls the new Dexterity of 4D+1 and gets a 17.
+
+The gamemaster sees that the human maximum Dexterity is 4D; he rolls 4D and gets a 15.
+
+The character’s Dexterity does not improve, but the character gets 20 Character Points back. If the player had rolled less than a 15, the Dexterity would have increased to 4D+1.
+
+Move. Characters may improve their Move score one meter at a time. The Character Point cost is the character’s current Move.
+
+The training time is one week per Character Point spent if the character has a teacher; the time is two weeks per Character Point without a teacher. A character must train to improve Move, but the training time is reduced one day per additional Character Point spent (minimum of one week training).
+
+Characters may not improve their Move above their species’ maximum.
+
+Example: A player wants to improve his human character’s Move from 11 to 12. The cost is 11 Character Points; with a teacher, the training time is 11 weeks.
+
+Twelve is the human Move maximum, so the character can’t increase his Move again.
+
+Force-Sensitive. A character who is not Force-sensitive may choose to become Force-sensitive for 20 Character Points. (There is no training time requirement.)
+
+The character receives one extra Force Point immediately, and must now play under the guidelines for Force-sensitive characters. See the chapter on “The Rules,” for information on Force-sensitive characters.
+
+It is much easier to begin with a Force-sensitive character rather than choose to become Force-sensitive after play has begun. A Force-sensitive character is in tune with the Force’s mystic ways.
+
+[Página impressa 28 | PDF 30]
+
+If the character has closely followed the ideals of the Jedi code, the gamemaster may allow the character to become Force-sensitive at a reduced price.
+
+Once a character becomes Force-sensitive, the character cannot “lose” that Force-sensitivity.
+
+Special Abilities. Characters with special abilities may be able to improve them over time. The conditions, costs and training times will be listed with the special ability’s description.
+
+That’s the basics you need to know about creating and improving characters. If you want to add some detail to your character, check out a few optional rules below.
+
+If you need to know how your skills work, look me up in the next chapter.
+
+If you’re a player, all you need now is a gamemaster to run the game. If you want to be a gamemaster, you need to read about “Attributes and Skills,” but you’ll also need to read most of the other chapters in this book. Trust me — it’s nothing like trying to read the 5,947-datapad Spacer’s Information Manual the Imperial Navy publishes for us spacer-types. These rules may look like a lot of work, but hang in there... like smuggling, this game is a lot of fun once you figure everything out.
+
+# CHARACTER OPTIONS
+
+The following rule systems contain methods of making a player character “unique”. If your gamemaster is not willing to use the following rules, you’ll have to do without them. You can use a lot of other methods to develop a character’s individuality on your own, but these “systems” are optional — they only count as long as your gamemaster is willing to use them. If he or she isn’t hot on the idea of players using these, you’re just out of luck.
+
+## ADVANTAGES & DISADVANTAGES
+
+Aside from determining a character’s physical and mental capabilities, a player may or may not wish to define that character’s personality — his history, his family, his beliefs, his quirks, etc. One option is to allow players to select Advantages and Disadvantages. The gamemaster should skim the list below and determine first, whether they want to use Advantages and Disadvantages, and second, which particular entries they want to include or exclude.
+
+Each entry on the list described to the right, includes the name of the Advantage or Disadvantage, its description, and a die code, which may be positive or negative. When you select one of these items, write it on your character template and record the die code on a separate piece of paper. When you’ve finished, add up the die codes (the result may be positive or negative). The resulting die code tells you how many skill dice you must either take away or add to your character’s starting skill dice (a positive die code result means add, while a negative die code result means subtract).
+
+The gamemaster will tell the player whether any of the Advantages or Disadvantages listed in this chapter do not apply or are not allowed.
+
+Example: A player chooses the following Advantages and Disadvantages for his smuggler character template.
+
+Advantage/Disadvantage | Die Code
+Debt | +2D
+Quick Draw | −2D
+Released Convict | +1D
+
+Total:
++1D
+
+The smuggler gains an additional 1D (since the total was +1D) in starting skill dice.
+
+### ADVANTAGES AND DISADVANTAGES
+
+Name | Dice Modifier
+Addiction | +3D
+Argumentative | +1D
+Blackouts | +2D
+Center of Conversation | +1D
+Compulsive Tendencies | +3D
+
+Starting Skill
+Debt
++1D to +3D
+Skeleton in the Closet +2D or more Sworn Enemy
++1D (creature)
+
++3D (species)
+Targeted for Assassination +3D
+Wanted for a Crime +2D
+
+Delusions of Grandeur | −1D
+Extraordinary Hearing | −2D
+Extraordinary Memory | −1D
+Extraordinary Sight | −2D
+Extremely Competitive | +1D
+Fallback Plan | +2D
+Fanatic | +3D
+Hallucinations | +3D
+Low Self-esteem | +2D
+Manic Depressive | +3D
+Medical Problem | +3D
+Migraine Headaches | +2D
+Motion Sickness | +1D
+Nightmares | +1D
+Noble Birth | −1D
+No Self-confidence | +2D
+Obsessive Tendencies | +2D
+Paranoia | +3D
+Pathological Liar | +1D
+Phobia | +1D
+Physically Impaired | +3D
+Poor Memory | +1D
+Procrastination | +1D
+Quick Draw | −2D
+Released Convict | +1D
+
+[Página impressa 29 | PDF 31]
+
+Addiction (+3D). The character cannot go more than one day without drinking, gambling, etc., i.e., satisfying his addiction. Failure to do so results in lowered metabolic rates, thereby reducing the character’s attribute scores by 1 for each day he goes without the cause of his addiction (on the first day, an attribute of 4D would fall to 3D+1, and so on). After one week (more or less at the gamemaster’s discretion), the character has defeated his addiction. If he ever partakes of the formally addictive activity in the future, he has a 50% (1-3 on a roll of 1D) chance of becoming addicted again.
+
+Argumentative (+1D). This character constantly plays the devil’s advocate. She rejoices when an exploitable situation arises, arguing though she sometimes agrees with her adversary. The argument becomes a game, a strategic contest of wills.
+
+Blackouts (+2D). During high pressure situations, this character has a tendency to blackout for several minutes. She has no recollection of this lost time. In game terms. the character blacks out whenever she rolls a 1 on the Wild Die for 10 minutes.
+
+Center of Conversation (+1D). This character feels the need to always be in the middle of every conversation. And why not. He always knows exactly what to say — at least, that’s what he thinks.
+
+Compulsive Tendencies (+3D). At any time, the character may decide to do or say something that she would not normally do or say under the circumstances. For example. during a conversation with a head of state, the character might blurt out, “Your wife is much fatter than I expected.”
+
+Debt (+1D to +3D, depending on the debt). This character either inherited this debt or borrowed a substantial amount of money. She has a time limit for repaying the loan.
+
+Delusions of Grandeur (+1D). The best thing to ever happen to the world. That’s how characters with this Disadvantage view themselves. No one can surpass their prowess — they shouldn’t even bother trying.
+
+Extraordinary Hearing (−2D). The construction of this character’s sound collectors (ears, usually), has increased his ability to distinguish between similar sounds, determine the direction of the source of those sounds, and pick up whispers from a distance.
+
+Extraordinary Memory (−1D). This character can recall long ago events or esoteric facts with ease. In game terms, she gains +1D to most Knowledge-based skill roll (gamemaster discretion is required for some exceptions to the rule).
+
+Extraordinary Sight (−2D). The shape and genetic makeup of this character’s eyes enable her to see three times as far as a normal member of her species.
+
+Extremely Competitive (+1D). To this character everything is a competition. She always wants to race the other characters to the battle, put herself in more danger than anyone else, and slosh down the most drinks. She cannot turn down a challenge.
+
+Fallback Plan (+2D). This character cannot function unless she has devised a backup plan for every situation she puts herself into. This applies to everything from combat to relationships.
+
+Fanatic (+3D). This character holds to a philosophical ideal, the source of which may be a sect, a nation, or a person. She will always defend this ideal, even trading her life for its preservation.
+
+Hallucinations (+3D). At random times, this character begins having delusions. He cannot tell when something is truly occurring or just a figment of his imagination. The gamemaster has full control over this Disadvantage.
+
+Low Self-esteem (+2D). This character has a low opinion of herself. She constantly berates herself, harping on her bad qualities.
+
+Manic Depressive (+3D). This character slips into deep, long-lasting depressions. He doesn’t care about anything during these times. The player may decide when the character falls into depression and when he extricates himself from it. If the player never lets his character lapse into this state, the gamemaster should take the initiative.
+
+Medical Problem (+3D). This character suffers from an ailment that requires she take medicine every day to treat the illness. The player and gamemaster should work together to develop the specifics of the problem, the appropriate medicine. and the ramifications of failing to take the medicine.
+
+Migraine Headaches (+2D). The character has a 33% (1-2 on a roll of 1D) chance per day to suffer the unrelenting pain of a severe migraine headache. In game terms, the character receives a −1D penalty to all of his attributes for the remainder of that day.
+
+Motion Sickness (+1D). Whenever this character rides a creature or a vehicle, she must make an Endurance check against an Easy difficulty or immediately begin to shake and vomit, giving her a −1D penalty to all actions undertaken while still riding.
+
+Nightmares (+1D). Almost every night, this character suffers from horrible nightmares, usually related to an unsatisfied issue in his life, though not necessarily. As a result, the character needs 10 hours of sleep per day. Failure to get the required amount of rest results in a 1D penalty to all skill and attribute rolls for that day.
+
+Noble Birth (−1D). This character fell into luxury — born into a wealthy, perhaps noble, family. She wanted for nothing, attending the best schools, ordering servants, and having everything she desired. The character begins play with double the amount of funds given to wealthy starting characters.
+
+No Self-confidence (+2D). The character has no confidence in himself. Whenever he has to perform an important task (making an accurate shot, negotiating with a hostage, etc.), he has a 50% (1-3 on a roll of 1D) chance of losing confidence. If he fails this roll, he reduces his chance of success in the current endeavor by 2D.
+
+Obsessive Tendencies (+2D). Whenever this character decides on a course of action, he cannot help but become totally focused on that action, ignoring all other issues in his life.
+
+Paranoia (+3D). Everyone wants to destroy this character. At least, that’s what she believes. She must constantly look over her shoulder, check every inch of her sleeping environment, and scrutinize every acquaintance. She never knows when her enemies will strike.
+
+[Página impressa 30 | PDF 32]
+
+Pathological Liar (+1D). This character cannot stop himself from lying constantly. No matter what the situation, he is compelled to exaggerate, fib, and outright lie.
+
+Phobia (+1D to +3D). The die code of this Disadvantage varies depending on the level of the character’s fear (with a maximum of +3D). At +1D, the character avoids the object of his fear as often as possible, but has no problem dealing with it when the time comes. At +3D, the character will never put himself in a situation where he has to cope with his fear. If he does wind up in such a situation, he freezes and remains unmoving until the object of his fear subsides. Fears include heights, water, certain creatures, darkness, open spaces, cramped spaces, thunder, lightning, and so on.
+
+Physically Impaired (+3D). The character suffers from a problem of the body. He may be blind, deaf, or mute (or any other impairment you can devise).
+
+Poor Memory (+1D). Characters with this problem have trouble remembering. In game terms, whenever the character has to recall an important piece of information, her chances of doing so drop by 2D (for any Knowledge-based skill roll).
+
+Procrastination (+1D). This character always puts everything off. Even when something cannot wait, he still lets it go until it’s too late.
+
+Quick Draw (−2D). The character may draw a type of weapon (lightsaber, vibroblade, blaster, and so forth) immediately, i.e. it does not count as an action during a combat round. Note that this factor applies only to a single weapon type. If you want your character to be able to quick draw a sword and a knife, he must take this factor twice (for a cumulative −4D penalty).
+
+Released Convict (+1D). Sometime during this character’s life he was convicted of a crime (which he may or may not have committed). After serving a jail sentence, he was released and now must battle the stigma against ex-convicts.
+
+Sixth Sense (2D). This character has an innate danger sense. Fifty percent (1-3 on a roll of 1D) of the time an alarm goes off in her head when she comes within a few seconds of a dangerous situation. The gamemaster rolls this check secretly and alerts the player when it is successful.
+
+Skeleton in the Closet (+2D or more). This character has elements of his past that he does not want anyone to unearth. The player should choose a specific “skeleton” to tie in with the character’s history. No matter what, he must not reveal this secret. It may bring harm to him or those he loves.
+
+Sworn Enemy (+1D or +3D). This character has for some reason targeted a specific person or creature (+1D) or a species (+3D) of creatures as her direct adversary. Whenever she comes in contact with such a being, she attacks.
+
+Targeted for Assassination (+3D). Someone has put out a contract on this character’s life. The assassin could be anyone and could strike at anytime.
+
+Wanted for a Crime (+2D). A system, galactic government, or culture has declared this character a criminal. The character may or may not have committed the crime he has been charged with, but nevertheless, the authorities have begun their search for him.
+
+## CONTACTS
+
+Han Solo acquired quite a few friends and contacts in his galactic wanderings, among them Jessa and Doc, Lando, Roa, Cynabar, Badure, Salla, Bollux and Blue Max, and most of all, Chewbacca, Luke, and Leia. There isn’t any reason your character can’t have a bunch of pals too. Just remember that sometimes the pals come to your character for favors...
+
+### Friends and Acquaintances
+
+Contacts are characters from your past who may be in a position to help you some day. They might be close friends destined to sacrifice their careers to rescue you from certain death, or merely casual acquaintances who will do you one or two minor favors and then vanish.
+
+There are two types of contacts: friends and acquaintances. Friends are people who will, for whatever reason, risk a great deal for the character, while acquaintances may be counted on for a few occasional favors if the risk is not too great. Friends can usually be expected to be more reliable and trustworthy than acquaintances, though there are no guarantees; Lando Cal
+
+rissian fell into both categories in The Empire Strikes Back.
+
+As an optional rule of thumb, the gamemaster can choose to allow up to three starting contacts: one friend and two acquaintances. Once the character enters the campaign, contacts will come along in the time-honored manner: through adventures and gamemaster fiat.
+
+### Developing Contacts
+
+You probably have quite a few eligible candidates already if you think about it, just having gone through the exercises in this chapter — parents, host families, co-workers, old flames, former students, and so on. Try to stick to appropriate contacts. It is probably unlikely that two-bit grifters will have any Imperial Moffs owing them favors. Certainly, any attempt to establish such a relationship will have to pass the scrutiny of a dubious gamemaster (so the reasons behind this relationship had better be good).
+
+Rather than list a whole bunch of contact ideas here, we’ll break contacts up into a number of broad categories and approach them that way.
+
+Family Contacts. Family contacts are those which, obviously, are members of the character’s family. Often, these are individuals who had a hand in raising the character. In other cases, contacts can come from members of an extended family group (wealthy cousins, stepbrothers, clan members, etc.) who may be favorably disposed to aid the character now and then. Close family friends can fall into this category as well.
+
+[Página impressa 31 | PDF 33]
+
+Conditional Contacts. Conditional contacts come into play only when certain circumstances are in effect. Acquisition of conditional contacts are dependent on location, timing, situation, and random events.
+
+Conditional contacts may be one-shot affairs (i.e., “I’ll get you that security pass, but then we’re square!”).
+
+They may likewise be long-term situations where the character possesses vital information used to ensure (read: coerce) a contact’s assistance. At other times, aid from a conditional contact will come with a heavy price tag.
+
+Examples: A minor bureaucrat in the Imperial government might be willing to falsify an important document, for example, but only once, and then only for a large amount of credits. A slaver might be willing to help a character locate a missing person, but only if the player can arrange a fellow slaver’s release from jail first.
+
+Another type of contact may be more personal: a friend from the character’s Academy days now works for Sienar Fleet Systems, and may help the character in a time of need. Or how about characters who were born in the same hometown and run into each other half-way across the galaxy? Or even someone who is a friend of your character’s parents (or even just a “friend of a friend”)?
+
+The key in using this type of contact is that they should be of limited help; the assistance they can offer may be vital but the character should still have to work to achieve his or her goal.
+
+Sometimes conditional contacts are individuals the character would not normally seek out.
+
+Example: The character saves a person from a burning speeder wreck only to find out afterward that the victim is the most notorious contract assassin in the star system. The character who would never willingly go out looking for such a contact now finds he has acquired a new “friend” who insists on paying back his debt of honor).
+
+Professional Contacts. Professional contacts are those with whom the character has had business-related dealings. These can include a wide range of people. While professionals are normally thought of as trained personnel, specialists, or “career” individuals, they can also be relatively obscure persons with specialized knowledge relating to a little known subject matter. (“We need someone who understands the binary language of Verossian computers, huh? Say, I think I know who might be able to help!”)
+
+Academicians can have professional contacts in similar fields of academic or scientific pursuit. Military personnel who might have once served with the character also fall into this category. These may now be favorably (or even negatively) disposed depending on the results of previous missions together.
+
+Influential Contacts. Influential contacts refer to special personages in position of power who, for reasons of their own, may be willing to help the character in times of need. These can include business persons and customs officials who are secretly Rebel sympathizers.
+
+Not surprisingly, the real identity of these contacts may not be known to the character. In each case, however, what makes these contacts special is a clearly defined area of authority or level of power that can be used to intervene on the character’s behalf. Ironically, while the most powerful type of contact available, by virtue of their position and high visibility, they may be the most infrequent type “tapped” for assistance. (“I can’t possibly help you today. I would be exposed in a minute. Maybe next week. Don’t call me again. I’ll contact you when it’s safe!”)
+
+Example: Selas Ferr is a member of the Rebel underground on Jastro III. He is in love with the daughter of the local planetary governor whom he met as a young man. She returns his affection but is unable to aid him in any way because of the presence of so many CompForce personnel.
+
+Instead, she puts Ferr and his companions in contact with a mysterious person known only as “Alexan.” Alexan’s true identity is a secret. He is known, however, to be someone in the Governor’s hierarchy with considerable influence.
+
+In the course of events, two of Ferr’s men are captured in an abortive sabotage operation. Ferr contacts Alexan to see if he can help. Alexan reluctantly agrees but only if Ferr takes the governor’s daughter away with his men. Puzzled but with no other choice available, Ferr agrees.
+
+At the appointed time Alexan delivers Ferr’s battered men and Ferr’s unconscious love. Before safe passage can be negotiated, however, Imperial troopers arrive and an intense firefight breaks out.
+
+Ferr and his companions survive but Alexan is mortally wounded. Only after reaching safety is it revealed that Alexan was, in fact, the Governor himself in disguise.
+
+## ENEMIES AND RIVALS
+
+Han Solo has about as a many enemies as he does friends and contacts: Greedo, Skorr, Hirken, Gallandro, Jabba, Ploovo Two-far-One, Vader, the Emperor, his own cousin...
+
+Enemies are in many ways the inverse of contacts. Like contacts, they fall into two types: enemies and rivals.
+
+Enemies are as interested in foiling your character’s goals and interests as friends are in advancing them. They may or may not want you dead, but they will never knowingly do anything to assist you. They are villains: former students who blame you for their failures, jilted lovers, people you’ve betrayed, members of rival Houses, and so on.
+
+Rivals are not nearly as serious a threat, though they may grow to be so. They may even be friends or occasional allies. Rivals are competitors — you and they are competing for the same limited resource. This may be the hand of a lover, a coveted promotion, the desire to be the best pilot on Bespin, the loyalty of the same underlings, the recognition or patronage of the same superior, or maybe even just competition over an office with a door.
+
+Develop enemies and rivals as you did contacts, using the same methods. For example, families can be a source of opposition as well as support, especially if the character has chosen the side of the civil war opposed by his or her parents.

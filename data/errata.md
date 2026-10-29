@@ -1,0 +1,92 @@
+---
+id: errata
+status: living-document
+purpose: single register of inconsistencies found in the source book or in our own distillation, for later human review
+---
+
+# Inconsistencies register
+
+Every problem found while building this knowledge base goes here, with an ID. Nothing is fixed silently in `rules/` or `data/`: the *provisional reading* column is what the agent applies until a human decides.
+
+**Status:** `open` = needs a human decision; `accepted` = reading confirmed by a human; `info` = harmless typo, no decision needed.
+**Kinds:** `typo`, `xref` (wrong cross-reference), `conflict` (two places disagree), `missing` (rule or entry absent), `ambiguity`, `source-defect` (PDF itself), `extraction` (our pipeline).
+
+How to resolve: edit the row (status, and add a line under "Decisions" if the choice affects rules), then update the affected `rules/` or `tables/` file.
+
+## Register
+| ID | Kind | Where (printed page) | Problem | Provisional reading | Status | Human action |
+|---|---|---|---|---|---|---|
+| E-001 | source-defect | Ch.1 "Escape Pod Down" (p.10) | Text reads "aught the sentry's eye"; the drop cap "C" is absent in the PDF itself (verified by rendering). | Left as in the PDF. | info | None. |
+| E-002 | xref | Ch.5 (p.76, p.79) | "Chapter Five, 'Combat & Injuries'" is Chapter 6. | Use real chapter numbers. | info | None. |
+| E-003 | xref | Ch.5 (p.80-82) | "Chapter Six, 'Movement and Chases'" is Chapter 7. | Same. | info | None. |
+| E-004 | xref | Ch.5 (p.81) | "Chapter Two, 'Attributes and Skills'" is Chapter 3. | Same. | info | None. |
+| E-005 | xref | Ch.5 (p.82) | "Chapter Eight, 'Roleplaying Battles'" is Chapter 9, "Running Battles". | Same. | info | None. |
+| E-006 | typo | Ch.5 (p.76) | Random-difficulty table labels "Very Difficulty". | Normalised to "Very Difficult". | info | None. |
+| E-007 | typo | Ch.5 (p.87), also p.138 and p.177 | "reduced to OD" with a letter O. | Read as 0D. | info | None. |
+| E-008 | typo | Ch.19 droid table | A cell reads "2weeks". | Read as "2 weeks". | info | None. |
+| E-009 | ambiguity | Ch.5 (p.84-85) | Character Point dice "function similar to a Wild Die" and explode on 6, but the book never says whether a 1 on them matters. | A Character Point die showing 1 counts as 1; no complication. | open | Decide; affects `core-mechanics.md` and `character-force-point-limits.json`. |
+| E-010 | ambiguity | Ch.5 (p.83-84) | Combined action failure: text says "-1D per point failed by". | The book's own example confirms: miss by 1 = -1D, by 2 = -2D, floor 0D. | accepted | None. |
+| E-011 | conflict | Ch.2 advantages table (p.28) vs text (p.29) | Delusions of Grandeur is -1D in the table, +1D in the description. | +1D (a flaw gives dice); JSON keeps both. | open | Choose the intended value. |
+| E-012 | conflict | Ch.2 advantages table vs text | Phobia is +1D in the table, +1D to +3D in the description. | Text range; JSON keeps both. | open | Choose. |
+| E-013 | missing | Ch.2 advantages table vs text (p.30) | Sixth Sense is described with an unsigned "2D" but is absent from the table. | Advantage, -2D by analogy; JSON `modifier: null`. | open | Confirm value and sign. |
+| E-014 | ambiguity | Ch.2 Motion Sickness (p.29) | Asks for an "Endurance" check. Checked: none of the 110 skills in the Chapter 3 summary table is called Endurance; stamina is the closest. | Read as stamina. | open | Confirm. |
+| E-015 | xref | Ch.2 (p.28) | Refers to the skills chapter as "the next chapter" and "Attributes and Skills" while the Chapter 1 template text says "Chapter Two". | Chapter 3. | info | None. |
+| E-016 | conflict | Ch.3 summary table (p.34) vs section (p.64) | Table says "Space Transports Repair"; the skill section is titled "Space Transport Repair". Same for the advanced skill "Space Transport Engineering" (singular) vs the skill "Space Transports". | Treated as one skill, name from the table ("Space Transports Repair"). | info | Pick a canonical spelling if the app needs one. |
+| E-017 | typo | Ch.3 (p.63) | "(A) Droid Engineering: Requires Requires 5D in droid repair or 5D in droid programming." | Read as a single "Requires". | info | None. |
+| E-018 | typo | Ch.3 (p.34 vs p.46) | Table says "Podracer Operation"; section says "Pod Racer Operation". | Matched as the same skill. | info | None. |
+| E-019 | extraction | Ch.3 (p.36) | The "Lightsaber" heading comes out merged with its "Time Taken" line (`### Lightsaber Time Taken: One round.`) in `03-attributes-skills.txt`. | Fixed in `tools/extract_chapters.py`: a heading no longer absorbs the following line. The workaround in `build_skills.py` is harmless and kept. | accepted | None. |
+| E-020 | extraction | Ch.3 (p.34) | The Skills Summary Table comes out one cell per line in `03-attributes-skills.txt`, with time and next skill name sometimes on one line. | Fixed: tables are detected from word positions and written as `a | b | c` rows (the Skills Summary Table is two clean tables). `skills.json` is still built from the PDF. | accepted | None. |
+| E-021 | ambiguity | Ch.3 Stamina | "Time Taken" holds a sentence ("checks are made when characters exert themselves over long periods of time") instead of a duration. | Kept verbatim in `time_taken`; summary table says "various". | info | None. |
+| E-022 | conflict | Ch.3 (p.33) vs Ch.5 (p.78-79) | Full reaction is described in Ch.3 as adding the roll to the difficulty and forbidding other actions; Ch.5 describes the reaction roll as replacing the difficulty and being an extra or used action, without mentioning full reaction. | Resolved by Ch.6 p.91: both modes exist. A normal reaction replaces the difficulty; a full reaction (only action of the round) adds to it. Documented in `combat-injuries.md#reactions`. | accepted | None. |
+| E-023 | conflict | Ch.6 (p.89) | The attack steps say the attack hits "if the roll is higher than the difficulty number"; the rest of the chapter and Ch.5 say equal or higher. | Equal or higher. | open | Confirm. |
+| E-024 | typo | Ch.6 (p.90) | List of melee difficulties reads "Difficulty, Very Difficult" instead of "Difficult". | Read as Difficult. | info | None. |
+| E-025 | ambiguity | Ch.6 hit locations (p.96) | The "Damage Modifier" column (+12, +12, -2, -1, -2) gives no unit; +12 looks like a flat bonus. | Read as points added to or subtracted from the damage total; JSON notes it. | open | Confirm the unit (flat points vs pips). |
+| E-026 | conflict | Ch.6 random hit location (p.97) | The table says "roll 2D" but its first row is a result of 1, which 2D cannot produce (rows: 1, 2, 3-4, 5-6, 7-11, 12). | Table kept as printed; flagged in JSON. | open | Decide the intended dice (1D x 2? 2D with 2 = arm?) and fix the table. |
+| E-027 | ambiguity | Ch.6 Martial arts, Foot Sweep (p.99) | "The character must remain prone for the remainder of the round" appears to mean the tripped target, not the attacker. | Read as the target. | open | Confirm. |
+| E-028 | ambiguity | Ch.6 grenades (p.93) | Dodging a grenade: the example has a throw of 17 and says the target needs 18 or higher, i.e. strictly higher, while reactions elsewhere use the reaction roll as the attacker's difficulty (attack hits on equal). | Dodge must exceed the throw result, as in the example. | open | Confirm tie handling. |
+| E-029 | extraction | Ch.6 tables | In `06-combat-injuries.txt` several tables are misaligned (modifiers for all attacks, miscellaneous damage, natural healing, poison, illness chart). Their values were checked against the PDF word positions where used in JSON. | Fixed: the Ch.6 tables (modifiers for all attacks, miscellaneous damage, natural healing, medpac, poison, illness) now come out as pipe rows. JSON values were read from the PDF and agree. | accepted | None. |
+| E-030 | extraction | Ch.6 miscellaneous damage (p.102) | The Radiation (intense) row was not in the first PDF region re-read. | Checked afterwards against the PDF: 3D. | accepted | None. |
+| E-031 | extraction | Ch.7 (p.114) | In `07-movement-chases.txt` the "Bantha Decoy" paragraph is split by the two-column order: the reaction-skill example and "Full Reaction" text (which belong to Vehicle Combat > Reaction Skills, p.113) are inserted in the middle of it, after the "Complex Maneuvers" heading. | Fixed by the paragraph-continuation repair in `extract_chapters.py` (PDF page 116 only; the audit shows no other page changed order). | accepted | None. |
+| E-032 | xref | Ch.7 (p.117) | Cinematic chases refer to "Long-Distance Travel" in this chapter (the section is "Long-Distance Movement") and to the chapter "Roleplaying Battles" (Chapter 9, "Running Battles"). | Used the real section and chapter names. | info | None. |
+| E-033 | ambiguity | Ch.7 ramming (p.115) | Ram hits if the roll is "higher than the difficulty"; the miss case covers original <= roll < new difficulty. A roll exactly equal to the new (+10) difficulty is not covered. | Treated as a hit (equal or higher, like other rolls). | open | Confirm. |
+| E-034 | ambiguity | Ch.7 (p.108 vs p.111) | Characters may change speed up to two levels per round; vehicles one level. Probably intentional but not explained. | Both documented as printed. | open | Confirm intent. |
+| E-035 | extraction | Ch.8 (p.131-132) | In `08-space-travel-combat.txt` the "Running Space Combat" sidebar is inserted in the middle of the cautious-movement example (the example continues after the sidebar, on p.132). | Not an extraction defect: in the PDF the sidebar "Running Space Combat" sits between the start of the example and its continuation on the next page. The text file reproduces the layout. | info | None. |
+| E-036 | conflict | Ch.8 (p.120) vs Ch.3 summary table | Ch.8 says capital ship piloting, starfighter piloting and space transports can fall back on the **Technical** attribute; Ch.3 lists all three under **Mechanical** (and Ch.6/7 say "Mechanical if unskilled" for vehicles). | Mechanical. | open | Confirm; likely a leftover from an earlier edition. |
+| E-037 | missing | Ch.8 (p.135) | The weapons text refers to "Ships in an Atmosphere" later in the chapter and to 'Atmosphere Range'; no such section exists in the chapter. | Not available; atmosphere ranges are only mentioned. | open | Check whether another chapter (Starships) covers atmospheric flight, or add a house rule. |
+| E-038 | xref | Ch.8 (p.120, p.126) | "Chapter Two, 'Attributes and Skills'" (Chapter 3) for repairs/upgrades and sensors; "Improving Vehicles, Vessels and Weapons" section not verified. | Use Chapter 3. | info | Verify the section name when Chapter 3's repair rules are distilled. |
+| E-039 | typo | Ch.8 astrogation table (p.123) | "Each hour saved on journey" shows the modifier as "1" without the plus; the text and example give +1. | +1. | info | None. |
+| E-040 | xref | Ch.8 (p.138) | Starship damage refers to "passenger damage", which is defined only in the vehicle rules (Ch.7, p.116). | Use the Ch.7 table. | info | None. |
+| E-041 | typo | Ch.10 Doppleganger (p.171) | Required Powers lists "projective telepath ," (missing "y"). | Read as projective telepathy. | info | None. |
+| E-042 | xref | Ch.10 (p.152, p.154) | "Chapter Four, 'The Rules'" (Chapter 5) and "Chapter Five, 'Combat and Injuries'" (Chapter 6). | Use real chapter numbers. | info | None. |
+| E-043 | conflict | Ch.5 (p.87) vs Ch.10 (p.178) | Ch.5: atonement takes two adventures or 40 days "to remove one Dark Side Point". Ch.10 gives 40, 60, 80, 100, 120 days for 1 to 5 points. They agree for one point but differ on whether the times are cumulative per point or a table by total. | Ch.10 table by total points. | open | Confirm. |
+| E-044 | conflict | Ch.5 (p.86-87) vs Ch.10 (p.177) | Ch.5: roll 1D when gaining a point; below the total means turned to the dark side; 6 points means fallen. Ch.10: a character with "over six" points is normally made a gamemaster character. | Fallen at 6 or more (Ch.5); Ch.10's optional rules apply to fallen characters. | open | Confirm the threshold (6 or 7) and whether both mechanisms apply. |
+| E-045 | ambiguity | Ch.10 Dark Jedi (p.178) | "If all three attributes drop to zero, the character dies" probably means the three Force skills; Force Points at 0 cost "1D of skills from their Force powers". | Read as the three Force skills. | open | Confirm. |
+| E-046 | extraction | Ch.10 (p.153) | The relationship and proximity modifier tables come out shifted by one line in `10-the-force.txt`. JSON values were read from the PDF (relationship fully; proximity first three rows) and the rest by the same pattern. | Fixed: the relationship and proximity tables are now complete pipe rows in the text and agree with `tables/force.json`. | accepted | None. |
+| E-047 | typo | Ch.10 | "Doppleganger" (power name) is a misspelling of Doppelganger. | Kept as printed so lookups match the book. | info | None. |
+| E-048 | extraction | Ch.10 Force Push (p.162) | "Required Powers" and "Effect" are on one line in the text. | `build_force_powers.py` splits them. | info | None. |
+| E-049 | typo | Ch.16 Barabel stat block (p.281) | Attribute name misspelled "MECHANCIAL". | Read as Mechanical. | info | None. |
+| E-050 | typo | Ch.16 Gand stat block (p.291) | Attribute name misspelled "PECEPTION". | Read as Perception. | info | None. |
+| E-051 | typo | Ch.16 Togruta stat block (p.302) | "MECHANICAL1D/4D" is missing the space after the attribute name. | Read as Mechanical 1D/4D. | info | None. |
+| E-052 | typo | Ch.16 Cathar stat block (p.284) | The "Move: 12/14" line is glued to the end of the Claws ability paragraph. | Read as a separate Move line. | info | None. |
+| E-053 | source-defect | Ch.16 Aqualish (p.280) | The Homeworld paragraph repeats Anzat text: Ando is described as "a mountainous world in the Mid Rim" whose sky aurora has "religious significance for the Anzati". Copy-paste error. | Homeworld taken as Ando; the rest ignored. | open | Replace with the correct Ando description if known. |
+| E-054 | conflict | Ch.18 lightsabers (p.348-349) vs Ch.3 (p.36) | A lightsaber user injures themselves if they miss the *base* difficulty "by more than 10 points" (Ch.18, all three sabers) but "by 10 or more" (Ch.3). | "10 or more" would also hit at exactly 10; both documented. | open | Choose the threshold. |
+| E-055 | ambiguity | Ch.18 armor (p.356-358) | Armor bonuses are given in several forms: "+1D physical, +1 energy", "+2 physical, +2 energy" (pips), "+1D to Strength to resist physical and energy damage". A few armors cover only some locations. | `armor.json` parses physical/energy bonuses and the Dexterity penalty from the notes; coverage stays in `game_notes`. | info | None. |
+| E-056 | extraction | Ch.18 (p.334-335) | The General Goods table prices were partly out of order in `18-equipment-weapons.txt`; the JSON uses the PDF (25 rows checked). | `tables/equipment-tables.json` from the PDF. | info | None. |
+| E-057 | typo | Ch.21 sensor jamming hardware (p.449-450) | Weight reads "I metric ton" (letter I). | Read as 1 metric ton. | info | None. |
+| E-058 | conflict | Ch.20 (p.406) | The entry heading says "V-36 Courier" but its text and stat block say "V-35 Courier" (the text also compares it to Owen Lars's V-35). | Kept the stat block name V-35. | info | Fix the heading if the book is revised. |
+| E-059 | ambiguity | Ch.21 YT-series (p.447-449) | Variants share one stat block ("Passengers: 6; 9 (YT-1300p); None (YT-1300f)", cargo likewise); the model fields keep the text as printed. | Variant values left in the text fields. | info | Split per variant if the app needs it. |
+| E-060 | extraction | Ch.21 weapon summary table (p.450) | In `21-starships.txt` the weapon names are separated from their numbers; `ship-upgrades.json` uses the PDF (11 rows checked). | PDF-based rows. | info | None. |
+| E-061 | typo | Ch.23 templates | Template skill lists use names that differ slightly from the skills chapter: "Droid prgrm.", "Demolition" (Demolitions), "Archaic weapons" (the skill is archaic guns), "Space transport repair" (Space Transports Repair), "Culture" (Cultures). Ewok lists "Glider" and "Primitive construction", which are Ewok special skills (chapter 16), not Chapter 3 skills. | Listed as printed in `templates.json`; read them as the nearest skill. | open | Confirm "Archaic weapons" = archaic guns. |
+| E-062 | ambiguity | Ch.23 templates | Most templates leave "Force Sensitive?" and the Force Points blank (the player chooses; 2 if yes, 1 if no). Bounty Hunter is printed as "No". | `force_sensitive` null means the player chooses. | info | None. |
+| E-063 | conflict | Ch.23 Wookiee template (p.498) vs Ch.16 Wookiee stat block (p.306) | **Proposed by the app PM, not yet reviewed.** The template prints Move 10; the species stat block gives Move 11/15 (start 11). Checked in `23-templates.txt` and `species.json`. | App uses the template's printed Move (10) for the template path and the species start (11) for a new template. | open | Choose the Move for the Wookiee template. |
+
+## Review log
+**Review 1 (sample review of Phase 1).** Method: `tools/verify_knowledge_base.py` re-reads the PDF page cited by each record or rule (not the extracted `.txt`), plus manual reading of random samples.
+- 464 data records (weapons, armor, gear, vehicles, starships, ship upgrades, species, templates, skills, Force powers): every value token found on the cited page; for the 288 item stat blocks every "Label: value" pair was matched inside the item's own block. Eight apparent misses were checked by hand against the PDF and were limitations of the checker (headings, page breaks), not data errors.
+- 63 rule lines with page citations: 5 flagged, all harmless (chapter numbers, list numbers, derived counts).
+- Manual reading of 12 random records and 10 random rule statements against the PDF text: all faithful.
+- 19 defects logged in this register were searched in the PDF text: all exist (E-036's wording is "(or Technical attribute)").
+- **Defects found and fixed in our pipeline:** (1) artillery weapons had "Body: 5D" glued into the availability field and a footnote glued into the damage field (`build_equipment.py`); (2) a Waveskimmer weapon had a footnote and the crew field glued into its fire arc (`build_vehicles.py`); (3) the Recording Rod's "Audio Range" was glued into availability; (4) a rules line cited line numbers of a text file that no longer matched after the extractor was rewritten.
+
+## Decisions
+_None yet. Record a decision here with its row ID when a human resolves an `open` item._

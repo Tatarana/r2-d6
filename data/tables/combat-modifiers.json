@@ -1,0 +1,163 @@
+{
+  "id": "combat-modifiers",
+  "source": { "chapter": 6, "pages": [89, 90, 91, 92, 93, 94, 95, 96, 97, 98], "file": "raw-data/06-combat-injuries.txt" },
+  "range_difficulty": {
+    "rule": "Ranged weapons list short/medium/long ranges in metres (example blaster pistol 3-10/30/120). Closer than the short range is point-blank. Beyond long range the weapon cannot hit.",
+    "levels": [
+      { "band": "point-blank", "difficulty": "Very Easy" },
+      { "band": "short",       "difficulty": "Easy" },
+      { "band": "medium",      "difficulty": "Moderate" },
+      { "band": "long",        "difficulty": "Difficult" }
+    ],
+    "melee_and_brawling": "Each melee weapon lists its own difficulty. Brawling is Very Easy.",
+    "estimating": [
+      "Within 3 m: point-blank.",
+      "Indoors: mostly short; in a large room pistols may be medium, rifles stay short.",
+      "Outdoors: mostly medium; pistols sometimes long, rifles still medium.",
+      "Outdoors at great distance: long."
+    ],
+    "source_page": 89
+  },
+  "reaction_bonuses": [
+    { "reaction": "melee parry", "when": "defending against an unarmed attacker with no sharp natural weapons", "modifier": "+5 to the parry roll", "page": 90 },
+    { "reaction": "brawling parry", "when": "defending against an attacker using a weapon or sharp natural tools", "modifier": "+10 to the attacker's attack roll", "page": 90 }
+  ],
+  "light_and_smoke": [
+    { "condition": "Light smoke",       "difficulty_modifier": "+1D" },
+    { "condition": "Thick smoke",       "difficulty_modifier": "+2D" },
+    { "condition": "Very thick smoke",  "difficulty_modifier": "+4D" },
+    { "condition": "Poor light",        "difficulty_modifier": "+1D" },
+    { "condition": "Moonlit night",     "difficulty_modifier": "+2D" },
+    { "condition": "Complete darkness", "difficulty_modifier": "+4D" }
+  ],
+  "light_and_smoke_page": 93,
+  "cover": {
+    "rule": "Add the cover modifier(s) to the difficulty to hit. If the attack beats the base difficulty but not base + cover, the shot hits the cover (roll damage against the cover's body strength).",
+    "levels": [
+      { "covered": "1/4",   "difficulty_modifier": "+1D" },
+      { "covered": "1/2",   "difficulty_modifier": "+2D" },
+      { "covered": "3/4",   "difficulty_modifier": "+4D" },
+      { "covered": "full",  "difficulty_modifier": null, "note": "Attacker cannot hit the target directly; must destroy the cover. Damage to the cover may exceed its Armor Value and hurt the target indirectly." }
+    ],
+    "source_page": 93
+  },
+  "protection": {
+    "sample_body_strength": [
+      { "object": "Flimsy wooden door",  "body_strength": "1D" },
+      { "object": "Standard wooden door", "body_strength": "2D" },
+      { "object": "Standard metal door",  "body_strength": "3D" },
+      { "object": "Reinforced door",      "body_strength": "4D" },
+      { "object": "Blast door",           "body_strength": "6D" }
+    ],
+    "damage_vs_body_strength": "Roll the attack's damage against the cover's body strength. Lower: cover undamaged, target unharmed. Equal or higher: use the object damage table.",
+    "object_damage": [
+      { "damage_minus_body_strength": "0-3",  "state": "Not seriously damaged", "reduce_weapon_damage": "no damage reaches the target" },
+      { "damage_minus_body_strength": "4-8",  "state": "Lightly damaged",       "reduce_weapon_damage": "-4D" },
+      { "damage_minus_body_strength": "9-12", "state": "Heavily damaged",       "reduce_weapon_damage": "-2D" },
+      { "damage_minus_body_strength": "13-15","state": "Severely damaged",      "reduce_weapon_damage": "-1D" },
+      { "damage_minus_body_strength": "16+",  "state": "Destroyed",             "reduce_weapon_damage": "full damage" }
+    ],
+    "source_page": 94
+  },
+  "armor": {
+    "rule": "Armor adds to the Strength roll to resist damage only (not to other Strength rolls, except armored powersuits on lifting). It may protect differently against physical and energy attacks and may reduce Dexterity and Dexterity skills. Armor cannot protect an area it does not cover (hit locations).",
+    "example": "Stormtrooper armor: +2D physical, +1D energy, -1D Dexterity and Dexterity skills.",
+    "armor_damage": [
+      { "wearer_injury": "Wounded",          "armor": "Lightly damaged (-1 pip)" },
+      { "wearer_injury": "Incapacitated",    "armor": "Heavily damaged (-1D)" },
+      { "wearer_injury": "Mortally wounded", "armor": "Severely damaged (useless but repairable)" },
+      { "wearer_injury": "Killed",           "armor": "Destroyed" }
+    ],
+    "source_page": 94
+  },
+  "damaged_weapons": {
+    "body_strength": "Most hand weapons have body strength 2D regardless of their damage. Same damage-vs-body-strength table as protection (state: not seriously / lightly / heavily / severely damaged / destroyed).",
+    "effects": [
+      { "state": "Lightly damaged",   "effect": "-1D damage" },
+      { "state": "Heavily damaged",   "effect": "-2D damage and +10 to all difficulties to use it in combat" },
+      { "state": "Severely damaged",  "effect": "cannot be used, may be repaired" },
+      { "state": "Destroyed",         "effect": "cannot be repaired" }
+    ],
+    "source_page": 95
+  },
+  "scale": {
+    "order": ["character", "speeder", "walker", "starfighter", "capital", "death-star"],
+    "modifier": { "character": null, "speeder": "2D", "walker": "4D", "starfighter": "6D", "capital": "12D", "death-star": "24D" },
+    "adjusted_modifier": "Difference between the two scales' modifiers. Same scale: ignore.",
+    "lower_attacks_higher": [
+      "Attacker adds the adjusted modifier to its attack roll.",
+      "Target dodging rolls only its maneuverability (and dodge skill).",
+      "Target adds the adjusted modifier to its roll to resist damage; the weapon rolls damage normally."
+    ],
+    "higher_attacks_lower": [
+      "Attacker rolls its normal attack.",
+      "Target adds the adjusted modifier to its dodge roll.",
+      "Attacker adds the adjusted modifier to its damage roll."
+    ],
+    "source_page": 95
+  },
+  "called_shots": {
+    "difficulty_modifier_by_target_length": [
+      { "length": "10-50 cm", "modifier": "+1D" },
+      { "length": "1-10 cm",  "modifier": "+4D" },
+      { "length": "under 1 cm", "modifier": "+8D" }
+    ],
+    "success": "Knock an item from the hand, grab a limb, pin to a wall, or +1D (or more, gamemaster's discretion) damage.",
+    "source_page": 96
+  },
+  "modifiers_for_all_attacks": {
+    "verified_against": "PDF page 98 (the text export misaligns this table)",
+    "rows": [
+      { "situation": "Low gravity",                                              "difficulty_modifier": "-1D" },
+      { "situation": "No gravity (zero-G)",                                      "difficulty_modifier": "-2D" },
+      { "situation": "Heavy gravity",                                            "difficulty_modifier": "+3D" },
+      { "situation": "The attacker is blind or blinded",                         "difficulty_modifier": "+4D" },
+      { "situation": "The target is blind or blinded, or attacked from behind", "difficulty_modifier": "-4D" }
+    ],
+    "source_page": 96
+  },
+  "hit_locations": {
+    "optional": true,
+    "rows": [
+      { "location": "Head",               "difficulty_modifier": "+1D", "damage_modifier": "+12" },
+      { "location": "Heart",              "difficulty_modifier": "+4D", "damage_modifier": "+12" },
+      { "location": "Chest, abdomen",     "difficulty_modifier": "0",   "damage_modifier": "0" },
+      { "location": "Left or right arm",  "difficulty_modifier": "+1D", "damage_modifier": "-2" },
+      { "location": "Left or right leg",  "difficulty_modifier": "+1D", "damage_modifier": "-1" },
+      { "location": "Left or right hand", "difficulty_modifier": "+4D", "damage_modifier": "-2" }
+    ],
+    "units_note": "The book does not state the unit of the damage modifier; read as points added to the damage total (see errata).",
+    "lasting_effects": {
+      "chest": "Can only passively defend next round.",
+      "foot_or_leg": "-1 to acrobatics, sneak, movement and initiative totals.",
+      "hand_or_arm": "-1 to acrobatics, brawling, climbing/jumping, melee combat, missile weapons, pick pocket, thrown weapons, lifting and other hand/arm rolls.",
+      "head": "-1 to Knowledge, Perception and initiative totals.",
+      "duration": "Until healed (a few days); first aid or (A) medicine can target one location. Hit-location modifiers stack with Wound level modifiers."
+    },
+    "random_location_table": {
+      "roll": "2D (as printed)",
+      "rows": [
+        { "roll": "1",    "location": "Right arm" },
+        { "roll": "2",    "location": "Left arm" },
+        { "roll": "3-4",  "location": "Right leg" },
+        { "roll": "5-6",  "location": "Left leg" },
+        { "roll": "7-11", "location": "Body" },
+        { "roll": "12",   "location": "Head" }
+      ],
+      "note": "A roll of 1 is impossible on 2D; see errata."
+    },
+    "source_pages": [96, 97]
+  },
+  "other_options": {
+    "prone_or_crouching": [
+      "Crouching target: +1D to the combat difficulty; if moving while crouching, +2D, and the defender's Move or running roll is halved.",
+      "Prone target: -2D to the difficulty at point-blank or short range, +2D at medium or long range.",
+      "Getting low voluntarily is a free action; being forced down means standing costs an action."
+    ],
+    "suppression_fire": "+1 to the opponent's difficulty per shot fired; repeating blasters/firearms add a full difficulty level per burst.",
+    "unwieldy_weapon": "+5 or more to the difficulty (e.g. melee weapons over 60 cm, hard to throw, unfamiliar technology); gamemaster may lower it for experience, strength or a well-balanced weapon.",
+    "multiple_weapons": "One-handed weapons may be used in both hands in the same round with the multiple-action penalty.",
+    "grenade_unseen_target": "+5 to +10 to the difficulty if the thrower cannot see where the grenade goes.",
+    "source_pages": [92, 97, 98]
+  }
+}

@@ -1,0 +1,729 @@
+CHAPTER 1: INTRODUCTION
+(Páginas impressas 5-17 | PDF 7-19)
+
+[Página impressa 5 | PDF 7]
+
+1
+
+# INTRODUCTION
+
+“So you want to play Star Wars?
+
+“Then pull up a chair and listen good. The name’s Shae, and I’m a bounty hunter. That means I’ll take most any job, if the risks are worth the money. Somebody slipped me enough credits to be your guide to the galaxy and the game... but not to hold your hand, get me? I’m only gonna tell you once so pay attention.
+
+“You’ve seen the Star Wars movies. You’ve read the novels and the comics. You’ve played the video games. In the roleplaying game, you’ll get a chance to explore the galaxy I call home, to go anywhere, do anything... as long as the bad guys don’t catch you, that is.
+
+“Before you can adventure in the galaxy, you better know something about it. First off, it’s big — the galaxy includes billions of worlds. Me, I’ve never seen a billion of anything, and you probably haven’t either. So you’ll just have to take my word that you’ve got a vast galaxy out there, waiting for you.
+
+“Who are the bad guys? The rulers — the Empire, the Separatists — the guys with all the power, and they’ll be glad to use it on anyone who gets in their way. Some planet’s government gets out of line, an Imperial or Separatist fleet will show up and blast’em until they’re... more agreeable. The bad guys call it “pacification”... but I’ve heard nastier words for it. Could be some places — like Alderaan — just gotta learn things the hard way.
+
+“The Empire’s troops are thugs with blasters. The Separatists’ are mindless droids. You want to learn to say, “Yes, sir,” “No, sir” and “Whatever you say, sir!” Mouth off and you’ll wind up in the spice mines of Kessel.
+
+CHAPTER ONE
+
+[Página impressa 6 | PDF 8]
+
+And then there’s the Rebel Alliance and the Old Republic. They’re trying to bring the bad guys down and bring back or maintain peace and freedom. If you ask me some groups like the rebels haven’t got a chance. Fighting the Empire gets you dead in a hurry, and some of us like breathin’.
+
+Finally, there’s those of us in the middle. We’re the bounty hunters, the smugglers, the mercenaries... the Fringe. We work for money, and don’t forget it.
+
+There’s lots more... the galaxy’s full of aliens and starships and landspeeders and weapons. Yeah, lots of weapons. You’d better learn about those too, if you want to survive.
+
+Now let’s talk about the game. You’ve probably been roleplaying a long time, and just didn’t know it. Maybe you called it “Imperials and Rebels,” “Sith and Jedi,” or “Clones and Droids”... it all amounts to the same thing, the good guys against the bad guys. And they had something else in common: you were pretending to be somebody else.
+
+Well, the Star Wars game is a lot like that. Only, instead of running around, you and your friends are sitting around a table, and all the action takes place in your imaginations.
+
+Every player’s got a “character” — somebody you pretend to be. Maybe it’s a Rebel pilot, a Wookiee, a young Jedi, or a bounty hunter. In the back of this book, you’ll find a bunch of “character templates” that you can use to start playing right away.
+
+Remember back when you were playing “Cops and Robbers?” There was always an argument — something like, ‘Bang! You’re dead,’ ‘No! You missed!’” Next thing you know, you were doing more fighting than playing. But not here. Star Wars has rules to make sure you and your friends get to enjoy the game.
+
+It’s like this. Anytime you want your character to do something — swing across a chasm, blast a stormtrooper, whatever — the rules tell you how hard it is to do. Then you roll dice to see how well your character did. Sometimes you’ll succeed and other times you’ll fail.
+
+Got all that? Good.
+Okay, turn the page and keep on reading. You’re about to meet Rojo Barant, a scout, and she’ll be your character in a solitaire adventure called “Escape Pod Down.” All you need is a pencil and some six-sided dice (you know, the kind you find in plenty of board games).
+
+And when you’re done... we’ll talk some more.
+
+### IF YOU ALREADY OWN “STAR WARS: SECOND EDITION REVISED AND EXPANDED”
+
+Star Wars: Revised, Expanded and Updated (that is this version you are currently reading) is essentially a reorganization of the popular Star Wars: Second Edition Revised and Expanded rules, which in and of itself was an expansion of the Star Wars: Second Edition rules. The goal is to make the game just as easy to learn, but to update the content to account for all of the additions in both the Canon, Legends, and Expanded Star Wars Universe since the last publication... way back in 1996. Only a few rules changes were included to continue following the track of the D6 system evolution.
+
+Please note that very, very few actual changes are included in this rulebook. There are mostly “optional” rule additions. These are imported from many other D6 publications, including but not limited to The D6 Toolkit, D6 Space, D6 Fantasy, D6 Adventure, D6 Space Opera, and various other West End Games Star Wars supplements.
+
+### WHAT’S NEW?
+
+Star Wars: Revised, Expanded, and Updated features the following:
+
+• Extensive examples and explanations to make learning and understanding the rules easier;
+
+• A solitaire adventure “Escape Pod Down,” to let you start playing right away;
+
+• An index to this volume;
+
+• Expanded Combat Options and Force powers combining information from various supplements.
+
+• Expanded Adventuring information, combining all the gems from the original Gamemaster’s Handbook;
+
+• A beginning adventure “Pirates of Prexiar”;
+
+• Aliens, vehicles, starships, and creatures from the Prequel, The Clone Wars, and the recent “Legends” Expanded Universe;
+
+• Numerous character templates.
+
+Finally, Star Wars: Revised, Expanded, and Updated concentrates on roleplaying over rules. The game is faster, easier, and more fun... and more like the original Star Wars movies!
+
+We hope you enjoy this new iteration of the rules. And above all, we how that this will keep the wonders of the Star Wars D6 system alive for generations to come.
+
+[Página impressa 7 | PDF 9]
+
+Character Name: Rojo Barant Type: Laconic Scout
+
+Gender/Species: Female /Human
+
+Age:
+23
+Height:
+1.6m
+Weight:
+49 kg
+
+Physical Description:
+
+DEXTERITY | 2D+2 | PERCEPTION
+Blaster | 4D+1 | Bargain
+Brawling parry |  | Con
+Dodge | 3D+2 | Hide
+Melee combat |  | Search
+Melee parry |  | Sneak
+
+2D
+3D
+3D
+
+KNOWLEDGE | 4D | STRENGTH
+Alien species |  | Brawling
+Bureaucracy |  | Climbing/Jumping
+Cultures |  | Stamina
+Languages Planetary systems |  | Swimming
+
+3D
+4D
+Streetwise
+Value
+
+MECHANICAL | 3D | TECHNICAL | 3D+1
+Astrogation |  | Computer prgm./repair
+Beast Riding |  | First aid
+Repulsorlift operation | 4D | Repulsorlift repair
+Space transports |  | Security
+Starship gunnery Starship shields |  | Space transports repair
+
+SPECIAL ABILITIES
+Move: 10
+None.
+Force Sensitive? No
+
+Force Points: 1
+Dark Side Points:
+Character Points: 5
+
+WOUND STATUS
+
+Stunned ☐
+Wounded 
+☐☐
+Incapacitated ☐
+Mortally Wounded ☐
+
+Equipment: Two medpacs, blaster pistol (4D), backpack, one week’s concentrated rations, knife (STR+1D), 1,000 credits
+
+Background: Never talked much. Never seen much reason to. Fact is, most of the time you don’t have anyone to talk to. You’re out under the high, wide skies of a virgin planet, pitting yourself against the wilderness. After you come the settlers, the big corporations and the traders — civilization. But you’re the one to open planets. You find out what the dangers are and deal with them. You find out how to survive the strange weather, the dangerous beasts and the rugged terrain of a whole new world.
+
+You’d be doing that still. But they won’t let you. The Empire has cut back on exploration; says it’s too expensive. You know the truth, though; freedom is part of the frontier. You can’t control people when they can always up and move. If, say, one wanted to impose tyranny on a galaxy, there’s only one way to do it; stop them from upping and moving. Close the frontier.
+
+The Emperor wants to destroy your livelihood. He doesn’t leave you with any alternative but joining the Rebellion, does he? You’ll be an asset, you hand, and you know how to survive — in comfort — anywhere. Need to set up a base on, say, an ice planet? You know how.
+
+Personality: You’re laconic. Close-mouthed. You have a strong sense of humor, which shows through frequently. You’re tough. Proud of your abilities. You take a perverse delight in tormenting “greenies.”
+
+Objectives: To blaze trails and open worlds from here to the end of space.
+
+A Quote: “You call these bugs? Back on Danos V, they got sting-insects the size of a house.”
+
+Connection With Characters: Anyone from a recently-settled planet (like a brash pilot) might know you as the scout who opened his or her world for settlement. You might have met and made friends with any of the fringe characters — gambler, merc, smuggler, pirate, or bounty hunter, for example.
+
+# CHARACTER
+
+# TEMPLATE
+
+• LACONIC SCOUT •
+
+[Página impressa 8 | PDF 10]
+
+!
+
+# ESCAPE POD DOWN
+
+Got those dice? Now read over the character template for Rojo Barant. She’s who you’ll be playing during this adventure, “Escape Pod Down.”
+
+“Escape Pod Down” is a solitaire adventure — you play it just by reading and following the directions at the end of each entry. Along the way, you’ll be learning how to play the Star Wars Roleplaying Game. And it won’t hurt a bit.
+
+Below is a quick summary of how you use the dice and your template to figure out when Rojo succeeds and when he fails. Read it over — yeah, the examples, too — and then start playing.
+
+Oh, and one more thing... good luck. You’re gonna need it.
+
+# YOUR CHARACTER
+
+Your character in this adventure is Rojo Barant, a Rebel scout stationed at Edan Base. Rojo’s template is on page 7.
+
+The right side of the template explains her background, personality and objectives — it’s a good way to get an understanding of the character you’re playing.
+
+All of Rojo’s game statistics are on the left side of the template. Rojo has six attributes, which are his basic qualities. They are Dexterity, Knowledge, Mechanical, Perception, Strength and Technical. Every character in the game has those attributes.
+
+Rojo’s skills are listed under each attribute. Skills are abilities you learn, and include things like blaster, dodge and brawling.
+
+Rojo has a die code for every attribute and skill. The die code is the number of six-sided dice you roll when you use the attribute or skill (for example, one die is 1D, two dice is 2D, three dice is 3D, and so on).
+
+Example: Rojo’s Perception is 2D, so if she tries to notice something out of the ordinary in a crowd, her player rolls two dice and adds the rolls together. If the player rolled a 4 and 5, Rojo’s Perception total would be 9.
+
+SOLO ADVENTURE
+
+[Página impressa 9 | PDF 11]
+
+Now take a look at Rojo’s Technical attribute. Notice that it’s 3D+1. That means you roll three dice, add them together, and then add one to the total.
+
+Example: Rojo’s Technical is 3D+1. If Rojo tries to repair a broken engine on a Rebel X-wing Starfighter, the player rolls three dice and adds one. If Rojo rolled a 3, 5 and 5, and then added one for the “+1,” Rojo’s Technical total would be 14.
+
+The same system works for skills. All skills begin at the same value as the attribute they fall under. Skills can be improved.
+
+Example: Rojo has the melee combat skill listed under her Dexterity attribute. Since Rojo’s Dexterity is 2D+2, her melee combat skill also starts out as 2D+2. Blaster, brawling parry, dodge, melee combat, and melee parry are also listed under Dexterity and they also start out as 2D+2.
+
+Some skills are improved on the template: Rojo’s increased skills are blaster, dodge, repulsorlift operation, search and sneak. Don’t worry about just how this works now — we’ll get to it later.
+
+Also don’t worry about the listings for Force Points, Move and other categories. They are used in the roleplaying game, but they’re not necessary to play this adventure. They are provided here in case you wish to use Rojo in other Star Wars roleplaying adventures.
+
+### How Rojo Does Things
+
+Every task that Rojo tries in this adventure has a difficulty, which is listed in the text. These tasks might include shooting a blaster at bounty hunters, sneaking past an Imperial patrol, or dodging for cover. There are six different levels of difficulty: Very Easy, Easy, Moderate, Difficult, Very Difficult or Heroic.
+
+There is also a difficulty number. This is the number you have to tie or beat with your die roll to succeed. In the adventure, these numbers are listed. When you are playing with friends, one of you will be the gamemaster and will decide what the difficulty numbers are. (We’ll talk more about gamemasters later, too.)
+
+The chart below lists the levels of difficulty and the numbers associated with them.
+
+Difficulty
+Difficulty Number
+Very Easy
+1-5
+Easy
+6-10
+Moderate
+11-15
+Difficult
+16-20
+Very Difficult
+21-30
+Heroic
+31+
+
+Roll the appropriate skill or attribute dice. If your roll is equal to or greater than the difficulty number, your character succeeds. If it’s lower, your character fails.
+
+Example: Rojo wants to fire her blaster pistol at the stormtroopers who are chasing her. Her blaster skill is 4D+1. The gamemaster says the difficulty number for hitting a target at this range is 15 (Moderate). Rojo’s player rolls four dice (for the “4D”) and adds
+
+one more point (the “+1”) to get a total of 17. Since this total is higher than the difficulty of 15, Rojo’s blaster shot hits the lead stormtrooper.
+
+If you make a particularly bad roll, or if you want to improve a roll you’ve already made, you may use a Character Point to roll an additional die and add it to that skill roll. Since Star Wars is a game about heroes — and your character is a hero — Character Points give you a chance to improve your character’s rolls, especially when your character needs it most. Rojo begins this adventure with five Character Points.
+
+Example: The stormtroopers have taken cover. Now Rojo needs to roll a 20 to hit them. She rolls her blaster skill of 4D+1 and gets 17 — a miss. Rojo decides to spend one Character Point (she only has four left). Now, she rolls the extra die and gets a 4. She adds this to her blaster roll of 17, raising the total to 21. Rojo hits another stormtrooper.
+
+For now, you’ll just be allowed to use one Character Point to improve a single skill roll. Don’t use up your Character Points too quickly. You never know when you’ll really need them. It’s always good to have a few around to help your character through the adventure’s climax!
+
+You now know enough about the rules to start playing. But a roleplaying game is more than rules — it’s about being in a fun adventure! Playing this solitaire adventure will give you a feel for the game. Simply read on and follow the directions.
+
+You’ll be directed to several numbered entries, determined by how well you make your skill rolls. Don’t read the entries straight through, and don’t read entries you’re not supposed to look at — that will spoil any surprises for you. Just follow the instructions and you’ll be okay. Good luck, and clear skies!
+
+# ESCAPE POD DOWN
+
+A lone sentry stood in the observation tower overlooking the dense forest. Behind him rose a small rocky hill which housed the Rebels’ secret base here on Edan II.
+
+The Alliance established Edan Base to house a squadron of X-wing and Y-wing starfighters, their pilots and crews, and the various Rebel operatives who wandered in and out from nearby systems. It was the hub of Rebellion activity in the sector.
+
+The sentry saw a glint of metal on the horizon. He raised his macrobinoculars to his eyes and ranged in on the two X-wing fighters coming back from a mission. Before long they were roaring overhead on their approach to the landing bay entrance, little more than a large cave in the rocky hillside. The sentry waved to the pilots. The starfighters were returning from a nearby system, where they had no doubt shot down a few Imperial TIE fighters. The sentry would hear about the mission later, when the pilots sat around bragging about their exploits in the crew lounge.
+
+Since the Alliance defeated the Death Star, the Empire had stepped up its measures to crush the Rebels. Edan Base had played an important role in keeping the flame of rebellion burning in this area. The starfighters harassed Imperial shipping in nearby systems. Smugglers stole Imperial supplies and delivered them here for Rebel resistance fighters. Free-traders transported Alliance agents to and from assignments nearby, and acted as couriers for important intelligence information.
+
+[Página impressa 10 | PDF 12]
+
+A splinter of light in the sky aught the sentry’s eye. He raised his macro-binoculars to his eyes and peered upward. Something was ripping through the atmosphere on a steep descent. It looked like an escape pod. The pod crashed into the forest about a kilometer away.
+
+This was something Commander Drayson would want to know about. The sentry pulled a comlink from his belt and pressed the transmit switch. “This is Sentry Post A9 reporting. Something just crash-landed about a kilometer northeast of the base. Looked like an escape pod, but I couldn’t be sure. You’d better send a scout to check it out. There could be survivors.”
+
+You will be that Rebel scout...
+
+You are Rojo Barant, a Rebel scout stationed at Edan Base. Between patrols, you hang out in the landing bay, working on your speeder bike. The docking hangar’s intercom speakers crackle to life. “Rojo Barant report to the command center” they blare. “Rojo Barant to the command center.” You pack up your gear and head off through the underground corridors to the base’s heart.
+
+The command center is packed with Rebel officers. Captain Ellers is monitoring comm channels and sensors, while Lieutenant Commander Kai is checking the shield generator’s power output. Commander Drayson, your boss, is standing near a holographic display of the planet. You step up and ask what he wants.
+
+“We need you to run a quick patrol,” Commander Drayson says. “One of our sentries spotted an escape pod which crashed into the dense forest a kilometer from the base. I need you to go out there and see if there are any survivors inside.” He gives you directions to the pod’s crash site, then dismisses you.
+
+You return to your speeder bike and fly it out of the landing bay. Following Drayson’s instructions, you zoom through the forest to the northeast. Soon you come to a small clearing: sitting in the center is what looks like an escape pod, with the main hatch wide open. You hop off the speeder bike and approach on foot to investigate.
+
+You decide to check out the pod and its surroundings. Depending on how well you search, you may or may not find something important. To determine how thoroughly you look around, you’re going to roll your search skill. Look at Rojo’s character sheet. Search is an observation skill, so it’s listed under Perception. In this case, Rojo has a dice code of 3D in search. Now roll your 3 dice and add them up to see how well you examine the pod.
+
+• If you rolled 10 or higher, go to 5.
+
+• If you rolled 9 or lower, go to 3.
+
+You walk toward the odd sound. Something is moving through the forest nearby. You’re not sure if it’s friendly or hostile. You feel it’s best to sneak up and see what it is instead of announcing your presence.
+To creep through the forest toward the sound, you’ll use the sneak skill. Like search, it’s a Perception skill. The dice score for your sneak is 3D. Roll 3 dice and add them up to see how good you are at slipping silently through the forest.
+
+• If you rolled 10 or higher, go to 6.
+
+• If you rolled 9 or lower, go to 4.
+
+To shoot the probe droid, you use your blaster skill listed under Dexterity. Rojo’s skill has been improved to 4D+2. You still roll 4 dice, but add +2 to the total. The probe droid is not too far away — Medium Range so this shot is going to be a Moderate (15) difficulty. Roll your blaster skill dice and see what you get.
+
+• If you roll 15 or higher, go to 9.
+
+• If you roll 14 or lower, go to 7.
+
+You carefully check out the pod and its surroundings. The pod is nestled in a crater, probably the result of a high-impact landing. Although the pod’s hatch is open, you don’t see any sign of survivors.
+You creep up and peer inside the pod. It doesn’t look like there’s a lot of room inside. You might be able to fit one person in there, but he’d be pretty cramped and uncomfortable.
+
+Suddenly you hear a sound in the forest — something is humming, creaking and snapping through branches. It seems to be coming from the direction of your base.
+
+• Please go to 1.
+
+Despite your best attempts, you snap a few twigs and rustle some leaves as you creep through the dense forest undergrowth. You spot something moving ahead and hide behind a bush. Peering out over the leafy top, you see a droid crawling in a clearing. It’s a walking of Imperial probe droid! You see it’s main ocular bubble focusing through a break in the trees — it’s scouting out your Rebel base!
+
+Maybe you gasp too loudly. Perhaps it heard you sneaking up on it. The droid turns suddenly on its walking legs, swiveling its blaster cannon to face you. You’ve been discovered!
+
+• Please go to 11.
+
+You carefully check out the pod and its surroundings. The pod is nestled in a crater, probably the result of a high-impact landing. Although the pod’s hatch is open, you don’t see any sign of survivors. This is strange — if someone was in the pod, you would have noticed humanoid tracks in the upturned dirt surrounding it. Unless these odd looking holes in the ground are its tracks...
+
+You creep up and peer inside the pod. It doesn’t look like there’s a lot of room inside. You might be able to fit one person in there, but he’d be pretty cramped and uncomfortable. You don’t see anything like a seat, and no safety restraints at all. If there was something alive inside the pod, it would have been crushed by the impact upon landing.
+
+Suddenly you hear a sound in the forest — something is humming, creaking and snapping through branches. It seems to be coming from the direction of your base.
+
+• Please go to 1.
+
+Careful of your footing, you manage to creep silently through the dense forest undergrowth. You spot something moving ahead and hide behind a bush. Peering out over the leafy top, you see a droid crawling in a clearing. It’s a walking Imperial probe droid! You see it’s main ocular bubbles focusing through a break in the trees — it’s scouting out your Rebel base!
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+[Página impressa 11 | PDF 13]
+
+Maybe it’s too late, but you have to do something to stop that probe droid from revealing your hidden base’s location to the Empire. You could sneak back to your speeder bike and fly off to warn the base. But that would leave the probe droid wandering around nearby. The Imperial droid must be destroyed. You draw your blaster and take a shot at it.
+
+• Please go to 2.
+
+You fire your blaster but the shot misses the probe droid. It targets you, turns its own blaster cannon toward you and takes a shot!
+
+• If this was your third time shooting at the droid, the probe droid’s shot hits you. You slump to the forest floor, unconscious and uncertain of your fate... go to 10.
+
+• If this was your first or second shot at the droid, go to 11.
+
+The droids blaster shot hits you before you can get away — you’re going to take some damage. To find out how badly you’re hit, you’ll have to roll the probe droids blaster cannon damage of 4D+2. This will tell you how powerful the blast is. Roll 4 dice, add 2 and write down the total. Next, you’ll roll your own Strength to see how well you resist this damage. Rojo’s Strength is 3D: roll 3 dice and write down the result. Now subtract your Strength total from the droids damage roll.
+
+• If the difference is 3 or lower, you’ve only been momentarily stunned. Check off the box on your character sheet marked “Stunned.” You catch your breath and take a shot at the droid with your blaster: go to 2.
+
+• If the difference is 4-8, you’ve been wounded with a nasty shot in the leg. Check off one of the boxes on your character sheet marked “Wounded.” You’ll still be on your feet after a moment of being stunned, but your injuries will affect all your other actions until you’re healed. Any time you make a skill roll, you subtract one die (−1D) from your dice score before you roll. Now you can take a shot at the droid with your blaster — but remember, you have a −1D penalty to all rolls: your blaster skill is now only 3D+2. Go to 2.
+
+• If the difference is 9 or higher, you’ve been more seriously hurt. You slump to the forest floor, unconscious and uncertain of your fate... go to 10.
+
+Your blaster burst hits the droids main dome. Since your shot hit, you get to roll your blaster’s damage dice of 4D (listed under Rojo’s “Equipment”) and compare that to the droids Strength of 4D (you’ll need to make this roll, but in the regular game the gamemaster will roll this). Roll 4 dice for your blaster’s damage and write down the total. Then roll 4 dice for the droids Strength. Subtract the droids roll from your damage roll.
+
+• If the difference is 3 or lower, you’ve only nicked the droid. It turns and fires its own blaster at you: go to 11.
+
+• If the difference is from 4-8, you’ve lightly damaged the droid. If it’s from 9-12, you’ve heavily damaged it. If the difference is from 13-15, you’ve severely damaged the droid. (These levels have different meanings in the game, but for now we’ll count them as equal.) Go to 12.
+
+• If the difference is I6 or more, go to 13.
+
+7.
+
+8.
+
+9.
+
+[Página impressa 12 | PDF 14]
+
+You don’t know how much time has passed when several Rebel soldiers wake you. A field medic is patching up your wound — it’s not too bad. You warn the others about the Imperial probe droid, but it’s long since escaped into the forest.
+
+• Please go to 14.
+
+The probe droid is going to shoot at you. Your best bet is to try and dodge out of the way. You’ll need to make two rolls here, one for the probe droids action and one for your dodge. The droid has a blaster skill of 4D: roll 4 dice, add them up and remember the total (in the game the gamemaster would normally make skill rolls for the enemy).
+
+Now you need to make a dodge roll for yourself. Dodge is a Dexterity skill — Rojo’s dodge has been improved to 3D+2. Don’t let that +2 worry you: it just means that you roll 3 dice and add 2 to the total. Now compare what you rolled for dodge with the total you rolled for the probe droids blaster:
+
+• If the probe droid ’s blaster is higher than your dodge roll, you’ve been hit: go to 8.
+
+• If your dodge roll is equal to or higher than the droid’s roll, you’ve dodged its blaster shot. Now you can return fire with your own blaster: go to 2.
+
+Your shot bursts against the probe droid, sending several parts and manipulator legs flying through the air. The droid is still working, though, and turns one of its ocular sensors to look at you. You’re about to take another shot when it emits a high-pitched sound, then explodes in a ball of fire. It must have had some kind of self-destruct mechanism inside to keep it from falling into enemy hands. It doesn’t matter. Your priority now is to return to base quickly and make your report.
+
+• Please go to 14.
+
+Your shot hits the probe droids weak center. The resulting explosion tears the droid apart, sending parts of it all over the forest clearing. Now that you’ve destroyed the Imperial droid, your priority is to return to base quickly and make your report.
+
+• Please go to 14.
+
+You return to base quickly and report to Commander Drayson. If that probe droid was really scouting your hidden base, you could have more trouble with the Empire very soon...
+That’s the end of the adventure — you’ve successfully completed the story in which you were the hero. Now you have a very basic idea of how your character works in the game. The rules below will help you learn even more about what you can do with your character. It’s all based on the same concept you learned during this adventure:
+
+Pick a difficulty number. If the character’s skill roll is equal to or higher, he succeeds.
+
+You’ve gotten your first taste of roleplaying. But that was just a solitaire adventure. Roleplaying games normally involve several people, including this “gamemaster” person. How does that work?
+
+Well, each player has a character... but you already know that, right? You might want to think of each adventure as a Star Wars movie, with your characters as the stars.
+
+Then there’s the gamemaster. He’s got several jobs: referee, storyteller, and mood-setter — all rolled into one. While you and your friends might play one character each, the gamemaster will play everyone else. He’ll be all the bad guys, all the bystanders, all the bartenders, informants, pals, and anyone else you’ll run into, talk to... or shoot at.
+
+The first thing the gamemaster does is come up with the story your characters are going to star in. He’ll set the scene, tell you what your characters see, and so forth.
+
+Once you have an idea of what’s going on, you get to decide what your characters are going to do. For example, if you’re in a crowded cantina, you can try to leave, try to get some inside info from somebody in the room, open fire... whatever seems like a good idea at the time. (Keep in mind what kind of character you’re playing. A human Jedi’s going to react differently to something than, say, a Wookiee smuggler.)
+
+Once you know what you want your character to try, the gamemaster takes over, deciding how hard it is and what’s going to happen if you succeed or fail.
+
+Maybe I should stop telling you about this, and just show you. Keep reading and you’ll see what I mean.
+
+# AN EXAMPLE OF PLAY
+
+Bill is the gamemaster. Greg is playing Thannik, a bounty hunter. Paul is playing a protocol droid named GT-9R (C-3PO is a protocol droid). Peter is playing Dirk Harkness, an outlaw (and all-round scoundrel). Amy is playing Rhen, a brash pilot (who thinks she’s something of a hotshot). Finally, George is playing a kid named Cev Rees (young Cev is something of a mischievous pest).
+
+BILL: “You enter the Dancing Dewback. It looks a lot like the cantina from Star Wars. There’s about 15 people here — some are human, but most of them are aliens. Off in the corner you can see a Devaronian — you know, the guy in the cantina scene with the short, pointy horns — downing a glowing red drink that seems to have a small electrical storm hovering over the cup. He looks like the contact you’re supposed to meet. What do you want to do?”
+
+PAUL: (As GT-9R, doing a typical droid-like mechanical voice) “Master Thannik, we are supposed to meet our contact in this... establishment. What a rough place. No one respectable would be found here.” (Now using his normal voice, telling Bill) “What else can I see? Do my sensors pick up anything unusual, or any signs of weapons?”
+
+GREG: (As Thannik) “Look, Niner, this is my kind of place. A good bar fight waiting to happen!” (Looking at Bill, speaking as the player) “I’m not taking any chances. Where are all of the entrances? If we have to fight our way out, where can we go? Who’s heavily armed?”
+
+11.
+
+12.
+
+13.
+
+14.
+
+10.
+
+[Página impressa 13 | PDF 15]
+
+PETER: (As Dirk) “Well, friends, it’s not polite to stare. I’m going to the bar for a drink. Anyone with me?”
+
+AMY: (As Rhen) “I’m in.”
+
+GEORGE: (As Cev) “Me too... I want a Reactor Core! I hear they’re good!”
+
+AMY: (As Rhen) “That’s enough, Cev. You’ll get a fizzyglug and like it. And don’t try picking any pockets like last time.”
+
+GEORGE: (As Cev) “I never get to have any fun. And how many times do I have to tell you... it’s ‘Cev,’ like with a ‘k,’ not with an ‘s!’” (To Bill) “I’m going to pretend to do what Rhen says but I’m looking out for someone I can pick-pocket.”
+
+PETER: “Here we go again... you know, last time you nearly got us all killed.”
+
+BILL: (To Peter) “You don’t know what Cev is doing so don’t worry about it.” (To everyone, pulling out a sheet of scrap paper) “Here, let me draw you a sketch of the room. There’s a front door — where both of you are standing now — plus a bar in the center. Dirk, Rhen and Cev are already at the bar. The room’s about 20 meters square, so it’s a decent size. There are booths and tables everywhere.”
+
+(Bill sketches a rough square, drawing in the front door, the bar and its approximate size, and several booths. He draws a booth in the back and circles it.)
+
+“This circled booth is where the Devaronian is. At first glance, you don’t see a lot of the bar — the lighting’s not very good. There are several humans and one Wookiee in the front — they look like smugglers or traders. You see three Duros — the guys with the big green heads and glowing red eyes in the first movie — in the back, clustered around a table. One is clearly arguing with the other two, and there’s a deck of sabacc cards and several stacks of coins on the table.
+
+“In the back corner is a Gamorrean — you know, Jabba’s pig-like guards in Return of the Jedi — and he’s really out of control. He’s standing by himself, well, stumbling is more like it. He’s punching at thin air and screaming lots of curses in his language.
+
+“If you want to notice anything else, you’ll have to take a few more seconds to scan the area and make Perception checks; if anyone is antsy, they’ll probably notice that you’re checking out the place if you keep on standing at the door.”
+
+GEORGE: “Have I found anyone to pick-pocket?”
+
+BILL: “You’re sure you want to do this? Most of the people here look pretty tough.”
+
+GEORGE: “That’s what makes it a challenge.”
+
+PETER AND AMY: “Oh no.”
+
+BILL: (Smiling evilly) “The guy next to you is a big, burly spacer-type. He’s got his back turned to you and there’s several empty glasses on the bar. His wallet’s half out of his back pocket. Easy pickings…”
+
+GEORGE: “I’ll go for it. Besides, he won’t beat up on a kid...”
+
+BILL: “Make your pick pocket roll.”
+
+GEORGE: “My pick pocket skill is 4D+2...” (Rolls four dice) “I got a 2, 4, 5, 5; with the +2, that’s an 18!”
+
+BILL: “You reach over and tug on the wallet and it comes right out. The guy doesn’t even notice.”
+
+AMY: “Can I see any of this going on?”
+
+BILL: “Make a search roll.”
+
+AMY: “I didn’t improve search, but it’s a Perception skill, right? My Perception’s 3D …” (Rolls three dice) “... a 3, 4, and 6; that’s a 13.”
+
+BILL: “Out of the corner of your eye you see Cev pulling the wallet out of the man’s pocket. The guy’s huge... he could probably press Cev one-handed.”
+
+AMY: (As Rhen, whispering to George) “Cev, what are you doing?”
+
+GEORGE: (As Cev) “Nothin’ Don’t come over here... there’s nothin’ to see.” (To Bill) “What’s in the wallet?”
+
+BILL: “Not much. An ID card and about 20 credits.”
+
+GEORGE: (As Cev) “Cool!”
+
+BILL: “The bartender walks up to the spacer, gives him a another drink and says, ‘Here’s your lum, Fenn. Two credits.’ The guy reaches around to his back pocket and starts feeling for his wallet.”
+
+GEORGE: (As Cev) “Uh-oh! See you later, Rhen!” (To Bill) “I duck into the crowd.”
+
+AMY: (As Rhen) “No you don’t!” (To Bill) “I grab the wallet from Cev.”
+
+BILL: “Now you need to make what’s called an opposed roll. Both of you roll your Strength. High roller holds on to the wallet. Amy, add a +5 modifier to your roll. You get a bonus because Cev is trying to sneak away and isn’t really paying attention to you.”
+
+AMY: (Rolls dice) “A 12... with the +5, that makes my total 17!”
+
+GEORGE: (Rolls dice) “A 10.”
+
+AMY: “Got it!”
+
+BILL: “Just as you grab the wallet and Cev ducks into the crowd, the spacer realizes his wallet is missing. He turns to look at you, Rhen.” (Bill imitates drunken spacer) “‘Hey, where’d my wallet go... hey, what are you doin’ with it?’”
+
+AMY: “Um, I’ll offer to buy him a drink.”
+
+BILL: “C’mon, play it out.“
+
+AMY: (As Rhen) “Uh, you just dropped your wallet on the floor... here. Let me buy you a drink.”
+
+BILL: (As spacer) “‘Sure. Say, what’re you doin’ later on?’”
+
+AMY: (As Rhen, muttering under her breath) “I’m gonna kill that little twerp...”
+
+Okay, now you’ve seen a little of how the game works. What next? Well, first is the “Star Wars Player Handout.” It’s sort of like a “cheat sheet” that speeds up play. Feel free to make copies for your players.
+
+Then Risha herself will take you through character creation in Chapter Two. And we’ll wrap up the Player Section of this book with Chapter Three, which tells you all you’ll ever need to know about attributes and skills.
+
+Keep reading and keep listening. I’ll be back to check on you later.
+
+[Página impressa 14 | PDF 16]
+
+# PLAYER HANDOUT
+
+If you’re new to the Star Wars Roleplaying Game, this section will get you ready to play in a couple of minutes.
+
+You’ll be playing a character a person who lives in the Star Wars universe. While playing, you pretend to be that character.
+
+There is no board to move tokens around on. Instead, one of your friends will be the gamemaster. The gamemaster acts as storyteller and referee, describing each scene to you and the other players. Now, imagine how your character would react to the situation. Then, tell the gamemaster what your character is going to do.
+
+When you describe what your character does, the gamemaster will tell you when to roll the dice, and tell you what happens as a result of how well (or poorly) you roll. In a way, you, the other players, and the gamemaster are creating your own Star Wars movie with your characters as the stars!
+
+Winning. There are no winners and losers. Having fun is what counts. It is far more important to have a great story than it is to excel as the “best” character.
+
+Cooperate. If the characters are to stand any chance of succeeding in their adventures, you and the other players have to work together.
+
+Be True to the Movies. Remember, you’re playing Star Wars! Be heroes. Use snappy one-liners. And above all else, have fun!
+
+Become Your Character. Don’t be afraid to ham it up a little! Speak like your character and adopt his mannerisms in your movements and actions. You can act out scenes — for example, if you’re play a gambler, you could have fun trying to con the other characters.
+
+Use Your Imagination. Your character can do whatever you can imagine someone in that situation doing. If you can imagine it in the real world (or the Star Wars universe), it can happen in the game!
+
+Keep Things Moving. Don’t worry about the rules. Simply tell the gamemaster what you want your character to do, and he’ll tell you what to roll and when.
+
+# GETTING STARTED
+
+Select a character template that looks like it would be fun to play. Grab a pencil and a few six-sided (“normal”) dice.
+
+The right side of the character sheet describes your character’s personality and background. You can change some of these elements, but make sure those changes are approved by the gamemaster. Each character has six attributes:
+
+Dexterity — Your character’s eye-hand coordination and agility.
+
+Knowledge — Your character’s knowledge of the galaxy.
+
+Mechanical — Your character’s “mechanical aptitude,” or ability to pilot vehicles, starships and the like.
+
+Perception — Your character’s powers of observation, and ability to convince others to do things for him.
+
+Strength — Your character’s physical strength, health, and ability to resist damage.
+
+Technical — Your character’s “technical aptitude,” or ability to fix, repair, and modify all kinds of technology, including starships, droids, and vehicles.
+
+Each attribute has a die code. A typical die code could be 3D (pronounced “three dee”). That means roll three six-sided dice whenever the attribute is used.
+
+Example: George is playing a kid, who he names Cev Rees. Cev has a Mechanical of 3D. When he jumps behind the controls of a landspeeder and tries to drive it on a busy highway, the gamemaster tells George to make a Mechanical roll. George rolls three dice and gets a 2, 3 and a 5 — Cev’s Mechanical total is 10.
+
+If there is a +1 or a +2 after the “D,” add that number to your total.
+
+Example: Cev’s Dexterity is 3D+2. (Pronounced “three dee plus two.”) When Cev throws a grenade, the gamemaster tells George to make a Dexterity roll. George rolls a 3, 4 and a 5 (for the 3D), but he also adds +2 to the total (for the +2) to get a total of 14.
+
+A die code of 2D is about average; a die code of 4D is pretty good.
+
+[Página impressa 15 | PDF 17]
+
+# IMPORTANT SKILLS
+
+Here are some of the more important skills for characters in the Star Wars game. They cover your character’s knowledge of a field or ability to do the following:
+
+Dexterity Skills.
+
+blaster: Fire blasters.
+brawling parry: Block someone else’s unarmed (brawling) attack.
+
+dodge: Get out of the way when people shoot at you.
+melee combat: Fight with weapons in hand-to-hand combat. melee parry: Block melee weapon attacks (only if you’re holding a weapon).
+
+Knowledge Skills.
+
+alien species: Knowledge of strange aliens anyone not of your species. (For example, if you’re playing an Ewok, your alien species skill covers your knowledge of humans.)
+
+languages: Speak and understand strange languages.
+planetary systems: Knowledge of different planets and star systems.
+
+streetwise: Knowledge of criminal groups and people in the Fringe and how to deal with them.
+
+survival: Survive in harsh environments, like arctic wastes and deserts.
+
+Mechanical Skills.
+
+astrogation: Plot hyperspace jumps.
+repulsorlift operation: Fly vehicles like snowspeeders, airspeeders, landspeeders and cloud cars.
+
+space transports: Fly freighters (like the Millennium Falcon) and any other ship that isn’t a fighter and isn’t a capital-scale (large) combat ship.
+
+starfighter piloting: Fly space fighters like X-wings and Y-wings.
+
+starship gunnery: Fire starship weapons.
+
+Perception Skills.
+
+bargain: Make deals.
+con: Fast-talk your way out of situations or talk people into doing things for you.
+
+gambling: Gamble.
+search: Look for things.
+sneak: Sneak around without being seen.
+
+Strength Skills.
+
+brawling: Fight with your bare hands.
+climbing/jumping: Climb and jump.
+stamina: Push your physical limits and resist disease.
+
+Technical Skills.
+
+computer programming/repair: Used to repair & program computers.
+
+droid programming: Program droids.
+droid repair: Repair droids.
+first aid: Knowledge of first aid techniques. space transports repair: Repair freighters. starfighter repair: Repair starfighters.
+
+If you have any questions about skills and how they work, just ask the gamemaster. The gamemaster may also allow special or unique skills into the game. However, this is completely at the discretion of the gamemaster.
+
+# SKILLS
+
+Skills are things your character learns and they can get better over time. Skills include things like blaster, dodge, starfighter piloting and brawling.
+
+A skill is listed under its attribute; each skill begins with the same die code as its attribute.
+
+Example: Cev’s Dexterity is 3D+2. Since blaster is a Dexterity skill, Cev’s blaster skill starts at 3D+2.
+
+You can add more dice to skills to get better at certain things. If you add one die to a skill, the number in front of the “D” increases by one.
+
+Example: George decides to add one die to Cev’s blaster skill (a Dexterity skill). Cev’s blaster skill is now 4D+2.
+
+You can add one or two dice to a skill, but you only have seven dice to spend on all your skills. (You can’t improve every skill — you can only pick ones you think will be important!)
+
+Example: Cev has the following attributes: Dexterity 3D+2, Knowledge 2D+2, Mechanical 3D, Perception 3D+2, Strength 2D+1, and Technical 20+2.
+
+George has 7D for skills. He decides to place 1D in blaster (a Dexterity skill), so it’s now 4D+2. He adds 1D to another Dexterity skill: pick pocket, which becomes 4D+2.
+
+George thinks Cev has spent a lot of time on the streets and adds 1D to his streetwise skill (a Knowledge skill) to make it 3D+2. George adds 2D to Cev’s repulsorlift operation skill: Cev’s Mechanical is 3D, so his repulsorlift operation skill is now 5D. Cev’s a really good driver — it’s too bad no one will give him the chance to prove it!
+
+George then spends 1D on con, a Perception skill. His con is 4D+2.
+
+George spends his last 1D of skill dice on Cev’s sneak; since it’s also a Perception skill, it goes to 4D+2.
+
+[Página impressa 16 | PDF 18]
+
+# HOW THE GAME WORKS
+
+The gamemaster assigns a difficulty number when a character tries to do something and there’s a chance of failure, such as shooting a blaster at stormtroopers, flying a starship, or fixing a busted droid. Roll the skill’s die code; if you don’t have the skill, roll the attribute’s die code. If your roll is equal to or greater than the difficulty number, your character succeeds. If it’s lower, your character fails.
+
+Example: Cev is at the controls of an airspeeder — kind of like the snowspeeders in The Empire Strikes Back — racing through a canyon. Up ahead, the canyon narrows into a tight passage.
+
+Cev’s repulsorlift operation skill is 5D. The gamemaster decides that the difficulty number is 18. George rolls a 22; Cev races through the opening without a scratch!
+
+If George had rolled a 17 or less, Cev would have failed. Maybe he only would have scraped the rocks, rocking the speeder for a second or two. If the roll was bad enough, maybe Cev would have crashed his speeder!
+
+Example: Cev is going to ride a tauntaun for the first time. The gamemaster tells George to make a beast riding roll — beast riding is a Mechanical skill. Since Cev doesn’t have any extra skill dice in beast riding, George just rolls his Mechanical attribute of 3D... and Cev hangs on for dear life.
+
+## OPPOSED ROLLS
+
+If your character is acting against another character, you are making an opposed roll: you roll your skill dice, while the other character rolls his skill dice. Whoever rolls higher succeeds.
+
+Example: Cev is shooting at a stormtrooper. Cev rolls his blaster skill (4D+2) to hit; the stormtrooper dodges (skill of 4D) to get out of the way.
+
+Cev rolls a 15. The stormtrooper rolls a 17 — the stormtrooper dodges out of the way of the incoming laser blast. If Cev had rolled a 17 or higher, the shot would have blasted the stormtrooper.
+
+## ACTIONS IN A ROUND
+
+The game is broken down into rounds; each round is about five seconds of game time.
+
+Your character can perform one action in a round. Roll the skill or attribute die code for that action.
+
+Characters can try to do more than one action in a round, but it’s harder to do more than one thing at once.
+
+If a character tries two things, lose one die (−1D) from every skill roll. If a character tries three things, lose two dice (−2D) from every skill roll. If a character tries four things, they lose three dice (−3D) from every skill roll, and so forth.
+
+Example: Cev is racing through the streets while several thugs are shooting at him. George decides that Cev will fire his blaster twice — once at each thug — and dodge to try to get out of the way.
+
+That’s three actions in a round, so Cev loses −2D for all of his skill rolls. Cev’s blaster skill is 4D+2, so he only rolls 2D+2 for each blaster shot. For his dodge he uses his Dexterity, which is 3D+2. After subtracting the −2D, Cev only gets to roll 1D+2 for his dodge.
+
+## THE WILD DIE
+
+One of the dice you roll should be of a different color than the others. This is called your “Wild Die.” Anytime you roll skill or attribute dice, pay special attention to what you roll on the Wild Die.
+
+If the Wild Die comes up as a 2, 3, 4 or 5, just add it to the total normally.
+
+If the Wild Die comes up as a 6, you add the six to your score, but also tell the gamemaster. He will have you roll that die again — add the new roll to your score, too. If it comes up as a 6 again, add the six and roll the die again — and keep on doing so as long as you get sixes.
+
+If the Wild Die comes up as a 1, tell the gamemaster. He will have you do one of three things:
+
+• Just add it to the total normally
+
+• Subtract that die and your other highest die from the total
+
+• Add it to the total normally, but the gamemaster will warn you that a complication happened — something unusual (and probably bad) has happened that livens things up for your character.
+
+[Página impressa 17 | PDF 19]
+
+# SPECIAL STATISTICS
+
+Each character has some equipment, at least one Force Point (some characters start with two!) and five Character Points. You can spend these points in particularly difficult situations.
+
+• Character Points. When you spend a Character Point, you get to roll one extra die when your character tries to do something. You can spend Character Points after you’ve tried a skill roll but you must do so before the gamemaster says whether your character succeeded at the task.
+
+Character Points are also used to improve character skills between adventures, so don’t spend all of them during an adventure.
+
+• Force Points. When you spend a Force Point, that means your character is using all of his concentration to succeed — and whether he knows it or not, he is drawing upon the Force!
+
+When you spend a Force Point, you get to roll double the number of dice you would normally roll in a round. You can only spend one Force Point per round and you have to say so before you roll any dice. You can’t spend any Character Points in the same round when you spend a Force Point.
+
+Using a Force Point in anger or fear calls upon the dark side — characters who use the Force for evil or for selfish goals risk going over to the dark side of the Force!
+
+• Dark Side Points. Characters get Dark Side Points for doing evil. If a character gets enough Dark Side Points, he or she turns to the dark side of the Force and will likely become a gamemaster character; the player must create a new character.
+
+• Move. This is how fast (in meters) your character moves in a round.
+
+# THE ERAS OF PLAY
+
+The Star Wars Roleplaying Game supports adventures and campaigns set in many different eras.
+
+Rise of the Empire. You can set your campaign in the time of the prequel movies (Episodes I-III). Known as the Rise of the Empire era, this is a period when the Republic’s power is waning, war grips the galaxy, and the Jedi Council still holds sway over ten thousand Jedi Knights. This time period predates the Empire but includes the tumultuous Clone Wars.
+
+Rebellion Era. Or, you can go forward in time to the classic period of galactic civil war and play in the Rebellion era, when the power of the Empire is supreme and those capable of using the Force are few and far between. This is the time described in the original Star Wars films (Episodes IV-VI).
+
+New Republic Era. Step into the Legends (non-canon) universe and explore the post-Endor lives of your Star Wars heroes. Live the thrills and triumphs that took place during the Timothy Zahn novels, or delve into the political tumult that is the New Republic.
+
+New Jedi Order Era. Or, jump to a time twenty years after the Battle of Endor and participate in the events surrounding the invasion of the galaxy. Aliens from beyond the edge of known space have begun an incursion into the New Republic as forces conspire to threaten the hard-won peace in the era of The New Jedi Order (as described in the Del Rey Books novel series).
+
+Other Eras. In addition, the rules in this book can be used to support campaigns set in other eras. For example, in the distant past the Jedi and Sith warred for the fate of the galaxy, as described in Dark Horse Comics’ Tales of the Jedi and Knights of the Old Republic series, as well as the Knights of the Old Republic video game series. Alternately, you may choose to set your game in the Legacy era, as popularized in Dark Horse Comics’ Legacy series: Forty years after The New Jedi Order era, the Empire has once again risen to power and the Sith have regained control of the galaxy. Although these time periods are not explicitly covered in great detain in this book, the rules herein can be used as a basis for play in these eras.

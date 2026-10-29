@@ -1,0 +1,2643 @@
+CHAPTER 21: STARSHIPS
+(Páginas impressas 415-452 | PDF 417-454)
+
+[Página impressa 415 | PDF 417]
+
+21
+
+# STARSHIPS
+
+A starship’s a lot more than a collection of nuts and bolts and wires. When you’re soaring past some dead moon and all of a sudden a swarm of pirates is on your tail, suddenly it’s your mother, your brother and your best friend. In fact, it’s better than that... a good ship will go where you want it to, do what you ask of it, and best of all, never ask to borrow money.
+
+Like any other piece of hardware, treat your ship right and it’ll treat you right. And don’t be surprised if it almost shows off a “personality” of its own one day. Pretty soon, you’ll know how much it can give, when to baby it, and when it needs a good, solid whack to coax that last extra burst of speed out of it.
+
+The ships in this section aren’t all that’s out there, you can bet on that. But they’re a pretty good sample of the sort that fill the spaceways and, if you’re lucky, maybe you’ll be flying one soon.
+
+# SPACECRAFT SYSTEMS
+
+Almost without exception, every species has yearned to leave the confines of its tiny planet and explore the vast reaches of space. On these planets, achieving this dream has been the single most important advancement in the civilization’s history, often spelling the difference between survival and extinction, between boundless growth and eternal stagnation.
+Though many species had achieved sublight flight and explored the confines of their own planetary systems, the development of hyperdrive (or other faster-than-light technologies) made the first steps toward a galactic community possible.
+
+Today, however, space travel is part of everyday life. What thousands of years ago seemed startlingly new and fascinating — almost magical — now seems routine. Few beings — except those from primitive worlds — think twice about hyperdrives, sensors, faster-than-light travel, or life support systems. But these “commonplace” items hold the galactic community together.
+
+Without hyperspace technology, travel from one star system to another would take years Instead of a few hours or days. In fact, in ancient days the first space travelers were put into cybernetic hibernation to make even short intrasystem flights so that they would not have to face the years — even decades — of boredom that space travel entailed. With the development of hyperdrive technology, though, the need for cybernetic hibernation became a thing of the past.
+
+CHAPTER TWENTY-ONE
+
+[Página impressa 416 | PDF 418]
+
+But it was not only hyperdrive which opened the galaxy: other inventions were needed to safely get from place to place. Without the sensors aboard even the smallest starships, travel at sublight speeds would be dangerous to the point of suicidal, and of course, hyperspace travel would be impossible. In addition, the development of a galaxy-wide industrial-based economy would have been impossible without advanced sensing technology: sensors allowed the exploration of the galaxy and expedient isolation of valuable raw materials.
+
+Life support systems that allow space travelers to survive the vacuum of space are indispensable. When crossing the void, one is plying an environment that is totally hostile to all but the most primitive life forms. Fortunately, life support systems are now so reliable and efficient that travelers seldom consider the consequence of system failure.
+
+To a space traveler from another, less developed galaxy, the Empire’s weapons of war would probably appear to be miracles as well. The standard blaster or laser cannon would be devastating, powerful magic. Again, the people of the Empire have lived with these wonders for so long that they are now commonplace.
+
+In the final analysis, the fabric of the galactic community is bound together by cords of high technology.
+
+## HYPERDRIVES
+
+The hyperdrive is a miracle of technology. For over a thousand generations, it has bound the galaxy together. Powered by incredibly efficient fusion generators, hyperdrive engines hurl ships into hyperspace, a dimension of space-time that allows faster-than-light travel. The theories and realities of hyperspace t ravel are understood by few but highly-trained hyperspace technicians in the astrophysics communities, and even they admit that certain aspects remain a mystery.
+
+Certain things are clear, through. Hyperspace is coterminous with realspace: each point in realspace is associated with a unique point in hyperspace, and adjacent points in realspace are adjacent in hyperspace. In other words, if you travel “north” in realspace then jump to hyperspace, you’ll be heading “north” in hyperspace as well. Objects in realspace have a “shadow” in hyperspace. That is, there is a star (or star-like object) in hyperspace at the same location as it occupies in realspace, and this is a danger to those traveling in hyperspace. Colliding with even the smallest objects at hyperspace velocities is often deadly.
+
+This is why astrogation and astrogation computers are so important, and why they are standard aboard most hyperdrive-equipped ships. Careful calculations must be made to assure that a hyperspace-traveling ship doesn’t smash into a planet or star while hurtling through this dimension; only the desperate — or foolhardy — attempt hyperspace jumps without up-to-date astrogation charts and astrogation droids or computers.
+
+Many droids and astrogation computers used on starfighters are capable of containing data for only one hyperspace jump at a time; others, such as the Rebel Alliance Y-wing, can hold up to ten jumps without being reprogrammed.
+
+Larger starships, such as Imperial Star Destroyers and similar models, have large on-board astrogation computers capable of virtually unlimited jump calculations and actually store jump coordinates for almost every foreseeable destination the ship may wish to reach.
+
+Even with sophisticated astrogation machines, mistakes are not uncommon. There are millions of stars in the galaxy, and billions of planets (not to mention asteroids and other debris), and space is not static — what was a safe course a few days ago may now be filled with debris from an exploded starship or collision between larger bodies. Authorities estimate that the locations of more than 90 percent of all large bodies in the galaxy are unknown! With all these variables, even the largest, most sophisticated computers, operated by the most experienced astrogators can plot a fatal path through hyperspace — even along well-traveled routes. While it is possible to change course while in hyperspace, this tactic is especially dangerous — the most minor error can send a ship careening thousands of light years off course.
+
+Still, space is largely empty. Millions of jumps are made daily — only a small fraction fail.
+
+## SUBLIGHT DRIVES
+
+Sublight drives move spacecraft through realspace. These engines provide more energy output than repulsorlift engines — which, since they require a large mass such as a planet for their antigrav engines to operate, are inappropriate for flights into deep space — and work much differently than their hyperdrive counterparts.
+
+Though many varieties of sublight drives exist throughout the galaxy — solid chemical booster rockets, atomic drives, light sails, ramjets — by far the most popular in the Empire is the Hoersch-Kessel ion engine. Originally brought into this part of the galaxy countless millennia ago by alien merchants, today almost all of the major ship manufactures put Hoersch-Kessel-style motors into their vessels.
+
+The Hoersch-Kessel is extremely efficient and extremely powerful. For most efficient use, the engine draws energy from power cells or generators. However, it can be converted to break down and draw power from uranium, other heavy metals, or virtually any substance. Liquid reactants, energy conversion cells, and even ion-collector pods are regularly employed for power.
+
+Another point in the Hoersch-Kessel’s favor is its versatility. The basic technology is simple, making it easy to construct drives for specific performance standards. A small version is used in starfighters and other high-performance vessels; larger engines can be produced for bigger ships. Not all H-K drives are identical: while each engine relies upon the same technological theory, different manufacturers all have their own variations, each attempting to produce the most efficient design.
+
+Because of its widespread use throughout the galaxy, most ship mechanics know the H-K well; it is easy to find someone to fix it when it breaks down. It’s also easy to find replacement parts for most small and mid-size Hoersch-Kessels, though larger or specialized ships may have to have parts manufactured. The H-K doesn’t break down often — it has few moving parts: however, for maximum efficiency, the engine’s intake and firing cells require precise adjustment and alignment, and must be “tuned up” periodically. If this maintenance is ignored for too long, the engine can be severely damaged or even ruined.
+
+Unlike hyperdrive engines, which propel vessels through hyperspace, the H-K moves ships in realspace via a fusion reaction which breaks down fuel into charged particles. The resulting energy hurls from the vessel, providing thrust. The ship’s
+
+[Página impressa 417 | PDF 419]
+
+direction is controlled by changing the exhaust’s direction with baffles or so-called “vectrals,” or by smaller H-K engines employed as lateral thrusters.
+
+While the H-K’s thrust is mildly radioactive and dangerous at extremely close ranges, it is safe enough to use in an atmosphere. The H-K’s most dangerous emissions are normally stopped by a series of collector coils, which are “scrubbed” and replaced during regular maintenance. Maintenance personnel routinely wear radiation-proof clothing (and smart ones have periodic anti-radiation inoculations as well). For situations where the H- K cannot be used, a ship relies on its repulsorlift engines.
+
+## ARMAMENT
+
+There are other dangers inherent in space travel besides the natural phenomena already mentioned. Pirates, smugglers, and hostile aliens abound along the routes of space. Weaponry — both offensive and defensive — has developed in direct proportion to star travel capabilities.
+
+Following are descriptions of the most common offensive and defensive armaments in the Alliance and Imperial arsenals. Many are known by different names in different sectors, and there may be subtle variations from system to system. However, the names and descriptions given follow standard Imperial Navy usage, which is also used by the Rebellion forces.
+
+While other weapons exist — nuclear warheads, particle beams, nova generators, and other more primitive technologies — they are usually found in common usage only in the frontier or isolated regions.
+
+Laser and Blaster Cannon. The terms “laser” and “blaster” are synonymous, except that “blaster” usually implies a smaller, lighter weapon. Ship-mounted lasers and weapons vary greatly in power.
+
+Most smaller ships, such as light freighters and starfighters, have some form of weaponry. In addition to weapons built specifically for starships, some weapons are converted and redesigned from ground-forces armament. To do so, most such weapons are given advanced focusing systems to keep their beams coherent over greater distances. Still other ships use smaller versions of the weapons in common use on capital ships.
+
+Laser and blaster cannons are usually mounted on lightly armed vessels, such as starfighters and licensed commercial vessels. They are capable of rapid fire, but are prone to overheating. They usually output their power in the visual-light spectrum, so that the gunner can see where his shots are going.
+
+Some lasers can be altered to change their beam color to any wavelength in the electromagnetic spectrum. This allows such vessels to attack “invisibly” (by firing in the non-visible spectrum) to gain initial surprise, but because such attacks can be detected by sophisticated electronic defense systems, this tactic is only of limited effectiveness.
+
+Turbolasers. Heavy shipboard laser weapons require immense amounts of power to cut through the shields and armor of large military craft and to penetrate planetary defenses. To generate this power. turbolasers are equipped with turbine generators and banks of capacitors to build up and store the energy necessary to make a very powerful laser pulse.
+
+Because of the time needed to build up energy, turbolasers usually have a lower rate of fire than normal lasers, but deliver a bigger punch. Turbolasers are strictly regulated; in theory only the Empire, sector or local governments can construct or mount such weapons.
+
+Ion Cannon. When a commander wishes to render an enemy harmless, rather than destroy him outright, ion weapons are employed. High-energy ionized particles, when fired in sufficient strength, can wreak havoc with the sophisticated electronics and controls of starships. These weapons are used primarily by planetary and system defense forces (who are often more concerned with driving off or deterring an enemy than destroying him).
+
+Ships use ion cannons to disable an enemy, then use their other more lethal weapons to finish him off. Ion weapons also allow pickets and fleet vessels to capture enemy vessels with relatively minor damage. Pirates also use these weapons to disable choice targets and then board them.
+
+Proton and Concussion Weapons. Proton torpedoes, concussion missiles, and bombs have become one of the primary surface-attack weapons of light space forces. This is because even small vessels, such as the Z-95 Headhunter and the TIE bomber, can carry these weapons and deliver them accurately from low altitudes flying at great speeds, allowing little time for point-defense systems to react.
+
+Unlike heavier space bombardments by turbolasers mounted in immense Star Destroyers, these weapons are effective against ray- and energy-shielded targets. Complete particle shielding will deflect proton torpedoes, however.
+
+Proton torpedoes carry a proton-scattering energy warhead. Concussion weapons (both missiles and bombs) carry an armor-
+
+[Página impressa 418 | PDF 420]
+
+piercing warhead containing a compact energy pack. When they explode, such weapons give off powerful concussive blasts which disrupt delicate instruments and equipment, and cause shock and blast damage to more durable targets.
+
+Tractor Beams. Over the millennia, the tractor beam has been altered from a commercial cargo-moving tool to an offensive weapon. Military tractor beams are powerful enough to capture and arrest even an immense vessel in mid-flight.
+
+The power of the tractor depends upon the size of generator driving it. and it usually follows that the larger the ship, the more powerful the pull of the tractor (however, some small and mid-sized commercial space tugs. which guide immense vehicles into orbiting dock facilities, have powerful tractors).
+
+According to current military doctrine, tractor beams are employed to arrest the maneuverability of the target vessel, thus allowing the attacking ship’s weapons to bear upon the targets with greater accuracy. However, it is extremely difficult for the tractor to lock on to fast-moving targets, and ships can break the tractor’s grip if they can maneuver beyond the beam’s covering arc.
+
+## SHIELDS
+
+There are two types of shields: particle shields and ray/energy shields. Both are needed for complete protection, and generally all military ships are equipped with shields of both types.
+
+Particle shielding protects against missiles and space debris. but it must be temporarily turned off if the vessel wishes to fire missiles of its own or launch or receive shuttlecraft. Aside from those exceptions, particle shields are on at all times. For game purposes, any time a ship has to lower its particle shields. it is considered to have a hull code −2D lower than the listed code.
+
+Ray/energy shielding protects strictly against lasers or other energy beams, it does not stop matter. Ray shields require large amounts of energy to maintain; most vessels only employ them when going into combat. Since this shielding is useful only in combat, its application is somewhat restricted. Non-Imperial vessels must apply for permits to carry ray/energy shielding and show just cause for why they need it. Fear of piracy is usually enough to secure standard permission.)
+
+## SENSORS
+
+The term “sensor” describes a whole range of complex devices that detect and analyze many forms of data — light, radio and other electromagnetic emissions; sound. motion and vibration; gravitational, nuclear and magnetic fields; heat, pressure. and t race chemicals; and even other sensors. Essentially, anything that enhances a person’s ability to receive data about his environment — from macrobinoculars to radiation counters to radar to long-range electromagnetic flux detectors — is a sensor.
+
+While the majority of ships use sensors for peaceful purposes — navigation, collision avoidance, research, and exploration — the current Rebellion and the rise of piracy in many outlying systems is forcing many ships to purchase new sensors or reconfigure their existing ones to be combat-quality.
+
+The most important task by far for military sensors is ship detection. Considering the massive punch warships pack, quite
+
+often the first shot in a battle decides the winner. To find each other, ships use sensors which scan for heat, electromagnetic energy, gravitational disturbance, motion, radio waves, light refraction, and more.
+
+Many sensors analyze a broad spectrum of data from several sensing inputs. others focus on particular types of energy, fields or objects. Sensor ranges vary from short (a few kilometers) to extremely long (up to one million kilometers), with specialized sensors usually having greater range. Because of size and computer limitations, smaller starfighters must usually rely upon the broad-range sensors; larger ships have many different specialized sensors.
+
+While this usually gives the sensing edge to larger vessels, it’s not all that simple. Large vessels are bigger targets: they radiate more energy, they reflect more light, they cause more gravitational disturbances. As an analogy, while a rancor may have a better sense of hearing than you do. you are as likely to hear it crashing through the woods as it is you.
+
+### Common Military Sensor Types
+
+Thousands of different sensors exist. Naturally, some are more sensitive than others. None are perfect; even the best sensors can fail to detect when they should, or can detect “ghost” images that don’t really exist. Solar radiation, hydrogen clouds, asteroid fields, strong gravity wells, and other natural phenomena can interfere or even block sensors. Of course, deliberate jamming or concealment can also hide things from sensors. Below is a list of some of the more common sensor types.
+
+Electro Photo Receptors (EPRs). These are the simplest sensing devices. They combine data from sophisticated normal light, ultraviolet (UV), and infrared OR) telescopes to form a composite holo or two-dimensional picture. Useful only at shorter ranges. Most targeting sensors use EPRs.
+
+Full-Spectrum Transceivers (FSTs). FSTs are frequently called “universal sensors” because they use a variety of scanners to detect all types of objects, energies and fields — but they are not very sensitive. The size of their receptor determines their effectiveness; receptor dishes must be quite large to detect accurately or at long range. Most non-combat ships are equipped only with FSTs.
+
+Dedicated Energy Receptors (DERs). DERs detect any electromagnetic emission within range of the sensor array, including comlink transmissions, navigational beacons, heat, laser light, and similar emissions. The DER’s accuracy is determined by the skill of the operator, whether person or computer: as DERs collect all energy emissions, sorting out the important information from useless data is crucial. A poor operator could mistakenly identify a stray cosmic ray as a brief enemy communication signal; an expert operator may filter through a screen of static to uncover the signature of a ship trying to sneak by. DERs are the primary passive sensor device in military sensor arrays.
+
+Crystal Gravfieid Traps (CGTs). These expensive sensors utilize a synthetic crystal grid to detect gravitic field fluctuations. High quality CGTs can detect and identify any fluctuations in the gravity field for hundreds of thousands of kilometers around.
+
+[Página impressa 419 | PDF 421]
+
+CGTs can be blocked by the presence of mass. For example, a CGT will strongly register a nearby planet’s presence, but may miss a ship in orbit on the other side of the planet.
+
+Hyperwave Signal Interceptors (HSIs). These sensors detect fluctuations in hyperspace. Whenever a ship enters or exits hyperspace, the local hyperspace field Is disturbed — the mass and speed of the vessel determining the size of the disturbance. Ships nearby carrying HSIs can detect the disturbance. HSIs cannot determine a ship’s origin or destination, but they can record the entry to or exit from hyperspace.
+
+In addition to detecting ships moving in and out of hyperspace, HSIs can detect and sometimes tap into hyperradio transmissions (such as those sent by HoloNet or subspace radio). This is important since most hyperradio communications are broadcast on very narrow bandwidths and are normally very difficult to detect. Decoding such messages is another matter entirely.
+
+Life Form Indicators (LFIs). LFIs aren’t actually sensors; they are sophisticated computer programs which examine the output of other sensors to determine if a life form is present, and, if so, what life form it is. For example, an FST sensor might determine that there is a mobile heat-source (outputting heat at 30 degrees Celsius) on that space ship, the source masses at 80 kilograms, the ship’s atmosphere contains large amounts of sulfur, and the ship’s gravity is set at .96 Standard; an LFI program would examine that data and decide that the ship probably contained a Sullustan.
+
+The quality of a ship’s LFI is determined by the sensitivity of the ship’s sensors and the intelligence of its computer.
+
+### Sensor Countermeasures
+
+Jamming Sensors. Jamming is the most common active countermeasure. Powerful generators can flood large areas with static and random signals, confusing and “blinding” sensors. One drawback to jamming is that while the exact position of the jamming vessel may be concealed by the jamming, the jammer is broadcasting his general location to everybody in the area. In addition, jamming affects everyone — friend as well as foe.
+
+Sensor Decoys. Ships can fool enemy sensors by sending out small pods or shuttles which broadcast the same signals a large ship emits naturally. Only exceptionally sensitive sensors can tell the difference between a good decoy and a real ship.
+
+Sensor Stealth. By purposefully reducing all emissions, ships can greatly reduce the chance of discovery. Turning off the engines and drifting is often the first and most effective evasion technique. Ships drifting on battery or power capacitors are far less likely to be detected, but of course can’t operate long without turning on power generators for life support.
+
+Ships trying to evade detection can also shut down their active sensors. Although this makes them much harder to detect, it also leaves them blind.
+
+“Running silent” is a standard technique; while on patrol or otherwise attempting to remain undetected, ships send no transmissions. Communication blackouts are difficult to maintain when several ships are operating together, since course, timing, and mission changes must be transmitted between the vessels.
+
+## SENSOR MODES
+
+Passive: Passive sensors examine energy emitted by other sources (heat detectors, or simple telescopes, for example). They don’t project any energies to detect information. Less effective than active sensors, passive sensors use less energy and don’t increase the sensing unit’s “visibility.”
+
+Sensor Sweeps: These sensors are active and emit pulses of energy and examine the reflected or “bounced” energy (radar. for example). Extremely effective at short and medium range, less so at long range. Because the sensor is giving off controlled bursts of energy, the sensing vessel is relatively easy to spot by other sensors. There are three prime modes of sensor sweep: scan, search and focus.
+
+Scan: Look at everything around the entire vessel. These sensors search the entire area around the vessel, but cannot provide the range or detailed information of sensors in search mode.
+
+Search: Only look for a specific type of target, such as a ship or a particular radio frequency. The operator must specify what to search for. Search modes function in one direction, for example, to the front, left, right or back (sensor modes “warp” so while scanning “left,” the sensor also searches to the top and bottom of the left portion of the ship). When several ships fly in formation, pilots often “search” their sensors on overlapping areas. For example, the lead pilot may focus his sensors directly ahead, while other pilots in his wing focus to each side and behind.
+
+Focus: Concentrate the sensors on a particular area selected by the pilot. This makes for much better information about the area on which sensors are focused, but provides little or no information about other areas. This mode is often used once something “unusual” has been detected by more general sensors sweeps.
+
+Cloaking Device. The ultimate sensor countermeasure, a cloaking device is an experimental shield which creates a subtle warp in the fabric of space surrounding the vessel, causing all forms of energy to slip around the ship as if it weren’t there, making the ship practically invisible. Exact specifications and technical data of cloaking devices are among the most highly-classified in the Empire.
+
+Cloaking devices are extremely rare. They are among the most sophisticated and complicated devices known; only a few highly skilled engineers can operate and maintain them. They are not in general production: each must be custom built for a specific ship. In addition, cloaking devices are enormously expensive; reportedly over one billion credits apiece!
+
+The Empire has declared cloaking devices illegal —class one contraband. Unauthorized manufacture. sale, purchase or use of a cloaking device are crimes punishable by death.
+
+Because of the expense and difficulty of maintenance, very few Imperial ships are equipped with cloaking devices. It is rumored that the Emperor’s personal shuttle has one, and possibly a new experimental Star Destroyer.
+
+No Rebel ships are known to be equipped with cloaking devices.
+
+[Página impressa 420 | PDF 422]
+
+## LIFE SUPPORT
+
+Every starship has a life support system that allows the ship’s occupants to survive the harsh environment of space in relative comfort. The type of environment the system produces depends upon the type of occupant it must accommodate. All life support systems must provide a breathable atmosphere, and most also provide a comfortable gravitational environment.
+
+The most common atmosphere-generating life support systems are built around chemical converters. Either biological or synthetic converters take the pilot’s and passengers’ waste elements, such as carbon dioxide, and convert them into usable form. In starfighters, converters are simply miniature recycling plants; but in large starships, converters may be gigantic systems, able to support many different living organisms.
+
+Some starfighters — notably the Imperial TIE series — do not have atmospheric converters built into them; instead each pilot’s space suit contains a converter.
+
+Many starships come equipped with converters that can be set to provide comfortable environs for many different species. Of course, this capability is limited by the physical characteristics of the ship’s interior: the design of life support systems mush take into account the ship’s probable occupants.
+
+Aside from providing an atmosphere, life support systems must also provide a gravitational environment for the pilots and passengers. In most starfighters, modified repulsorlift technology is used to create an antigravity field within the cockpit which negates most or all gee force effects that come into play as a result of the ship’s maneuvers. The overall effect upon the pilot is a constant low or zero-gravity environment, regardless of acceleration, deceleration, turning, and so on.
+
+In larger starships, the situation is vastly different. Huge gravity generators, powered from the ship’s main engines or auxiliary power cells, create constant gravitational fields that can be tailored and adjusted to fit ships occupants. On luxury liners, for example, certain areas of the ship maintain lighter fields than others to provide for elderly passengers for whom locomotion has become difficult; other areas maintain zero-g fields for sports competitions; other areas such as cargo bays may maintain strong fields to ensure stability. Of course, a luxury liner is also compartmentalized with respect to the various species which journey aboard, and each compartment’s gravitational field must be adjusted for the passengers It contains. Other mid-sized and larger starships, such as light freighters, have gravity generators as well, but they are usually not as flexible.
+
+Probably the most impressive life support systems are found aboard Ithorian vessels. These were modeled after the “herds” in which the Ithorians live on their planet’s surface. These ships maintain an atmosphere and gravity field so much like the planet itself that the Ithorians have brought a bit of their home planet to the stars with them. Miniature jungles, complete with vegetation and small animal life in natural habitats, thrive aboard these ships.
+
+## ESCAPE EQUIPMENT
+
+Imperial directives require every spacefaring vessel to include some form of emergence escape system. Operating licenses are denied to vessels that fail to meet these directives, but some ships slip through the bureaucratic net. In theory, each ship must have an escape system capable of handling every passenger on board. In practice, Imperial observers grant licenses if vessels have systems that can handle at least one-fourth of a ship’s standard complement.
+
+Ejection Seats. Small one- and two-man transport vehicles and starfighter-class vessels use a standard ejection seat escape system. The ejection seat system relies greatly on a passenger’s use of a full environmental flight suit, and even then survival in deep space is unlikely without immediate rescue. Ideally, ejection systems work best when the craft is in a planet’s atmospheric field. “Crash-worthy” seats contain built-in oxygen recirculators and heating elements that lower ejected seats to the ground.
+
+Only crew members wearing environmental flight suits with their helmets sealed can hope to survive ejection into space. The seats generally contain a 29-hour oxygen recirculator and heating element, but even so, few pilots survive if they aren’t picked up within a few hours. Most survivable ejections occur outside ship hangars or in atmospheres near a base (when pilots “ditch” fighters that are too damaged to land safely, for example). In such cases. an antigrav unit powered by a Belanti repulsorlift engine lowers the seat onto the strongest nearby gravity source, whether it’s a ship or planet surface.
+
+Escape Pods. Larger vessels are equipped with emergency escape pods. Ranging from one or two in light freighters to several hundred stored in giant lifeboat bays aboard Star Destroyers, escape pods are basically emergency space capsules capable of limited flight and maneuverability located at key positions in a ship’s hull to provide quick access in case of an emergency. Once loaded, an escape pod is released via explosive separator charges and pneumatically or ballistically propelled from the ship.
+
+If the pod is used in deep space, the crew must point the pod in the general direction of the nearest occupied planet or space lane, fire the rockets, and hope that someone hears the distress beacon.
+
+[Página impressa 421 | PDF 423]
+
+Though equipped to land on a planet, escape pods usually carry no repulsorlift engines. Instead. they rely on inflatable flotation devices. parachutes and their directional rockets to land safely. Minimal fuel capacity allows only enough power for minute directional adjustments and some breaking once in a planet’s atmosphere.
+
+Pods are stocked with limited amounts of emergency food and water rations (usually two- to three-weeks’ worth), survival gear, flares, and medpacs. Larger escape pods, called “life boats” are also common among the larger space vessels. These boats can carry from 10 to 50 people, depending on their size, and are actually small space ships in their own right. They are better stocked than the small pods and can support passengers for a longer duration. Some are equipped with sublight engines: a few even contain small hyperdrives.
+
+# STARSHIP STATISTICS
+
+In the Star Wars roleplaying game, starships have a number of important game statistics. All starships provide full cover for their occupants. In addition, each ship’s statistics include:
+
+Craft: The ship’s manufacturer, name, and model number.
+Type: The ship’s general classification.
+Scale: The ship’s scale — starfighter or capital.
+Length: How long the ship is.
+Skill: The skill used to operate the ship, followed by the specialization for its use.
+Crew: The first listing is the total crew for the ship under normal conditions.(A listing for “can combine” is the number of people who can combine to perform an action. Each ship has one prime person responsible for keeping control, running sensors, calculating hyperspace jumps and the like. On smaller ships, one person may be responsible for all of these duties, while on larger ships, one person may be in charge of each of these functions. While there might be hundreds of support crew manning the machinery, whether the action succeeds comes down to one character’s skill roll — hence the crew skill listing. The “can combine” is the number of extra crew members who may be able to assist, such as when Chewbacca acts as co-pilot for the Millennium Falcon. Use the “Combined Action” rules in the chapter on “The Rules.”)
+
+The second number is the number of gunners; gunners are listed in addition to the normal crew complement.
+
+The final number is the ”skeleton crew” listing: the first part of the listing is the absolute minimum number of crewmembers necessary to fly the ship, while the number behind the slash is the increase in difficulty for any actions with a skeleton crew. For example, if a listing is “skeleton: 130/+10,” that indicates that there must be a minimum of 130 crew aboard to operate the vessel, and all crew must add +10 to the difficulty number for all maneuvering, movement and shielding actions. This modifier does not apply to gunnery difficulties.
+Crew Skill: Typical skill codes for crewmembers trained for that job: starfighter pilots will have all the skills; capital ship crewmen will have just the skill for the job that they have been trained in. Co-pilots and assistants typically have −1D to each skill code.
+Passengers: The number of passengers and troops that may be carried (beyond the crew complement).
+Cargo Capacity: This indicates — either in metric tons or kilograms — the amount of cargo a ship can carry. This refers to the cargo’s mass only, not volume.
+Consumables: A measure of the ship’s air, food, water and fuel and how long it can travel before having to stop for refueling and resupply.
+Hyperdrive Multiplier: This measures how quickly the ship travels in hyperspace.
+Hyperdrive Backup: Some ships have a backup hyperdrive for emergencies. This is the backup’s hyperdrive multiplier.
+
+Nav Computer: “Yes” or “No.” Ships with nav computers may calculate hyperspace journeys with their on-board computers. Ships without nav computers require astromech droids to calculate hyperspace journeys.
+Maneuverability: The ship’s maneuverability die code when in outer space. Normally, the ship’s maneuverability is the same in an atmosphere. If the ship has a different maneuverability for atmospheric travel, it will be listed in parentheses.
+Space: How fast the ship travels at sublight speeds in space. This speed is used in ship-to-ship combat.
+Atmosphere: How fast the ship travels in an atmosphere. The first number is its Move, the second number is its all-out speed in kilometers per hour. If there is no “atmosphere” listing, the ship cannot enter an atmosphere.
+Hull: This is how tough the hull of the ship is and how well the ship can withstand damage in combat.
+Shields: The ship’s combat shields.
+Sensors: The different sensor types and their abilities (see the sensors skill for more details).
+Weapon: The number and type of weapon on the ship. Fire-linked means the weapons are linked and fire as one group. Otherwise, each weapon may be fired separately.
+Fire Arc: Front, left, right, back or turret. Turret weapons may fire in all four arcs.
+Crew: The crew necessary to man the weapon. If there is no crew listing, the weapon may be fired by the pilot. The variable numbers are treated the same as ship’s crew.
+Scale: The scale, if different than the ship’s scale.
+Skill: The skill used to fire the weapon.
+Fire Control: Add these dice whenever the gunner shoots to hit.
+Space Range: Short, medium and long ranges in units.
+Atmosphere Range: Short, medium and long ranges in an atmosphere or firing into an atmosphere from orbit.
+Damage: This is the weapon’s damage.
+
+Note: Not all of these stats will be necessary in the course of the game. In combat, only the ship’s scale, speed, maneuverability, hull code, weapons, shields, and in the case of capital ships, crew codes are of immediate value. Other stats (such as cargo capacity) are provided to help the gamemaster maintain consistency in the course of an ongoing campaign.
+
+## STARFIGHTERS
+
+Starfighters are short-range combat vessels with a small crew complement (usually limited to a pilot and co-pilot). These ships emphasize speed and maneuverability over durability, and normally are heavily-armed. These ships are normally designed for very short (but intense) duty periods, and thus are very effective in battle, but only for limited amounts of time. Starfighters are rather expensive, and serve only one role: the destruction of enemy ships. Starfighter technology advances very quickly, and most fleets must expend a huge portion of their budgets to train pilots and keep them equipped with cutting-edge ships. Some of the most famous Starfighters include the New Republic’s X-wing, the Empire’s TIE fighter, and the legendary (but outdated) Z-95 Headhunter; pilots use the starfighter piloting skill to fly these versatile combat vessels.
+
+### Aethersprite Interceptor
+
+Kuat Systems Engineering developed the Delta-7 Aethersprite when Jedi Master Saesee Tiin suggested that the Jedi form its own corps of starfighter pilots. In the time prior to the Clone Wars, these fighters provided an economical — and combat-effective — means for Jedi to get from place to place. Despite its utility the Delta-7 was distinctly Jedi in nature. For this reason, it was rarely used by Jedi during covert operations.
+
+[Página impressa 422 | PDF 424]
+
+Although the design was well received by the Jedi, Saesee Tiin was nonetheless dissatisfied with the Aethersprite light interceptor’s performance. He insisted on modifying two Aethersprites to his own specifications, adding additional weaponry, a hyperdrive of his own design, and a meditation chair in place of the pilot’s seat.
+
+The Delta-7 is available only to Jedi through the Supreme Chancellor’s office, and is not legally available on the open market. The prices given are for a Delta-7 found on the black market, which is rare but not unheard of.
+
+The Delta-7 was conceived primarily as a light reconnaissance starfighter, and its relatively light armament reflects this. Though not designed for extended combat operations, the Aethersprite is a capable weapons platform when flown by a Jedi pilot.
+
+Like its successor, the Eta-2 Actis-class Interceptor, the Jedi Starfighter is not hyperdrive capable, and it requires a separate hyperdrive module to travel long distances.
+
+#### DELTA-7 AETHERSPRITE STARFIGHTER
+
+Craft: Kuat Systems Engineering Delta-7 Aethersprite-class Starfighter
+Type: Starfighter
+Scale: Starfighter
+Length: 8 meters
+Skill: Starfighter piloting: Delta-7
+Crew: 1 and modified astromech droid (can coordinate)
+Crew Skill: All skills typically at 4D
+Cargo Capacity: 60 kilograms
+Consumables: 1 week
+Cost: 180,000 (new), 145,000 (used), both prices are black market value
+Hyperdrive Multiplier: x1 (with booster ring, see below)
+Nav Computer: Uses a modified astromech droid programmed with 10 jumps
+Maneuverability: 3D
+Space: 10
+Atmosphere: 415; 1,200 kmh
+Hull: 2D
+Shields: 1D
+Sensors:
+
+Passive: 25/1D
+Scan: 45/2D
+Search: 65/2D+2
+Focus: 3/3D+1
+Weapons:
+
+2 Dual Lasers (fire-linked)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km Damage: 5D
+
+Notes: The Delta-7 requires a separate hyperdrive module in the form of a booster ring (the TransGalMeg Industries hyperdrive booster ring). Docking with the ring takes 3 rounds to accomplish, and requires a Difficult starfighter piloting skill check (the fighter’s maneuverability counts for this roll).
+
+Additionally, the Delta-7 incorporates a specially-designed astromech droid (R4-P series), which is hardwired into the starfighter. Without the proper droid, the pilot suffers a −1D penalty to his astrogation skill checks. The droid suffers the same penalty to both its astrogation and starfighter repair skill checks.
+
+### ARC-170 Starfighter
+
+The Aggressive ReConnaissance fighter, or ARC-170 — developed as a joint venture by the Incom and Subpro Corporations — serves as both a long-range scout and a heavy assault fighter. The ACR-170 is part of a line of starfighters, including the Z-95 Headhunter, that eventually led to the development of the X-wing. The narrow frame, flanked by powerful twin engines and S-foils, was innovative at the time of the ARC-170’s introduction. Though it served with distinction during the later days of the Clone Wars, the fighter was never built in the vast numbers of many other designs.
+
+The ARC-170’s ultimate failing was not lack of firepower or ability, but the high supply cost to keep it in combat. The starfighter needs regular maintenance and requires a three-person crew making it expensive in terms of training, personnel, and upkeep. As a result, once the TIE fighter replaced it in Imperial squadrons, there was very little demand for the ARC-170. Though some were liberated by the Rebellion most were mothballed or scrapped simply because the Rebels lacked the flight crews and repair bays necessary to keep the older ARC-170s ready for combat.
+
+The ARC-170 is a heavy-hitting fighter, with long-range capabilities and enough stowage to operate for 5 days without resupply. Though taxing, it was possible for the crew to sleep in shifts, allowing the starfighter to be alert and ready for action for days at a time. This made it popular as a scout and a picket ship, keeping an eye on likely targets, enemy forces, or even friendly planets until larger ships could arrive for permanent duty. An ARC-170 could be sent deep into enemy territory, and its shield generator gave it a good chance of surviving even if it ran into a larger force of fighters when performing such missions.
+
+The durability and range of the vessel came at a cost, however. The ARC-170 has slow acceleration and poor maneuverability compared to smaller fighters.
+
+#### ARC-170
+
+Craft: Incom/Subpro ARC-170 (Aggressive ReConn) Type: Space superiority fighter
+Scale: Starfighter
+Length: 14.5 meters
+Skill: Starfighter piloting: ARC-170
+Crew: 2 and astromech droid
+
+(can coordinate), gunners: 1, skeleton: 1/+10
+
+[Página impressa 423 | PDF 425]
+
+Cargo Capacity: 110 kilograms
+Consumables: 5 days
+Cost: 155,000 (new), 70,000 (used)
+Hyperdrive Multiplier: x1.5
+Nav Computer: No (uses astromech with 10 jumps) Maneuverability: 2D
+Space: 7
+Atmosphere: 350; 1,000 kmh
+Hull: 4D+2
+Shields: 1D
+Sensors:
+
+Passive: 25/0D
+Scan: 50/1D
+Search: 70/2D
+Focus: 3/3D+1
+Weapons:
+
+2 Medium Laser Cannons (fire linked)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km Damage: 5D+2
+2 Laser Cannons (fire linked)
+
+Fire Arc: Rear turret
+Crew: 1
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1-3/10/20
+Atmosphere Range: 100-300/12/2 km Damage: 4D+1
+Proton Torpedo Launcher (6 torpedoes)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1/3/7
+Atmosphere Range: 30-100/300/700 Damage: 9D
+
+### A-Wing
+
+Development of the A-wing began in secret shortly after the Battle of Yavin. General Dodonna realized that the speed of Imperial fighters had nearly cost the Alliance its victory, and he intended to remedy the situation by designing a newer, faster starfighter. With the aid of starship engineer Walex Blissex, the A-wing was born. Although not as durable as other Alliance starfighters, the A-wing is often considered to be the fastest starfighter to see service during the Galactic Civil War.
+
+Though the A-wing is a finicky spacecraft that is often difficult to maintain in the field, it has proven itself to be a capable strike fighter and reconnaissance craft. Due to its speed and maneuverability, it excels at “hit and fade” operations and surgical strikes carried out behind enemy lines. Despite its relatively light armament, the A-wing is deadly in the hands of a skilled pilot. During the Battle of Endor, A-wings were responsible for the destruction of the Super Star Destroyer Executor.
+
+A-wings are phenomenally fast and agile spacecraft, making them capable dogfighters. A-wing pilots quickly learn to use this fact to their advantage in battle, for even a single hit from an enemy weapon can mean a quick and fiery death. During its earliest months in service, the A-wing was armed only with laser cannons and a sophisticated suite of electronic jammers. In time, many A-wings were modified to carry concussion missile launchers, adding to the nimble ship’s versatility. (This configuration was standard by the time of the New Republic.)
+
+The A-wing’s jamming system is capable of blinding enemy sensors and fire-control computers, making it an even more elusive target. The effectiveness of the jamming suite is limited to small craft and space transports, and does little more than make the A-wing a more tempting target for capital-scale ships.
+
+#### A-WING
+
+Craft: Alliance A-wing Starfighter
+Type: Interceptor and multi-purpose starfighter
+Scale: Starfighter
+Length: 9.6 meters
+Skill: Starfighter Piloting: A-wing
+Crew Skill: Starfighter piloting 5D, starship gunnery 4D+2, starship shields 3D+1
+Crew: 1
+Cargo Capacity: 40 kilograms
+Consumables: 1 week
+Cost: 175,000 (new) 70,000 (used)
+Hyperdrive Multiplier: x1
+Nav Computer: Yes (limited to 2 jumps)
+Maneuverability: 4D
+Space: 12
+Atmosphere: 450; 1,300 kmh
+Hull: 2D+2
+Shields: 1D
+Sensors:
+
+Passive: 30/0D
+Scan: 50/1D
+Search: 75/2D
+Focus: 4/4D+1
+Weapons:
+
+2 Laser Cannons (fire linked)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 3D
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km
+Damage: 5D
+2 Medium Concussion Missile Launchers (6 missiles each)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Space Range: 1/3/7
+Atmosphere Range: 30-100/300/700 Damage: 8D
+Enemy Targeting Jammer
+
+Fire Arc: All
+Skill: Sensors
+Space Range: 1-3/7/15
+Atmosphere Range: 100-300/700/1.5 km Damage: −2D from Fire Control
+
+### B-Wing
+
+Designed by Admiral Ackbar the B-wing starfighter is a mobile weapons platform designed to provide heavy assault support to the Rebel fleet. Possessing a unique design that includes folding S-foils and a cockpit that rotates within its housing in the starfighter’s superstructure, the B-wing is a difficult craft to master. Heavily armed with a variety of weapons,
+
+[Página impressa 424 | PDF 426]
+
+the B-wing can deliver a punishing blow to slower targets (particularly capital ships), though it lacks the maneuverability of other contemporary fighters, such as the X-wing or the A-wing.
+
+Capital ships often find the B-wing starfighter to be an extremely dangerous opponent. Particularly fearsome are the proton torpedoes, which can be brought to bear against a starship with devastating results. In fact, a squadron of B-wing fighters was responsible for destroying an Imperial Star Destroyer at the Battle of Endor, a feat that no other fighter type could claim at the battle. With a gunner aboard, a B-wing fighter can unleash its weapons in deadly pairs, giving the fighter a slight advantage even in dogfighting.
+
+Despite its durability and exceptional armament, the B-wing starfighter is still slow, sluggish, and difficult to operate. As a result, most B-wing attack groups usually have an escort of faster and more maneuverable starfighters, protecting the B-wing until it can slip past the first line of enemy defenses and strike at a vulnerable target.
+
+B-wings also feature exceptionally modular weapon systems, allowing them to be modified as per the needs of the mission. When swapping out one of the B-wing’s weapon systems for another weapon system, reduce the time taken to make the modification by half.
+
+Running the B-wing. The B-wing features a very sophisticated but fragile gyroscopically-stabilized command pod, as well as a ranging mode for the laser cannon. If, for some reason, the laser is not operational, reduce all fire control codes by −1D.
+
+The B-wing’s stabilization system fails when it suffers heavy damage. In game terms, when the fighter is heavily damaged, a roll of 1-2 (used to determine which system is damaged) means the stabilization system has failed. Reduce all fire control codes by −1D (since the craft is no longer a stable weapons platform). Sublight speed falls from 6 to 2 (atmosphere speed goes from 330; 950 kmh to 225; 650 kmh). These penalties are cumulative.
+
+#### B-WING
+
+Craft: Slayn & Korpil B-Wing
+Type: Heavy assault starfighter
+Scale: Starfighter
+Length: 16.9 meters
+Skill: Starfighter piloting: B-wing
+Crew: 1
+Crew Skill: Starfighter piloting 5D, starship gunnery 4D+2, starship shields 3D+1
+Cargo Capacity: 45 kilograms
+Consumables: 1 week
+Cost: 220,000 (new) 120,000 (used_
+Hyperdrive Multiplier: x2
+Nav Computer: Yes (limited to 2 jumps)
+
+Maneuverability: 1D+1
+Space: 6
+Atmosphere: 330; 950 kmh
+Hull: 3D
+Shields: 2D
+Sensors:
+
+Passive: 30/0D
+Scan: 50/1D
+Search: 75/2D
+Focus: 4/4D+1
+Weapons:
+
+Laser Cannon
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 1D
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km
+Damage: 7D
+2 Proton Torpedo Launchers (8 torpedoes each)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 3D
+Space Range: 1/3/7
+Atmosphere Range: 50-100/300/700 Damage: 9D
+3 Medium Ion Cannons
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 4D
+Space Range: 1-3/7/15
+Atmosphere Range: 100-300/700/3.6 km Damage: 4D
+2 Auto Blasters
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1-8/25/40
+Atmosphere Range: 100-800/2.5/4 km Damage: 3D
+
+### Droid Starfighters
+
+A favored weapon of the Confederacy of Independent Systems during the Clone Wars, the droid starfighter is a marvel of engineering and artificial intelligence. Combining the deadly technology of a starfighter with the advanced brains of a battle droid, droid starfighters provide the Separatists with an endless supply of combat-worthy vessels without the need to recruit and train living pilots.
+
+Droid starfighters are small, cheap, and expendable, just the way the Trade Federation likes them. Mostly manufactured by companies supporting the Confederacy, droid starfighters are churned out of factories nearly as quickly as Republic forces can destroy them. The only limits on the number of droid starfighters that can appear on the battlefront lie within the command and control computers or a Droid Control Ship. Though the automated nature of droid starfighters makes them more prone to large-scale difficulties (a single computer virus can scramble the programming of thousands of droid starfighters at a time), it also makes them easier to coordinate and command as a group.
+
+The most common droid starfighter, the Vulture-class starfighter, operates in both a flight mode and a walker mode and was used as early as the Battle of Naboo. These fighters are common throughout the duration of the Clone Wars, but when the Separatist fleet was deactivated, many of these starfighters were lost or destroyed. Also used during the Clone Wars was the
+
+[Página impressa 425 | PDF 427]
+
+droid tri-fighter. This craft, while not nearly as popular as the Vulture-class starfighter, served throughout the Confederate fleet and is seen on almost all fronts of the war.
+
+Droid starfighters usually receive their commands from a Droid Control Ship, which coordinates their attacks for maximum efficiency. Though the failure of a single Droid Control Ship can have devastating results on the starfighters under its control (as seen at the Battle of Naboo), few squadrons are refitted with independent droid brains due to cost issues. For the most part, the Confederacy combats this problem by having redundant control vessels present at any battle, ensuring that if one such ship is destroyed, the droid starfighters will continue to operate.
+
+Given the computerized nature of its piloting system, a droid starfighter can attack with all weapons as though each had its own gunner, despite the fact that the ship has no actual crew. This allows the ship to use each of its formidable weapon systems in a single round, without the need to coordinate multiple crewmembers.
+
+Droid starfighters also have the added benefit of not being affected by the Force or other effects to which living pilots would be susceptible. They cannot be bargained with; they cannot be reasoned with; they do not feel pity, remorse, or fear. Droid starfighters have all droid immunities, including immunity to mind-affecting effects, and will not willfully communicate with enemy starships. They cannot be demoralized and will never contradict their orders; in essence, they are the most disciplined starfighter corps in the galaxy.
+
+#### VULTURE-CLASS DROID STARFIGHTER
+
+Craft: Baktoid Armor Worlshop Vulture-class Starfighter Type: Autonomous starfighter
+Scale: Starfighter
+Length: 3.5 meters
+Skill: Starfighter piloting
+Crew: 0 (droid brain)
+Crew Skill: Starfighter piloting 4D+1, starship gunnery 4D+1 Cargo Capacity: None
+Consumables: None
+Cost: 19,000 (new), 5000 (used)
+Maneuverability: 3D
+Space: 9
+Atmosphere: 400; 1,150 kmh
+Hull: 2D
+Sensors:
+
+Passive: 20/0D
+Scan: 40/1D
+Search: 60/2D
+Focus: 3/3D
+
+Weapons:
+
+4 Laser Cannons (fire-linked)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 1D
+Space Range: 1-5/10/17
+Atmosphere Range: 100-500/1/1.7 km
+Damage: 4D
+2 Medium Concussion Missile Launchers (4 torpedoes each)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Space Range: 1/3/7
+Atmosphere Range: 30-100/300/700 Damage: 7D
+
+#### TRI-FIGHTER
+
+Craft: Colla Designs/Phlac-Arphocc Automata Industries Tri-Fighter Type: Droid starfighter
+Scale: Starfighter
+Length: 5.4 meters
+Skill: Starfighter piloting: Tri-fighter
+Crew: None (droid brain)
+Crew Skill: Starfighter piloting 4D+1, starship gunnery 4D+1
+Cost: 20,000 (new), 8,000 (used)
+Maneuverability: 2D+1
+Space: 8
+Atmosphere: 365; 1,050 kmh
+Hull: 2D+2
+Sensors:
+
+Passive: 20/0D
+Scan: 45/1D
+Search: 60/2D+1
+Focus: 3/3D
+Weapons:
+
+Medium Laser Cannon
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 1D+1
+Space Range: 1-5/12/20
+Atmosphere Range: 100-500/1.2/2 km Damage: 5D
+
+[Página impressa 426 | PDF 428]
+
+3 Light Laser Cannons (fire-linked)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1-5/10/17
+Atmosphere Range: 100-500/1/1.7 km
+Damage: 3D
+2 Medium Concussion Missile Launchers (3 torpedoes each)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Space Range: 1/3/7
+Atmosphere Range: 30-100/300/700 Damage: 7D
+
+### Eta-2 Actis Interceptor
+
+A light and fast starship designed for use during the Clone Wars, the Eta-2 Actis interceptor is a predecessor to the TIE fighter and one of the fastest and smallest ships in the Republic fleet. Popularized by the Jedi during the waning days of the Clone Wars (and often referred to colloquially as the “Jedi Interceptor”), the Eta-2 is a marvel of compact engineering. Featuring twin S-foils designed to diffuse engine heat and a more impressive armament than other contemporary starfighters, the Eta-2 is a dangerous, if fragile, starfighter that helped turn the tide against the onslaught of the Confederacy’s droid starfighter corps.
+
+The Eta-2 Actis interceptor packs a lot of firepower into a very small package. Though stripped of any shielding (and possessing only a very limited amount of hull strength), the Eta-2 is designed to take advantage of the incredible reflexes exhibited by both Jedi as well as expert pilots. Though the ship is likely to be destroyed by a solid hit, the Eta-2 is fast and maneuverable, allowing it to avoid attacks altogether rather than be able to absorb and deflect incoming damage.
+
+Unlike its predecessor (the Delta-7 Aethersprite fighter) and its successor (the TIE fighter), the Eta-2 features a complement of ion cannons that allows it to disable foes in combat, adding to the versatility of the ship. Though not as heavily armed as other fighters active during the Clone Wars, the Eta-2 uses its speed and maneuverability to slip past enemy lines and deliver a concentrated attack on both starfighters as well as small transports and frigates.
+
+A limited number of Eta-2 fighters were outfitted with concussion missiles during the Clone Wars. Though such a modification was usually made only for special missions, some Jedi and other pilots found the increased armament to be a boon when fighting against droid enemies (since there was no concern for
+
+taking lives). Such a modification was rare, and usually required the removal of the ion cannons to compensate for the concussion missile launcher and its payload (usually only four missiles).
+
+#### ETA-2 ACTIS INTERCEPTOR
+
+Craft: Kuat Systems Engineering Eta-2 Actis-class Interceptor
+Type: Interceptor
+Scale: Starfighter
+Length: 5.47 meters
+Skill: Starfighter piloting: Eta-2
+Crew: 1 and astromech droid (can coordinate)
+Crew Skill: All skills typically at 4D
+Cargo Capacity: 60 kilograms
+Consumables: 2 days (1 week with booster ring)
+Cost: 290,000 (new), 140,000 (used)
+Hyperdrive Multiplier: x1 (with booster ring, see below)
+Nav Computer: Uses an astromech droid programmed with 10 jumps Maneuverability: 4D
+Space: 12
+Atmosphere: 450; 1,300 kmh
+Hull: 2D+1
+Sensors:
+
+Passive: 10/0D
+Scan: 15/1D
+Search: 20/2D
+Focus: 2/2D+1
+Weapons:
+
+2 Laser Cannons (fire-linked)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 3D
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km Damage: 5D
+2 Light Ion Cannons (fire-linked)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 3D
+Space Range: 1-3/10/20
+Atmosphere Range: 100-300/1/2 km
+Damage: 4D
+Notes: The Eta-7 requires a separate hyperdrive module in the form of a booster ring (the TransGalMeg Industries hyperdrive booster ring). Docking with the ring takes 3 rounds to accomplish, and requires a Difficult starfighter piloting skill check (the fighter’s maneuverability counts for this roll).
+
+### Naboo Royal N-1 Starfighter
+
+An example of the beauty and artistry of the Naboo people, the N-1 starfighter is the premier space combat vessel for the security volunteers of that tranquil world. Designed to be aesthetically appealing as well as ecologically friendly, the N-1 starfighter was a moderately armed space combat vessel created to protect Naboo and the space around it from pirates and raiders. Despite the pleasing appearance of the N-1, the vessel is a capable defense fighter that sees a surprising amount of action while protecting the peaceful world of Naboo.
+
+Each N-1 starfighter is embellished with a chromium coating on the nose and forward sections of the engines, a sign that it is a part of the Naboo Royal House. Primarily used for defensive missions, the N-1 fighter also serves as part of the monarchy’s honor guard when traveling abroad, escorting the Royal Transport ships throughout the galaxy. N-1 starfighters are sometimes loaned to VIPs and other important visitors to escort their starships while in the Naboo system, though this is a relatively rare occurrence.
+
+[Página impressa 427 | PDF 429]
+
+Unlike many other planetary defense fighters, the N-1 starfighter is equipped with powerful weapon systems. Despite its outward appearance as a piece of art, the N-1 carries laser cannons and proton torpedoes that rival those used by strictly military vessels. The mere presence of proton torpedoes puts the vessel in a higher class of combat starships, allowing it to drive off raiders that have competitive weaponry. Though N-1 pilots are not always the most experienced, the weapons aboard the ship can usually make up for the discrepancy.
+
+The N-1’s offensive capabilities seem out of place for a world where war and violence are eschewed. However, the N-1 is used as a vehicle of deterrence, responding to attacks by pirates and raiders with enough force to encourage enemies to seek out other star systems to prey upon. Additionally, the N-1 starfighter’s shields and other defense systems are robust enough that even persistent attackers will suffer heavy casualties in the time it takes to penetrate Naboo’s defenses.
+
+#### N-1 ROYAL STARFIGHTER
+
+Craft: Theed Palace Space Vessel Engineering N-1 Royal Starfighter Type: Space superiority starfighter
+Scale: Starfighter
+Length: 11 meters
+Skill: Starfighter piloting: N-1
+Crew: 1 (plus astromech droid)
+Crew Skill: Starfighter piloting 4D+1, starship gunnery 4D+1, starship shields 4D+1
+Cargo Capacity: 65 kilograms
+Consumables: 1 week
+Cost: Not available for sale
+Hyperdrive Multiplier: x1
+Nav Computer: Uses Astromech with 10 jumps
+Maneuverability: 2D
+Space: 8
+Atmosphere: 365; 1,050 kmh
+Hull: 2D
+Shields: 1D
+Sensors:
+
+Passive: 20/0D
+Scan: 35/1D
+Search: 40/2D
+Focus: 2/3D
+Weapons:
+
+2 Laser Cannons (fire-linked)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km Damage: 5D
+
+Proton Torpedo Magazine (10 torpedoes)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1/3/7
+Atmosphere Range: 50-100/300/700 Damage: 9D
+
+### TIE Fighter
+
+The Empire, wanting to standardize its starfighter fleet with smaller ships, selected the TIE to replace a number of disparate models that were currently in use. In time, and with continual upgrades to the design, the TIE/In became the standard Imperial starfighter craft. It is relatively inexpensive to produce, and though often maligned by both Imperial and Alliance pilots, it is nonetheless effective.
+
+In order to save on production costs, the TIE/In lacks many of the features that are considered to be standard on other starfighters. The relatively fragile craft is not equipped with deflector shields, a hyperdrive, or a life support system. In order to survive the rigors of space when piloting their fighters, TIE pilots must don distinctive, fully sealed flight suits. Without the proper supports or docking scaffolds, TIE fighters are also unable to land in any sort of conventional manner.
+
+Although the TIE’s versatility is somewhat limited by these deficiencies, it does have several points in its favor. Its agility, combined with its small size and speed, makes it a difficult target for all but the most talented or well-trained gunners. TIE fighters, being inexpensive and easy to produce, are deployed in large quantities. Imperial starfighter tactics stress that enemies must be overwhelmed by sheer force of numbers, and casualty rates among TIE pilots are much higher than average.
+
+#### TIE FIGHTER
+
+Craft: Sienar Fleet Systems TIE/ln
+Type: Space superiority fighter
+Scale: Starfighter
+Length: 6.3 meters
+Skill: Starfighter piloting: TIE
+Crew: 1
+Crew Skill: Starfighter piloting 4D+1, starship gunnery 4D Cargo Capacity: 65 kilograms
+Consumables: 2 days
+Cost: 60,000 (new), 25,000 (used)
+Maneuverability: 2D
+Space: 10
+Atmosphere: 415; 1,200 kmh
+Hull: 2D
+
+[Página impressa 428 | PDF 430]
+
+Sensors:
+
+Passive: 20/0D
+Scan: 40/1D
+Search: 60/2D
+Focus: 3/3D
+Weapons:
+
+2 Laser Cannons (fire linked)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km Damage: 5D
+
+### TIE Bomber
+
+Designated the TIE/sa, the TIE bomber is one of the few TIE craft that does not incorporate its sister craft’s distinctive hull shape. Instead, it employs a distinctive double hull design, with two cylindrical pods mounted side by side between two bent solar array panels. The starboard pod houses the cockpit and flight controls, while the portside pod stores the bomber’s payload. Rebel pilots commonly referred to TIE bombers as “dupes.”
+
+During the Battle of Hoth, these formidable bombers were tasked with destroying Rebel transports but were largely foiled by Alliance X-wings. Following the Rebel evacuation of the icy planet, a squadron of TIE bombers razed what little remained of Echo Base before joining in the search for the Millennium Falcon amid Hoth’s asteroid belt. Several squadrons were also used against Alliance capital ships during the Battle of Endor.
+
+TIE bombers form the backbone of the Imperial Navy’s strike capability. They are commonly deployed against enemy capital ships, space stations, and ground targets. They are able to employ heavy weapons, delivering payloads with uncanny precision. TIE bombers are most often equipped with a rack of sixteen medium concussion missiles. Two forward-mounted laser cannons, used primarily for strafing runs and self-defense, are also standard armament.
+
+Several other payload configurations are used, depending on specific mission parameters. Instead of missiles, as many as eight proton torpedoes can be loaded into the ship’s ordnance pod. By decreasing the missile or torpedo payload by half, up to eight proton bombs or six orbital mines can also be deployed. When providing ground support, a TIE bomber is capable of carrying as many as 64 thermal detonators that are used to carpet-bomb enemy infantry
+
+formations. Non-conventional payloads include leaflets filled with demoralizing Imperial propaganda, as well as supply canisters for isolated Imperial infantry units.
+
+#### TIE BOMBER
+
+Craft: Sienar Fleet Systems TIE Bomber
+Type: Dedicated light space bomber
+Scale: Starfighter
+Length: 7.8 meters
+Skill: Starfighter piloting: TIE
+Crew: 1
+Crew Skill: Missile weapons 4D+1, starfighter piloting 4D, starship gunnery 5D
+Cargo Capacity: 15 metric tons (bomb bay)
+Consumables: 2 days
+Cost: 150,000 (new), 75,000 (used)
+Space: 6
+Atmosphere: 295; 850 kmh
+Hull: 4D+1
+Sensors:
+
+Passive: 20/0D
+Scan: 35/1D
+Search: 50/2D
+Focus: 3/2D+2
+Weapons:
+
+2 Laser Cannons (fire linked)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km Damage: 3D
+Concussion Missiles Launcher (16 carried)
+
+Fire Arc: Front
+Skill: Missile weapons: concussion missiles Fire Control: 3D+2
+Space Range: 1/3/7
+Atmosphere Range: 50-100/1/5 km
+Damage: 9D
+
+### TIE Interceptor
+
+After the Battle of Yavin, Imperial Naval commanders demanded a starfighter that could counter the speed and firepower of the X-wing fighters that the Rebel Alliance had employed. The TIE interceptor, which incorporated several of the TIE advanced prototype’s features, was the ultimate result. Prototypes similar to the initial interceptor design had undergone testing prior to the Battle of Yavin, but these had seen little action outside Sienar’s test yards.
+
+It was only a short time later that the final TIE interceptor design was integrated into existing starfighter squadrons. The Imperial Navy’s eventual plan was to replace all standard TIE fighters with TIE interceptors. This lofty goal was never quite met, with interceptors representing only twenty percent of all TIE fighters by the time the Battle of Endor took place. As the number of interceptors in the Imperial Navy increased, it became standard procedure to include at least one squadron of TIE/In starfighters aboard each Star Destroyer.
+
+The TIE interceptor is a consummate dogfighter, possessed of increased speed and maneuverability when compared to the standard TIE fighter. Not only is the interceptor faster and more agile than the TIE fighter it also incorporates four fire-linked laser cannons mounted on the tips of its bent, dagger-shaped solar arrays. The solar arrays themselves featured a horizontal notch that improves pilot visibility to both sides. Although it lacks shields, armor, and life support, the TIE interceptor has
+
+[Página impressa 429 | PDF 431]
+
+proven to be more than a match for the X-wing fighter. Interceptor tactics are nearly identical to those utilized by standard TIE fighters.
+
+#### TIE INTERCEPTOR
+
+Craft: Sienar Fleet Systems TIE Interceptor
+Type: Space superiority starfighter
+Scale: Starfighter
+Length: 6.6 meters
+Skill: Starfighter piloting: TIE
+Crew: 1
+Crew Skill: Starfighter piloting 5D, starship gunnery 4D+2 Cargo Capacity: 75 kilograms
+Consumables: 2 days
+Cost: 120,000 (new), 75,000 (used)
+Maneuverability: 3D+2
+Space: 11
+Atmosphere: 435; 1,250 kmh
+Hull: 3D
+Sensors:
+
+Passive: 25/1D
+Scan: 40/2D
+Search: 60/2D
+Focus: 4/3D+2
+Weapons:
+
+4 Laser Cannons (fire linked)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 3D
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km Damage: 6D
+
+### X-Wing
+
+The X-wing was designed following the formation of the Empire. Incom Corporation, suspected by the Empire of harboring Rebel sympathizers, was forced to halt production of non- Navy combat craft during an Imperial Security Bureau investigation into allegations of treason within the company. Members of the X-wing design team were placed under arrest while they were interrogated by Imperial agents. As the Imperial investigation intensified, a group of Rebel commandos infiltrated the facility and rescued the X-wing’s senior design team, taking all T-65 plans and prototypes with them.
+
+Following the acquisition of the X-wing’s schematics, the Alliance began to produce and test small numbers of the new starfighter. Most of the initial trials were done under combat conditions. With its efficacy proven beyond a doubt, Rebel factories ramped up production of the T-65B. The craft soon became a favorite of Rebel fighter pilots, and it has been a staple of Rebel strategy ever since.
+
+The T-65B is an excellent all-around starfighter, capable of filling a number of roles with little or no modification. Not only is it maneuverable and easy to fly, it is equipped with modest shields, heavy weaponry, and an integrated hyperdrive. It is also a durable craft, capable of sustaining heavy damage while remaining operational. Were it not for this inherent sturdiness of design, the Rebel Alliance could never hope to match the sheer number of Imperial fighters that are thrown against it.
+
+Each X-wing is equipped with a socket that is capable of carrying an astromech droid. The astromech droid is an integral component of the X-wing, and only adds to the starfighter’s versatility. Not only can the diminutive droid see to minor repairs, it also uses its systems to help compute and store hyperspace coordinates.
+
+#### X-WING
+
+Craft: Incom T-65B X-Wing
+Type: Space superiority fighter
+Scale: Starfighter
+Length: 12.5 meters
+Skill: Starfighter piloting: X-wing
+Crew: 1 and astromech droid (can coordinate)
+Crew Skill: Starfighter piloting 5D, starship gunnery 4D+2, starship shields 3D
+Cargo Capacity: 110 kilograms
+Consumables: 1 week
+Cost: 150,000 (new), 65,000 (used)
+Hyperdrive Multiplier: x1
+Nav Computer: No (astromech droid programmed with 10 jumps)
+Maneuverability: 3D
+Space: 8
+Atmosphere: 365; 1,050 kmh
+Hull: 4D
+Shields: 1D
+Sensors:
+
+Passive: 25/0D
+Scan: 50/1D
+Search: 75/2D
+Focus: 3/4D
+Weapons:
+
+4 Laser Cannons (fire linked)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 3D
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km Damage: 6D
+
+[Página impressa 430 | PDF 432]
+
+2 Proton Torpedo Launchers (3 torpedoes each)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1/3/7
+Atmosphere Range: 30-100/300/700 Damage: 9D
+
+### Y-Wing-S3
+
+Built by Koensayr Manufacturing, the Y-wing was designed to be used in the Clone Wars, but wasn’t in production until after that conflict ended. Having already spent the money to retool shipyards to produce the ships, and unable to interest the Empire in the design, Koensayr began selling the ships to anyone who had credits to spare. Officially all such purchases were to legitimate planetary or business concerns, but Koensayr was happy to look the other way if a Hutt or a Rebel managed to produce even halfway realistic documents supporting a sale.
+
+As a result, the Y-wing fighter, lovingly called the “wishbone” by Rebel Alliance pilots, was the workhorse and backbone of the early Rebellion. As the X-wing became increasingly available to the Rebellion, Y-wings became second-line starfighters used only because so many were available. Plans to decommission all Y-wings are periodically drawn up, but some of the ships continue to serve through the Yuuzhan Vong invasion and the conflicts that follow it.
+
+Although not as swift as an X-wing or as powerful as a B-wing, the Y-wing was a sturdy, well-shielded craft with a powerful attack in the form of two ion cannons and proton torpedo tubes. Ungainly for a snubfighter, the Y-wing served as a joint fighter/bomber, able to both enter dogfights with TIE fighters and take out armored targets, such as enemy freighters and planetary bunkers. Few ships its size mounted ion cannons. and the success of the Y-wing is one reason that the B-wing was similarly armed.
+
+#### Y-WING-S3
+
+Craft: Koensayr BTL-S3 Y-wing
+Type: Attack starfighter
+Scale: Starfighter
+Length: 16 meters
+Skill: Starfighter piloting: Y-wing
+Crew: 2; 1 pilot; 1 gunner, 1 astromech droid (can coordinate)
+Crew Skill: Astrogation 3D+2, starfighter piloting 4D+2, starship gunnery 4D+1, starship shields 3D
+Cargo Capacity: 110 kilograms
+Consumables: 1 week
+Cost: 135,000 (new), 60,000 (used)
+Hyperdrive Multiplier: x1
+Nav Computer: No (uses astromech droid programmed with 10 jumps)
+Maneuverability: 2D
+Space: 7
+Atmosphere: 350; 1,000 kmh
+Hull: 4D
+Shields: 1D+2
+Sensors:
+
+Passive: 20/0D
+Scan: 35/1D
+Search: 40/2D
+Focus: 2/3D
+Weapons:
+
+2 Laser Cannons (fire linked)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 2D
+
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km
+Damage: 5D
+2 Proton Torpedo Launchers (4 torpedoes each)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1/3/7
+Atmosphere Range: 50-100/300/700 m Damage: 9D
+2 Light Ion Cannons (fire linked)
+
+Fire Arc: Turret (may be fixed to forward to be fired by pilot at only 1D fire control)
+Crew: 1
+Skill: Starship gunnery
+Fire Control: 3D
+Space Range: 1/3/7
+Atmosphere Range: 100-300/700/3.6 km
+Damage: 4D
+
+### Y-Wing-A4
+
+The BTL-A4 was a one-man version of the S3, which removed the gunner position and locked down the overhead ion cannon.
+
+It was used commonly by pirate, mercenary, and private defense forces, and therefore was also used by the early Rebel Alliance as the primary starfighter for bombing and disabling roles. As the BTL-S3 became the primary Y-wing variant of the Rebel forces, the A4 was still kept in many units as a supplementary craft. However, Red and Gold Squadrons favored the A4 variant of the Y-wing and used it with distinction in several climactic battles, such as the Battle of Yavin, the capture of the Death Star II plans from the Imperial freighter Suprosa, and the subsequent Battle of Endor.
+
+#### Y-WING-A4
+
+Craft: Koensayr BTL-A4
+Type: Attack starfighter
+Scale: Starfighter
+Length: 16 meters
+Skill: Starfighter piloting: Y-wing
+Crew: 1, 1 Astromech droid (can coordinate)
+Crew Skill: Astrogation 3D+2, sensors 4D, starfighter piloting 4D+1, starship gunnery 4D+1, starship shields 3D
+Cargo Capacity: 110 kilograms
+Consumables: 1 week
+Cost: 145,000 (new), 70,500 (used)
+Hyperdrive Multiplier: x1
+Nav Computer: No (uses astromech droid programmed with 10 jumps)
+
+[Página impressa 431 | PDF 433]
+
+Maneuverability: 2D
+Space: 7
+Atmosphere: 350; 1,000 kmh
+Hull: 4D
+Shields: 1D+2
+Sensors:
+
+Passive: 20/0D
+Scan: 35/1D
+Search: 40/2D
+Focus: 2/3D
+Weapons:
+
+2 Laser Cannons (fire linked)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km
+Damage: 5D
+2 Proton Torpedo Launchers (4 torpedoes each)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1/3/7
+Atmosphere Range: 50-100/300/700 m Damage: 9D
+2 Light Ion Cannons (fire linked)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 1D
+Space Range: 1/3/7
+Atmosphere Range: 100-300/700/3.6 km Damage: 4D
+
+### Z-95 Headhunter
+
+The Z-95 Headhunter is a venerable starfighter design that still sees use throughout the galaxy. Even though it is no longer produced, either by Incom Industries or Subpro Corporation, unlicensed copies and variants can be found throughout the Outer Rim territories. Without taking into account the number of knock-offs in circulation, there are still more Headhunters in service with planetary fleets, customs personnel, paramilitary organizations, and law enforcement agencies than any other starfighter.
+
+The original Headhunters were more akin to atmospheric fighters than starships. After several generations of continued development, the Z-95 was close to the form and function that it would become famous for. The T-65 X-wing owes much of its success to the Z-95, and the two craft are obvious cousins when placed side by side. It should come as little surprise that many of the galaxy’s heroes have flown the Headhunter on more than one occasion.
+
+For its time, the Z-95 Headhunter was a state-of-the-art starfighter that made an indelible mark on the galaxy. Space combat tactics of the time were designed with the Z-95 in mind, and many modern maneuvers are based on those originally flown in the Headhunter by the starfighter aces of yesteryear.
+
+The stock Z-95 is not equipped with hyperdrive engines, but it wasn’t long before Alliance technicians created a number of variant Headhunters that could traverse hyperspace. Prior to implementing hyperdrives, the Rebel Alliance was reluctant to assign the craft to its fleet, instead
+
+keeping a handful of Headhunters for short-range defense in remote sectors. Though still a relative rarity in the Alliance fleet, they are ubiquitous enough to be utilized for sensitive operations in areas where their discovery will not immediately reveal the Alliance’s presence the same way that an A-wing or X-wing would.
+
+Another point in favor of the Z-95 is its durability and ease of repair. It is a rugged craft that can take a beating and keep flying. Use of the craft is so widespread. and so many have been manufactured over the years, that it is a simple matter to find spare parts, even on most backwater worlds.
+
+#### Z-95 HEADHUNTER
+
+Craft: Incom/Subpro Z-95 I3 (Improved Model 3) Headhunter
+Type: Multi-purpose starfighter
+Scale: Starfighter
+Length: 11.8 meters
+Skill: Starfighter piloting: Z-95
+Crew: 1
+Crew Skill: Starfighter piloting 3D+2, starship gunnery 3D+2, starship shields 3D+1
+Cargo Capacity: 85 kilograms
+Consumables: 1 day
+Cost: 80,000 (new), 45,000 (used)
+Maneuverability: 1D
+Space: 7
+Atmosphere: 400; 1,150 kmh
+Hull: 4D
+Shields: 1D
+Sensors:
+
+Passive: 15/0D
+Scan: 25/1D
+Search: 40/2D
+Focus: 1/2D
+Weapons:
+
+2 Triple Blasters (fire linked)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 1D
+Space Range: 1-5/10/17
+Atmosphere Range: 100-500/1/1.7 km
+Damage: 3D
+2 Concussion Missile Launchers (6 missiles each)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 1D
+Space Range: 1/3/7
+Atmosphere Range: 30-100/300/700 Damage: 7D
+
+[Página impressa 432 | PDF 434]
+
+## CAPITAL SHIPS
+
+Capital combat starships (often referred to simply as ”capital ships”) are huge vessels built for deep-space warfare. With crews numbering in the thousands, these vessels sport scores of heavy weapons and often carry several squadrons of starfighters. These ships can operate for months or years without having to stop for resupply, and are designed to take an unbelievable amount of punishment before losing any fighting capacity. These tremendously expensive starships are at the core of most starfleets, and can be in service for decades. Some of the most famous capital ships include Imperial Star Destroyers, Corellian Corvettes, Mon Cal Star Cruisers and Imperial Dreadnaughts. These ships use the capital ship piloting skill.
+
+### Acclamator-class Assault Ship
+
+The Acclamator-class assault ship, produced by Rothana Heavy Engineering for Kamino’s cloners, quickly became a staple of the Old Republic’s clone legions. Produced on a scale to match that of the clone troopers it was designed to carry, dozens of the ships were crewed and ready to depart when Jedi Master Yoda arrived to mobilize an invasion force. Though formidable in appearance, the ships had never been tested in battle. Given the Acclamator’s role as the primary delivery system for ground forces, the entire conflict hinged on its ability to survive under combat conditions.
+
+The Acclamator saw its baptism of fire during the invasion of Geonosis. A small number of the assault ships were lost to ground fire following the deployment of troops to the planet surface, but the casualties were deemed acceptable. Those that remained pulled back to provide orbital fire support. By the end of the first day, the Separatist forces were scattered and in complete retreat. The Acclamator had proved its worth and stood as a chilling omen of the Star Destroyers that would eventually take its place.
+
+Following the Clone Wars, the Acclamator was replaced in service by newer, larger, and more powerful ships, such as the Victory- and Imperial-class Star Destroyers. The Acclamators that remained in Imperial service were relegated to duty in rear-echelon areas. Scattered reports reveal that Acclamators were used as transports for prisoners and slaves following the beginning of the rebellion against the Empire, but these rumors are difficult to confirm. Many of the venerable assault ships were eventually decommissioned and stripped, their hulls broken down and recycled by Kuat Drive Yards in order to produce newer and more terrifying weapons.
+
+The Acclamator is designed as a legion-level troop transport. Using exceptionally efficient hyperdrive engines, an assault ship is capable of traversing the vastness of space in a short amount of time. In addition to 16,000 clone troopers, a typical Acclamator carries 48 AT-TE walkers. 80 LAAT gunships, 36 self-propelled heavy artillery units, and 320 speeder bikes. Once a force is deployed, the assault ship has the capacity to function as an orbital command center.
+
+In dire situations, several Acclamators could join forces to perform an orbital bombardment designed to eradicate all factors of production (including all sentients). Code-named Base Delta Zero by Old Republic, Confederacy, and (later) Imperial forces, such a technique was sparingly used against systems that were too rebellious to be conquered.
+
+If the Acclamator has one weakness, it is its overspecialization as a ground attack platform. Though it can certainly defend itself from small spaceborne threats, it doesn’t have the staying power or flexibility to stand against a concerted attack by capital ships. It is for this reason, more than any other, that the Acclamator design was eventually abandoned by the Empire in favor of larger, less specialized vessels.
+
+#### ACCLAMATOR ASSAULT SHIP
+
+Craft: Rothana Heavy Engineering Acclamator-class Military Assault Ship
+Type: Assault ship
+Scale: Capital
+Length: 752 meters
+Skill: Capital ship piloting: Acclamator-class
+Crew: 20,141
+Crew Skill: All skills typically at 4D
+Passengers: 16,000 (troops)
+Cargo Capacity: 11,250 metric tons
+Consumables: 2 years
+Cost: 29 million (new), 19 million (used)
+Hyperdrive Multiplier: x.75
+Hyperdrive Backup: x10
+Nav Computer: Yes
+Maneuverability: 2D
+Space: 6
+Atmosphere: 330; 950 kmh
+Hull: 4D+1
+Shields: 2D+1
+Sensors:
+
+Passive: 40/1D
+Scan: 70/2D
+Search: 150/3D
+Focus: 4/3D+2
+Weapons:
+
+12 Turbo Quadlasers
+
+Fire Arc: Partial Turret (6 front/left, 6 front/right) Skill: Capital ship gunnery
+Fire Control: 1D+1
+Space Range: 3-15/35/75
+Atmosphere Range: 6-30/70/15 0km
+Damage: 5D
+4 Proton Torpedo Tubes (100 torpedoes)
+
+Fire Arc: Front
+Skill: Capital ship gunnery
+Fire Control: +2
+Space Range: 2-12/30/60
+Atmosphere Range: 4-24/60/120 km Damage: 9D
+
+[Página impressa 433 | PDF 435]
+
+24 Point Laser Cannons
+
+Fire Arc: 2 batteries front, 2 batteries left, 2 batteries right
+Scale: Starfighter
+Skill: Starship gunnery
+Fire Control: 1D
+Space Range: 1-3/12/25
+Atmosphere Range: 100-
+
+300/1.2/2.5 km
+Damage: 4D+1
+Ground/Air Complement: 320 speeder bikes, 48 AT-TE walkers, 80 LAAT gunships, 36 self-propelled heavy artillery units.
+
+### Banking Clan Frigate
+
+The InterGalactic Banking Clan learned early in its existence that security meant profit. As a result of that philosophy, the clan decided it needed its own communications network separate from the HoloNet, and military ships to protect its communications and other investments. The result was the Munificent-class star frigate, a ship so closely associated with the business that custom-ordered its design that it is almost always referred to as the Banking Clan Frigate.
+
+When San Hill brought the Banking Clan into the Separatists’ fold, he brought the frigates with him. After the defeat of the Confederacy, most of the remaining frigates were scuttled. A few escaped with their crews, becoming pirates or (eventually) members of the Rebellion. In many cases, the ships were extensively rebuilt by Rebels, radically changing the ships’ appearance.
+
+Banking Clan Frigates serve as communication ships, troop transports, and front-line ships. In an ideal situation, a star frigate could focus on protecting larger capital ships and eliminating smaller, more weakly armed ships. Its prow-mounted heavy turbolasers could punch through the shielding and armor of smaller capital ships, allowing the Munificent-class ship to take on military-grade targets. In practice, however, the Banking Clan vessels often had to contend with Star Destroyers — conflicts that rarely went well for the frigates.
+
+#### BANKING CLAN FRIGATE
+
+Craft: Hoersch-Kessel Drive/Gwori Revolutionary Industries Munificent-class Star Frigate
+Type: Frigate
+Scale: Capital
+Length: 825 meters
+Skill: Capital ship piloting: Banking Clan frigate
+Crew: 200, gunners: 114, skeleton: 75/+15
+Passengers: 150,000 (deactivated battle droids, no more than 2,000 can be activated on-board at once)
+Cargo Capacity: 40,000 metric tons
+Consumables: 2 years
+Cost: Not available for sale (valued at 57 millions)
+Hyperdrive Multiplier: x1
+Hyperdrive Backup: x10
+Nav Computer: Yes
+Maneuverability: 2D
+Space: 6
+Hull: 3D+2
+Shields: 2D+1
+Sensors:
+
+Passive: 40/1D
+Scan: 70/2D
+Search: 100/3D
+Focus: 4/3D+2
+
+Weapons:
+
+2 Heavy Turbolaser Cannons (fire-linked)
+Fire Arc: Front
+Crew: 35
+Skill: Capital ship gunnery
+Fire Control: 2D
+Space Range: 3-15/35/75
+Damage: 8D
+2 Heavy Ion Cannons (fire-linked)
+
+Fire Arc: Front
+Crew: 20
+Skill: Capital ship gunnery
+Fire Control: 3D
+Space Range: 3-15/35/75
+Damage: 6D
+26 Twin Turbolaser Cannons
+
+Fire Arc: 5 batteries left, 5 batteries right, 3 batteries rear Crew: 2
+Skill: Capital ship gunnery
+Fire Control: 4D
+Space Range: 3-15/35/75
+Damage: 3D
+20 Light Turbolasers
+
+Fire Arc: 2 batteries front/left, 2 batteries front/right (partial turrets)
+Crew: 1
+Skill: Capital ship gunnery
+Fire Control: 4D
+Space Range: 3-15/35/75
+Damage: 2D
+38 Point-Defense Laser Cannons
+
+Fire Arc: 4 batteries front, 5 batteries left, 5 batteries right, 5 batteries rear
+Crew: 1
+Scale: Starfighter
+Skill: Starship gunnery
+Fire Control: 4D
+Space Range: 1-3/10/20
+Damage: 3D
+Hyperwave Jammer
+
+Fire Arc: All
+Crew: 10
+Skill: Communications
+Space Range: 3-15/35/75
+Damage: The powerful communications arrays can also be used to jam enemy craft in nearby space, causing a penalty on sensors and
+
+[Página impressa 434 | PDF 436]
+
+communications rolls (−2D for starfighters, −1D+1 for space transports, −2 for capital ships). The same penalty is applied to the fire control of any weapon fired at the frigate (although fire control can’t be reduced to less than 0D). The jammer is selective enough not to affect friendly ships, but it isn’t powerful enough to affect space stations.
+Starfighter Complement: 12 landing craft/shuttles
+
+### Corellian Corvette
+
+One of the most common and popular vessels produced by the Corellian Engineering Corporation, the CR90 Corvette serves multiple purposes in fleets of all types throughout the galaxy. A smaller capital ship that is just a step up from a space transport, the Corellian Corvette is large enough to carry a significant complement of passengers or troops while requiring a relatively small crew to operate. Durable vessels that complement any battle group (and, indeed, they are often seen in Rebel and pirate fleets), many Corellian Corvettes are owned by individuals and private organizations. Often referred to as blockade runners, these ships boast a distinctive “hammerhead” design that is recognizable almost anywhere in the galaxy.
+
+Though excellent as consulars or transport ships, Corellian Corvettes also see extensive use as military and pirate vessels. Most Corellian Corvettes are easily modified (a common trait among many of the ships produced by the Corellian Engineering Corporation), and as such they can be tailored to a specific owner’s needs. The ease with which CR90 Corvettes are modified makes adding weaponry, shielding, and even secondary hull plating a simple matter, meaning that aftermarket modifications that boost the ship’s offensive capability are among the most common upgrades made to the vessel. Pirates, gunrunners, shipjackers, and smugglers favor the CR90 Corvette because even a heavily modified ship can appear innocuous at first glance, making it easy to launch surprise attacks on unsuspecting targets (or sneak past the watchful eyes of the authorities).
+
+Corellian Corvettes often see use in small-scale naval skirmishes, such as breaking planetary blockades. In fact, many planetary defense fleets use Corellian Corvettes to breach enemy lines and set up flanking maneuvers. Since the ship’s configuration can be changed to suit a variety of roles (including naval combat, escort, troop carrier, and cargo hauler), these ships are often considered dynamic assets, allowing their owners to get greater use out of the ship when compared to more static vessels. As such, they are highly valued in both military and civilian roles (and can often shift between the two over the course of a single ship’s lifetime).
+
+#### CORELLIAN CORVETTE
+
+Craft: Corellian Engineering Corporation CR90 Corvette
+Type: Mid-sized multi-purpose vessel
+Scale: Capital
+Length: 150 meters
+Skill: Capital ship piloting: Corellian Corvette
+Crew: 30 to 165, depending upon configuration
+Crew Skill: Astrogation 3D, capital ship gunnery 4D+1, capital ship piloting 3D+2, capital ship shields 3D, sensors 3D+1
+Passengers: Up to 600, depending upon configuration
+Cargo Capacity: 3,000 metric tons
+Consumables: 1 year
+Cost: 3.5 million (new), 1.5 million (used)
+Hyperdrive Multiplier: x2
+Nav Computer: Yes
+Maneuverability: 2D
+Space: 6
+Atmosphere: 330; 950 kmh
+Hull: 4D
+Shields: 2D
+Sensors:
+
+Passive: 40/1D
+Scan: 80/2D
+Search: 100/3D
+Focus: 5/4D
+Weapons:
+
+6 Double Turbolaser Cannons
+
+Fire Arc: 3 front, 1 left, 1 right, 1 back Crew: 1 (3), 3 (3)
+Skill: Capital ship gunnery
+Fire Control: 3D
+Space Range: 3-15/35/75
+Atmosphere Range: 6-30/70/150 km Damage: 4D+2
+
+### Imperial Star Destroyer
+
+Few starships inspire terror the way an Imperial Star Destroyer can. A symbol of the Empire’s might and an instrument of its tyranny, the Imperial Star Destroyer is a dagger-shaped vessel of pure destruction. Armed with powerful weapons and nearly impregnable defenses, the Imperial Star Destroyer is a one-ship command platform that can be used to fill a variety of roles. Star Destroyers act as assault warships. planetary defenders, and even escort vessels for extremely important ships. An Imperial Star Destroyer carries enough troops and assault vehicles to stage an invasion on a lightly defended planet, and acts as a mobile fortress from which the Empire can engage in entire military campaigns.
+
+During the height of the Empire, Star Destroyers were deployed in every sector, and some planets even have their own Star Destroyers assigned to them. The Imperial fortress worlds of the Deep Core often had multiple Star Destroyers assigned to the planet. and important planets such as Coruscant might have as many as a dozen Star Destroyers, if not more. in orbit at any given time. Unlike the Old Republic, the Empire built enough ships to extend its reach all the way to the Outer Rim, and multiple Star Destroyers patrolled the space lanes on a regular basis.
+
+Star Destroyers are among the few vessels used for orbital bombardment, a favorite tactic of the ruthless Empire. Entire planets have been frightened into submission by the mere presence of an Imperial Star Destroyer in orbit. Imperial Star Destroyers are capable of delivering precise orbital strikes — destroying only a small section of a planet — as well as delivering bombardments that wipe out all life and industry on a world (a tactic known as Base Delta Zero). Only those
+
+[Página impressa 435 | PDF 437]
+
+planets that have powerful shields can withstand the turbolasers of an Imperial Star Destroyer. and some worlds (including Caamas) have been devastated by such tactics.
+
+An Imperial Star Destroyer bristles with weapons, and for good reason. With twenty turbolaser batteries, a Star Destroyer can pound on other capital ships, reducing their shields in a matter of minutes. Likewise, its ion cannons can quickly disable ships, allowing the Empire to tear the ship apart and take the prisoners alive. Another ten tractor beam generators ensure that few ships will escape its grasp, especially smaller capital ships. Though less effective against starfighters, a Star Destroyer is not to be trifled with. Even the best starfighter corps fears the armament of an Imperial Star Destroyer, since a lucky shot from a turbolaser will turn even the most nimble starfighter into a smoldering cloud of debris in an instant.
+
+#### IMPERIAL STAR DESTROYER
+
+Craft: Kuat Drive Yards’ Imperial I Star Destroyer
+Type: Star Destroyer
+Scale: Capital
+Length: 1,600 meters
+Skill: Capital ship piloting: Star Destroyer
+Crew: 36,810, gunners: 275, skeleton: 5,000/+20
+Crew Skill: Astrogation 4D, capital ship gunnery 4D+2, capital ship piloting 5D+1, capital ship shields 4D+1, sensors 4D
+Passengers: 9,700(troops)
+Cargo Capacity: 36,000 metric tons
+Consumables: 6 years
+Hyperdrive Multiplier: x2
+Hyperdrive Backup: x8
+Nav Computer: Yes
+Maneuverability: 1D
+Space: 6
+Hull: 7D
+Shields: 3D
+Sensors:
+
+Passive: 50/1D
+Scan: 100/3D
+Search: 200/4D
+Focus: 6/4D+2
+Weapons:
+
+60 Turbolaser Batteries
+
+Fire Arc: 20 front, 20 left, 20 right Crew: 1 (20), 2 (40)
+Skill: Capital ship gunnery
+Fire Control: 4D
+Space Range: 3-15/35/75
+Atmosphere Range: 6-30/70/150 km Damage: 5D
+
+60 Ion Cannons
+
+Fire Arc: 20 front, 15 left, 15 right, 10 back Crew: 1 (15), 2 (45)
+Skill: Capital ship gunnery
+Fire Control: 2D+2
+Space Range: 1-10/25/50
+Atmosphere Range: 2-20/50/100 km
+Damage: 3D
+10 Tractor Beam Projectors
+
+Fire Arc: 6 front, 2 left, 2 right
+Crew: 1 (2), 4 (2), 10 (6)
+Skill: Capital ship gunnery
+Fire Control: 4D
+Space Range: 1-5/15/30
+Atmosphere Range: 2-10/30/60 km
+Damage: 6D
+Starfighter Complement: 72 TIE starfighters (any variant), 8 Lambda-class shuttles.
+Ground/Air Complement: 20 AT-ATs and 30 AT-STs, various support vehicles.
+
+### Interdictor Cruiser
+
+The Immobilizer 418 Interdictor-class heavy cruiser is a capital starship used to pull ships out of hyperspace and prevent them from reentering, trapping them in realspace and keeping them from escaping. The Immobilizer 418 uses four massive gravity well generators that produce a gravity shadow in hyperspace (similar to that projected by a planet or a star) that makes hyperspace travel through that area impossible. When an Immobilizer 418 has its gravity well projectors fired up, any ships traveling through hyperspace in the vicinity immediately revert to realspace, and no ship within a hyper-space interdiction area can make the jump to lightspeed until the gravity well generators are shut down.
+
+[Página impressa 436 | PDF 438]
+
+The Immobilizer 418 was developed in response to the hit- and-run tactics of the Rebel Alliance. The success of the Immobilizer 418 once again gave the Empire an advantage over Rebel tacticians, though fortunately for the Alliance, only a relatively small number of Interdictor-class heavy cruisers were converted for use during the Galactic Civil War. However, the ships were so successful that some Star Destroyers were retrofitted with gravity well generators in order to provide a more powerful platform for interdiction technology.
+
+The Immobilizer 418 is typically accompanied by a contingent of more heavily armed vessels, not only to lie in ambush but also to protect the Interdictor-class heavy cruiser from the ships they are trapping. Pulling a Rebel fleet out of hyperspace typically makes the Immobilizer 418 the primary target of the trapped fleet, and as a result the ship needs protection in order to keep from being destroyed.
+
+Once the Immobilizer 418 has pulled the targets from hyperspace, the ship’s crew must keep the gravity wells focused on the trapped fleet; otherwise their prey will escape into hyperspace simply by outrunning the Immobilizer and its fellow ships. Directing a gravity well is no simple matter, requiring the same kind of precision and expertise as is required to operate a tractor beam, and the Immobilizer 418’s crew is trained to maintain gravity wells in the heat of combat.
+
+#### INTERDICTOR CRUISER
+
+Craft: Sienar Fleet Systems’ Immobilizer 418
+Type: Interdictor-class heavy cruiser
+Scale: Capital
+Length: 600 meters
+Skill: Capital ship piloting: Interdictor Cruiser
+Crew: 2,783, gunners: 24, skeleton: 1,500/+10
+Crew Skill: Astrogation 5D, capital ship gunnery 5D, capital ship piloting 5D, capital ship shields 4D
+Passengers: 80 (troops)
+Cargo Capacity: 5,500 metric tons
+Consumables: 1.2 years
+Cost: Not available for sale
+Hyperdrive Multiplier: x2
+Hyperdrive Backup: x8
+Nav Computer: Yes
+Maneuverability: 1D
+Space: 6
+Hull: 5D
+Shields: 3D
+Sensors:
+
+Passive: 30/1D
+Scan: 75/2D
+Search: 150/3D
+Focus: 5/4D
+Weapons:
+
+20 Laser Cannons
+
+Fire Arc: 10 front, 5 left, 5 right Crew: 1
+Skill: Capital ship gunnery
+Fire Control: 2D
+Space Range: 1-3/12/25
+Atmosphere Range: 2-6/24/50 km Damage: 4D
+4 Gravity Well Projector
+
+Fire Arc: Turret
+Crew: 1
+Skill: Capital ship gunnery
+Fire Control: 6D
+Space Range: 1-5/75/150
+Damage: Blocks hyperspace travel
+Starfighter Complement: 24 starfighters (any variant)
+
+### Operating Gravity Well Projectors
+
+Preventing escape into hyperspace is done by simply placing gravity wells close enough to a ship making it virtually impossible to make a jump due to the proximity of the interference.
+
+Firing Gravity Well Projectors. This is done in the same manner as firing weapons. The gunner picks a specific location where the gravity well will be centered. The difficulty is based on the range of the gravity well projectors (Very Easy at point blank range, Easy at short range. Moderate at medium range, and Difficult at long range). There is no die cap for scale.
+
+If the roll is successful, the gravity well is placed exactly where the gunner wanted. If the roll misses, the gravity well is centered somewhere else. Roll on the “Grenade Scatter Diagram” to determine the direction (see Combat & Injuries), and to determine the distance roll on the chart below.
+
+Range Of Attack | Distance (In units)
+Point-blank | 1D
+Short | 2D
+Medium | 4D
+Long | 8D
+
+Effects. The effect of the gravity well depends upon how far it is from an enemy starship. First, determine the distance from the ship to the center of the gravity well. Then, add the number below to the difficulty to jump into hyperspace (the astrogation difficulty).
+
+Range | Difficulty Add
+0-6 | Ship cannot Jump to hyperspace
+7-12 | +30 or more to difficulty
+13-18 | +21-29 to difficulty
+19-24 | +11-20 to difficulty
+25-36 | +6-10 to difficulty
+37-48 | +1-5 to difficulty
+
+Gravity Well Projector Limitations. While gravity well projectors are impressive weapons under the correct circumstances, they have their limitations.
+
+Powering up a gravity well projector takes six rounds (30 seconds). A gravity projector can be turned off with no delay, but the capacitors take eight rounds to shunt the power and completely recycle, meaning that the gravity well operator must wait eight rounds before placing another gravity well without risking damaging the generator. If the gravity well operator wants to risk blowing up the generator, he can do so sooner. To do so, add the following difficulty modifier, depending upon how many rounds the operator waits.
+
+Rounds | Difficulty Modifier
+1 | +50
+2 | +40
+3 | +30
+4 | +20
+5 | +15
+6 | +10
+7 | +5
+
+If the roll to place the new gravity well is missed by more than five points, the gravity well generator blows out.
+
+[Página impressa 437 | PDF 439]
+
+Moving Gravity Wells. Gravity wells, once placed, are difficult to move. To move a gravity well, the operator must make a capital ship gunnery roll, with the difficulty based on how far he wants to move the gravity well.
+
+Movement
+
+1-2 | Moderate
+3-4 | Difficult
+5-6 | Very Difficult
+7+ | Heroic (add +10 for every additional two units)
+
+(In Units)
+Difficulty
+
+Affecting The Interdictor Cruiser. The great energy output of the gravity well projectors also affects the movement and handling of Interdictor cruisers. For every gravity well projector being operated, apply the following modifiers: −1D to maneuverability, −1 to move. These modifiers are cumulative, so an Interdictor cruiser with all four gravity well projectors operating would have −4D to its maneuverability and −4 to its move.
+
+To Force Ships From Hyperspace. Tracking a ship’s hyperspace vector isn’t easy, and often the Interdictor cruiser’s captain has to make an educated guess about where and when a target ship is going to be passing. If the information is simply wrong, for example, saying that the target ship is going to be flying to Coruscant when it is really going to Tatooine, there is nothing the Interdictor can do. However, if some of the facts are known, it is possible to bring a ship out of hyperspace.
+
+If the captain has exact information on the ship’s speed, route and destination, it is assumed that he will be able to place the gravity wells where they need to be at the appropriate time. However, if the captain doesn’t have exact information, placing the gravity wells is a hit-or-miss situation — if the target ship stops and makes several layovers, or changes routes, or goes slower or faster than whoever tracked it thought it would, there is nothing the Interdictor can do. In other words, this must be left up to the gamemaster’s discretion.
+
+However, if the trap is correctly placed, the Interdictor should have several other ships to assist it once a ship is brought out of hyperspace. When the ship is forced into realspace, the crew will in all likelihood be startled for a few moments, and it is in this period of confusion that the other ships must strike. Some ships will use blasters to render the ship helpless, while others will use tractor beams to latch onto it and prevent its escape. The Interdictor can still be of assistance by using its gravity well projectors to prevent the ship from escaping into hyperspace, as outlined in the previous entry.
+
+### Mon Calamari MC80 Cruiser
+
+Of the dozens of Mon Calamari warships that joined the Rebel fleet, the MC80 is the most powerful. As equipped, the MC80 is the largest ship in the Rebel arsenal. Even though the MC80 is a full 400 meters shorter than an Imperial-class Star Destroyer, it is more than capable of giving its larger opponent a sound beating. The recklessness of Imperial commanders, combined with the skill of the Mon Calamari gun crews, cost the Empire several of their most powerful warships. Following these losses. the Empire began to take the Mon Calamari threat more seriously.
+
+No two MC8Os are the same, despite the fact that they have identical alphanumeric designations. Their capabilities are roughly the same, but their external appearance and internal structure are quite different. When placed side by side, the variations between these enormous ships can be noticed by beings that are attentive enough to see them.
+
+The crew complements of Alliance MC8Os feature a large cross-section of galactic species, but the command crews of these vessels are made up exclusively of Mon Calamari volunteers. The reasons for this are practical rather than elitist, since the controls and other ship systems were created with Mon Calamari physiology in mind. Although a human might be able to contribute to the control of such a warship. he would never be as adept at doing so as his Mon Calamari counterparts.
+
+It is often said by galactic historians that the Rebel Alliance would never have gained victory over the Galactic Empire if not for the generosity and sacrifice of the Mon Calamari. No one knows this more than the Mon Calamari themselves. Regardless, the Mon Calamari are a humble species, and they have never sought glory for their role in the conflict.
+
+Despite the superior engineering that went into their construction, the fact remains that Mon Calamari ships are smaller and less well armed than Imperial Star Destroyers. In order to make up for these deficiencies, the Mon Calamari have developed several tactics that take advantage of their ships’ exceptional speed and maneuverability. Although the Imperial Navy’s initial contact with Mon Calamari cruisers resulted in the destruction of several Star Destroyers, this was a result of the recklessness and audacity of Imperial Commanders. The Empire has learned its lesson, and such careless behavior on the part of its naval crews can no longer be assumed.
+
+It is rare for a Mon Calamari cruiser to directly engage an Imperial Star Destroyer. There are so few MC8Os that such tactics would quickly decimate the Rebel fleet. Even if losses were equal on either side, the Empire would still have a vast numerical advantage over the Alliance. The one thing that often makes all the difference are the small, well-equipped starfighters that are so commonly employed by the Alliance. A single MC80 is equipped with as many as 36 fighter craft, and this number can include any ratio of A-, B-, X-, or Y-wing starfighters. More often than not, an MC80 will sit at a safe distance and provide covering fire for its fighter wing and support ships.
+
+[Página impressa 438 | PDF 440]
+
+Aside from its agility and the superior starfighters in its launch bay, the MC80 has one other benefit over the Imperial Star Destroyer: a series of highly advanced backup shield generators. These generators allow an MC80’s deflector shields to recharge at twice the normal rate, adding to the ship’s overall durability. For every three swift actions taken to recharge its shields, an MCOO will regain 10 shield points instead of the normal S. This benefit has made all the difference in a number of battles.
+
+#### MON CALAMARI MC80 STAR CRUISER
+
+Craft: Mon Calamari MC80 Star Cruiser
+Type: Star cruiser
+Scale: Capital
+Length: 1,200 meters
+Skill: Capital ship piloting: Mon Calamari cruiser
+Crew: 5,156, gunners 246, skeleton: 1,230/+10
+Crew Skill: Capital ship piloting 5D+2, capital ship shields 5D, sensors 3D+1, astrogation 4D, capital ship gunnery 5D
+Passengers: 1,200 (troops)
+Cargo Capacity: 20,000 metric tons; 5,000 cubic meters
+Consumables: 2 years
+Hyperdrive Multiplier: x1
+Hyperdrive Backup: x9
+Nav Computer: Yes
+Maneuverability: 2D
+Space: 6
+Hull: 6D
+Shields: 3D *
+
+* Mon Cal star cruisers have 6D of back-up shields. When a die of shields is lost, if the shield operators can make an Easy capital ship shields total, one of the backup die codes of shields can be brought up to increase the shield back to 3D.
+Sensors:
+
+Passive: 40/1D
+Scan: 60/2D
+Search: 120/3D
+Focus: 5/4D
+Weapons:
+
+48 Turbolaser Batteries (fire separately)
+
+Fire Arc: 12 front, 12 left, 12 right, 12 back Crew: 1 to 3
+Skill: Capital ship gunnery
+Fire Control: 2D
+Space Range: 3-15/35/75
+Atmosphere Range: 6-30/70/150 km
+Damage: 4D
+20 Ion Cannons (fire separately)
+
+Fire Arc: 8 front, 4 left, 4 right, 4 back
+Crew: 1 to 7
+Skill: Capital ship gunnery
+Fire Control: 3D
+Space Range: 1-10/25/50
+Atmosphere Range: 2-20/50/100 km
+Damage: 3D
+6 Tractor Beam Projectors (fire separately)
+
+Fire Arc: 4 front, 1 left, 1 right
+Crew: 1 to 10
+Skill: Capital ship gunnery
+Fire Control: 2D+2
+Space Range: 1-5/15/30
+Atmosphere Range: 2-10/30/60 km
+Damage: 4D
+Starfighter Complement: 36 A-, B-, X-, and/or Y-wing fighters, two light freighters or shuttles
+
+### Nebulon-B Frigate
+
+In the earliest days of the Rebellion, the Alliance was hugely successful in its attacks against Imperial shipping and supply convoys. Much of the reason behind these successes was the Empire’s reluctance to assign its valuable Star Destroyers to something as menial as escort duty. What the Empire required was a less expensive capital ship with the capacity to carry TIE fighters.
+
+Well armed and able to carry two dozen TIE fighters, the Nebulon-B quickly stymied the majority of Alliance raids on Imperial shipping. Rebel pilots were dismayed to discover that raids on convoys, which were once considered to be veritable cakewalks, had become much more dangerous.
+
+Despite the Empires dominance in regard to the Nebulon-B, the Alliance has managed to acquire several of the ships for its own use. A number of these ships were captured by daring attacks on Imperial dockyards. while others were placed under Alliance control by their sympathetic captains. These Nebulon-B frigates functioned as the Alliance’s primary assault ships during the early stages of the Galactic Civil War, until the Mon Calamari joined the cause against the Empire.
+
+Several of the Alliance’s Nebulon-B frigates, such as the Redemption, are modified to function as medical frigates. Up to 700 wounded can be tended aboard a single cruiser, and the most technically advanced medical equipment available is used to treat them. In addition to organic doctors, these ships employ numerous medical droids.
+
+The Nebulon-B escort frigate was incredibly well suited to a number of tasks, such as anti-starfighter screening and suppression of mid-sized warships. Aside from performing escort duty, the Nebulon-B was easily adapted to other purposes. It was well suited to long-range patrols, able to go up to two years before its stores ran dry. Search and rescue duties were second nature for the Nebulon-B, and several such frigates were employed as deterrents to space pirates and smugglers. Because the Nebulon- B was equipped with sophisticated scanners and deep-space antenna arrays, it performed exceptionally well as a command center during space battles and planetary assaults.
+
+[Página impressa 439 | PDF 441]
+
+#### NEBULON-B FRIGATE
+
+Craft: Kuat Drive Yards’ Nebulon-B Frigate
+Type: Escort starship
+Scale: Capital
+Length: 300 meters
+Skill: Capital ship piloting: Nebulon-B
+Crew: 854, gunners: 66, skeleton: 307/+10
+Crew Skill: Astrogation 3D, capital ship gunnery 4D+1, capital ship piloting 3D+2, capital ship shields 3D, sensors 3D+1, starship gunnery 4D+1
+Passengers: 75 (troops)
+Cargo Capacity: 6,000 metric tons
+Consumables: 2 years
+Cost: Not available for sale
+Hyperdrive Multiplier: x2
+Hyperdrive Backup: x12
+Nav Computer: Yes
+Maneuverability: 1D
+Space: 4
+Atmosphere: 280; 850 kmh
+Hull: 3D+2
+Shields: 2D
+Sensors:
+
+Passive: 40/1D
+Scan: 75/2D
+Search: 150/3D
+Focus: 4/4D+2
+Weapons:
+
+12 Turbolaser Batteries
+
+Fire Arc: 6 front, 3 left, 3 right
+Crew: 1 (2), 2 (8), 4 (2)
+Skill: Capital ship gunnery
+Fire Control: 3D
+Space Range: 3-15/35/75
+Atmosphere Range: 6-30/70/150 km Damage: 4D
+12 Laser Cannons
+
+Fire Arc: 6 front, 2 left, 2 right, 2 back Crew: 1 (8), 2 (4)
+Scale: Starfighter
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1-3/12/25
+Atmosphere Range: 2-6/24/50 km Damage: 2D
+
+2 Tractor Beam Projectors
+
+Fire Arc: Front
+Crew: 12
+Skill: Capital ship gunnery
+Fire Control: 2D
+Space Range: 1-5/15/30
+Atmosphere Range: 2-10/30/60 km Damage: 4D
+Starfighter Complement: 24 fighters
+
+### Republic Cruiser
+
+Corellian Engineering Corporation’s Consular-class cruiser is in service toward the end of the Old Republic, though decades before the Clone Wars. It is an economic and simple starship, a change from the more grandiose vessels the Republic built before budgets got tight. This simple and utilitarian design does not sit well with all Republic diplomats, but it does make the ships appealing to Jedi negotiators who seek to draw as little attention to themselves as possible.
+
+Though they were built to be unarmed diplomatic vessels, the ease of changing out the salon pod (as well as the highly modifiable nature of all CEC vessels) naturally led to the addition of weapons on Consular-class cruisers when times got hard. Modified vessels served in the Judicial Forces and made up part of a war fleet during the Stark Hyperspace War. Several of the cruisers, including the flagship Invincible, were heavily modified into Republic light assault cruisers (over the course of months in a major shipyard), while others were given more modest battle pods to replace their typical salon pods.
+
+During the Clone Wars, Consular-class ships with specialized salon pods served as fighter carriers, missile cruisers, medical ships, long-range scouts, and point-defense escorts. After the war, ships of this type were often left for junk, scrapped, or sold to private enterprises. Many ended up as pirate craft, planetary patrol ships, and Rebel Alliance cruisers. Smugglers also valued modified Consular-class ships, but could rarely afford them. (Those who succeeded in acquiring one, such as Rebel sympathizer Rif Taranu and his Dead Reckoning, were generally very successful.)
+
+A Consular-class cruiser is designed to be a utilitarian ship, able to perform multiple types of missions. One major component of the Consular-class is the salon pod, an easily swapped-
+
+[Página impressa 440 | PDF 442]
+
+out section of the lower front of the ship. Each pod was an area of luxury accommodations and secure communications equipment. Different salon pods catered to different species, allowing a single Consular with a dozen or so pods kept in spacedock to serve as a diplomatic vessel for multiple Senatorial groups as they needed it. Salon pods can also be ejected from the starship to act as lifeboat escape pods.
+
+Other kinds of pods can be swapped out as well, including pods with concussion missiles, bacta tanks, or sensor and jamming suites. Such pods might have as many as 20 emplacement points’ worth of systems and can be swapped out in a matter of minutes. Combined with the 5 unused emplacement points common to most CEC starships, the ability of a Consular-class to adapt to new missions is only as limited as the mechanics who are modifying it.
+
+#### REPUBLIC CRUISER
+
+Craft: Corellian Engineering Corporation Consular-class Space Cruiser Type: Diplomatic transport
+Scale: Capital
+Length: 115 meters
+Skill: Capital ship piloting: Corellian space cruiser
+Crew: 8
+Crew Skill: Typically 6D in applicable skills
+Passengers: 16
+Cargo Capacity: 1,000 metric tons
+Consumables: 6 months
+Cost: 1.25 million
+Hyperdrive Multiplier: x2
+Nav Computer: Yes
+Maneuverability: 1D+2
+Space: 6
+Atmosphere: 330; 950 kmh
+Hull: 3D+1
+Shields: 2D
+Sensors:
+
+Passive: 40/1D
+Scan: 80/2D
+Search: 100/3D
+Focus: 5/4D
+
+### Trade Federation Battleship
+
+The mainstay of the Trade Federation space fleet, the Lucrehulk-class battleship is a dangerous and heavily armed vessel that can be a threat to any ship that gets too close. These battleships come in two varieties: normal battleships, and Droid Control Ships. The Droid Control Ships are far more rare, and usually were nestled behind a defensive screen where they could organize the droid starfighters and ground troops accordingly. Each Droid Control Ship houses massive command and control computers which broadcast control signals to all nearby droid troops and starfighters, coordinating their actions and issuing commands. Without the Droid Control Ships the droid members of the Confederacy could not function.
+
+Originally designed as freighters but retrofitted with weapons, the Lucrehulk-class battleship was further upgraded at the start of the Clone Wars to be a more formidable combat vessel in comparison to the Republic space fleet. Since the ships are usually not engaged in direct combat with enemy starships, the Droid Control Ships were given a lower priority than other Lucrehulk-class battleships, and as such retain the same armament that they had around the time of the Battle of Naboo.
+
+Trade Federation battleships operate much like any other capital ship. They use turbolasers and heavy laser cannons to pound opposing capital ships into submission, while the point-defense quad lasers remain effective against starfighter assaults. Since the Lucrehulk-class battleships are converted freighters they carry no special systems designed specifically for combat, and have a number of design flaws that make them vulnerable to attack. These ships have extremely volatile reactors positioned near the cargo bays, and (as at least one Droid Control Ship at the Battle of Naboo discovered) an attack from within a cargo bay can destroy an entire ship.
+
+#### TRADE FEDERATION BATTLESHIP
+
+Craft: Hoersch-Kessel Drive, Inc., Lucrehulk-class Battleship
+Type: Battleship
+Scale: Capital
+Length: 3,170 meters
+Skill: Capital ship piloting: Lucrehulk-class
+Crew: 150 droids, 25 Neimoidian command staff
+Crew Skill: Capital sip piloting 4D+1, capital ship gunnery 4D+1, capital ship shields 4D+1
+Passengers: 329,600 battle droids
+Cargo Capacity: 5 million metric tons
+Consumables: 500 days
+Cost: Not available for sale
+Hyperdrive Multiplier: x2
+Hyperdrive Backup: x10
+Nav Computer: Yes
+Maneuverability: 1D
+Space: 3
+Hull: 6D
+Shields: 3D
+Sensors:
+
+Passive: 30/1D
+Scan: 60/2D
+Search: 90/3D+2
+Focus: 6/4D
+Weapons pre-Clone Wars:
+
+42 Quadlasers
+
+Fire Arc: 14 front, 14 rear, 7 right, 7 left. Scale: Starfighter
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1-5/10/20
+Atmosphere Range: 100-500/1/2 km Damage: 5D
+
+[Página impressa 441 | PDF 443]
+
+Weapons during Clone Wars:
+
+51 Turbolasers
+
+Fire Arc: 13 front, 13 right, 13 left, 12 rear Skill: Capital ship gunnery
+Fire Control: 2D
+Space Range: 3-15/35/75
+Atmosphere Range: 6-30/70/150 km
+Damage: 5D
+520 Assault Laser Cannons
+
+Fire Arc: 92 front, 184 right, 184 left, 60 rear Scale: Starfighter
+Skill: Starship gunnery
+Fire Control: 1D+1
+Space Range: 2-10/20/40
+Atmosphere Range: 0.2-1/2/4 km
+Damage: 7D
+185 Quadlaser Batteries
+
+Fire Arc: 51 front, 55 right, 55 left, 24 rear
+Scale: Starfighter
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1-5/10/20
+Atmosphere Range: 100-500/1/2 km
+Damage: 4D
+Starship Complement: 50 landing ships, 1500 droid starfighters
+Ground Assault Complement: 550 MTTs, 1500 troop carriers, 6250 AATs
+
+### Venator-class Star Destroyer
+
+The Venator-class Star Destroyer was the brainchild of designer Lire Blissex, who created it to serve as a multipurpose warship during the Clone Wars. Also called a Republic attack cruiser, the ship was very successful as an escort and a battle-group leader and often served as a flagship for Jedi commanders.
+
+An able warship and among the most dangerous ships of its era, eventually the Venator serves best as part of a massive fleet, acting as both a primary fighting ship and a starfighter carrier while supporting numerous more specialized capital ships. By itself, or as part of a group with smaller ships, the Venator lacks the ability to carry out long-range missions. Its relatively small capacity for supplies, coupled with its need for constant influx of dozens of new fighters and fighter parts, forces a Venator to either stay near Core worlds or support a long supply line of large freighters.
+
+Intended to be in the thick of the fighting beside its own starfighter complement, the Venator carries several point-defense laser cannon batteries. These are thickest around its massive flight deck, to ensure that enough firepower exists to prevent enemy fighters from entering the ship.
+
+To allow its hundreds of fighters to quickly launch and be recovered, a Venator has a dorsal flight deck with sliding armored doors. When a Venator’s dorsal flight deck is opened, the ship’s hull rating is reduced by 1D to 4D+1 . After too many ships of the class were lost to hits into the open flight deck, the feature was abandoned for future Star Destroyer designs.
+
+#### VENATOR STAR DESTROYER
+
+Craft: Kuat Drive Yards Venator-class Star Destroyer
+Type: Star destroyer
+Scale: Capital
+Length: 1,137 meters
+Skill: Capital ship piloting: Star Destroyer
+Crew: 7,400, gunners: 124, skeleton 3,025/+15
+Crew Skill: Astrogation 3D+2, capital ship gunnery 4D+2, capital ship piloting 5D, capital ship shields 4D, sensors 3D+2
+Passengers: 2,000 (troops)
+Cargo Capacity: 20,000 metric tons, 40 LAAT/I gunships, and 24 heavy walkers of various makes
+Consumables: 2 years
+Cost: Not available for sale (valued at 59 millions)
+Hyperdrive Multiplier: x1
+Hyperdrive Backup: x15
+Nav Computer: Yes
+Maneuverability: 1D+1
+Space: 6
+Atmosphere: 340; 975 kmh
+Hull: 5D+1 (4D+1 if dorsal flight deck doors are open)
+Shields: 3D+1
+Sensors:
+
+Passive: 40/1D
+Scan: 70/2D
+Search: 150/3D
+Focus: 4/3D+2
+Weapons:
+
+8 Heavy Turbolasers
+
+Fire Arc: 1 battery front/right, 1 battery front/left (partial turrets) Crew: 5
+Skill: Capital ship gunnery
+Fire Control: 3D
+Space Range: 3-15/35/75
+Atmosphere Range: 6-30/70/150 km
+Damage: 6D+1
+2 Medium Dual Turbolasers
+
+Fire Arc: 1 front/left, 1 front/right (partial turrets) Crew: 3
+Skill: Capital ship gunnery
+Fire Control: 4D
+Space Range: 3-15/35/75
+Atmosphere Range: 6-30/70/150 km
+Damage: 5D
+26 Point-Defense Laser Cannons
+
+Fire Arc: 12 front, 6 left, 6 right, 2 rear
+
+Crew: 3
+Scale: Starfighter
+Skill: Starship gunnery
+Fire Control: 3D
+Space Range: 1-3/10/20
+Atmosphere Range: 400-1/5/10 km Damage: 5D
+6 Tractor Beam Projectors
+
+Fire Arc: 4 front, 1 left, 1 right
+Crew: 3
+Skill: Capital ship gunnery
+Fire Control: 2D
+Space Range: 1-5/15/30
+Atmosphere Range: 2-10/30/60 km Damage: 5D
+
+[Página impressa 442 | PDF 444]
+
+4 Proton Torpedo Tubes (18 torpedoes each)
+
+Fire Arc: Front
+Crew: 3
+Skill: Capital ship gunnery
+Fire Control: 2D
+Space Range: 2-12/30/60
+Atmosphere Range: 4-24/60/120 km
+Damage: 9D
+Starfighter Complement: 192 V-wings, 192 Eta-2 Actis interceptors, 36 ARC-170s.
+Ground Assault Complement: 40 heavy airspeeders, 24 heavy walkers, various support craft
+
+## SPACE TRANSPORTS
+
+Space transports cover the entire range of non-combat starships, small transports (like the YT-1300 freighter), bulk cruisers with millions of cubic meters of cargo space, shuttles, luxury cruise liners, and any other ship of civilian use. All of these vessels use the space transports skill.
+
+### Firespray-31 Patrol Craft
+
+Designed to function as a prisoner transport and system patrol ship, the Firespray-31 patrol craft is a highly customizable vessel that is favored by law enforcement officials and bounty hunters alike. With an unorthodox design and a moderate stock armament, the Firespray-31 is a tough and durable vessel that can withstand the rigors of patrol and escort duty and deliver a punishing counterattack against any assailants.
+
+The Firespray-31 boasts an unusual design that keeps the cockpit facing the sky while landing, but facing forward while in flight. Though such an unusual configuration requires some getting used to by the pilot, most owners of this system patrol craft insist that the design keeps the engines from being damaged when the vessel lands and allows for very rapid vertical takeoffs
+
+Though most of the original Firespray-31 prototypes were destroyed some time before the Clone Wars, a few of the ships (such as Slave I) made their way into the hands of private citizens. Most were constructed from blueprints sold by Kuat Systems Engineering to buyers who had the means of constructing the ships themselves, since Jango Fett destroyed all of the officially manufactured prototype models. Following the rise of the Empire, Kuat Systems Engineering began to produce the ship in large numbers, advertising the vessels as highly customizable starships that could be used for a number of roles, including patrol, pursuit, and escort. Kuat Systems Engineering also sold a large number of the craft to Mandalorian mercenaries, including the Mandalorian Protectors, who continued to use the ships up through the Yuuzhan Vong War.
+
+The stock Firespray-31 patrol craft boasts a pair of potent blaster cannons, allowing buyers who purchase the ship right off the assembly line to put the vessel into service with minimal modifications. The ship is modestly armored and has a hull integrity that few similar ships can claim; likewise, the Firespray-31 comes standard with shielding, giving it an edge over cheaper transport ships such as the YT-1300. The combination of a strong hull. and moderately powerful shields allows the Firespray-31 to take a beating while continuing to fight on.
+
+The ease with which the Firespray-31 is modified makes it a favorite ship for bounty hunters, the most famous example being Jango and Boba Fett and their ship, Slave I.
+
+#### FIRESPRAY PATROL/ATTACK CRAFT
+
+Craft: Kuat Systems Engineering Firespray-class Patrol Vessel Scale: Starfighter
+Length: 21.5 meters
+Skill: Space transports: Firespray patrol/attack craft
+Crew: 1; gunners: 2
+Passengers: 4
+Cargo Capacity: 70 metric tons
+Consumables: 1 month
+Cost: 120,000 (new); 45,000 (used)
+Hyperdrive Multiplier: x3
+Hyperdrive Backup: x15
+Nav Computer: Yes
+Maneuverability: 1D
+Space: 5
+Atmosphere: 295; 850 kmh
+Hull: 4D
+Shields: 1D
+Sensors:
+
+Passive: 10/0D
+Scan: 25/1D
+Search: 50/1D+1
+Focus: 2/2D
+Weapons:
+
+2 Twin-Mounted Blaster Cannons (fire separately)
+
+Fire Arc: Turret
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1-3/10/20
+Atmosphere Range: 100-300/1/2 km Damage: 4D
+
+### Ghtroc 720 Freighter
+
+Ghtroc Industries produced the class 720 freighter in an effort to compete with Corellian Engineering’s YT-1300. Despite an ingenious marketing campaign, factory incentives, and positive reviews, the 720 failed to match the popularity of the YT- 1300 within the Core Worlds and Inner Rim systems. It did manage to gain a foothold among traders within the Outer Rim colonies, though this modest success wasn’t enough to push Corellian Engineering out of its position as industry leader.
+
+[Página impressa 443 | PDF 445]
+
+Although Ghtroc Industries eventually fell by the wayside, wallowing in the throes of bankruptcy, tens of thousands of class 720 freighters are still in operation throughout the galaxy. Many veteran traders, smugglers. and pilots consider the 720 to be just as good as, if not better than, the YT-1300. ’ The freighters are affordable, easily configured, and user-friendly, making them popular with both old hands and rookies.
+
+Many of the galaxy’s pilots have flown a 720 at one time or another. When he was investigating Poderis’s possible use as an Imperial transfer point, Luke Skywalker employed a heavily modified Ghtroc 720 to secretly ferry his X-wing fighter. The Ghtroc’s cargo bay was gutted by Alliance techs and retrofitted with a modified hull section that could break away, allowing the X-wing to depart the 720 while in flight.
+
+When compared to the stock YT-1300, the Ghtroc 720 has several compelling standard features. It comes equipped with a small shield generator, which is probably its most attractive benefit. It is also much more maneuverable than the YT-1300, and it includes a cargo area that is more than a third larger than the YT-1300’s. Given the ubiquitous nature of the 720, spare parts are easy to find, even in remote or far-flung settlements.
+
+On the other hand, the Ghtroc is slightly slower than the YT- 1300. Although it is armed with a double laser cannon emplacement, the weapon is in a fixed-forward firing position instead of in a turret mount. Starship techs often complain that the Ghtroc’s ion drives and hyperdrive are spread out between the craft’s fore and aft instead of being centrally located. This configuration requires that engineers share time between two locations, which can be inconvenient under combat conditions.
+
+#### GHTROC 720 FREIGHTER
+
+Craft: Ghtroc Industries class 720 Freighter Type: Light freighter
+Scale: Starfighter
+Length: 35 meters
+Skill: Space transports: Ghtroc freighter Crew: 1, gunners: 1
+Crew Skill: Varies widely
+Passengers: 10
+Cargo Capacity: 135 metric tons
+Consumables: 2 months
+Cost: 98,500 (new), 23,000 (used)
+Hyperdrive Multiplier: x2
+Hyperdrive Backup: x15
+Nav Computer: Yes
+Maneuverability: 1D
+Space: 3
+
+Atmosphere: 260; 750 kmh
+Hull: 3D+2
+Shields: 1D
+Sensors:
+
+Passive: 15/0D
+Scan: 30/1D
+Search: 50/3D
+Focus: 2/4D
+Weapons:
+
+Double Laser Cannon
+
+Fire Arc: Front
+Crew: 1
+Skill: Starship gunnery
+Fire Control: 1D+2
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km Damage: 4D
+
+### J-Type Star Skiff
+
+As the Clone Wars raged and numerous Senators became increasingly uncomfortable with the political climate of the republic, even the most peaceful of traditions had to be reexamined. The J-Type star skiff was the first diplomatic vessel of Naboo to be armed (with a modest pair of linked lasers) and the first to have a gunners console. Its design also sacrificed the sleek, all-chromium hull to place more practical (and sturdy) access grills and powerful sublight engines. Still a thing of beauty, the star skiff was clearly designed with potential combat, escape, and repair in mind.
+
+Though Queen Apailana of Naboo herself never used the armed star skiff, it was loaned out to Senator Amidala, a sign of the Senator’s great popularity with her homeworld and her monarch. After Amidala died, the star skiff was retired, because it had become a painful reminder of the Senators last days in service to her people. However, other Senators, seeking to increase their own standing and political power, began purchasing similar vessels (often with faux chromium, to save on costs).
+
+Lovingly and skillfully hand-crafted, as are all royal vessels built by the Theed Palace Space Vessel Engineering Corps, the star skiff is superior in design and construction to any mass-produced vessel. A class .5 hyperdrive allows it to carry out diplomatic missions with alacrity, its interior reflects the full comfort of an advanced luxury upgrade, and its considerable storage space allows any number of diplomatic gifts to be transported in style (and could even double as small cabins for a few guests). However, it also has laser cannons that are augmented to the edge of laser technology, two medical beds, and a shield generator as powerful as those on most gunships. Though far too expensive to be practical as a warship. a star skiff could fly next to Naboo starfighters as a flag vessel if the situation called for it.
+
+[Página impressa 444 | PDF 446]
+
+#### J-TYPE STAR SKIFF
+
+Craft: Theed Palace Space Vessel Engineering Corps J-Type Star Skiff Scale: Personal Starship
+Length: 29.2 meters
+Skill: Space transports: J-type starship
+Crew: 3, skeleton: 1/+5
+Passengers: 3
+Cargo Capacity: 10 metric tons
+Consumables: 1 month
+Cost: not for sale (5,000,000 used on black market)
+Hyperdrive Multiplier: x0.5
+Hyperdrive Backup: x5
+Nav Computer: Yes
+Maneuverability: 2D+1
+Space: 7
+Atmosphere: 350; 1,050 kmh
+Hull: 5D
+Shields: 2D+1
+Sensors:
+
+Passive: 30/1D
+Scan: 70/2D
+Search: 80/3D+1
+Focus: 5/3D+2
+Weapons:
+
+2 Laser Cannons (fire-linked)
+
+Fire Arc: Front
+Skill: Starship gunnery
+Fire Control: 2D+2
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km Damage: 5D
+
+### Lambda-class Shuttle
+
+One of the most recognizable Imperial spacecraft is the Lambda-class shuttle. A workhorse of the Imperial fleet, Lambda-class shuttles have transported Imperial luminaries such as Lord Darth Vader, as well as Emperor Palpatine himself. It is perhaps ironic that one particular Lambda, the Tydirium, was employed by the Rebel Alliance to deliver a strike force to the forest moon of Endor. It was this strike team that ultimately brought the second Death Star’s defensive shields down, allowing the Rebel fleet to converge and subsequently destroy the space station.
+
+The Lambda design was developed as the direct successor to the Theta-class shuttle by a group of former Cygnus Spaceworks engineers. These engineers had been enticed into defecting to Sienar, lured by promises of high pay and tangible benefits. Even though Sienar was responsible for the ship’s design and initial production run, Cygnus Spaceworks was later subcontracted to produce a heavily armed military version that was equipped with ten laser cannons.
+
+The Lambda was not used solely by the Empire. Even though upward of ninety percent of all Lambdas were in Imperial possession. the nonmilitary version, produced by Sienar, was available for sale on the open market for a short time, and numerous craft were sold to different sector governments, corporate fleets, and other private parties. Similarly, the Rebel Alliance kept a small fleet of the shuttles on hand for the transportation of sensitive personnel between different fleet elements. These shuttles were identical to the standard model, but lacked the code transponders of those utilized by the Empire.
+
+Following the collapse of the Empire, Cygnus Spaceworks continued to produce Lambda shuttles. Many of these shuttles were put to use by both the New Republic and the Galactic Federation of Free Alliances.
+
+The Lambda shuttle is best known as a multi-use transport, capable of ferrying both troops and dignitaries. When used as a troop transport, it excels at high-profile missions that require a significant amount of discretion. When the ship is used as a personal transport for Imperial dignitaries and officers, the cargo space is often converted into a comfortable living area with many of the amenities of a star yacht. Those Lambdas used to ferry troops are much less comfortable, and are equipped with bench seating and a limited number of bucket seats.
+
+Though the ship was designed primarily for space flight, the tri-wing construction of the Lambda gives it excellent stability when flown in an atmosphere. It is a fast ship when compared to others of its class, yet it is especially vulnerable to enemy fire when landing or taking off. Though it is equipped with a number of effective weapon systems, the Lambda is unable to outmaneuver most starfighters. Because the Lambda is well armed, it does not technically require a fighter escort. Regardless, few of the shuttles traveled alone, depending on the sensitivity of their individual missions.
+
+#### LAMBDA SHUTTLE
+
+Craft: Sienar Fleet Systems Shuttle
+Type: Lambda-class Shuttle
+Scale: Starfighter
+Length: 20 meters
+Skill: Space transports: Lambda Shuttle
+Crew: 2 (2 can coordinate), gunners: 4, Skeleton: 1/+10
+Crew skill: Space transports 5D, starship gunnery 5D, starship shields 4D
+Passengers: 10 (modifiable to hold up to 20)
+Cargo capacity: 80 metric tons
+Consumables: 2 months
+Cost: No available for sale (valued at 240,000 credits)
+Hyperdrive multiplier: x1
+Hyperdrive backup: x10
+Nav Computer: Yes
+Maneuverability: 1D
+Space: 5
+Atmosphere: 295; 850 kmh
+Hull: 4D
+Shields: 1D+2
+
+[Página impressa 445 | PDF 447]
+
+Sensors:
+
+Passive: 20/0D
+Scan: 40/1D
+Search: 80/2D
+Focus: 4/2D+2
+Weapons:
+
+3 Double Blaster Cannons
+
+Fire arc: 2 front, 1 back
+Crew: 3
+Skill: Starship gunnery
+Fire control: 2D
+Space range: 1-3/12/25
+Atmosphere range: 100-300/1.2/2.5 km Damage: 4D
+2 Double Laser Cannons (Fire-linked)
+
+Fire arc: Front
+Crew: 1
+Skill: Starship gunnery
+Fire control: 3D+1
+Space range: 1-4/12/25
+Atmosphere range: 100-400/1.2/2.5 km Damage: 4D
+
+### Medium Transport
+
+Though numerous transport ships are employed across the galaxy, the Gallofree Yards transport is one of the most ubiquitous and often-used. It is a sleek-looking vessel, especially considering its size, but its outward appearance belies its slow and ponderous nature. The ships can be used as freighters, but due to their low speed are most often used as short-range transports, moving goods and passengers from planet to planet, planet to station, or star system to star system.
+
+During the Clone Wars, the Gallofree was popular with the Republic Navy as a resupply craft. Large numbers of the transports were used to supplement the Old Republic’s extensive supply lines, enabling those lines to be stretched thin without significant interruption to the flow of goods to the front. A scant few were modified with improved shields and heavy weaponry and used to lure unwary pirates to their doom.
+
+As the Clone Wars wound down and the Dark Times began, many of these venerable transports found themselves in the employ of the Rebel Alliance. Following the Battle of Endor, many Gallofrees were modified into salvage ships. They became integral to the New Republic’s initial campaigns against the Imperial Remnant, because parts and equipment salvaged from long-dead ships were valuable commodities.
+
+In its stock configuration, the Gallofree GR-75 is utilitarian and unexciting. Equipped with a large cargo hold and precious little in the way of defensive systems, it is a sitting duck on the space lanes unless accompanied by an escort. Its sublight engines and hyperdrive are slow, and it maneuvers like a sick bantha. The ship is relatively easy to modify, however, given the appropriate parts and mechanical expertise.
+
+The GR-75s used by the Alliance are often equipped with upgraded weaponry, shields, and engines. Internal systems are often rearranged, giving each Gallofree a unique floor plan depending on its specific function. Most often, the GR-75 is utilized to move troops and material. Others are modified to serve as hospital ships, landing craft, or salvage vessels. Regardless of its specific function, the GR-75 rarely looks different from the outside.
+
+#### GALLOFREE MEDIUM TRANSPORT
+
+Craft: Gallofree Yards Transport
+Type: Medium transport
+Scale: Capital
+Length: 90 meters
+Skill: Space transports: Gallofree Yards transport
+Crew: 6, gunners: 1, skeleton: 3/+10
+Crew Skill: Astrogation 4D, space transports 4D, starship gunnery 3D+1, starship shields 3D
+Cargo Capacity: 19,000 metric tons
+Consumables: 6 months
+Cost: 350,000 (new), 125,000 (used)
+Hyperdrive Multiplier: x4
+Space: 2
+Atmosphere: 225; 650 kmh
+Hull: 2D
+Shields: 1D
+Sensors:
+
+Passive: 10/0D
+Scan: 25/1D
+Search: 40/2D
+Focus: 2/3D
+Weapons:
+
+4 Twin Laser Cannons (fire-linked)
+
+Fire Arc: Turret
+Crew: 1
+Scale: Starfighter
+Skill: Starship gunnery
+Fire Control: 1D
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km Damage: 4D
+
+### Guardian-Class Light Cruiser
+
+A customs and inspection vessel designed by Sienar Fleet Systems, the Guardian-class light cruiser is a fast and durable ship capable of patrolling remote systems without the need for backup or support. The Guardian-class light cruiser was designed to be relatively autonomous, though of course it was not expected to fend off large-scale assaults. For the most part, the Guardian-class light cruiser handles smuggler and pirate traffic in remote systems, acting as both a command post and enforcement vessel. Though considered a light cruiser, the ship is actually just a heavily armed space transport designed to let small crews patrol
+
+[Página impressa 446 | PDF 448]
+
+a star system with few amenities. Despite the fact that the ship has a hyperdrive, the Empire typically limits the Guardian-class light cruiser to missions within a single star system. Any exercises that would normally force a Guardian-class light cruiser away from its home system usually warrant the assistance of larger ships, typically corvettes or smaller frigates.
+
+#### GUARDIAN LIGHT CRUISER
+
+Craft: Sienar Fleet Systems Guardian-class light cruiser
+Type: Inter-system customs vessel
+Scale: Starfighter
+Length: 42 meters
+Skill: Space transports: Guardian cruiser
+Crew: 16 (3 can coordinate), gunners: 4, skeleton: 8/+10
+Crew Skill: Space transports 5D, starship gunnery 5D+2, starship shields 5D+1
+Passengers: 6 (prisoners in brig)
+Cargo Capacity: 200 metric tons
+Consumables: 3 months
+Cost: Not available for sale
+Hyperdrive Multiplier: x1
+Hyperdrive Backup: x10
+Nav Computer: Yes
+Maneuverability: 1D
+Space: 9
+Atmosphere: 400; 1,150 kmh
+Hull: 5D
+Shields: 2D
+Sensors:
+
+Passive: 30/1D
+Scan: 60/2D
+Search: 90/4D
+Focus: 4/4D+1
+Weapons:
+
+4 Laser Cannons
+
+Fire Arc: 2 front, 2 turret
+Crew: 1
+Skill: Starship gunnery
+Fire Control: 2D+2
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km Damage: 5D
+
+### YT-Series Transports
+
+The YT series is a popular line of light freighters built by the Corellian Engineering Corporation that includes the YT-1300, the model of vessel that includes the Millennium Falcon. The first YT freighters were built during the height of the Old Republic, and new models continue to be produced in every era since. The core design of the YT series is built around two basic components — a disc-shaped main body and a large external cockpit area with extensive windows. Although some models moved away from these core design elements, they would return in later designs. Indeed, CEC made a point of reusing as many of the same parts as possible between designs, which had the advantage of allowing many different YT lines to be produced at
+
+one time without retooling the CEC shipyards. As a side effect, this helped make all YT ships extremely modular and easily modified, a fact that went far to explain the line’s ongoing popularity with independent traders, smugglers, and pirates.
+
+By far the most successful YT designers are the YT-1300, YT- 2000, and YT-2400. However, all YT ships have at least small dedicated followings and in some cases are the subject of collector’s clubs and vintage ship shows. Further, because the YT ships are so easily modified, it’s not always easily to tell what stock ship is at the core of a particular customized YT vessel.
+
+All YT-series ships are solid light freighters, renowned for being sturdy and reliable. Their greatest asset is their easily modified nature. With less effort than for nearly any other ship line, a YT-series vessel can be fine-tuned to act as a smuggler, bulk hauler, luxury transport, or even a gunship or patrol craft. Every YT-series ship has 10 unused emplacement points as a stock ship (these emplacements may be used to add external add-ons), and new captains are quick to use them to add more guns, better shields, or whatever else their minds can conjure up. This adaptability is intentional, and has often led to authorities claiming that CC designs the ships for use by smugglers and pirates. The CC points out that thousands of YT ships are being used by law-abiding free traders and small companies. Of course, how many of those “law-abiding” customers are actually smugglers or spies is unknown and, more important, not provable in court.
+
+YT-1300. Perhaps the most adaptable light cargo transport in the galaxy, the YT-1300 design is built on a modular design to suit the needs of a wide variety of clients, many of whom aren’t Human, let alone bipedal. The YT-1300 is an excellent all-purpose cargo transport, with powerful engines and a sturdy hull. The Corellian Engineering Corporation was quick to realize that it had a winner on its hands and made almost as many credits selling conversion kits as it did selling the transports themselves.
+
+#### YT-1300 TRANSPORT
+
+Craft: Corellian Engineering Corp. YT-1300 Transport
+Scale: Starfighter
+Length: 26.7 meters
+Skill: Space transports: YT-1300
+Crew: 1 (1 can coordinate), gunners: 1
+Crew Skill: Varies widely
+Passengers: 6; 9 (YT-1300p); None (YT-1300f)
+Cargo Capacity: 100 metric tons; 50 (YT-1300p); 150 (YT-1300f) Consumables: 2 months
+Cost: 100,000 (new), 25,000 (used)
+
+[Página impressa 447 | PDF 449]
+
+Hyperdrive Multiplier: x2
+Hyperdrive Backup: x12
+Nav Computer: Yes
+Maneuverability: 1D
+Space: 4
+Atmosphere: 480; 800 kmh
+Hull: 4D
+Sensors:
+
+Passive: 10/0D
+Scan: 25/1D
+Search: 40/2D
+Focus: 2/3D
+Weapons:
+
+Double Laser Cannons
+
+Fire Arc: Turret
+Crew: 1
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km Damage: 3D+1
+
+YT-2000. The YT-2000 was designed to be a straight improvement of the YT-1300, borrowing successful concepts from other YT designs as well (such as the YT-1930’s symmetrical layout). Because it was produced in a more turbulent era, the YT-2000 boasted heavier standard shields and weapons than most civilian freighters, a fact that caused many Imperial officials to view its “civilian” market with suspicion. Extensive corporate espionage leaked the early design specifications to competing shipyards, leading to CC putting the YT-2000 into production before all its potential drawbacks had been worked out. As a result, the ship is somewhat touchier than most of the extremely reliable YT designs (a character making a space transport repair check to modify or repair a YT-2000 takes a −2 penalty). However, its extensive cargo capacity, good defenses, and amazing maneuverability for a ship its size, coupled with plenty of spare space and power to make custom modifications, catapulted the YT-2000 in popularity among its owners. The line was discontinued early not because of poor sales, but so CEC could push the new YT-2400 design, which had not been compromised by espionage or rushed design work.
+
+#### YT-2000 TRANSPORT
+
+Craft: Corellian Engineering Corp. YT-2000 Transport Type: Light Freighter
+Scale: Starfighter
+Length: 29 meters
+Skill: Space transports: YT-2000
+Crew: 1-4 (can coordinate)
+Passengers: 7
+Cargo Capacity: 115 metric tons
+
+Consumables: 3 months
+Cost: 150,000 (new), 45,000 (used Hyperdrive Multiplier: x2
+Hyperdrive Backup: x12
+Nav Computer: Yes
+Maneuverability: 1D+1
+Space: 4
+Atmosphere: 480; 800 kmh
+Hull: 4D
+Shields: 1D
+Sensors:
+
+Passive: 10/0D
+Scan: 25/1D
+Search: 40/2D
+Focus: 2/3D
+Weapons:
+
+Double Laser Cannons
+
+Fire Arc: Turret
+Crew: 1
+Skill: Starship gunnery
+Fire Control: 1D
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km Damage: 4D
+
+YT-2400. The YT-2400 is CEC’s bid to produce a “perfect” light freighter. An upgrade of the YT-2000 design, it incorporates everything learned during the run of the long and successful YT line. Though it uses many of the same technology upgrades as the short-run YT-2000, the YT-2400 returned to the off-center cockpit arrangement. Though for both smaller and larger craft a center-mounted cockpit makes sense, it turned out that many pilots preferred an offset cockpit so they could easily dock their ships with the cockpit side directly against a wall or similar obstruction.
+
+Though the YT-2400 isn’t as sturdy as the YT-2000, it has thirty percent more cargo capacity, an escape pod built into the cockpit section, and better maneuverability. Since most owners end up adding additional weapons and defenses after purchase anyway, the slightly reduced martial capability of the YT-2400 does little to discourage sales.
+
+#### YT-2400 TRANSPORT
+
+Craft: Corellian YT-2400 Transport Type: Stock light freighter
+Scale: Starfighter
+Length: 21 meters
+Skill: Space transports: YT-2400 Crew: 2, gunners: 1, skeleton: 1/+10 Crew Skill: Varies widely
+Passengers: 6
+Cargo Capacity: 150 metric tons Consumables: 2 months
+Cost: 130,000 (new), 32,000 (used) Hyperdrive Multiplier: x2
+Hyperdrive Backup: x12
+Nav Computer: Yes
+Maneuverability: 1D+2
+Space: 4
+Atmosphere: 480; 800 kmh
+Hull: 3D
+Shields: 2D
+Sensors:
+
+Passive: 10/0D
+Scan: 25/1D
+Search: 40/2D
+Focus: 2/3D
+
+[Página impressa 448 | PDF 450]
+
+Weapons:
+
+Double Laser Cannons
+
+Fire Arc: Turret
+Crew: 1
+Skill: Starship gunnery
+Fire Control: 2D
+Space Range: 1-3/12/25
+Atmosphere Range: 100-300/1.2/2.5 km Damage: 4D
+
+# REPLACEMENT SYSTEMS
+
+In time, the characters may decide to completely replace a starship’s systems. After they’ve spent enough time patching together that modified hyperdrive, they may decide to get rid of it and upgrade to a more modern hyperdrive system. What follows are some possible replacement systems they may wish to install aboard their starships.
+
+Note that these parts are designed to be used in a freighter or space transport type vessel. Capital ships will rarely have modified components. If they do, they are likely custom-built by the ships engineer, corporation, or government which operates the vessel. Starfighters generally operate at the envelope of their capabilities already. It is very difficult to find the space, available power, and integrate new systems into a compact starfighter. Thus, modifications — beyond a few tweaks — are rare among starfighters
+
+### Weight and Cargo Space
+
+All the replacement systems weigh something, and that weight is subtracted from the amount of cargo the ship can carry. As the ship is refitted, players must keep track of how much cargo capacity remains. This will dramatically affect how profitable each run can be: ships with high cargo capacity can carry a lot more and make a lot more money. On the other hand, these ships are probably slow and/or lightly armed and armored, with all the risks that entails.
+
+During the campaign, when replacing one device with a new one, adjust the ship’s cargo capacity accordingly (subtract the weight of the first device and then add the weight of the second).
+
+## REPLACEMENT DRIVES
+
+The following is a selection of some of the possible replacement drives that starship (generally space transports) captains can select.
+
+#### STARSCREAM-9 ION DRIVE
+
+Model: Sienar Fleet Systems’ Starscream-9 Ion Drive
+Type: Military ion engine
+Cost: 500,000 credits plus installation costs
+Weight: 24 metric tons
+Availability: X
+Game Notes: The Starscream-9 is a military ion drive, originally designed for use in starfighters. They are available (for monstrous costs) on the black market.
+
+They have a Space rating of 12 (atmosphere of 450; 1,300 kmh). Possession of such a drive is a serious infraction in Imperial space. Because of the cutting edge technology in this drive, double all difficulties for modifying this drive and double all modifiers when rolling for mishaps.
+
+#### SOROSUUB BOAV ION DRIVE
+
+Model: SoroSuub Boav Ion Drive
+Type: Commercial propulsion system
+Cost: 10,000 plus installation costs
+Weight: 10 metric tons
+Availability: 2
+Game Notes: Space rating of 4. Technicians installing a Boav unit will face an increase of one difficulty level in their space transports repair roll.
+
+#### INCOM STARSLINGER ION DRIVE
+
+Model: Incom Starslinger Ion Drive
+Type: Commercial propulsion system
+Cost: 20,000 plus installation costs
+Weight: 12 metric tons
+Availability: F
+Game Notes: Space rating of 6. Requires a 500 credits Imperial permit. Double all difficulties for modifying this drive and double all modifiers when rolling for mishaps beyond a +1 modification.
+
+#### CORELLIAN EVADER-GT ION DRIVE
+
+Model: Corellian Evader-GT Ion Drive
+Type: Commercial propulsion system
+Cost: 50,000 plus installation costs
+Weight: 16 metric tons
+Availability: F
+Game Notes: The Evader-GT Ion Drive is a scaled-down version of a military ion drive. They are available on the open market, but require a 5,000 credit Imperial permit to legally possess. They give a vessel a Space rating of 8. Double all difficulties for modifying this drive and double ail modifiers when rolling for mishaps beyond a +1 modification.
+
+#### BOSHAA-C’HI ION DRIVE
+
+Model: Kuat Drive Yards’ Boshaa-C’hi Ion Drive
+Type: Military ion engine
+Cost: 100,000 plus installation costs
+Weight: 18 metric tons
+Availability: X
+Game Notes: The Boshaa is an older model of a military ion drive. originally designed for use in starfighters. They are available on the black market. They give a vessel a Space rating of 10. Possession of such a drive is a serious infraction in Imperial space. Double ail difficulties for modifying this drive and double all modifiers when rolling for mishaps.
+
+[Página impressa 449 | PDF 451]
+
+## OUR WORRIES ARE OVER...
+
+When characters install replacement systems, they’ll probably breathe a sigh of relief (especially if they’re used to modified systems giving them problems). And, in general, they’ll have nothing to worry about.
+
+But... Technology isn’t perfect. And there is always the chance that when a new system is put into a ship, maybe the mechanics didn’t quite get everything right. Or the characters bought a faulty system. Machines break, computers have glitches, and parts from one manufacturer (or model line) may not be compatible with parts from another. As a gamemaster, don’t rely on this possibility to make your adventures more interesting, but don’t neglect it either.
+
+#### BAFFLED DRIVE
+
+Model: Rendili StarDrive WhisperThrust
+Type: Baffled realspace drive
+Scale: Starfighter
+Cost: 100,000 minimum on the black market
+Weight: 20 metric tons; extra tank: 2 metric tons
+Availability: 4, X
+Game Notes: The Whisper is a highly illegal baffled realspace drive used on stealthy military starships. The Whisper allows a ship to move in space while running silent at a base speed of 2. Cautious movement is no more detectable than drifting; Cruise movement adds +5 to the sensor operator’s roll; High Speed adds +10; All-Out movement adds +15. A WhisperThrust engine has a limited storage capacity for the necessary gases to move: enough to move 100 spacial units. An extra or replacement tank costs 7,000 credits. Synthesizing the necessary fuel requires 120 liters of spin-sealed tibanna gas and 2 kilos of high-grade hyperbarides and a standard power generator. The fuel refining process takes roughly three standard days.
+
+## REPLACEMENT HYPERDRIVES
+
+There are many different brands and types of hyperdrives that characters can choose to install in their vessels. Here are some examples.
+
+In game terms, the differences between hyperdrives are the hyperdrive multipliers, and their compatibility; any hyperdrive can be installed in any freighter with the room for the upgrade, but depending on brand and type, it may be more difficult to install.
+
+It is possible to remove the back-up hyperdrive from a space transport and sell it, thereby gaining additional cargo capacity and a bit of extra cash (however, any hyperdrive with a multiplier of ×5 or more isn’t worth that much). Of course, the passengers and crew of the freighter are in a very bad situation if the main drive conks out in transit...
+
+### ×1/2 Hyperdrives
+
+This type of drive is not commercially available for freighters — they must be custom built (and are extremely prone to failure). Some stolen models cost as much as 90,000 credits on the black market — if they can be found at all. These hyperdrives are very illegal.
+
+The installation cost is around 15,000 credits, with the average unit weighing in around 20 tons. A typical custom hyperdrive job can cost between 50,000 and 90,000 credits, depending on the quality of the parts, the cost of the hyperdrive being modified, and the quality of work. Finding a mechanic who’s willing to build such a drive is another matter entirely.
+
+### ×1 Hyperdrives
+
+This level of hyperdrive is probably the fastest type of star drive that the average ship will have, unless the owner is fortunate enough to locate a military hyperdrive (and can afford the enormous cost of installing it). They are legal, but customs officials will probably make life difficult on anyone with a ship that fast (“Why do you need something that fast... if I didn’t know better, I’d say you were probably a smuggler...”).
+
+Operating a vessel rated for this speed without the proper documentation (and the 5,000 credit permit) is punishable under law, and penalties include stiff fines and possible suspension of the operator’s flight license.
+
+#### ×1 HYPERDRIVE
+
+Model: SoroSuub Griffyn-XTG Lightspeed Unit
+Type: Commercial hyperdrive
+Cost: 15,000 plus installation costs
+Weight: 18 metric tons
+Availability: F
+Game Notes: Any non-SoroSuub vessels attempting to install this type of drive suffer an increase of one difficulty level during the attempt.
+
+### ×2 Hyperdrives
+
+This is arguably the most common speed hyperdrive found aboard starships. It is reliable, cheap (comparative1y)and is fast enough to get a ship from point A to point B within a reasonable time.
+
+#### ×2 HYPERDRIVE
+
+Model: Corellian Avatar-10
+Type: Commercial propulsion system
+Cost: 10,000 plus installation costs
+Weight: 15 metric tons
+Availability: 2
+Game Notes: Space transports repair rolls to install an Avatar-10 receive a +1D bonus.
+
+[Página impressa 450 | PDF 452]
+
+### ×3, ×4, and ×5 Hyperdrives
+
+At this level, the costs for hyperdrives decrease drastically; generally. those who can afford it use this class of drive for a backup rather than a main drive. Any ship that relies on a ×3 or slower hyperdrive for main propulsion is risking great delays in traveling their shipping routes.
+
+#### ×3 HYPERDRIVE
+
+Model: Incom Horizon-Hopper Light Stardrive Type: Commercial propulsion system
+Cost: 7,000 plus installation costs
+Weight: 12 metric tons
+Availability: 2
+
+#### ×4 HYPERDRIVE
+
+Model: Rendili StarDrive’s ATX-5 Type: Commercial propulsion system Cost: 4,000 plus installation costs Weight: 10 metric tons
+Availability: 1
+
+#### ×5 HYPERDRIVE
+
+Model: Sienar Fleet Systems Lifesaver 1000 Reserve Hyperdrive
+Type: Commercial propulsion system
+Cost: 2,500 plus installation costs
+Weight: 8 metric tons
+Availability: 1
+Game Notes: The Lifesaver 100 is only recommended as a backup hyperdrive and must be overhauled after each use.
+
+## SHIELDS
+
+Shields are essential to protect your ship’s integrity in a fight. The shields listed below combine the powers of both particle and ray/energy shields, and thus are equally effective against both lasers and missiles. Shields are almost impossible to improve beyond their initial strength.
+
+#### DEFLECTOR SHIELDS
+
+Model: Standard Deflector Shields Type: Particle & ray/energy shields Scale: Starfighter
+
+Shield Code | Cost | Weight (in tons)
+1D | 4,000 | 6
+2D | 10,000 | 8
+3D | 20,000 | 10
+
+## WEAPONRY
+
+Most of the weapons below require a fee and an Imperial or Republic permit to operate legally. The usual cost of the fee is 30 percent of the purchase price.
+
+To get a permit through normal channels, the player character must apply at an Imperial or Republic Space Control office. He makes an opposed con or bureaucracy roll, his skill against the damage code of the weapon (modified by local circumstances and the character’s clean record — or lack thereof).
+
+Success indicates that the captain has been granted permission to equip the ship with the indicated weapon type. A separate roll must be made for each weapon mounted on his ship. Bribery can, of course, modify the difficulty of acquiring the permit.
+
+Blaster cannon: A relatively weak blaster, usually mounted on lightly armed vessels.
+
+Laser cannon and heavy laser cannon: A stronger version of the blaster cannon.
+
+Turbolaser: A heavy ship-mounted laser, usually mounted only on larger ships. A turbolaser can fire only every other combat round (simply because it has been jury-rigged to ship). It is usually illegal to have a turbolaser mounted on a private vessel.
+
+Ion cannon: An ion cannon does not destroy an enemy vessel; rather it temporarily disables its electronics. Make a normal attack roll, but instead of inflicting damage, the opponent’s equipment is ionized.
+
+Proton torpedoes: A missile containing a proton-scattering energy warhead. Torpedoes have no appreciable weight.
+
+Concussion missiles: These missiles contain an armor-piercing warhead and a compact energy pack that detonates upon impact. Missiles have no appreciable weight.
+
+The “Weapon Summary” chart has some sample starship weapons.
+
+### Linked Weapons
+
+Most weapons are designed to be fired individually, from the captain’s or weapons officer’s station. Up to three identical weapons can be linked to fire at the same target simultaneously.
+
+## WEAPON SUMMARY
+
+Weapon
+
+Fire |  |  | Weight
+1D | 1D | 1,000 | 1
+2D | 2D | 1,500 | 2
+2D | 5D | 3,000 | 4
+3D | 7D | 9,000 | 5
+1D | 2D | 1,000 | 0.5
+2D | 3D | 1,500 | 1
+4D | 4D | 3,000 | 2
+2D | 9D | 2,500 | 2
+— | — | 800 | —
+1D | 8D | 3,500 | 3
+— | — | 500 | —
+
+Control
+Dam.**
+Cost
+
+(in tons) Taim & Bak Kd-3 Light Blaster Cannon
+Kuat Vonak Light Laser Cannon
+Arakyd Tomral Heavy Laser Cannon lncom W-34t Turbolaser*
+Comar f-2 Light Ion Cannon
+Comar f-4 Medium Ion Cannon
+Comar f-9 Heavy Ion Cannon
+Arakyd Hi-fex Proton Torpedo Launcher (includes 12-torpedo rack)
+Replacement Torpedo
+Arakyd Morne-3 Concussion Missile Launcher (includes 10-missile rack)
+Replacement Missile
+
+* This weapon is illegal.
+** Damage is starfighter-scale
+
+[Página impressa 451 | PDF 453]
+
+The computer linkage for this operation costs around 100 credits per weapon.
+
+For a weapon link to have any useful value, the weapons must have identical damage codes. Linking two weapons adds +1D to the damage code, while linking three weapons adds +2D to the damage code.
+
+Example: The owner of a tramp freighter wishes to link two light laser cannons, each with a damage code of 2D. By linking them together, their new damage is 3D. If he linked a third light laser cannon to the pair, the weapon’s new damage would be 4D.
+
+Similarly, if a weapon can be fired from two different locations, say, the weapon mount and the pilot’s station, the additional linkage costs 100 credits per weapon. This is considered a +1 modification on the mishap charts.
+
+## COMPUTERS AND SENSORS
+
+The necessity of sensor apparatus is obvious to most star-pilots; without proper navigational data, it is easy to wind up smashing into an asteroid, sun, other spaceship, and so on. Space may be big, but in a number of areas, space is extremely crowded.
+
+The various sensors listed below are all described earlier in this chapter. Note that many of the sensors below have no appreciable weight.
+
+Electro-Photo Receptors (EPR’s): 300 credits.
+
+Full Spectrum Transceivers (FST’s): 500 credits.
+
+Dedicated Energy Receptors (DER’s): 600 credits.
+
+Life-Form Indicators (LFl’s): 800 credits
+
+### Sensor Jammer
+
+A special signal generator that floods an area with static which blinds all sensors, but broadcasts the general location of the ship doing the jamming. Costs begin at 1,500 credits and the systems weigh at least 1 ton. They normally add to the difficulty to identify a ship, but make it easier to detect a ship (see the sensors rules).
+
+#### SENSOR JAMMING HARDWARE
+
+Model: Fabritech NightBlind 472
+Type: Sensor jamming device
+Cost: 4,000 credits plus installation costs Weight: I metric ton
+Availability: X
+Game Notes: +1D to identify, but −2D to detect.
+
+### Sensor Decoys
+
+A sensor decoy sends out electromagnetic and holo signals exactly identical to the ship. They can be ejected with a pre-programmed course and normally have a maximum sublight speed of 5. They are relatively effective at distance, but easily seen through when enemy sensors are set on focus mode. Sensor decoys can only be used once (their engines burn out after use).
+
+In game terms, sensor decoys are easily detectable. However, they add a die modifier (+1D, +2D, etc.) to the difficulty of the enemy sensor operator to determine which is the decoy and which is the real ship.
+
+#### SENSOR DECOYS
+
+Model: Corellian Trickster Decoys
+Type: Starship countermeasures system
+Cost: 2,000 credits plus installation costs
+Weight: 2 metric tons
+Availability: F
+Game Notes: Trickster Drones add +2D to the difficulty to determine which sensor reading is the ship and which is the decoy. Possession of this type of countermeasure requires official certification.
+
+### Cloaking Device
+
+To date, there is no working cloaking device known in Imperial space. The discovery of a working cloaking shield would be worth hundreds of millions of credits for the sentient lucky enough to find or construct one. Of course, for that kind of money, just about every major crimelord, smuggler, bounty hunter, government and scientist would kill to obtain it.
+
+## MISCELLANEOUS
+
+Equipping the cargo hold to hold an X-wing fighter, self-destruct mechanisms, space-mine ejectors, false beacons or transponders, detachable sections... there is always a chance that players will come up with modifications that have not been anticipated by the gamemaster. Gamemasters should decide the costs and the weight of such modifications, using the examples below as a guide. A simple rule of thumb: if it is technically complex, it costs a bundle.
+
+What follows are some unusual systems characters can purchase.
+
+### Fuel Converters
+
+Fuel converters allow the captain to avoid the expense of paying refueling or power cell replacement fees. Instead, the captain can buy certain materials (normally waste material) in bulk and put it into the fuel converter.
+
+[Página impressa 452 | PDF 454]
+
+### Solid Fuel Converter
+
+Converts virtually any matter into fuel cell power. A ship can refuel on bulky, low energy materials — oxygen, water, plastics, cellulose (wood), waste — or heavy metals and other high energy materials. The ship will be able to halve its “restocking” fee at starports, but the captain will have to personally arrange for fuel supplies elsewhere.
+
+Cost: 8,000 credits. Weight: 5 tons.
+
+### Scoops
+
+Some ships (scouts, especially) are equipped with scoops, allowing them to dip into a planet’s atmosphere or seas to steal natural resources with which to recharge their power cells.
+
+Cost: 15,000 credits. Weight: 15 tons.
+
+### Solar Converters
+
+Ships may also be equipped with solar converters: huge, molecule-thick solar-absorbent sails.
+
+In-system, these will recharge a ship’s systems in about 15 days, while out-system it takes about 60 days to fully recharge the ship’s power cells.
+
+Cost: 12,000 credits. Weight: 10 tons.
+
+### Tractor Beam
+
+A beam capable of pulling a smaller vessel closer to the freighter (if the freighter is smaller, it is drawn toward the other ship instead). See page Space Travel & Combat for details. Fire control is 2D, damage is 2D.
+
+Cost: 8,000 credits. Weight: 15 tons.
+
+### Secret Cargo Compartments
+
+Up to three people can fit in each ton of space in a secret compartment (secret compartments require a lot of space to even attempt to conceal).
+
+If more than 20 percent of a ship’s cargo space is taken up by secret compartments, customs officials are likely to become suspicious merely on grounds of simple mathematics: “You’re trying to tell me that a ship this size has capacity for only 60 tons of cargo? What kind of fool do you take me for, smuggler?”
+
+The cost for secret compartments depends upon how secret they are. There are three grades of compartments:
+
+Concealed. Requires a Difficult Perception/search roll to locate; a scanner will detect it immediately.
+
+Cost: 200 credits per ton of cargo to be hidden. Weight: 5 tons from cargo capacity for 1 ton of cargo space.
+
+Hidden. Requires a Very Difficult Perception/search roll to locate with the naked eye; a scanner will find it on a Moderate Perception/search roll.
+
+Cost: 400credits per ton of cargo to be hidden. Weight: 5 tons of cargo capacity for 1 ton of cargo space.
+
+Scanner Resistant. Requires a Very Difficult Perception/ search roll to locate, does not show up on scanners at all.
+
+Cost: 1,000 credits per ton of cargo to be hidden. Weight: 5 tons of cargo capacity for 1 ton of cargo space.
+
+### Automatic Cargo Jettisoning
+
+A wonderful way to avoid an official fine, as well as a quick way to get in trouble with your loan shark. This device will jettison whatever portion of your cargo you wish, whether it be in the secret compartment or in the main bay. Can be triggered by either a dead-man switch or by command from the ship’s computer.
+
+Cost: 1,000 credits. Weight: 1 ton.
+
+### Passenger Conversion
+
+To carry additional passengers, cargo hold space must be converted to passenger space.
+
+Cost: 400 credits per additional passenger capacity. Weight: 10 tons per person.
+
+A cheaper way to go is to put in a primitive life support system and have the passengers sleep on the floor. This costs 30 credits per person and weighs only one ton per person. It is, however, quite illegal.
+
+### Refrigeration Equipment
+
+Certain special cargoes require precise temperature control. Cost: 100 credits per ton converted. Weight: 1 ton per 20 tons converted.
+
+### Replacement Navigation Computer
+
+Cost: 2,000 credits.
+
+### Escape Equipment
+
+Enough escape pods for each crewmember and passenger on board a ship is required by Imperial law (military vessels are, of course, exempt from this rule). A standard freighter-sized escape pod seats eight passengers and has food and oxygen for two weeks.
+
+Cost: 1,200 credits. Weight: 5 tons.
+
+### Environmental Converters
+
+With this device installed, the captain is able to provide comfortable environs for many different species throughout the ship, or in one cabin or the cargo hold.
+
+Cost: 4,000 credits. Weight: 4 tons.

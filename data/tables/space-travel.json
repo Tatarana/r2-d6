@@ -1,0 +1,119 @@
+{
+  "id": "space-travel",
+  "source": { "chapter": 8, "pages": [120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130], "file": "raw-data/08-space-travel-combat.txt" },
+  "starship_categories": [
+    { "category": "Capital ship", "skill": "capital ship piloting", "summary": "Large combat vessels, typically over 100 m, large crews, shields and many weapon emplacements." },
+    { "category": "Starfighter", "skill": "starfighter piloting", "summary": "Small combat craft with a crew of one or two, almost no cargo, powerful weapons and fast sublight speed." },
+    { "category": "Space transport", "skill": "space transports", "summary": "Any starship not built for combat: scouts, freighters, shuttles, yachts, liners; many are refitted with weapons and shields." }
+  ],
+  "skill_attribute_note": "The text (p.120) says each piloting skill can fall back on the Technical attribute; the skills chapter lists these skills under Mechanical (see errata).",
+  "sublight_benchmarks": [
+    "5 minutes: orbit to a safe hyperspace jump point.",
+    "30 minutes: planet to one of its moons.",
+    "2 to 6 hours: planet to the nearest planet in the system.",
+    "10 to 48 hours: star to the outer limits of a system (about 15 hours for a representative system).",
+    "A micro jump between planets takes about an hour and needs very precise coordinates."
+  ],
+  "hyperdrive": {
+    "multiplier": "Class rating; lower is faster. Trip time = route duration (for a x1 drive) x ship's multiplier. Class 0.5 halves it, class 2 doubles it. Most civilian ships x2 or worse, many military ships and starfighters x1, Millennium Falcon x0.5.",
+    "backup": "Many ships carry a slow backup drive (x10, x15 or more) to limp to a spaceport.",
+    "example": "Tatooine to Bespin 16 hours: x2 drive 32 hours; x1 16 hours; x0.5 8 hours.",
+    "hazards": "Contact with an object's hyperspace shadow destroys a ship; mass shadow sensors shut the drive down but are not fully reliable. Changing course in hyperspace is nearly suicidal.",
+    "source_pages": [121, 122]
+  },
+  "astrogation": {
+    "steps": ["Pick the astrogation difficulty.", "Make the calculations for the jump.", "Determine the trip's duration."],
+    "base_difficulty": "Most trips Moderate; easy trips can be Easy (Coruscant to Chandrila); perilous routes much higher (the Kessel Run needs at least five Very Difficult rolls).",
+    "verified_against": "PDF page 125 (the text export misaligns this table)",
+    "modifiers": [
+      { "situation": "No nav computer or astromech droid", "modifier": "+30" },
+      { "situation": "Hasty entry", "modifier": "x2 (doubles the difficulty)" },
+      { "situation": "Lightly damaged ship", "modifier": "+5" },
+      { "situation": "Heavily damaged ship", "modifier": "+10" },
+      { "situation": "Each extra hour taken on the journey", "modifier": "-1" },
+      { "situation": "Each hour saved on the journey", "modifier": "+1 (printed '1')" },
+      { "situation": "Obstacles", "modifier": "+1 to +30 or more" }
+    ],
+    "results": [
+      { "outcome": "Roll >= difficulty", "result": "The jump goes without a hitch." },
+      { "outcome": "Missed by 1-9", "result": "Astrogation mishap (table below)." },
+      { "outcome": "Missed by 10 or more", "result": "The ship cannot enter hyperspace; a new roll is needed." }
+    ],
+    "calculation_time": [
+      { "case": "Well-traveled route or precalculated coordinates", "time": "1 minute" },
+      { "case": "Emergency (hasty) jump", "time": "1 round; difficulty doubled; roll each round until success or a mishap" },
+      { "case": "Between known systems", "time": "about half an hour" },
+      { "case": "Never jumped to that system before", "time": "a few hours" },
+      { "case": "Position unknown after a misjump", "time": "1 day to fix position and compute coordinates" }
+    ],
+    "sample_durations": [
+      { "case": "Same sector", "time": "a few hours to a few days (1D)" },
+      { "case": "Same region, different sectors", "time": "several hours to several days (2D)" },
+      { "case": "Neighboring regions", "time": "several days to weeks (2D)" },
+      { "case": "Distant regions", "time": "several weeks to months (2D)" },
+      { "case": "Well-traveled route", "time": "reduce by half" },
+      { "case": "Many random hazards", "time": "add 1D of the base time unit" }
+    ],
+    "hyperdrive_start_up_optional": {
+      "rule": "Base time x the ship's hyperdrive multiplier; included in plotting time if the calculation is made in space.",
+      "base_time": [
+        { "class": "Starfighter", "time": "2 rounds (1 minute)" },
+        { "class": "Space transport", "time": "4 rounds (2 minutes)" },
+        { "class": "Capital (under 500 m)", "time": "10 rounds (5 minutes)" },
+        { "class": "Capital (500 m-1 km)", "time": "20 rounds (10 minutes)" },
+        { "class": "Capital (over 1 km)", "time": "30 rounds (15 minutes)" }
+      ]
+    },
+    "stopping_jumps": "Lightly damaged ship +5, heavily damaged +10, each controls ionized result from an ion cannon +5, a tractor beam adds its damage roll (with scale adjustment) to the difficulty; hasty jumps double the difficulty. All are cumulative.",
+    "source_pages": [123, 124, 125]
+  },
+  "astrogation_mishaps": {
+    "roll": "2D when the roll misses by 1-9",
+    "rows": [
+      { "roll": "2",     "name": "Hyperdrive cut-out and damaged", "effect": "Avoids a collision but damages the engines; a Moderate repair roll (capital ship repair, space transports repair or starfighter repair) fixes the main drive, otherwise use the backup drive." },
+      { "roll": "3-4",   "name": "Radiation fluctuations", "effect": "Journey time changes by +1D or -1D hours per point missed (miss by 3: up to 3D hours)." },
+      { "roll": "5-6",   "name": "Hyperdrive cut-out", "effect": "A mass shadow throws the ship into realspace; calculate a new route from there." },
+      { "roll": "7-8",   "name": "Off course", "effect": "Emerges in the wrong system; plot a new trip." },
+      { "roll": "9",     "name": "Mynocks", "effect": "Mynocks on the power cables; journey +1D days." },
+      { "roll": "10",    "name": "Close call", "effect": "Another system (sublight drives, nav computer, escape pods, weapons) is damaged; the journey completes but repairs are needed on arrival." },
+      { "roll": "11-12", "name": "Collision, heavy damage", "effect": "The ship drops to realspace heavily damaged with a ruptured hull and must be abandoned. Characters in the ruptured area need a Moderate survival total to reach survival suits in one round; otherwise a stamina check each round (Easy, Moderate, Difficult, Very Difficult, Heroic, Heroic +10...) to avoid passing out." }
+    ],
+    "source_page": 124
+  },
+  "sensors": {
+    "skill": "sensors",
+    "difficulty": "Based on range to the target, modified by anything that affects readings (a ship in open space is easy; one hiding in an asteroid belt is hard). Details in the skills chapter.",
+    "modes": [
+      { "mode": "passive", "description": "Only receives information about the ship's immediate vicinity." },
+      { "mode": "scan", "description": "Pulses in all directions; longer range and higher dice than passive." },
+      { "mode": "search", "description": "One fire arc only (front, left, right or back); greater range and dice than scan, no information on the other arcs." },
+      { "mode": "focus", "description": "A small area; the number is the radius in space units; maximum is the search range; no information elsewhere." }
+    ],
+    "listing_format": "Range in space units / dice added to the sensors skill, e.g. Passive 15/0D, Scan 25/1D, Search 40/2D, Focus 1/3D.",
+    "countermeasures": [
+      "Hide behind a planet or other large body (sensors are line of sight).",
+      "Set sensors to passive.",
+      "Run silent: power down engines, weapons and shields; usually no more than five minutes before life support must be cut.",
+      "Jam: flood an area with static (reveals that someone is jamming).",
+      "Sensor decoys, sensor masks (add dice to the difficulty to detect), false transponder codes."
+    ],
+    "source_pages": [126, 127]
+  },
+  "communications": "Only work in realspace. HoloNet transceivers (rare, military), hypertransceivers (military and large private ships), subspace transceivers (most ships; an X-wing's reaches 25 light years, up to 100+ with power; also for distress signals), comms (speed-of-light ship-to-ship and ship-to-planet), intercomms. Finding a signal without its frequency is very hard.",
+  "communications_page": 127,
+  "documents_and_costs": {
+    "operating_license": { "cost": 1000, "requires": "background check on the owner, brief inspection, transponder code verification" },
+    "captains_accredited_license": { "cost": 300, "expediter_fee": 200, "total_with_expediter": 500, "requires": "oral, written and flight tests, documented time in space, background check (BoSS often waives flight time and most testing for the expediter fee)" },
+    "arms_load_out_permit": { "cost_minimum": 250, "note": "One permit per weapon or boosted shield system; upgraded weapons need new permits; ships without one can be impounded." },
+    "source_pages": [128, 129]
+  },
+  "starport_costs": {
+    "docking_fee_per_day": "most standard class or larger: 50 credits per standard day; a busy Imperial/Republic class port up to 150",
+    "standard_restock_and_maintenance": "Automatic at standard class or better within about a day of landing, with fees charged unless declined.",
+    "restocking_fee": "base fee x total crew and passenger capacity x days of consumables renewed; base fee about 10 credits on busy routes, up to 35 at isolated ports",
+    "maintenance_overhaul": "After every 20 hyperspace jumps; about 1,000 credits on average, up to 5,000 for heavily modified or heavily used ships. Skipping it is up to the gamemaster (a complication on the Wild Die might cause a misjump or hyperdrive blow-out).",
+    "traffic_fines": "Deviating from an assigned approach course: 50 to 200 credits.",
+    "starport_types": ["Landing field", "Limited services", "Standard class", "Stellar class", "Imperial/Republic class"],
+    "source_pages": [129, 130]
+  }
+}

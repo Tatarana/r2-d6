@@ -1,0 +1,1257 @@
+{
+ "id": "skills",
+ "source": {
+  "chapter": 3,
+  "pages": [
+   32,
+   66
+  ],
+  "file": "raw-data/03-attributes-skills.txt",
+  "summary_table_page": 34
+ },
+ "notes": "Advanced skills have advanced=true and start at 1D (see rules/characters.md). time_taken_summary is from the summary table; time_taken from the skill section.",
+ "skills": [
+  {
+   "id": "acrobatics",
+   "name": "Acrobatics",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Type of acrobatics used, form or style — diving, trapeze, tumbling.",
+   "summary": "Characters with this skill can tumble, leap, and roll to avoid falling damage, to entertain an audience, or to surprise an opponent in combat.",
+   "page": 33,
+   "tags": [
+    "reaction"
+   ]
+  },
+  {
+   "id": "aquatic-vehicle-engineering-advanced",
+   "name": "Aquatic Vehicle Engineering",
+   "advanced": true,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "prerequisites_text": "Requires 4D in aquatic vehicle repair, and allows the design of various aquatic vehicles and aquatic vehicle systems.",
+   "page": 63
+  },
+  {
+   "id": "aquatic-vehicle-operation",
+   "name": "Aquatic Vehicle Operation",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Particular ship type or class — Oceanic transport, coastal runabout, skiff, sailboat.",
+   "summary": "This skill allows characters to pilot naval ships and boats.",
+   "page": 44
+  },
+  {
+   "id": "aquatic-vehicle-repair",
+   "name": "Aquatic Vehicle Repair",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "time_taken": "In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.",
+   "specializations": "Particular ship type or class — Oceanic transport, coastal runabout, skiff. sailboat.",
+   "summary": "This skill represents a character’s familiarity with the workings of aquatic vehicles, and his ability to repair and modify them.",
+   "page": 59
+  },
+  {
+   "id": "archaic-guns",
+   "name": "Archaic Guns",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Indicates a specific kind or model of archaic gun — black powder pistol, matchlock, musket, wheelock.",
+   "summary": "Archaic guns is a “ranged combat” skill used to fire any primitive gun, including black powder pistols, flintlocks and muskets.",
+   "page": 35,
+   "tags": [
+    "ranged-combat"
+   ]
+  },
+  {
+   "id": "archaic-starship-piloting",
+   "name": "Archaic Starship Piloting",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Particular ship type or class — Delaya-class, Coruscant-class heavy courier.",
+   "summary": "This skill allows characters to pilot primitive starships and other basic archaic ship designs.",
+   "page": 44
+  },
+  {
+   "id": "armor-engineering-advanced",
+   "name": "Armor Engineering",
+   "advanced": true,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "prerequisites_text": "Requires 4D in armor repair. Allows the design of various types of personal armor",
+   "page": 63
+  },
+  {
+   "id": "armor-repair",
+   "name": "Armor Repair",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "time_taken": "In general, 15 minutes, then one hour, then two hours. May be customized to circumstances.",
+   "specializations": "Armor Type — Stormtrooper armor.",
+   "summary": "Armor repair reflects the character’s ability to fix and modify armor that has been damaged.",
+   "page": 60
+  },
+  {
+   "id": "alien-species",
+   "name": "Alien Species",
+   "advanced": false,
+   "attribute": "knowledge",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Knowledge of a particular alien species — Wookiees, Gamorreans, Ewoks, Sullustans.",
+   "summary": "Alien species involves knowledge of any species outside of the character’s.",
+   "page": 38
+  },
+  {
+   "id": "artillery",
+   "name": "Artillery",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "The particular type or model of projectile artillery — cannons, Golan Arms M102 Fire Arc.",
+   "summary": "Artillery is the “ranged combat” skill used to fire all non-energy projectile weapons, such as cannons and field guns (excluding self-propelled projectiles or launched grenades, which are covered under missile weapons).",
+   "page": 35,
+   "tags": [
+    "ranged-combat"
+   ]
+  },
+  {
+   "id": "astrogation",
+   "name": "Astrogation",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "various",
+   "time_taken": "One minute when your position is known and you are following a commonly-traveled jump route for which hyperspace coordinates have already been calculated (can be reduced to one round in emergencies). A few hours when your position is known, but your destination is one to which you have not traveled before and the nav computer must calculate coordinates. One day when you must take readings to determine your ship’s current position and then compute jump coordinates.",
+   "specializations": "Specific trade route — Kessel Run, Tatooine to Coruscant, Corellian Run Trade Route.",
+   "summary": "Starship pilots use astrogation to plot a course from one star system to another.",
+   "page": 44
+  },
+  {
+   "id": "bargain",
+   "name": "Bargain",
+   "advanced": false,
+   "attribute": "perception",
+   "time_taken_summary": "1min-1hr",
+   "time_taken": "One minute to an hour.",
+   "specializations": "Kind of merchandise to be purchased or sold — spice, weapons, droids, datapads.",
+   "summary": "Characters use this skill to haggle over prices for goods they want to purchase or sell.",
+   "page": 49
+  },
+  {
+   "id": "beast-riding",
+   "name": "Beast Riding",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Particular riding animal — banthas, Cracian thumpers, dewbacks, tauntauns.",
+   "summary": "Beast riding represents a character’s ability to ride any live mount.",
+   "page": 44
+  },
+  {
+   "id": "blaster",
+   "name": "Blaster",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "A specific type or model of character-scale blaster weapon — blaster pistol, heavy blaster pistol, blaster rifle, BlasTech DL-44, hold-out blaster.",
+   "summary": "Blaster is the “ranged combat” skill used to shoot blaster weapons that can be held and carried by a character.",
+   "page": 35,
+   "tags": [
+    "ranged-combat"
+   ]
+  },
+  {
+   "id": "blaster-artillery",
+   "name": "Blaster Artillery",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "The particular type or model of artillery — anti-infantry, anti-vehicle, Golan Arms DF.9, surface-to-space, surface-to-surface.",
+   "summary": "Blaster artillery is the “ranged combat” skill that covers all fixed, multi-crew heavy energy weapons, such as those used by the Rebel Alliance at the Battle of Hoth and the fixed ion cannons fired from a planet’s surface.",
+   "page": 35,
+   "tags": [
+    "ranged-combat"
+   ]
+  },
+  {
+   "id": "blaster-repair",
+   "name": "Blaster Repair",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "time_taken": "In general, 15 minutes, then one hour, then two hours. May be customized to circumstances.",
+   "specializations": "Type or model blaster — blaster pistols, surface-to-surface blaster artillery, heavy blaster cannon.",
+   "summary": "A character’s ability to fix and modify blaster weapons (character-, speeder- and walker-scale) is represented by his blaster repair skill.",
+   "page": 60
+  },
+  {
+   "id": "bowcaster",
+   "name": "Bowcaster",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": null,
+   "summary": "Bowcaster is a “ranged combat” skill that reflects the user’s proficiency at firing the unusual Wookiee bowcaster.",
+   "page": 35,
+   "tags": [
+    "ranged-combat"
+   ]
+  },
+  {
+   "id": "bows",
+   "name": "Bows",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Specific type or model bow — crossbow, long bow, short bow.",
+   "summary": "Bows is a “ranged combat” skill covering all bow-type weapons, including short bows, long bows and crossbows (excluding Wookiee bowcasters, which fall under the bowcaster skill).",
+   "page": 35,
+   "tags": [
+    "ranged-combat"
+   ]
+  },
+  {
+   "id": "brawling",
+   "name": "Brawling",
+   "advanced": false,
+   "attribute": "strength",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Specific brawling style — boxing, martial arts.",
+   "summary": "Brawling is the “melee combat” skill used for fighting hand-to-hand without any weapons.",
+   "page": 54,
+   "tags": [
+    "melee-combat"
+   ]
+  },
+  {
+   "id": "brawling-parry",
+   "name": "Brawling Parry",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Style of brawling being parried when unarmed and avoiding a brawling or melee attack — boxing, martial arts.",
+   "summary": "Brawling parry is a “reaction skill” used to avoid being hit by a brawling or melee combat attack if you’re unarmed.",
+   "page": 36,
+   "tags": [
+    "reaction"
+   ]
+  },
+  {
+   "id": "bureaucracy",
+   "name": "Bureaucracy",
+   "advanced": false,
+   "attribute": "knowledge",
+   "time_taken_summary": "1rnd-days",
+   "time_taken": "One round to several days.",
+   "specializations": "Specific planetary or administrative government, or branch within it — Tatooine, Celanon, Bureau of Commerce, Bureau of Ships and Services.",
+   "summary": "This skill reflects a character’s familiarity with bureaucracies and their procedures.",
+   "page": 38
+  },
+  {
+   "id": "business",
+   "name": "Business",
+   "advanced": false,
+   "attribute": "knowledge",
+   "time_taken_summary": "1rnd-days",
+   "time_taken": "One round to one day or longer.",
+   "specializations": "Field or organization (company, conglomerate, trade guild) — starships, weapons, droids, Sienar Fleet Systems, Corporate Sector Authority, Golan Arms.",
+   "summary": "The character has a working knowledge of businesses and business procedures.",
+   "page": 38
+  },
+  {
+   "id": "capital-ship-engineering-advanced",
+   "name": "Capital Ship Engineering",
+   "advanced": true,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "prerequisites_text": "Requires 5D in capital ship repair, 4D capital ship weapon repair, and 2D computer programming/repair. It is possible to take this skill without the required die codes in capital ship weapon repair and computer programming/repair, but the bonus effects from engineering would not apply to those areas. This skill allows the design of various capital ships, and capital ship systems.",
+   "page": 63
+  },
+  {
+   "id": "capital-ship-gunnery",
+   "name": "Capital Ship Gunnery",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Weapon type or model — concussion missiles, gravity well projectors, ion cannons, laser cannons, proton torpedoes, tractor beams, turbolasers.",
+   "summary": "Capital ship gunnery is the “ranged combat” skill that covers the operation of capital-scale starship weapons, including turbolasers, ion cannons and tractor beams.",
+   "page": 44,
+   "tags": [
+    "ranged-combat"
+   ]
+  },
+  {
+   "id": "capital-ship-piloting",
+   "name": "Capital Ship Piloting",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Type or class of capital ship — Imperial Star Destroyer, Victory Star Destroyer, Nebulon-B frigate, Trade Federation Battleship.",
+   "summary": "Capital ship piloting covers the operation of large combat starships such as Imperial Star Destroyers, Carrack-class cruisers, Corellian Corvettes and Mon Cal cruisers.",
+   "page": 45
+  },
+  {
+   "id": "capital-ship-repair",
+   "name": "Capital Ship Repair",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "time_taken": "In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.",
+   "specializations": "Type or class of capital ship — Imperial Star Destroyer, Victory Star Destroyer, Nebulon-B frigate.",
+   "summary": "This skill represents a character’s familiarity with the workings of capital ships, and his ability to repair them.",
+   "page": 60
+  },
+  {
+   "id": "capital-ship-shields",
+   "name": "Capital Ship Shields",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": null,
+   "summary": "Characters use this skill when operating shields on capital-scale starships, both military and civilian.",
+   "page": 45
+  },
+  {
+   "id": "capital-ship-weapon-repair",
+   "name": "Capital Ship Weapon Repair",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "time_taken": "In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.",
+   "specializations": "Weapon type or model — concussion missiles, gravity well projectors, ion cannons, laser cannon, proton torpedoes, tractor beams, turbolaser.",
+   "summary": "Capital ship weapon repair is used to repair capital -scale ship weapons.",
+   "page": 60
+  },
+  {
+   "id": "civil-industrial-engineering-advanced",
+   "name": "Civil/Industrial Engineering",
+   "advanced": true,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "prerequisites_text": "Requires 1D in bureaucracy, 2D business, 3D demolitions, 1D law enforcement, and 2D in any two repair skills. This is a skill that relates to the building, maintenance, and modification of settlements, civic projects, businesses, and factories.",
+   "page": 63
+  },
+  {
+   "id": "climbing-jumping",
+   "name": "Climbing/Jumping",
+   "advanced": false,
+   "attribute": "strength",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Climbing, jumping.",
+   "summary": "Use this skill when a character attempts to climb a tree, wall or cliff, leap a wide gap, or jump up and grab an outcropping.",
+   "page": 54
+  },
+  {
+   "id": "command",
+   "name": "Command",
+   "advanced": false,
+   "attribute": "perception",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Leader’s unit — Rogue Squadron, Imperial stormtroopers.",
+   "summary": "Command is a measure of a character’s ability to convince gamemaster characters and subordinates to do what they’re told.",
+   "page": 50
+  },
+  {
+   "id": "communications",
+   "name": "Communications",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Type or model of communications unit — comlink, subspace radio.",
+   "summary": "Communications represents a character’s ability to use subspace radios, comlinks and other communications systems.",
+   "page": 45
+  },
+  {
+   "id": "computer-engineering-advanced",
+   "name": "Computer Engineering",
+   "advanced": true,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "prerequisites_text": "Requires 5D in computer programming/repair. This skill allows the design and construction of various computers, computer software, and complex computer networks.",
+   "page": 63
+  },
+  {
+   "id": "computer-programming-repair",
+   "name": "Computer Programming/Repair",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "1rnd-days",
+   "time_taken": "One round to several minutes, hours or days.",
+   "specializations": "Type or model computer — portable computer, mainframe, datapad, YT1300- computer.",
+   "summary": "Characters use this skill to repair, modify, and program computers — it also covers a character’s familiarity with computer security procedures, his ability to evade them, and the ability to get secure information.",
+   "page": 60
+  },
+  {
+   "id": "con",
+   "name": "Con",
+   "advanced": false,
+   "attribute": "perception",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One combat round to several minutes, depending upon how long it takes the character to say what is needed to pull off the con.",
+   "specializations": "Particular method of conning — disguise, fast-talk.",
+   "summary": "Con is used to trick and deceive characters, or otherwise convince them to do something that isn’t in their best interest.",
+   "page": 51
+  },
+  {
+   "id": "cultures",
+   "name": "Cultures",
+   "advanced": false,
+   "attribute": "knowledge",
+   "time_taken_summary": "1rnd-days",
+   "time_taken": "One round to one day or longer.",
+   "specializations": "Planet or social group — Corellians, Alderaan royal family, Brentaal, Prexian pirates.",
+   "summary": "This skill reflects knowledge of particular cultures and common cultural forms (primitive tribal civilizations tend to be somewhat similar, for example).",
+   "page": 39
+  },
+  {
+   "id": "demolitions",
+   "name": "Demolitions",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "1rnd-mins",
+   "time_taken": "One round to several minutes.",
+   "specializations": "Specific target type — bridges, walls, vehicles.",
+   "summary": "Demolitions reflects a character’s ability to set explosives for both destructive purposes and to accomplish specific special effects.",
+   "page": 61
+  },
+  {
+   "id": "dodge",
+   "name": "Dodge",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Kind of ranged attack to be dodged — energy weapons, grenades, missile weapons.",
+   "summary": "Dodge is a “reaction skill” used to avoid any ranged attack, including blaster fire, grenades, bullets and arrows.",
+   "page": 36,
+   "tags": [
+    "reaction"
+   ]
+  },
+  {
+   "id": "droid-engineering-advanced",
+   "name": "Droid Engineering",
+   "advanced": true,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "prerequisites_text": "Requires Requires 5D in droid repair or 5D in droid programming. This skill allows the design and construction of droids, See the “Droids” chapter for rules pertaining to the use of this skill.",
+   "page": 63
+  },
+  {
+   "id": "droid-programming",
+   "name": "Droid Programming",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "time_taken": "15 minutes to several hours or days.",
+   "specializations": "Type or model droid — astromech droid, protocol droid, probe droid.",
+   "summary": "Characters may use this skill to program a droid to learn a new skill or task.",
+   "page": 61
+  },
+  {
+   "id": "droid-repair",
+   "name": "Droid Repair",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "time_taken": "15 minutes, then one hour, then two hours; may be several hours or days depending upon the level of repair.",
+   "specializations": "Type or model droid — astromech droid, protocol droid, probe droid.",
+   "summary": "This skill represents a character’s talent to repair, modify, and maintain droids.",
+   "page": 62
+  },
+  {
+   "id": "equipment-engineering-advanced",
+   "name": "Equipment Engineering",
+   "advanced": true,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "prerequisites_text": "Requires 5D in equipment repair. This skill allows for the design and construction of various small equipment items and non-blaster weapons (e.g. vibroblades, breath masks, slugthrowers, comlinks).",
+   "page": 63
+  },
+  {
+   "id": "equipment-repair",
+   "name": "Equipment Repair",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "time_taken": "In general, 15 minutes, then one hour, then two hours. May be customized to circumstances.",
+   "specializations": "Type or model equipment — breath mask, comlink, slugthrower, vibroblade.",
+   "summary": "A character’s ability to fix and modify various character-, speeder-, and walker-scale equipment items (including non-blaster, and non-energy beam weapons).",
+   "page": 63
+  },
+  {
+   "id": "firearms",
+   "name": "Firearms",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Type or model firearm used — pistols, rifles, machineguns.",
+   "summary": "Firearms is the “ranged combat” skill used to for all guns which fire bullets, including pistols, rifles, machine guns, assault rifles and any other firearms.",
+   "page": 36,
+   "tags": [
+    "ranged-combat"
+   ]
+  },
+  {
+   "id": "first-aid",
+   "name": "First Aid",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One combat round.",
+   "specializations": "Species of patient — humans, Ewoks, Wookiees.",
+   "summary": "First aid reflects a character’s ability to perform emergency life saving procedures in the field.",
+   "page": 63
+  },
+  {
+   "id": "flamethrower",
+   "name": "Flamethrower",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Type or model flamethrower — Merr- Sonn C-22, Wrist-Mounted Flame Projectors.",
+   "summary": "Flamethrower is the “ranged combat” skill used to fire all types of flame projectors, including flame rifles, wrist mounted flame projectors, and flame carbines.",
+   "page": 36,
+   "tags": [
+    "ranged-combat"
+   ]
+  },
+  {
+   "id": "forgery",
+   "name": "Forgery",
+   "advanced": false,
+   "attribute": "perception",
+   "time_taken_summary": "1rnd-days",
+   "time_taken": "One round to several days.",
+   "specializations": "Specific kind of documentation to be forged — security codes, datapad scandocs, starship permits.",
+   "summary": "The character has the ability to falsify electronic documents to say what the character wishes.",
+   "page": 51
+  },
+  {
+   "id": "gambling",
+   "name": "Gambling",
+   "advanced": false,
+   "attribute": "perception",
+   "time_taken_summary": "1rnd-mins",
+   "time_taken": "One round to several minutes.",
+   "specializations": "Particular game of chance — sabacc, Trin sticks, warp-top.",
+   "summary": "Gambling reflects a character’s skill at various games of chance — it is used to increase his odds of winning.",
+   "page": 52
+  },
+  {
+   "id": "grenade",
+   "name": "Grenade",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Kind or model of grenade — thermal detonator, anti-vehicle grenade.",
+   "summary": "Grenade is the “ranged combat” skill to throw grenades.",
+   "page": 36,
+   "tags": [
+    "ranged-combat"
+   ]
+  },
+  {
+   "id": "ground-vehicle-engineering-advanced",
+   "name": "Ground Vehicle Engineering",
+   "advanced": true,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "prerequisites_text": "Requires 4D in ground vehicle repair. This skill allows the design of various vehicles and vehicle systems.",
+   "page": 63
+  },
+  {
+   "id": "ground-vehicle-operation",
+   "name": "Ground Vehicle Operation",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Type or model ground vehicle — compact assault vehicle, Juggernaut.",
+   "summary": "Ground vehicle operation covers primitive wheeled and tracked land vehicles, including Jawa sandcrawlers, the Rebel personnel transports on Yavin IV, personal transportation cars and bikes, and cargo haulers.",
+   "page": 46
+  },
+  {
+   "id": "ground-vehicle-repair",
+   "name": "Ground Vehicle Repair",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "time_taken": "In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.",
+   "specializations": "Type or model ground vehicle — compact assault vehicle, Juggernaut.",
+   "summary": "This skill represents a character’s familiarity with the workings of ground vehicles, and his ability to modify or repair them.",
+   "page": 63
+  },
+  {
+   "id": "hide",
+   "name": "Hide",
+   "advanced": false,
+   "attribute": "perception",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Camouflage.",
+   "summary": "Hide represents a character’s ability to conceal objects from view.",
+   "page": 52
+  },
+  {
+   "id": "hover-vehicle-engineering-advanced",
+   "name": "Hover Vehicle Engineering",
+   "advanced": true,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "prerequisites_text": "Requires 4D in hover vehicle repair. This skill allows the design of various hover vehicles and hover vehicle systems.",
+   "page": 63
+  },
+  {
+   "id": "hover-vehicle-operation",
+   "name": "Hover Vehicle Operation",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Type or model vehicle — hoverscout.",
+   "summary": "Hover vehicles generate a cushion of air for travel — hover vehicle operation enables characters to pilot these",
+   "page": 46
+  },
+  {
+   "id": "hover-vehicle-repair",
+   "name": "Hover Vehicle Repair",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "time_taken": "In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.",
+   "specializations": "Type or model hover vehicle — hoverscout.",
+   "summary": "Characters use this skill when repairing or modifying hover vehicle systems.",
+   "page": 64
+  },
+  {
+   "id": "installation-engineering-advanced",
+   "name": "Installation Engineering",
+   "advanced": true,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "prerequisites_text": "Requires 2D computer programming/repair, 2D demolitions, and 1D in any two of the following — (A) capital ship engineering, (A) civil/industrial engineering, (A) space transports engineering, (A) starfighter engineering, or (A) weapons engineering. This skill allows for the construction of fortified bases, strong holds, and other military installations.",
+   "page": 63
+  },
+  {
+   "id": "intimidation",
+   "name": "Intimidation",
+   "advanced": false,
+   "attribute": "knowledge",
+   "time_taken_summary": "1rnd-hrs",
+   "time_taken": "One round to several hours or longer.",
+   "specializations": "Interrogation, bullying.",
+   "summary": "Intimidation is a character’s ability to scare or frighten others to force them to obey commands, reveal information they wish to keep hidden, or otherwise do the bidding of the intimidating character.",
+   "page": 39
+  },
+  {
+   "id": "investigation",
+   "name": "Investigation",
+   "advanced": false,
+   "attribute": "perception",
+   "time_taken_summary": "1rnd-days",
+   "time_taken": "One round to several days.",
+   "specializations": "Locale or field of investigation — Mos Eisley, Imperial City, property estates, criminal records.",
+   "summary": "Investigation is a character’s ability to find and gather information regarding someone else’s activities, and then draw a conclusion about what the target has done or where she has gone.",
+   "page": 53
+  },
+  {
+   "id": "jet-pack-operation",
+   "name": "Jet Pack Operation",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": null,
+   "summary": "This skill represents a character’s skill at using jet packs.",
+   "page": 46
+  },
+  {
+   "id": "languages",
+   "name": "Languages",
+   "advanced": false,
+   "attribute": "knowledge",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Specific language known — Wookiee, Huttese, Bocce, Ewok.",
+   "summary": "The common language of the Known Galaxy is Basic.",
+   "page": 39
+  },
+  {
+   "id": "law-enforcement",
+   "name": "Law Enforcement",
+   "advanced": false,
+   "attribute": "knowledge",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Particular planet’s or organization’s laws and procedures — Alderaan, Tatooine, the Empire, Rebel Alliance.",
+   "summary": "The character is familiar with law enforcement techniques and procedures.",
+   "page": 40
+  },
+  {
+   "id": "lifting",
+   "name": "Lifting",
+   "advanced": false,
+   "attribute": "strength",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": null,
+   "summary": "Lifting is a character’s ability to lift heavy objects; it’s also the character’s ability to carry something for a long time.",
+   "page": 55
+  },
+  {
+   "id": "lightsaber",
+   "name": "Lightsaber",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Specific type or model lightsaber — double-bladed lightsaber, light-whip.",
+   "summary": "Lightsaber is the “melee combat” skill used for the lightsaber, the weapon of the famed Jedi Knights.",
+   "page": 36,
+   "tags": [
+    "melee-combat"
+   ]
+  },
+  {
+   "id": "lightsaber-repair-engineering",
+   "name": "Lightsaber Repair/Engineering",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "time_taken": "In general, 15 minutes, then one hour, then one day, then two days. Construction takes approximately one month.",
+   "specializations": null,
+   "summary": "Specific type or model lightsaber — double-bladed lightsaber, light-whip.",
+   "page": 64
+  },
+  {
+   "id": "medicine-advanced",
+   "name": "Medicine",
+   "advanced": true,
+   "attribute": "technical",
+   "time_taken_summary": "mins-hrs",
+   "time_taken": "Minutes or hours.",
+   "specializations": "Specific field known — medicines, cyborging, surgery.",
+   "summary": "Characters with this skill can perform complex medical procedures such as surgery, operation of bacta tanks, and the installation of cybernetic replacements and enhancements.",
+   "page": 64,
+   "prerequisites_text": "Advanced skill — requires first aid of at least 5D."
+  },
+  {
+   "id": "melee-combat",
+   "name": "Melee Combat",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Specific type of melee weapon — swords, knives, axes, vibroblades, vibro-axes.",
+   "summary": "Melee combat is the “melee combat” skill used for all hand-to-hand weapons (except lightsabers, which is covered under the lightsaber skill).",
+   "page": 36,
+   "tags": [
+    "melee-combat"
+   ]
+  },
+  {
+   "id": "melee-parry",
+   "name": "Melee Parry",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Type of melee weapon used — lightsabers, knives, clubs, axes, vibroblades.",
+   "summary": "Melee parry is the “reaction skill” used if a character has a melee weapon and is attacked by someone with a melee combat, brawling or lightsaber attack.",
+   "page": 36,
+   "tags": [
+    "reaction"
+   ]
+  },
+  {
+   "id": "missile-weapons",
+   "name": "Missile Weapons",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Type or model missile weapon — concussion missile, grenade launcher, Golan Arms FC1 flechette launcher, power harpoon.",
+   "summary": "Missile weapons is the “ranged combat” skill used to fire all types of missile weapons, including grappling hook launchers, grenade launchers, and personal proton torpedo launchers.",
+   "page": 37,
+   "tags": [
+    "ranged-combat"
+   ]
+  },
+  {
+   "id": "persuasion",
+   "name": "Persuasion",
+   "advanced": false,
+   "attribute": "perception",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Specific form of persuasion — debate, storytelling, flirt, oration.",
+   "summary": "Persuasion is similar to con and bargain — and is a little bit of both.",
+   "page": 53
+  },
+  {
+   "id": "pick-pocket",
+   "name": "Pick Pocket",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": null,
+   "summary": "Characters use pick pocket to pick the pockets of others, or to palm objects without being noticed.",
+   "page": 37
+  },
+  {
+   "id": "planetary-systems",
+   "name": "Planetary Systems",
+   "advanced": false,
+   "attribute": "knowledge",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Specific system or planet — Tatooine, Endor, Hoth, Kessel.",
+   "summary": "This skill reflects a character’s general knowledge of geography, weather, life-forms, trade products, settlements, technology, government and other general information about different systems and planets.",
+   "page": 40
+  },
+  {
+   "id": "podracer-operation",
+   "name": "Podracer Operation",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Particular custom pod racer.",
+   "summary": "Advanced Skill — requires repulsorlift operations of at least 5D.",
+   "page": 46
+  },
+  {
+   "id": "powersuit-operation",
+   "name": "Powersuit Operation",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Particular kind or model powersuit — spacetrooper armor, servo-lifter.",
+   "summary": "Powersuits are devices which enhance a person’s natural abilities through servo-mechanisms and powered movement.",
+   "page": 46
+  },
+  {
+   "id": "repulsorlift-engineering-advanced",
+   "name": "Repulsorlift Engineering",
+   "advanced": true,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "prerequisites_text": "Requires 4D in repulsorlift repair. This skill allows the design of various repulsorlift vehicles and repulsorlift vehicle systems.",
+   "page": 63
+  },
+  {
+   "id": "repulsorlift-operation",
+   "name": "Repulsorlift Operation",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Type or model repulsorlift vehicle — XP-38 landspeeder, Incom T-16 Skyhopper, Rebel Alliance combat snowspeeder.",
+   "summary": "The character knows how to operate common repulsorlift (or “antigrav”) craft, including landspeeders, snowspeeders, T-16 skyhoppers, cloud cars, airspeeders, speeder bikes, skiffs and sail barges.",
+   "page": 46
+  },
+  {
+   "id": "repulsorlift-repair",
+   "name": "Repulsorlift Repair",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "time_taken": "In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.",
+   "specializations": "Type or model repulsorlift vehicle — XP-38 landspeeder, Incom T-16 Skyhopper, Rebel Alliance combat snowspeeder.",
+   "summary": "Repulsorlift repair represents a character’s affinity for repairing and modifying vehicles with repulsorlift generators.",
+   "page": 64
+  },
+  {
+   "id": "rocket-pack-operation",
+   "name": "Rocket Pack Operation",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": null,
+   "summary": "This skill reflects the character’s ability to use personal, self-contained rocket packs.",
+   "page": 47
+  },
+  {
+   "id": "running",
+   "name": "Running",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or more.",
+   "specializations": "Long distance, short sprint.",
+   "summary": "Running is the character’s ability to run and keep his balance, especially in dangerous terrain.",
+   "page": 37
+  },
+  {
+   "id": "scholar",
+   "name": "Scholar",
+   "advanced": false,
+   "attribute": "knowledge",
+   "time_taken_summary": "1rnd-days",
+   "time_taken": "One round to several days.",
+   "specializations": "Particular field of study — archaeology, Jedi lore, history, geology, physics.",
+   "summary": "This skill reflects formal academic training or dedicated research in a particular field.",
+   "page": 41
+  },
+  {
+   "id": "search",
+   "name": "Search",
+   "advanced": false,
+   "attribute": "perception",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Tracking.",
+   "summary": "This skill is used when the character is trying to spot hidden objects or individuals.",
+   "page": 53
+  },
+  {
+   "id": "security",
+   "name": "Security",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "1rnd-mins",
+   "time_taken": "One round to several minutes.",
+   "specializations": "Type or model security device — magna lock, blast door, retinal lock.",
+   "summary": "This skill represents a character’s knowledge of physical security systems: locks, alarm systems and other detection devices.",
+   "page": 64
+  },
+  {
+   "id": "sensors",
+   "name": "Sensors",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Type or model scanner — hand scanner, med diagnostic scanner, heat sensor.",
+   "summary": "Characters with the this skill can operate various kinds of sensors, including those that detect lifeforms, identify vehicles, pick up energy readings, and make long-distance visual readings.",
+   "page": 47
+  },
+  {
+   "id": "sneak",
+   "name": "Sneak",
+   "advanced": false,
+   "attribute": "perception",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Specific type of terrain — jungle, urban.",
+   "summary": "Sneak represents the character’s ability to move silently, hide from view, move in shadows and otherwise creep around without being noticed.",
+   "page": 53
+  },
+  {
+   "id": "space-transports",
+   "name": "Space Transports",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Type or model transport — YT-1300 transport, Gallofree medium transport, Corellian Action VI transport.",
+   "summary": "Space transports is used to pilot all space transports: any non-combat starship, ranging from small light freighters (the Millennium Falcon is a highly-modified YT- 1300 light freighter) and scout ships to passenger liners, huge container s",
+   "page": 48
+  },
+  {
+   "id": "space-transport-engineering-advanced",
+   "name": "Space Transport Engineering",
+   "advanced": true,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "prerequisites_text": "Requires 5D in space transports repair. This skill allows the design of various space transports and space transport systems.",
+   "page": 63
+  },
+  {
+   "id": "space-transports-repair",
+   "name": "Space Transports Repair",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "time_taken": "In general, 15 minutes, then one hour, then one day, then two days. May be customized by circumstances.",
+   "specializations": "Type or model transport — YT-1300 transport, Gallofree medium transport, Corellian Action VI transport.",
+   "summary": "Characters with this skill can repair and modify space transports.",
+   "page": 64
+  },
+  {
+   "id": "stamina",
+   "name": "Stamina",
+   "advanced": false,
+   "attribute": "strength",
+   "time_taken_summary": "various",
+   "time_taken": "Stamina checks are made when characters exert themselves over long periods of time.",
+   "specializations": null,
+   "summary": "Stamina checks reflect that a character is being pushed to his or her physical limits.",
+   "page": 55
+  },
+  {
+   "id": "starfighter-engineering-advanced",
+   "name": "Starfighter Engineering",
+   "advanced": true,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "prerequisites_text": "Requires 5D starfighter repair and 3D starship weapons repair. It is possible to take this skill without the required die code in starship weapons repair, but the bonus effects from engineering would only apply to non-weapon functions. This skill allows the design of various starfighters and starfighter systems.",
+   "page": 63
+  },
+  {
+   "id": "starfighter-piloting",
+   "name": "Starfighter Piloting",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Type or model starfighter — X-wing, TIE/In, TIE interceptor, Z-95 Headhunter.",
+   "summary": "Starfighter piloting is used for all combat starfighters, including X-wings, Y-wings, A-wings, and TIE fighters.",
+   "page": 48
+  },
+  {
+   "id": "starfighter-repair",
+   "name": "Starfighter Repair",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "time_taken": "In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.",
+   "specializations": "Type or model starfighter — X-wing, TIE/In, TIE interceptor, Z-95 Headhunter.",
+   "summary": "This repair skill represents a character’s ability to fix and modify starfighters.",
+   "page": 65
+  },
+  {
+   "id": "starship-gunnery",
+   "name": "Starship Gunnery",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Specific type or model weapon — concussion missiles, ion cannons, laser cannon, proton torpedoes, turbolasers.",
+   "summary": "Starship gunnery is the “ranged combat” skill that covers all starfighter-scale weapons, including laser cannons, ion cannons, concussion missiles, and proton torpedoes.",
+   "page": 48,
+   "tags": [
+    "ranged-combat"
+   ]
+  },
+  {
+   "id": "starship-shields",
+   "name": "Starship Shields",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": null,
+   "summary": "Starship shields is the skill used to operate shields on all starfighter-scale ships.",
+   "page": 48
+  },
+  {
+   "id": "starship-weapon-repair",
+   "name": "Starship Weapon Repair",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "time_taken": "In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.",
+   "specializations": "Specific type or model weapon — concussion missiles, ion cannons, laser cannon, proton torpedoes, turbolasers.",
+   "summary": "Starship weapon repair covers a character’s ability to fix and modify starfighter-scale weapons.",
+   "page": 65
+  },
+  {
+   "id": "streetwise",
+   "name": "Streetwise",
+   "advanced": false,
+   "attribute": "knowledge",
+   "time_taken_summary": "1rnd-days",
+   "time_taken": "One round to one day or longer.",
+   "specializations": "Specific planet or criminal organization — Celanon, Corellia, Jabba the Halt’s organization, Black Sun, Talon Karrde’s organization.",
+   "summary": "Streetwise reflects a character’s familiarity with underworld organizations and their operation.",
+   "page": 41
+  },
+  {
+   "id": "submersible-vehicle-engineering-advanced",
+   "name": "Submersible Vehicle Engineering",
+   "advanced": true,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "prerequisites_text": "Requires 4D in submersible vehicle repair. This skill allows the design of various submersible vehicles and submersible vehicle systems.",
+   "page": 63
+  },
+  {
+   "id": "submersible-vehicle-operation",
+   "name": "Submersible Vehicle Operation",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Particular submersible type or class — Bongo, electric submarine.",
+   "summary": "This skill allows characters to pilot submersible ships and boats.",
+   "page": 49
+  },
+  {
+   "id": "submersible-vehicle-repair",
+   "name": "Submersible Vehicle Repair",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "time_taken": "In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.",
+   "specializations": "Particular submersible type or class — Bongo, electric submarine.",
+   "summary": "This repair skill represents a character’s ability to fix and modify submersible vehicles.",
+   "page": 65
+  },
+  {
+   "id": "survival",
+   "name": "Survival",
+   "advanced": false,
+   "attribute": "knowledge",
+   "time_taken_summary": "1rnd-hrs",
+   "time_taken": "One round when used for knowledge or reacting to danger; one hour or more when looking for necessities.",
+   "specializations": "Type of environment — volcano, jungle, desert, poisonous atmosphere.",
+   "summary": "This skill represents how much a character knows about surviving in hostile environments, including deserts, jungles, ocean, forests, asteroid belts, volcanoes, poisonous atmosphere worlds, mountains and other dangerous terrain.",
+   "page": 42
+  },
+  {
+   "id": "swimming",
+   "name": "Swimming",
+   "advanced": false,
+   "attribute": "strength",
+   "time_taken_summary": "1rnd-hrs",
+   "time_taken": "One round to several minutes or hours.",
+   "specializations": null,
+   "summary": "This skill represents the character’s ability to stay afloat in aquatic environments — lakes, oceans, flooding rivers and luxury starliner swimming pools.",
+   "page": 55
+  },
+  {
+   "id": "swoop-operation",
+   "name": "Swoop Operation",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round or longer.",
+   "specializations": "Specific type or model swoop — TaggeCo Air-2, Ubrikkian Skybird.",
+   "summary": "Swoops are dangerously fast, difficult to pilot vehicles which combine a typical repulsorlift engine with an ion engine afterburner for unbelievable performance.",
+   "page": 49
+  },
+  {
+   "id": "tactics",
+   "name": "Tactics",
+   "advanced": false,
+   "attribute": "knowledge",
+   "time_taken_summary": "1rnd-mins",
+   "time_taken": "One round to several minutes.",
+   "specializations": "Type of military unit — squads, fleets, capital ships, ground assault.",
+   "summary": "Tactics represents a character’s skill in deploying military forces and maneuvering them to his best advantage.",
+   "page": 42
+  },
+  {
+   "id": "thrown-weapons",
+   "name": "Thrown Weapons",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Specific kind of thrown weapon — knife, spear, sling.",
+   "summary": "Thrown weapons is the “ranged combat” skill used whenever a character employs a primitive thrown weapon, including throwing knives, slings, throwing spears and javelins.",
+   "page": 37,
+   "tags": [
+    "ranged-combat"
+   ]
+  },
+  {
+   "id": "value",
+   "name": "Value",
+   "advanced": false,
+   "attribute": "knowledge",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Type of goods or specific planet’s markets — starships, droids, Kessel, Coruscant.",
+   "summary": "This skill reflects a character’s ability to gauge the fair market value of goods based on the local economy, the availability of merchandise, quality and other market factors.",
+   "page": 43
+  },
+  {
+   "id": "vehicle-blasters",
+   "name": "Vehicle Blasters",
+   "advanced": false,
+   "attribute": "dexterity",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Type or model of vehicle-mounted blaster — heavy blaster cannon, heavy laser cannon, light blaster cannon, light laser cannon, medium blaster cannon, medium laser cannon.",
+   "summary": "Vehicle blasters is the “ranged combat” skill used to fire vehicle-mounted energy weapons, especially those that are speeder- or walker-scale.",
+   "page": 37,
+   "tags": [
+    "ranged-combat"
+   ]
+  },
+  {
+   "id": "walker-engineering-advanced",
+   "name": "Walker Engineering",
+   "advanced": true,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "prerequisites_text": "Requires 4D in walker repair. This skill allows the design of various walkers and walker systems.",
+   "page": 63
+  },
+  {
+   "id": "walker-operation",
+   "name": "Walker Operation",
+   "advanced": false,
+   "attribute": "mechanical",
+   "time_taken_summary": "1rnd+",
+   "time_taken": "One round.",
+   "specializations": "Particular kind of walker — AT-AT, AT- ST, AT-PT.",
+   "summary": "Walkers are difficult vehicles to learn how to operate.",
+   "page": 49
+  },
+  {
+   "id": "walker-repair",
+   "name": "Walker Repair",
+   "advanced": false,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "time_taken": "In general, 15 minutes, then six hours, then one day, then two days. May be customized to circumstances.",
+   "specializations": "Particular kind of walker — AT-AT, AT- ST, AT-PT.",
+   "summary": "Characters use this skill when repairing or modifying walker systems.",
+   "page": 65
+  },
+  {
+   "id": "weapon-engineering-advanced",
+   "name": "Weapon Engineering",
+   "advanced": true,
+   "attribute": "technical",
+   "time_taken_summary": "various",
+   "prerequisites_text": "Requires 5D in any two of the following — blaster repair, capital ship weapon repair, demolitions, equipment repair, starship weapon repair. This skill allows for the design and construction of various weapons systems and blasters.",
+   "page": 63
+  },
+  {
+   "id": "willpower",
+   "name": "Willpower",
+   "advanced": false,
+   "attribute": "knowledge",
+   "time_taken_summary": "1rnd",
+   "time_taken": "One round.",
+   "specializations": "Kind of coercion to be resisted — persuasion, intimidation.",
+   "summary": "Willpower is a character’s strength of will and determination.",
+   "page": 43
+  }
+ ]
+}

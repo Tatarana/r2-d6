@@ -1,0 +1,42 @@
+{
+  "id": "martial-arts",
+  "optional_rule": true,
+  "source": { "chapter": 6, "pages": [98, 99, 100], "file": "raw-data/06-combat-injuries.txt" },
+  "how_it_works": [
+    "Martial arts is a specialization of brawling (brawling: martial arts); some gamemasters keep it loose.",
+    "For every full 1D the martial arts skill increases, the character picks one technique. Increases of one or two pips do not count. Raising the skill during character creation counts.",
+    "A technique must be declared before making the required skill roll (unless noted).",
+    "Most techniques only work if the attack succeeds and is not parried or dodged and the skill roll meets the technique's difficulty."
+  ],
+  "example": "Skill 3D+2 raised to 5D+2 at creation = two techniques. Later 5D+2 -> 6D gives none (only +1 pip); the next technique comes at 6D+2.",
+  "techniques": [
+    { "id": "blindfighting", "name": "Blindfighting", "difficulty": "Very Difficult", "effect": "Within striking distance, ignore the effects of blindness (hear or smell the target). May be used as a reaction skill.", "page": 98 },
+    { "id": "disarm", "name": "Disarm", "difficulty": "Moderate", "effect": "On a successful, unparried attack, the target is disarmed.", "page": 98 },
+    { "id": "elbow-smash", "name": "Elbow Smash", "difficulty": "Very Easy", "effect": "+1D to damage on a successful skill roll.", "page": 98 },
+    { "id": "flip", "name": "Flip", "difficulty": "Moderate", "effect": "Throws a target who grappled you from behind to the ground (not parried or dodged); 3D damage. May be used as a reaction skill.", "page": 99 },
+    { "id": "flying-kick", "name": "Flying Kick", "difficulty": "Difficult", "effect": "+2D damage if the roll exceeds the difficulty; on failure the character is off balance and the opponent gets an extra attack this round with no multiple-action penalty.", "page": 99 },
+    { "id": "foot-sweep", "name": "Foot Sweep", "difficulty": "Moderate", "effect": "Target is tripped and falls. As printed: the character must remain prone for the rest of the round (see errata).", "page": 99 },
+    { "id": "head-butt", "name": "Head-Butt", "difficulty": "Easy", "effect": "Strike with the head for STR+1D damage, even when held, pinned or bound. May be used as a reaction skill.", "page": 99 },
+    { "id": "hold-grapple", "name": "Hold/Grapple", "difficulty": "Moderate plus Strength versus martial arts", "effect": "Moderate martial arts roll to hold; each round held, the holder rolls Strength or lifting. The target breaks free by beating the holder's martial arts (or Strength/lifting) roll.", "page": 99 },
+    { "id": "instant-knockdown", "name": "Instant Knockdown", "difficulty": "Moderate", "effect": "Target is knocked down; the fallen character waits a round to stand or suffers multiple-action penalties.", "page": 99 },
+    { "id": "instant-stand", "name": "Instant Stand", "difficulty": "Moderate", "effect": "Return to standing after being tripped or knocked down without a multiple-action penalty.", "page": 99 },
+    { "id": "instant-stun", "name": "Instant Stun", "difficulty": "Moderate", "effect": "Target is stunned for one round.", "page": 99 },
+    { "id": "instant-wound", "name": "Instant Wound", "difficulty": "Difficult", "effect": "Target suffers a wound (effects cumulative).", "page": 99 },
+    { "id": "multiple-strikes", "name": "Multiple Strikes", "difficulty": "Moderate", "effect": "A second attack with no multiple-action penalty; it inflicts 3D damage.", "page": 99 },
+    { "id": "nerve-punch", "name": "Nerve Punch", "difficulty": "Very Difficult", "effect": "A named arm or leg is unusable for 3D rounds and held items are dropped; beating the difficulty by 15+ knocks the target unconscious.", "page": 99 },
+    { "id": "power-block", "name": "Power Block", "difficulty": "Moderate", "effect": "A successful parry inflicts STR+1D on the attacker. May be used as a reaction skill.", "page": 99 },
+    { "id": "reversal", "name": "Reversal", "difficulty": "Opposed Strength or brawling: martial arts (higher)", "effect": "Only when held. Breaking the grip lets the character hold the opponent or use another technique. May be used as a reaction skill.", "page": 99 },
+    { "id": "silent-strike", "name": "Silent Strike", "difficulty": "Difficult", "effect": "After successfully sneaking up (within arm's reach), kill or knock out the target; declare which beforehand.", "page": 99 },
+    { "id": "spinning-kick", "name": "Spinning Kick", "difficulty": "Moderate", "effect": "+1D damage if the roll exceeds the difficulty; on failure off balance and the opponent gets an extra attack this round with no penalty.", "page": 99 },
+    { "id": "shoulder-throw", "name": "Shoulder Throw", "difficulty": "Moderate", "effect": "Target hurled to the ground (not parried or dodged) for 3D damage.", "page": 99 },
+    { "id": "weapon-block", "name": "Weapon Block", "difficulty": "Opposed martial arts versus melee combat", "effect": "Parry melee attacks without holding a melee weapon.", "page": 100 }
+  ],
+  "options_for_gamemasters": [
+    "Basic moves only first: punch (STR+1D), kick (STR+2D), weapon block (opposed martial arts vs melee combat).",
+    "Character Points cannot be used on martial arts rolls (Force Points can).",
+    "Style packages: the gamemaster limits available techniques; learning one outside the style costs 10 Character Points and three weeks.",
+    "Parrying: martial arts can be used to both parry and attack, but brawling parry cannot be used for a brawling attack.",
+    "Untrained: Grapple/Hold without the specialization is +2 difficulty levels; with the specialization but without the technique, +1 level. Some techniques (Silent Strike) cannot be done untrained."
+  ],
+  "options_page": 100
+}

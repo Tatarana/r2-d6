@@ -1,0 +1,40 @@
+{
+  "id": "character-force-point-limits",
+  "source": { "chapter": 5, "pages": [84, 85, 86], "file": "raw-data/05-the-rules.txt" },
+  "character_points": {
+    "effect": "Each Character Point spent adds 1 extra die to the roll, which explodes on a 6 (re-roll and add) like the wild die (the book says Character Points 'function similar to a Wild Die'; it does not say a 1 triggers a complication).",
+    "timing": "May be declared after seeing the roll, but before anyone else acts.",
+    "exclusive_with": ["force_point_same_round_or_scene", "calling_upon_dark_side_same_round_or_scene"],
+    "max_per_roll": [
+      { "use": "skill or attribute roll",                                   "max": 2 },
+      { "use": "increase an attack's damage",                               "max": 2, "note": "often counts as an evil action" },
+      { "use": "specialization roll",                                       "max": 5 },
+      { "use": "acrobatics, dodge, melee parry, brawling parry, lightsaber parry, or vehicle/starship dodge", "max": 5 },
+      { "use": "Strength roll to resist damage",                            "max": 5 }
+    ],
+    "restrictions": [
+      "Cannot be spent on another character's actions.",
+      "In scenes: only for one continuous action; the bonus ends when the character does something else."
+    ]
+  },
+  "force_points": {
+    "effect": "All of the character's skill, attribute and special-ability die codes are doubled for the rest of the round (not weapon damage, hull codes or other non-character values).",
+    "melee_damage": "Double the user's Strength dice, do not double the weapon's bonus (e.g. STR+2D becomes 2x STR + 2D).",
+    "max_per_round": 1,
+    "in_scenes": "Only for one continuous action.",
+    "max_held": { "non_force_sensitive": 5, "force_sensitive": null },
+    "starting_minimum_for_player_characters": 1,
+    "recovery_at_end_of_adventure": [
+      { "use": "evil",                                        "result": "Force Point lost permanently; character gains a Dark Side Point" },
+      { "use": "unheroic (neither heroic nor evil)",          "result": "Force Point lost permanently" },
+      { "use": "heroic",                                      "result": "Force Point returned" },
+      { "use": "heroic at a dramatically appropriate moment", "result": "Force Point returned and one more gained" }
+    ]
+  },
+  "multiple_actions": {
+    "penalty_per_extra_action": "-1D",
+    "applies_to": "all skill and attribute rolls",
+    "does_not_apply_to": ["damage", "damage resistance", "initiative"],
+    "source": { "page": 78 }
+  }
+}

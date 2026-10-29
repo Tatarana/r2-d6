@@ -1,0 +1,129 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "r2-d6/character-sheet",
+  "title": "Star Wars RPG (REUP) character sheet",
+  "description": "Structure of the two-page character sheet (book pages 501-502). Dice codes are objects so they can be added and compared; the book's text form is kept in `text`. Reference lists use the ids of the knowledge base (skills.json, species.json, force-powers.json, weapons.json, armor.json, tables/advantages-disadvantages.json).",
+  "source": { "chapter": 24, "pages": [501, 502], "file": "raw-data/24-character-sheet.txt" },
+  "type": "object",
+  "required": ["name", "attributes", "force_sensitive", "force_points", "character_points", "wound_status"],
+  "properties": {
+    "name": { "type": "string" },
+    "type": { "type": "string", "description": "Template or concept, e.g. 'Smuggler' (templates.json type)." },
+    "species": { "type": "string", "description": "id in species.json" },
+    "gender": { "type": "string" },
+    "age": { "type": "string" },
+    "height": { "type": "string" },
+    "weight": { "type": "string" },
+    "physical_description": { "type": "string" },
+    "attributes": {
+      "type": "object",
+      "required": ["dexterity", "knowledge", "mechanical", "perception", "strength", "technical"],
+      "additionalProperties": false,
+      "properties": {
+        "dexterity": { "$ref": "#/$defs/attribute" },
+        "knowledge": { "$ref": "#/$defs/attribute" },
+        "mechanical": { "$ref": "#/$defs/attribute" },
+        "perception": { "$ref": "#/$defs/attribute" },
+        "strength": { "$ref": "#/$defs/attribute" },
+        "technical": { "$ref": "#/$defs/attribute" }
+      }
+    },
+    "force_attributes": {
+      "type": "object",
+      "description": "Force skills (control, sense, alter); absent or 0D for characters without them.",
+      "additionalProperties": false,
+      "properties": {
+        "control": { "$ref": "#/$defs/die" },
+        "sense": { "$ref": "#/$defs/die" },
+        "alter": { "$ref": "#/$defs/die" }
+      }
+    },
+    "force_powers": { "type": "array", "items": { "type": "string", "description": "id in force-powers.json" } },
+    "advantages": { "type": "array", "items": { "type": "string", "description": "id in tables/advantages-disadvantages.json" } },
+    "disadvantages": { "type": "array", "items": { "type": "string", "description": "id in tables/advantages-disadvantages.json" } },
+    "special_abilities": { "type": "string" },
+    "move": { "type": "integer", "minimum": 0 },
+    "force_sensitive": { "type": "boolean" },
+    "force_points": { "type": "integer", "minimum": 0 },
+    "dark_side_points": { "type": "integer", "minimum": 0, "default": 0 },
+    "character_points": { "type": "integer", "minimum": 0 },
+    "credits": { "type": "integer", "minimum": 0 },
+    "wound_status": {
+      "type": "string",
+      "enum": ["healthy", "stunned", "wounded", "wounded-twice", "incapacitated", "mortally-wounded", "killed"],
+      "description": "The sheet has boxes for Stunned (1), Wounded (2), Incapacitated (1) and Mortally Wounded (1)."
+    },
+    "armor": {
+      "type": "array",
+      "description": "Sheet columns: Type, AV, Notes (armor value).",
+      "items": {
+        "type": "object",
+        "required": ["type"],
+        "properties": {
+          "type": { "type": "string" },
+          "item": { "type": "string", "description": "id in armor.json" },
+          "av": { "type": "string" },
+          "notes": { "type": "string" }
+        }
+      }
+    },
+    "weapons": {
+      "type": "array",
+      "description": "Sheet columns: Type, Damage, Range short/medium/long, and an ammo row of 18 boxes.",
+      "items": {
+        "type": "object",
+        "required": ["type"],
+        "properties": {
+          "type": { "type": "string" },
+          "item": { "type": "string", "description": "id in weapons.json" },
+          "damage": { "type": "string" },
+          "range": { "type": "string" },
+          "ammo_max": { "type": "integer", "minimum": 0 },
+          "ammo_used": { "type": "integer", "minimum": 0 }
+        }
+      }
+    },
+    "other_equipment": {
+      "type": "array",
+      "items": { "type": "object", "required": ["type"], "properties": { "type": { "type": "string" }, "item": { "type": "string" }, "notes": { "type": "string" } } }
+    },
+    "background": { "type": "string" },
+    "personality": { "type": "string" },
+    "objectives": { "type": "string" },
+    "languages": { "type": "string" },
+    "contacts_and_enemies": { "type": "string" },
+    "connection_with_characters": { "type": "string" },
+    "quote": { "type": "string" }
+  },
+  "$defs": {
+    "die": {
+      "type": "object",
+      "required": ["dice", "pips"],
+      "properties": {
+        "dice": { "type": "integer", "minimum": 0 },
+        "pips": { "type": "integer", "minimum": 0, "maximum": 2 },
+        "text": { "type": "string", "description": "e.g. '4D+1'" }
+      }
+    },
+    "skill": {
+      "type": "object",
+      "required": ["skill", "value"],
+      "properties": {
+        "skill": { "type": "string", "description": "id in skills.json" },
+        "value": { "$ref": "#/$defs/die" },
+        "specializations": {
+          "type": "array",
+          "items": { "type": "object", "required": ["name", "value"], "properties": { "name": { "type": "string" }, "value": { "$ref": "#/$defs/die" } } }
+        }
+      }
+    },
+    "attribute": {
+      "type": "object",
+      "required": ["value"],
+      "properties": {
+        "value": { "$ref": "#/$defs/die" },
+        "skills": { "type": "array", "description": "Only skills that were improved or learned; an unlisted skill uses the attribute.", "items": { "$ref": "#/$defs/skill" } }
+      }
+    }
+  }
+}

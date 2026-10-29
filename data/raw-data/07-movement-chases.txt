@@ -1,0 +1,696 @@
+CHAPTER 7: MOVEMENT & CHASES
+(Páginas impressas 106-118 | PDF 108-120)
+
+[Página impressa 106 | PDF 108]
+
+CHAPTER SEVEN
+
+7
+
+# MOVEMENT & CHASES
+
+“I’ve been told you want to learn how to fly. Well, you’ve come to the right person. Name a vehicle... airspeeders, landspeeders, speeder bikes, swoops... flown’em all. If it’s got wings or a repulsor generator, I’ve tried it. My name’s Jarin Flast. You may not have heard of me yet... but you will. The fact that I’ve survived four years of combat duty in the cockpit of an X-
+
+wing says something.
+
+“Now that you know enough to take my advice,
+
+I’ll let you know what you’re in for. First, we’ll
+
+get the boring stuff out of the way... running around on your own two feet. It’s
+
+no match for the excitement of racing a
+
+T-l6, but you’ve gotta start somewhere, right?
+
+“Then, the good stuff. You’ll learn how
+
+to drive landspeeders and fly cloud
+
+cars. There’s nothing like rock-
+
+eting over a planet at 1,000 kilometers per hour, but you’ve got to learn how to do it right so you don’t plaster yourself all over the landscape.
+
+“Next, the really good stuff. Vehicle combat. I have to deal with this all the time. I’ll be flying patrol in a speeder — minding my own business — when a bunch of Imperial slugs ambush me and try to end my day on a sour note. It kind of irks me. And when I get irked, other people get shot down. If you pay attention, you’ll learn how to stay out of
+
+someone else’s sights... if you don’t, you’ll
+
+go down in flames.
+
+“Let’s get going.”
+
+[Página impressa 107 | PDF 109]
+
+# CHARACTER MOVEMENT
+
+Every character and creature has a Move score: it’s how many meters per round the character moves while walking. (Most humans have a Move of 10).
+
+Moving is an action, just like firing a blaster or dodging an attack. A character can move once per round. A running or walking character uses her running skill or Dexterity attribute.
+
+(A swimming character uses her swimming skill or Strength; a climbing character uses her climbing/jumping or Strength. For unusual movements — such as swimming or climbing — the Move is normally at one-third of the character’s normal Move; adjust this rate at your discretion.)
+
+Movement works just like other actions. You describe the terrain and pick a difficulty level and a difficulty number: Very Easy (1-5), Easy (6-10), Moderate (11-15), Difficult (16-20), Very Difficult (21-30), or Heroic (31+).
+
+The player decides how fast she wants her character to move and makes her running roll. If the roll is equal to or greater than the difficulty number, the character moves without a problem; if the roll is lower than the difficulty number, the character has a problem.
+
+## MOVE SPEEDS
+
+While your character can only move once per round, you can pick one of four speeds.
+
+• Cautious Movement: This is a slow walk for a character: she moves at half her Move. (A human with a Move of 10 would move five meters.)
+
+In Very Easy, Easy, and Moderate terrains, cautious movement is a “free action”: it’s not considered an action and the character doesn’t have to roll her running skill or take a multiple-action penalty.
+
+In Difficult, Very Difficult and Heroic terrains, roll the character’s running skill, but reduce the difficulty one level. (Very Difficult terrain is Difficult to cross; Moderate terrain is Easy to cross.)
+
+Example: Rhen, the brash pilot, has a Dexterity of 3D (she hasn’t improved her running skill); her blaster skill is 4D and her Move is a 10. She’s moving at cautious speed across a dried up stream bed (Easy terrain). Because she’s moving so carefully, she doesn’t even have to roll — she automatically moves the five meters. If she were shooting her blaster, she’d get to roll her full blaster skill of 4D because her movement is a “free action.”
+
+Later, Rhen comes upon a raging river. She wants to cross it by moving from rock to rock — it’s Very Difficult terrain. Since she decides to move at cautious speed, the terrain is considered one difficulty level easier: it’s only Difficult (the gamemaster picks a difficulty number of 17). Rhen’s Dexterity roll is a 17 — she barely skirts across the rocks, moving five meters.
+
+• Cruising Movement: Cruising movement is walking speed for a character — she moves at her Move speed. (A human with a Move of 10 would move up to 10 meters.)
+
+Moving at cruising speed counts as an action, but the character can automatically make the move for Very Easy, Easy and Moderate terrains. A character must roll her running skill for Difficult, Very Difficult and Heroic terrains.
+
+Example: Rhen is walking (cruising speed) across Moderate terrain while sighting her blaster on a wild animal that’s charging to attack her (her blaster skill is 4D). She can automatically walk 10 meters without making a Dexterity roll, but it’s an action. Firing her blaster is a second action (−1D penalty), so she only rolls 3D to hit the charging animal.
+
+Later, Rhen is trying to walk up a steep hill (Difficult terrain; difficulty number of 16). She rolls her Dexterity and gets a 16 — Rhen walks 10 meters up the slope.
+
+• High Speed: High speed movement is running for a character — she moves at twice her Move speed. (A human with a Move of 10 would move up to 20 meters.)
+
+The character must roll her running skill for Very Easy, Easy or Moderate terrain.
+
+When moving at high speed, Difficult, Very Difficult and Heroic terrains increase one difficulty level: Difficult terrain is Very Difficult to cross, Very Difficult terrain becomes Heroic, Heroic terrain becomes Heroic+10.
+
+Example: Rhen is running across an open field (Easy terrain; difficulty of 8). She rolls her Dexterity and gets a 10 — she runs 20 meters across the field.
+
+Later, Rhen’s trying to run across a very rocky, uneven field pitted with craters and subsidences — it’s Difficult terrain. Because she’s running at high speed, the terrain is considered Very Difficult (difficulty number 24). Rhen rolls her Dexterity and gets a 16 — not enough. To find out what happens, see “Movement Failures.”
+
+• All-Out: All-out movement is running at all-out speed for a character — she moves at four times her Move speed. (A human with a Move of 10 would move 40 meters.)
+
+Characters making “all-out” movement may not do anything else in the round, including dodge or parry!
+
+Increase the difficulty one level for Very Easy, Easy and Moderate terrains. Increase the difficulty two levels for Difficult, Very Difficult or Heroic terrains.
+
+Example: Rhen wants to move across an open field (Easy terrain) to reach a bunker before Imperial stormtroopers can take a shot at her. She decides to run all-out — the Easy terrain is considered one difficulty level higher: Moderate (difficulty number 11). She also can’t dodge to avoid the troopers’ shots. She rolls her Dexterity and gets a 12: Rhen sprints 40 meters to the bunker.
+
+[Página impressa 108 | PDF 110]
+
+Later, Rhen wants to run to a landspeeder, hoping to jump behind the controls and race away before more stormtroopers shoot at her. Unfortunately, the terrain is dense forest, with tangled thickets and overgrown bushes: Difficult terrain. Rhen decides to move all-out, which increases the difficulty two levels to Heroic (difficulty number 34).
+
+Partial Moves. After picking a “move speed” (cautious, cruising, high speed or all-out speed), a character can move anywhere between half and her full move speed.
+
+Example: Rhen (with a Move of 10) decides to move at all-out speed: she can move anywhere between 20 and 40 meters.
+
+Acceleration and Deceleration. Characters may increase or decrease their movement speed up to two levels per round.
+
+Example: Rhen is moving cautiously in one round. The next round, she may stay at cautious speed, decrease one level to come to a complete stop, increase one level to cruising speed or increase two levels to high speed movement; she cannot increase three levels to all-out movement.
+
+Later, Rhen is making all-out movement to run across a corridor. The next round, she can keep on going all-out, or she may reduce her movement to high speed (running) or cruising (walking); she couldn’t slow down to cautious speed (slow walk) or no movement at all.
+
+### ENCUMBRANCE
+
+Star Wars games are not ordinarily concerned with the concept of encumbrance, but sometimes players will want to carry with as much firepower as they can possibly get away with, it’s a good idea to have an idea of what a reasonable amount of equipment is. The following is a method that many be used to determine what a character can or can’t carry in the field. Characters that attempt to carry too many items are subject to the “long distance movement” rules and stamina checks (specifically the effects of arduous terrain) noted in this chapter.
+
+The gamemaster has final discretion on what a character can reasonably be expected to carry.
+
+A character can carry one medium-sized object for every “pip” of Strength that he or he possesses. Remember that 1D equals 3 “pips”. For example, a character with a Strength die code of 3D+2 can carry 11 medium-sized objects: 3 “pips” per die multiplied by 3 dice equals 9; the additional “+2” in the die code brings the total to 11.
+
+Medium-sized items include: Fatigues, boots, partial armor (blast vest or other such minor combat armor), helmet, main weapons (probably a rifle), three grenades, three day’s rations, roughly a half-dozen other small objects (power tools, blaster powerpacks, a secondary weapon: pistol, knife, etc.), backpack, directional transponder/automap, explosives, portable computer, comset, E-Web power generator, scanner, E-Web blaster, medical backpack etc.
+
+[Página impressa 109 | PDF 111]
+
+Long-Distance Movement. All-out movement takes its toll after a long time. A character continuously going all-out must make a stamina roll every minute.
+
+The first stamina difficulty is Very Easy; increase the difficulty one level for each additional roll. If the character fails the roll, she must rest for twice as long as she was moving all-out.
+
+High speed (“running”) movement also requires stamina rolls: roll once every 10 minutes. The first roll is at Very Easy difficulty and increases one difficulty level for each additional roll. If she fails the roll, she must rest for twice as long as she was moving at high speed.
+
+Long marches are tiring: marchers should make a Very Easy stamina check every three hours, increasing the difficulty by one level every roll. This is assuming they take short (5-15 minute) breaks in that period and are at the Cruising Movement speed. If the marchers march continually, the checks are made every two hours. One hour’s sleep for every stamina check made will restore the marchers to vigor. Arduous terrain may modify the stamina difficulty at gamemaster discretion.
+
+Movement checks for terrain should also be performed every three hours (or two, if on a forced march), to reflect the hazards of the route. Some difficult terrain types may require the characters to move at the Cautious Movement rate. Terrain difficulties are listed below.
+
+## TERRAIN DIFFICULTIES
+
+When a character moves, you must determine the terrain’s difficulty and then pick a difficulty number.
+
+Very Easy 1-5. Flat, clear, even ground with no obstacles. Clear walkways. For swimming, calm water.
+
+Easy 6-10. Flat but naturally uneven ground (fields, yards) that may have a few small obstacles such as rocks, holes, bushes, low branches, and so forth. For swimming, water with minor obstacles: occasional branches or reefs, or water with moderate currents.
+
+Moderate 11-15. Rough ground or any area with many obstacles (large holes, rocks, thickets and bushes). For swimming, an area with many obstacles or a very confined area, such as a small tunnel.
+
+Difficult 16-20. Running through a densely packed area that’s difficult to navigate: a panicked crowd or a thick forest, for example. Very rough ground with drop outs, darkened tunnels, or an area that’s being pelted by falling boulders. Swimming during a very rough storm or around attacking predators.
+
+Very Difficult 21-30. Moving through any very dangerous terrain, such as a minefield, down a narrow crawl-way with whirling cooling fans, a starship as it breaks apart, or along the outside of a repulsorlift vehicle as it makes twisting maneuvers. Swimming in the middle of a dangerous storm with large waves.
+
+Heroic 31+. Heroic terrain is virtually impassable: running through an avalanche, running down a corridor filled with falling debris, smoke and exploding consoles, or swimming, in the middle of a tidal wave or hurricane.
+
+Maneuvers. The movement difficulty number covers basic maneuvers: straight-line movement, a couple of turns and other simple movements. If a character wants to make a more difficult maneuver — such as maneuvering between tightly-grouped building support beams, grabbing something out of mid-air while running, or grabbing something off a counter while all-out running — you may add modifiers as needed:
+
++1-5
+Maneuver that takes a little effort and coordina
+
+tion.
+
++6-10
+Maneuver requires a modest amount of effort
+
+and coordination.
+
++11-15 Maneuver requires a lot of concentration and
+
+appears to be very difficult to perform while moving quickly.
+
++16+
+Maneuver appears to be very, very difficult to
+
+perform while moving quickly.
+
+Characters will often want to do something that crosses over into other skills: run and then jump over a ditch, or climb up a wall. The character rolls to move and then must make a separate climbing/jumping skill roll for the climb or jump.
+
+## MOVEMENT FAILURES
+
+A character who fails a movement roll may have to slow down or may even fall and risk injury. Find the number of points by which the movement roll failed:
+
+1-3 Slight slip. The character loses her footing for a second. While she completes the movement, she suffers a penalty of −1D to all actions for the rest of the round (in addition to normal multiple action penalties).
+
+4-6 Slip. The character slips and nearly falls. The character only makes half her Move. She suffers a penalty of −3D to all actions for the rest of the round, and −1D to all actions for the next round (in addition to normal multiple action penalties).
+
+7-10 Fall. The character falls halfway through her Move, but manages to catch herself and is now kneeling. She may take no actions for the rest of the round and suffers a −2D penalty to all actions for the next round.
+
+11-15 Minor tumble. The character falls one-quarter of the way through her Move, suffering painful scrapes and bruises. She may take no actions for the rest of the round and the next round. She takes damage, but subtract −3D from normal collision damage. (In effect, the character takes 1D damage if she was moving all-out; if she was moving slower, she’d suffer no damage.)
+
+16-20 Tumble. The character falls, probably tumbling into a nearby object. She suffers painful scrapes and bruises (unlucky characters can suffer broken bones or worse): roll normal collision damage.
+
+21+ Major tumble. “That had to hurt!” The character falls at a bad angle and may suffer a serious injury. Increase collision damage by +2D.
+
+[Página impressa 110 | PDF 112]
+
+Collisions. Collision damage depends on how fast the character was moving.
+
+Move | Character Damage
+Cautious | 1D
+Cruise | 2D
+High speed | 3D
+All-Out | 4D
+
+Roll damage against the character’s Strength, just as described in the “Damage” section of the chapter on “Combat and Injuries.”
+
+Example: Rhen is moving at high speed and fails her running roll by 18 points. She suffers a “tumble” and trips and falls painfully. Since she was moving at high speed, she suffers 3D damage.
+
+# VEHICLE MOVEMENT
+
+Vehicle movement works in much the same way as character movement. Every vehicle has a Move score, which is how many meters per round the vehicle moves at cruising speed. Moving is an action, just like firing a blaster or dodging. A vehicle can move once per round.
+
+Most repulsorlift vehicles — from landspeeders to airspeeders and speeder bikes — use the repulsorlift operation skill or Mechanical attribute. (Walkers use walker operation; old-fashioned wheeled- and tracked-vehicles use ground vehicle operation, while hovercraft use hover vehicle operation. Swoops use swoop operation. Each vehicle’s description lists its skill.)
+
+When a vehicle moves, you describe the terrain and then pick a difficulty level and a difficulty number: Very Easy (1-5), Easy (6-10), Moderate (11-15), Difficult (16- 20), Very Difficult (21-30), or Heroic (31+).
+
+The player decides how fast she wants her character to drive the vehicle and makes her repulsorlift operation (or other skill) roll. If a vehicle has a “maneuverability code,” add it to the pilot’s skill roll.
+
+If the roll is equal or greater than the difficulty number, the vehicle moves across the terrain without issue; if the roll is lower, the vehicle has a “movement failure.”
+
+## MOVE SPEEDS
+
+While a vehicle can only move once per round, the driver can pick one of four speeds.
+
+• Cautious Movement. This is a very slow movement — the vehicle goes at half its Move. (A vehicle with a Move of 200 would move up to 100 meters.)
+
+In Very Easy, Easy, and Moderate terrains, cautious movement is a “free action” and the driver doesn’t have to roll her repulsorlift operation (or other skill).
+
+In Difficult, Very Difficult and Heroic terrains, roll the character’s vehicle operation skill, but reduce the difficulty one level. (Very Difficult terrain is Difficult to cross; Moderate terrain is Easy to cross.)
+
+Example: Rhen, the brash pilot, is now in her natural element: she’s got a repulsorlift operation skill of 5D. She’s behind the controls of an airspeeder with a Move of 200 and a maneuverability of 1D+2. She’s piloting in open air (Easy terrain) at cautious speed. She doesn’t have to roll — the speeder automatically moves 100 meters. If she were also firing the speeder’s autocannons, she’d get to roll her full vehicle blasters skill (or in this case, her Dexterity attribute of 3D) because this is a “free action.”
+
+Later, Rhen is trying to pilot her speeder through a narrow, twisting canyon in the middle of a driving rainstorm — it’s Very Difficult terrain. Since she decides to move at cautious speed, the terrain is considered one difficulty level easier: it’s only Difficult (the gamemaster picks a difficulty number of 19). Rhen gets to roll repulsorlift operation of 5D and the speeder’s maneuverability of 1D+2 — she gets a 23. Rhen maneuvers the speeder through the canyon without much difficulty, although she knows she’d better not go too much faster or she may bounce the speeder off the canyon walls.
+
+• Cruising Movement. Cruising movement is normal driving speed for a vehicle — it moves at its Move speed.
+
+Moving at cruising speed counts as an action, but the pilot can automatically make the move for Very Easy, Easy, or Moderate terrain. A pilot must roll the vehicle’s operation skill for Difficult, Very Difficult or Heroic terrain.
+
+Example: Rhen is piloting her vehicle on a clear repulsorway (Easy terrain), but an Imperial patrol speeder is closing in fast. She can automatically pilot her speeder at cruising speed (the speeder goes at its Move of 200 meters), but it’s an action. Firing the autocannon is a second action, so she rolls 2D (subtract the −1D penalty from her Dexterity of 3D) to hit the Imperial speeder.
+
+Later, Rhen is flying the speeder through a thick forest (Difficult terrain; difficulty number of 17) at cruising speed. She rolls her repulsorlift operation and the speeder’s maneuverability and gets a 21 — she maneuvers through the tree branches without so much as scratching the paint.
+
+• High Speed. High speed movement is pushing a vehicle for added speed — the vehicle moves at twice its Move speed. The pilot must roll for Very Easy, Easy or Moderate terrain.
+
+When moving at high speed, the difficulty for Difficult, Very Difficult and Heroic terrains increases one level: Difficult terrain becomes Very Difficult to cross, Very Difficult terrain becomes Heroic, Heroic terrain becomes Heroic +10.
+
+Example: Rhen is racing her speeder at high speed across a clear ice plain (Easy terrain; difficulty number 7). Her repulsorlift operation and maneuverability rolls total 18 — her speeder races 400 meters over the frigid terrain.
+
+[Página impressa 111 | PDF 113]
+
+Later, Rhen is trying to race her speeder at high speed through heavy traffic — it’s Difficult terrain. Because she’s moving at high speed, the terrain is considered Very Difficult (difficulty number 28). Rhen rolls her repulsorlift operation and maneuverability, getting a 27 — she fails. To find out what happens, see “Movement Failures.”
+
+• All-Out. All-out movement is moving at a vehicle’s all-out speed — it moves at four times its Move.
+
+Characters piloting a vehicle at “all-out” speed may not do anything else in the round, including vehicle dodges or firing the vehicle’s weapons.
+
+Increase the difficulty one level for Very Easy, Easy and Moderate terrains. Increase the difficulty two levels for Difficult, Very Difficult or Heroic terrains.
+
+Example: Rhen knows Imperial speeders are closing in on her, but she sees an open plain stretching for kilometers ahead. She decides to move all-out, hoping to out-race the Imperial gunners. The open field is Easy terrain; since Rhen is moving all-out, the difficulty increases to Moderate (difficulty number 12). Rhen rolls her repulsorlift operation and maneuverability, getting a 19 — Rhen’s speeder (with a Move of 200) pulls away, crossing 800 meters!
+
+Later, Rhen decides to move all-out through the heart of a dense forest. It’s Difficult terrain, but because she’s moving all-out, the difficulty increases two levels to Heroic (difficulty number 38). Rhen rolls her repulsorlift operation of 5D and her speeder’s maneuverability of 1D+2 and gets a 24... even this task is a little above her considerable abilities. To see how bad Rhen may have wrecked, see “Movement Failures.”
+
+Acceleration and Deceleration. Vehicles may increase or decrease their movement one level per round.
+
+Example: Rhen is piloting her landspeeder at cruising speed in one round. The next round, she may maintain cruising speed, decrease to cautious speed or increase to high speed; she may not increase her speeder to all-out speed.
+
+Later, Rhen is pushing her speeder at all-out speed while racing through a forest. She rounds a bend and faces a sudden dead-end. While she’d love to bring the speeder to a complete stop, the best she can do is slow down to high speed. Rhen holds on and hopes for the best!
+
+Partial Moves. Characters can move anywhere be-tween half their “move speed” and the full move speed.
+
+Example: A speeder with a Move of 200 is going at high speed (up to 400 meters). The speeder can move anywhere between 200 and 400 meters.
+
+Long-Distance Movement. All-out movement takes its toll on vehicles — a vehicle continuously going all-out must make a body strength roll every 10 minutes.
+
+The first body strength difficulty is Very Easy; increase the difficulty one level for each additional roll. If the vehicle fails the roll by 1-10 points, the vehicle is suffering strain (such as overheating) and must “rest” for twice as long as it moved all-out. If the roll fails by 11 or more points, the vehicle has suffered a mechanical failure and requires a Moderate repair roll and at least one hour of work.
+
+High speed movement also requires body strength rolls: roll once every hour. The first roll is at Very Easy difficulty and increases one difficulty level for each additional roll.
+
+## TERRAIN DIFFICULTIES
+
+Very Easy 1-5. Driving over flat, artificial surfaces with no obstacles, such as roads. Driving in light traffic. Repulsorlift flight over any flat, stable surface.
+
+Easy 6-10. Driving over smooth surfaces with minor obstacles. Driving in moderate traffic. Repulsorlift through uneven terrain, or in moderate traffic, such as on a highway or on city streets.
+
+Moderate 11-15. Driving in heavy traffic at high speed. Driving over rough terrain or through an intense storm. Repulsorlift flight over very uneven terrain, such as down a chasm, or in any situation that severely limits visibility (bad storm or thick fog).
+
+Difficult 16-20. Driving a vehicle over very rough terrain, such as up a mountainside, through a crater field or during a meteor storm. Conducting a chase in heavy traffic or with other major obstacles. Repulsorlift flight through thick forests or in Beggar’s Canyon.
+
+Very Difficult 21-30. Driving through a city during an earthquake or fierce battle, as stray shots land all around your vehicle, buildings topple in front of you, or the highway you’re driving on begins to collapse. Repulsorlift flight under similar circumstances.
+
+[Página impressa 112 | PDF 114]
+
+Heroic 31+. Driving or repulsorlift flight in any situation that verges on the impossible: trying to navigate through thick swamps with branches and vines blocking the way at every turn. Racing through the core of an immense drilling machine and avoiding its heavy machinery.
+
+Maneuvers. The difficulty number covers basic flight maneuvers: straight-line movement, a couple of turns and other simple movements. If a characters wants to make a more difficult maneuver, such as jumping an obstacle or making an extremely tight turn at high speed, add modifiers as needed:
+
++1-5
+Maneuver is fairly easy.
+
++6-10
+Maneuver is somewhat difficult and requires a
+
+certain amount of skill.
+
++11-15 Maneuver is very difficult and requires a very
+
+talented (or lucky) driver or pilot.
+
++16+
+Maneuver appears to be almost impossible. Only
+
+the very best drivers can pull off a maneuver of this difficulty.
+
+Here are some possible maneuvers and their difficulties. Gamemasters (and players) are not limited to this list — many other maneuvers can be attempted and you must determine a difficulty for the task.
+
+• Bootlegger Turn. (Ground vehicles; +6 to +15 depending upon situation.) The vehicle slams on its brakes, spinning around and sliding. It only moves half of its normal Move, and ends up facing the opposite direction.
+
+• Extreme Climb or Extreme Dive. (Flying vehicles: +6 to +20 or more depending upon situation.) The vehicle climbs or dives at an extreme angle (45° or more).
+
+• Extreme Turn. (Ground and flying vehicles; +6 to +15 depending upon situation.) The vehicle is attempting a very tight turn (any turn over 45°) while maintaining a high speed. The specific modifier depends on how fast the vehicle is going and the difficulty of making the turn without losing control.
+
+• Jump. (Ground vehicles; +5 to +20 depending upon situation.) The vehicle is jumping, either off a bridge, from a cliff or from some other obstacle or ramp. The difficulty depends on how far the vehicle is attempting to jump and the difficulty of maintaining control upon landing.
+
+• Loop. (Flying vehicles; +15 to +30 or more depending upon situation.) The vehicle performs a loop (loop-de-loop) over the course of its entire move.
+
+• Rotate. (+5 to +15 or more depending upon situation) A hover vehicle (and some ground repulsorlift vehicles) at cruising speed or less can rotate — change direction up to 360° — without changing its inertia.
+
+## MOVEMENT FAILURES
+
+A vehicle that fails a movement roll may have to slow down or may even collide with an obstacle. Find the number of points by which the movement roll failed:
+
+1-3 Slight slip. The vehicle experiences a slight “slip” (gets sideways or almost swerves out of control). While the vehicle completes the movement, the pilot suffers a penalty of −1D to all actions for the rest of the round (in addition to normal multiple action penalties).
+
+4-6 Slip. The vehicle nearly slides out of control and only makes half its Move. The pilot suffers a penalty of −3D to all actions for the rest of the round, and −1D to all actions for the next round (in addition to normal multiple action penalties).
+
+7-10 Spin. The vehicle completes one-quarter of its Move and then goes spinning out of control. It can make no movements for the rest of the round and the next round. If the vehicle hasn’t been damaged by a collision, it may begin moving in two rounds.
+
+11-15 Minor collision. The vehicle glances off another vehicle or obstacle. (Subtract −3D from normal collision damage; see “Collisions.”) If there’s nothing to hit, the vehicle simply spins out of control and can make no movements for the rest of the round and the next round.
+
+16-20 Collision. The vehicle smashes into another vehicle or nearby object, doing normal collision damage. (See “Collisions.”) If there’s nothing to hit, the vehicle may spin out of control, or at the gamemaster’s discretion, the vehicle may begin to tumble, flip over, or experience some other collision.
+
+21+ Major collision. Crash!!! The vehicle runs into an obstacle and at such a poor angle as to increase collision damage by +4D. (See “Collisions.”) If there’s nothing to hit, the vehicle flips out of control or experiences some other serious collision.
+
+[Página impressa 113 | PDF 115]
+
+Collisions. The amount of collision damage depends on how fast the vehicle was moving. (When resolving collision damage with ships or objects of different scales, don’t forget to use appropriate damage die caps.)
+
+Speed | Collision Damage
+Cautious | 2D
+Cruise | 4D
+High Speed | 6D
+All-Out | 10D
+
+Roll the collision damage and compare it to the vehicle’s body strength roll. “Vehicle Damage” explains what happens.
+
+If the vehicle runs into another vehicle, the damage changes based on the angle of the collision.
+
+Head-on crash
++3D
+Rear-ender/sideswipe
+−3D
+T-bone
+0D
+
+You may want to adjust collision damage to reflect what a vehicle runs into. If a vehicle smashes into a hardened plasticrete wall, it suffers full damage. On the other hand, something with a little “give” — like a wooden fence or thick bushes — may absorb some of the impact while slowing the vehicle down: you may want to reduce collision damage by −1D, −2D or more.
+
+You should describe collisions in colorful detail since they’re one of the “emotional payoffs” of chase scenes.
+
+Example: Rhen is piloting her airspeeder at high speed. The difficulty number is 21, but she only rolls a 6 — she fails the roll by 15, which means a “minor collision.” High speed movement normally causes 6D damage, but the minor collision’s −3D to damage means that her speeder only suffers 3D damage.
+The gamemaster rolls the
+3D, while Rhen rolls her airspeeder’s body strength of 2D to resist damage.
+
+Later, Rhen fails another movement roll, this time by 24 points. The airspeeder was going at high speed and is in a “major collision:” the high speed movement causes 6D damage and the major collision adds another +4D to damage. Unfortunately, she also suffers a head-on crash with another speeder, for another +3D to damage. Her speeder suffers an incredible 13D damage!
+
+# VEHICLE COMBAT
+
+Rebel snowspeeders close in on the Empire’s AT-AT walkers, firing several volleys of laser fire at the armored behemoths...
+
+Princess Leia presses the accelerator on her speeder bike while an Imperial biker scout closes in from behind and opens fire...
+
+Vehicle combat works just like regular combat and is fought in five second rounds.
+
+To attack a vehicle:
+
+• Determine the difficulty number to hit the target (based on the range).
+
+• The attacker rolls his attack skill (normally vehicle blasters or Dexterity).
+
+• If the roll is equal to or higher than the difficulty number, the attack hits. Roll damage. (See “Vehicle Damage.”)
+
+Example: Rhen is shooting at an Imperial speeder bike. The bike is 150 meters away — that’s medium range for her airspeeder’s laser cannons. (Moderate difficulty; difficulty number of 12.) Rhen’s vehicle blasters skill is 3D and the cannons’ fire control is 3D — if Rhen doesn’t move the speeder, she gets to roll 6D to hit. If she rolls 12 or more, Rhen’s shot hits the speeder bike.
+
+## REACTION SKILLS
+
+The target can roll a reaction skill — this is a “vehicle dodge.” Roll the pilot’s repulsorlift operation (or other skill) and the vehicle’s maneuverability code.
+
+This is the new difficulty number to hit the vehicle.
+
+[Página impressa 114 | PDF 116]
+
+### COMPLEX MANEUVERS
+
+• Attack Pattern Delta: This is a frontal approach run by a squadron of airspeeders against an Imperial walker. The speeders approach single file, head-on to take the heat off of other targets the walker may be firing on and to make the walker’s pilot nervous (whether or not the speeder’s blasters can penetrate the armor, nobody wants to have one crash into him at full speed). The single file approach presents a small target profile to the Imperial gunners.
+
+Upon reaching optimal firing range, the walker is strafed with cannon fire by the speeder pilot, who then veers off. Each pilot veers off in a different direction, giving the head-mounted gunners only one target to fire on. Once out of range, the speeders regroup and make another run.
+
+In effect, this is a game of “chicken” played on a larger scale. If the Imperials keep their nerve, they stand a good chance of doing serious damage to one of the speeders, while receiving minimal damage in return. If the Imperials flinch, the speeders will get off scot-free.
+
+Game Notes: Each pilot must make an extra Easy repulsorlift operation roll to take up attack pattern delta formation. While this pattern offers no additional protection for the lead speeder, each following speeder gets a +1D bonus when attackers straight ahead of the attack pattern attempt to shoot at the following speeders.
+
+• Bantha Decoy: This maneuver is a variation of a trick Luke Skywalker used to pull in his old T-16 Skyhopper on his home world of Tatooine. Approaching an unsuspecting bantha from behind, Luke’s wingman would cut out in front of the beast. The annoyed bantha would naturally
+
+turn its head in the direction of the Skyhopper, presenting a profile of its head to Luke, following behind in a second T-16. Luke would then attempt to ping the bantha in the ear with a sighting laser shot. The laser signals were very weak and (mostly) harmless. If the shot missed the ear, the bantha wouldn’t even notice it; if the shot was dead on target, the startled beast would buck and rear in a most gratifying fashion.
+
+As an airspeeder combat maneuver performed against an Imperial walker, the “bantha decoy” stays pretty much true to form. A pair of airspeeders approach a walker from behind. The lead speeder shoots out in front of the walker, then banks sharply to the right, left, or straight up. The walker follows the lead speeder with its guns as the speeder banks, thus giving the trailing speeder a clear shot at the less armored head and neck assembly.
+
+Game Notes: To perform a Bantha Decoy use the following rules. If the lead speeder succeeds in the attack on the walker, have the walker’s commander make an opposed tactics or Perception roll (against the lead speeder’s tactics or Perception). This does not count as an extra action — it is a “free” roll for both parties.
+
+If the walker commander beats the lead speeder pilot’s roll, the tactic fails. If the walker commander loses to the lead speeder pilot, the walker commander is fooled. The commander orders the walker to follow the path of the attacking speeder, exposing the walker’s blind side to the trailing speeder. The trailing speeder gets a bonus of +1D+2 to hit the walker, while the walker’s gunners suffer a penalty of +5 to the difficulty to hit the trailing speeder as it flees.
+
+Example: The speeder bike pilot decides to make a vehicle dodge to get out of the way of Rhen’s attack. The pilot’s repulsorlift operation skill is 3D+2 and the bike’s maneuverability code is 3D: his vehicle dodge roll is a 21 — Rhen’s new difficulty number to hit the speeder is a 21!
+
+Full Reaction. The pilot can make a “full reaction.” Roll the vehicle dodge; this can be the only action in the entire round.
+
+The character rolls his repulsorlift operation (or other skill) and the vehicle’s maneuverability code and adds it to the difficulties of all attacks made against the vehicle that round.
+
+Example: Later on, Rhen fires again at the speeder bike: she’s still at medium range, for a Moderate difficulty and difficulty number of 12.
+
+The Imperial speeder bike pilot decides to make a full vehicle dodge: he rolls his 6D+2 (repulsorlift operation of 3D+2 and the maneuverability of 3D) and gets a 25. Because this is a full vehicle dodge, Rhen’s new difficulty number is a 37! However, the speeder bike pilot can’t do anything else in the round, not even move his speeder.
+
+## VEHICLE COMBAT MODIFIERS
+
+All modifiers from the chapter on “Combat and Injuries” apply to vehicle combat. There are a few additional modifiers which may come into play.
+
+Scale. Be sure to take into account scale modifiers for combat between vehicles of different scales.
+
+Cover. Most vehicles provide some protection to the pilot and any passengers — it will be listed as None, 1/4, 1/2, 3/4 or Full. Add the cover and protection modifiers as described in the chapter on “Combat and Injuries.”
+
+## VEHICLE WEAPONS
+
+Vehicle weapon descriptions list what skill the weapon needs, its fire control and damage, as well as its fire rate and blast radius (if needed).
+
+Ranges. If a weapon lists four ranges, the first range listing is for point-blank range (Very Easy difficulty). Anything less than point-blank range is too close for the weapon to be targeted accurately — the difficulty is Very Difficult.
+
+[Página impressa 115 | PDF 117]
+
+Example: A blaster cannon range is 10-50/100/ 200/500. Anything between 10 and 50 meters away is at point-blank range (Very Easy difficulty). Anything closer to the weapon than 10 meters is at less than point-blank range: the difficulty is Very Difficult.
+
+Crew. A weapon’s “crew” listing is the number of gunners necessary to fire the weapon in combat. A listing of “Crew: 1” means the weapon can be fired by one person. A listing of “Crew: 2” means that two people must work the weapon, but only one person rolls his vehicle blasters skill to see if the attack hits. If a weapon doesn’t have a crew listing, it means it can be fired by the pilot.
+
+Fire Arc. Weapons also list fire arcs — the direction (or directions) the weapon can be fired. Weapon fire arcs are front, back, left, right and turret. (Turrets can fire in any direction.)
+
+### Ramming
+
+One vehicle can try to ram another. To do so, it must pass very close to the target vehicle during its move.
+
+Add +10 to the movement difficulty for the ramming vehicle. Ramming also counts as a separate action: the pilot suffers an additional −1D penalty.
+
+If the pilot’s repulsorlift operation (or other skill roll) is higher than the difficulty, the attacking vehicle rams the target vehicle.
+
+If the pilot’s repulsorlift operation (or other skill roll) is lower than the original movement difficulty number, the pilot fails; see “Movement Failures.”
+
+If the pilot’s repulsorlift operation (or other skill roll) is equal to or higher than the original difficulty but lower than the new movement difficulty, the vehicle completes the move successfully, but the ram attack misses.
+
+Target vehicles can make a vehicle dodge to avoid a ram attack. Ram attacks damage both vehicles: the attacker suffers damage as if involved in a sideswipe (−3D to normal damage), but the victim suffers damage as if involved in a T-bone (normal damage).
+
+Example: Rhen is trying to close in on a speeder bike but she’s 150 meters behind it. The speeder bike has a Move of 175. The driver has initiative and goes first. He decides to move at cruising speed and succeeds at a repulsorlift operation roll. The speeder pulls ahead 175 meters: it’s now 325 meters ahead of Rhen.
+
+Rhen decides she’s going to take two actions (−1D penalty to both skill rolls): she wants to pull up close to the speeder bike and ram it. (To ram it, she has to pull at least even with the speeder bike.)
+
+Rhen decides to try the ramming attack. The terrain is Moderate; the difficulty number is 12. Her airspeeder’s Move is 200; since the speeder bike is 325 meters ahead of her, she needs to move at high speed to catch up. The ramming attack adds another +10 to the difficulty number — it’s now a 22.
+
+If Rhen rolls less than 12, she failed her repulsorlift operation roll and had a movement failure. If she rolls a 12-21, she succeeds at the repulsorlift operation roll and crosses the terrain, but misses her ramming attack.
+
+Rhen rolls a 24. Her speeder races up on the speeder bike and smashes into the side. Rhen’s speeder is moving at high speed (6D collision damage), but has the sideswipe result (−3D damage), so it only takes 3D damage. The speeder bike suffers the high speed collision damage (6D damage).
+
+# VEHICLE DAMAGE
+
+Rather than suffering injuries, vehicles take damage: engines may be damaged, weapons systems may be disabled and so forth.
+
+When a vehicle has a collision, roll the collision damage and compare it to the vehicle’s body strength roll (this is like a character’s Strength roll to resist damage). If a vehicle is blasted in combat, compare the weapon’s damage roll to the vehicle’s body strength roll.
+
+If the damage roll is lower than the body strength roll, the vehicle takes no damage. If the damage roll is equal to or higher than the body strength roll, find the result on the “Vehicle Damage Chart.”
+
+Shields blown. A shields blown result means that the vehicle loses −1D from its shields total (if it has any). This loss lasts until the shields are repaired. If the vehicle has no dice remaining in shields (or had no shields to begin with), it suffers the controls ionized result.
+
+Controls ionized. A controls ionized result means that the vehicle’s controls suffer a temporary power overload. The ship loses −1D from its maneuverability, fire control for weapons, damage from weapons, and shield dice for the rest of that round and the next round. (The vehicle’s body strength stays at its full die code.)
+
+If a vehicle is suffering from as many controls ionized results as the vehicle has maneuverability dice, its controls are frozen for the next two rounds. The vehicle must maintain the same speed and direction for the next two rounds; it may not turn, fire weapons, make shield attempts or take any other action.
+
+When controls are frozen, blue lightning plays across the vehicle’s controls, as shown when Luke Skywalker’s snowspeeder was disabled in The Empire Strikes Back. A pilot must make the vehicle’s operation rolls while the controls are frozen or the vehicle automatically crashes.
+
+## VEHICLE DAMAGE CHART
+
+Damage Roll ≥ Body
+
+Strength Roll By: | Effect
+0-3 | Shields blown/controls ionized
+4-8 | Lightly damaged
+9-12 | Heavily damaged
+13-15 | Severely damaged
+16+ | Destroyed
+
+[Página impressa 116 | PDF 118]
+
+Example: Rhen is flying an airspeeder with a maneuverability of 2D+1. The speeder suffers two controls ionized results; its controls are now frozen: Rhen can’t slow down, speed up or change course.
+
+Rhen’s repulsorlift operation difficulty is a 13 — if she rolls a 13 or higher for the next two rounds, she manages to keep the speeder from crashing. After the two rounds are up and Rhen regains control, she has to be careful: if her speeder suffers another controls ionized result, her controls will be frozen again.
+
+Lightly damaged. Vehicles can be lightly damaged any number of times. Each time a vehicle is lightly damaged, roll 1D to see which system is damaged.
+
+1-3. Vehicle loses −1D from its maneuverability. (If the vehicle’s maneuverability has already been reduced to 0D, the vehicle suffers a −1 Move.)
+
+4. One on-board weapon was hit and destroyed; the gunners take damage. (See “passenger damage”). Randomly determine which weapon is hit.
+
+5-6. Vehicle suffers −1 Move.
+
+Heavily damaged. Heavily damaged vehicles have taken a much more serious amount of damage. If a heavily damaged vehicle is lightly damaged or heavily damaged again, it becomes severely damaged. Roll 1D to see what system is affected.
+
+1-3. Vehicle loses −2D from its maneuverability until repaired. (If the vehicle’s maneuverability has already been reduced to 0D, the vehicle suffers a −2 Move.)
+
+4-6. Vehicle suffers a −2 Move.
+
+Severely damaged. Severely damaged vehicles have taken major amounts of damage and are almost rendered useless. A severely damaged vehicle which is lightly damaged, heavily damaged or severely damaged again is destroyed. Roll 1D to see what system is affected.
+
+1-2. Destroyed powerplant. The vehicle’s repulsorlift generator or motor is completely destroyed. If a ground vehicle is moving at high speed or all-out speed, it crashes. If the ground vehicle is moving at cruising or cautious speed, it simply rolls or bounces to a stop. Flying vehicles plummet towards the ground — the pilot must make an operation roll to land the vehicle (minimum difficulty of Moderate) or it crashes.
+
+3. Overloaded generator. The engine or generator begins to overload and will explode in 1D rounds, completely destroying the vehicle. (The minimum difficulty to crash-land or stop the vehicle safely is Moderate.)
+
+4. Disabled weapons. All weapons systems completely shut down.
+
+5. Structural damage. The vehicle begins to break up or a major system fails. (The pilot has 1D rounds to eject or crash-land the vehicle; the minimum difficulty to crash-land or stop the vehicle safely is Moderate.)
+
+6. Destroyed. The vehicle is destroyed or crashes into another object due to complete loss of control.
+
+Destroyed. The vehicle is immediately destroyed. All passengers take damage. (See “Passenger Damage.”)
+
+### Lost Moves
+
+Lost Moves add together. For example, a vehicle that suffers a −1 Move result, then a −2 Move result is at “−3 Moves.”
+
+−1 Move: The vehicle or creature can no longer move at all-out speed; it is limited to high speed.
+
+−2 Moves: The vehicle or character is limited to its cruising speed.
+
+−3 Moves: The vehicle or character can only move at its cautious speed.
+
+−4 Moves: The vehicle’s drive is disabled and it cannot move until repaired.
+
+−5 Moves: The vehicle is destroyed.
+
+### Passenger Damage
+
+Passengers may be injured when a vehicle suffers damage or crashes. Use your judgment to decide whether a character takes damage. If a vehicle is destroyed, everyone is almost certainly killed. On the other hand, if the characters are in the pilot’s compartment of a sail barge and a weapon turret on the other side of the barge is destroyed, it’s very unlikely they’ll be injured.
+
+Determine character damage based on how badly the vehicle is damaged (Damage is character-scale).
+
+Vehicle is:
+
+Passenger
+
+Lightly damaged | 1D
+Heavily damaged | 3D
+Severely damaged | 6D
+Destroyed | 12D
+
+suffers:
+
+### Falling Damage
+
+Whenever anything falls and smacks into the ground, the damage is dependent upon how far the character or object fell. The damage always matches the scale of the thing falling — characters suffer character-scale damage, speeders suffer speeder-scale damage, and so forth.
+
+These values are for standard gravity worlds. Increase the damage a couple of levels for high gravity worlds and decrease falling damage a couple of levels for low gravity worlds.
+
+Distance Fallen
+
+3-6 | 2D
+7-12 | 3D
+13-18 | 4D
+19-30 | 5D
+31-50 | 7D
+51+ | 9D
+
+(in Meters)
+Damage
+
+[Página impressa 117 | PDF 119]
+
+# SPEEDS
+
+You can use a vehicle’s (or character’s) Move to find its all-out speed in kilometers per hour.
+
+ | Kilometers |  | Kilometers
+ | Per Hour |  | Per Hour
+Move | (All-Out) | Move | (All-Out)
+3 | 10 | 150 | 430
+5 | 15 | 160 | 460
+7 | 20 | 175 | 500
+8 | 25 | 185 | 530
+10 | 30 | 195 | 560
+14 | 40 | 210 | 600
+18 | 50 | 225 | 650
+21 | 60 | 260 | 750
+25 | 70 | 280 | 800
+26 | 75 | 295 | 850
+28 | 80 | 330 | 950
+30 | 90 | 350 | 1,000
+35 | 100 | 365 | 1,050
+45 | 130 | 400 | 1,150
+55 | 160 | 415 | 1,200
+70 | 200 | 435 | 1,250
+80 | 230 | 450 | 1,300
+90 | 260 | 470 | 1,350
+105 | 300 | 485 | 1,400
+115 | 330 | 505 | 1,450
+125 | 360 | 520 | 1,500
+140 | 400
+
+A vehicle’s “high speed” (“running” speed for the character) is half the all-out kilometers per hour speed. A vehicle’s cruising speed (“walking” speed for a character) is one-quarter of the “kilometers per hour” speed. A vehicle’s cautious speed (a character’s “slow walk”) is one-eighth the “kilometers per hour” speed.
+
+Example: Rhen is piloting an airspeeder with a Move of 350 (its all-out speed is 1,000 kilometers per hour). If she flies the speeder at high speed (500 kilometers per hour). If she’s flying the speeder at cruising speed, she’s flying at 250 kilometers per hour.
+If she decides to fly at cautious speed, she’s going 125 kilometers per hour.
+
+You can find a vehicle’s all-out speed in kilometers per hour by multiplying the Move by 2.88.
+
+Example: Rhen is flying a landspeeder with a Move of 200. Its all-out speed is 576 kilometers per hour.
+
+# RUNNING CINEMATIC CHASES
+
+While this set of rules allows you to measure out every move of every round, you should consider using a “cinematic” approach when running chases and vehicle battles in your games.
+
+Cinematic combat is about characters on speeder bikes racing through the air at 600 kilometers per hour, blaster bolts flying wildly around them — pick a difficulty number, roll the character’s skill, give a snappy description of what you think should happen — and keep the game moving.
+
+Whether the vehicles are 140 meters apart or 150 meters apart isn’t as important as making the chase or battle as exciting as the ones in the Star Wars movies.
+
+Use a combination of rounds and scenes to maintain the flow of the game. Rather than rolling for every round, lump several minutes’ travel into one scene: have the players decide how fast they’re moving and roll their repulsorlift operation (or other skill) a couple of times. If the characters beat the terrain difficulty number, they have no problems; if they roll lower than the difficulty number, they may have had to slow down or may have even had a minor collision.
+
+Then, compare the piloting rolls of their opponents — if their opponents started far behind but made several great rolls, they may be able to catch up to the player characters. If the gamemaster characters rolled poorly, the player characters may have pulled away.
+
+Once the stage is set, you can run a round-by-round battle as the climax of the chase. When you use round-by-round combat, don’t be afraid to “bend” the rules in favor of telling a great story — approximate ranges and terrain difficulties, and estimate difficulty numbers quickly.
+
+Focus on exciting narration — “the Imperial airspeeder races ahead, diving into the forest. You notice three more speeder bikes are coming up from behind — the lead speeder opens fire! What are you going to do?”
+
+Yes, you’re sacrificing a certain amount of “realism,” but the game moves quickly and you also now have the freedom to adjust difficulty numbers to suit the needs of your adventure.
+
+For more suggestions on running these types of scenes, see “Long-Distance Travel” in this chapter and the chapter “Roleplaying Battles.”
+
+Encounters. When setting up a cinematic chase, you should have a general idea of what the vehicles could run into. What’s the terrain like and what obstacles will the combatants face? You have to figure out who’s involved in the battle. (Some people sketch out a map of the chase area — but that’s only necessary if you think you need one to keep track of what’s going on. Other people are perfectly happy to make up details and terrain
+
+[Página impressa 118 | PDF 120]
+
+difficulty numbers on the fly: “You round the hill, gun the throttle... and right ahead is a thicket of trees! There’s no time to turn. Make your repulsorlift operation roll as you dive into the thick branches!” )
+
+You can also create several “encounters” to liven up the chase. An encounter is anything “extra” that happens to complicate the chase: freak weather, special terrain, people pulling out in front of the combatants, traps (such as repulsor mines set up to protect the mouth of a canyon), avalanches caused by the noise of the chase... anything that adds to the tension.
+
+For example, if the characters are in a chase in the middle of a city, here are some possible encounters:
+
+• Someone pulls out right in front of the characters’ landspeeder. The driver must make a Difficult repulsorlift operation roll to avoid a high speed collision.
+
+• The characters stumble into a traffic jam. The speederways in front of them are completely blocked. Now where are they going to go? Maybe they should take to the aqueducts running parallel to the highway... but first they have to jump the security fence: a Very Difficult repulsorlift operation roll is needed to loft the speeder over the fence and not crash.
+
+• If the characters take a wrong turn, maybe they end up careening into the heart of an immense zoo or amusement park. They have to make several rolls to avoid obstacles (energy fences surrounding the animals, the machinery of the rides and so forth)... and find some way to avoid getting caught... and not get lost!
+
+• If the characters weren’t already being hounded by the local authorities, they are now! If they’re already being chased, more police speeders close in from all sides... their capture looks a lot more certain. Whoever they’re chasing is probably going to get away if the characters are pulled over.
+
+• A speeder from a local news agency starts following the chase, broadcasting every second of the “pitched battle.” Of course, that one speeder will soon be joined by others. Now, the characters aren’t going to be able to escape (unless they can lose the news agency speeders) and they’re most certainly going to be identified.
+
+Props. You can use Star Wars vehicle miniatures from various licensed manufacturers to show all the vehicles in a chase. You can just move the vehicles around each turn to show their relative positions. Use stacks of coins or counters to show the altitude of each speeder. Having terrain to set up around the vehicles is a nice touch, too.
+
+While setting up a battle scene like this takes some work, it will certainly get the players into the spirit of the chase: they’ll soon start moving “their” speeder around while describing their maneuvers... and everyone will enjoy the game that much more.
+
+(Because vehicles move so fast, you can’t really create terrain for the whole scene. You also don’t really need to worry about the “scale” of the battle — just move the figures around to show “roughly” where everyone is.)
+
+When staging major battles between characters, you may want to use maps and counters — or better yet, painted miniatures, Star Wars figures sets and scenery — to show the players what’s happening. They’re not necessary for the game, but they help all the players see exactly where their characters and their
+
+opponents are standing. The player can see the crates his character is going to dive behind and knows exactly where the enemy stormtroopers are standing. Just as with vehicle miniatures, the players will soon get into the game and move “their” characters around on the table. Again, the visual representation gets everyone that much more interested in the game!
+
+### Three-Dimensional Combat
+
+If you’re running a battle with exact distances and the combatants are at different altitudes, here’s a quick and easy way to measure approximate weapon ranges:
+
+• Measure the horizontal and vertical distances between the vehicles.
+
+• Divide the smaller of the two numbers in half and add it to the longer one: that’s the range.
+
+Example: Thannik is firing at a snowspeeder off in the distance. It’s 150 meters away and 30 meters above him. Thirty meters is the smaller of the two, so add 15 to 150 to get a range of 165 meters.
+
+# OTHER NOTES
+
+### Long-Distance Travel
+
+Just as with chases, you should use a combination of scenes and rounds for long trips. First, determine the “basic terrain difficulty” for each leg of the journey: clear plains might be Easy, while a thick forest might be Difficult. Then, have the driver or pilot make his repulsorlift operation (or other skill) roll.
+
+If the pilot rolls below the difficulty number, there has been some kind of random incident. The vehicle may break down. Maybe the characters have a minor accident. Perhaps the local terrain is populated by large and exceedingly stupid herbivores that have a knack for wandering in front of oncoming speeders.
+
+While the incident doesn’t have to be directly related to the adventure, it can affect the game: if the characters get pulled over for violating local speed ordinances — and the local law enforcement officials run an identity check and find that they’re wanted for past offenses — the characters may spend several hours clearing up their problems. Of course, the people they’re trying to catch now have a few extra hours to get away.
+
+### Encounters
+
+Pre-planned encounters can be a very effective way to liven up an adventure with a long trip.
+
+Maybe the characters have to deal with a freak storm and seek shelter. What kind of repulsorlift operation difficulties do they face? What happens if they fail a roll? Where can they find a place to stay and who do they run into while they’re there? Who can they get to repair their speeder if it’s damaged in the storm?
+
+Any number of other encounters can liven up the game: maybe the characters get ambushed by bandits, have to avoid an ambush in a small town when they pull over for lunch, have to bluff their way through an Imperial security checkpoint (“These aren’t the droids you’re looking for.”) — whatever you want to add to your game.

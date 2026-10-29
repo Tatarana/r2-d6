@@ -1,0 +1,1435 @@
+CHAPTER 12: DESIGNING ADVENTURES
+(Páginas impressas 196-230 | PDF 198-232)
+
+[Página impressa 196 | PDF 198]
+
+12
+
+# DESIGNING ADVENTURES
+
+“They asked me, General Dodonna, to play host to this chapter... because planning an adventure is very much like planning a battle. You need to know your objective; anticipate things that might go wrong; and be prepared to make decisions when you have to. Back in the days when I had the honor of commanding Rebellion forces, and in the years since, I learned how vital it is that you think ahead.
+
+“But it is important to remember that there are differences between a battle and an adventure as well. In a battle, your goal is to conquer territory and defeat the enemy; in an adventure, your goal is for everyone involved to have fun, and you aren’t trying to defeat your players — just challenge and entertain them.
+
+“A good general knows when to stop talking and simply listen, and I hope that is what you will do now, as we explore the secrets of adventure design...”
+
+The Star Wars Roleplaying Game has been around since 1987. There are a lot of published adventures out there — certainly enough to keep a group of players entertained and busy for years. But sooner or later, the creative bug will bite, and you’ll want to cook up adventures of your own. After all, who knows what your players wait out of an adventure better than you? You are in the position to give them exactly what they are asking for. No published adventure, no matter how good, can do that.
+
+And guess what? When you take the plunge, you’ll soon discover that adventure design is one of the joys of gamemastering. Best of all, adventure design looks a lot more difficult than it really is. We won’t kid you, though; it does demand time and effort of you, and a healthy dose of imagination. But if you follow the game plan, you’ll be fine.
+
+The basic steps of adventure design are simple:
+
+CHAPTER TWELVE
+
+[Página impressa 197 | PDF 199]
+
+1.Come Up With a Good Story Idea. When you run your first adventures, you should concentrate on coming up with an interesting story. Try to devise a story that is interesting to yourself and your players — whether you want to tell stories about Separatists fighting the Republic, Rebels fighting the Empire, smugglers trying to make an honest (?) living, traders trying to build up trade routes, bounty hunters looking for dangerous criminals or scouts searching out new cultures, The Star Wars Roleplaying Game can handle these types of stories.
+
+2. Develop a Plot Around the Idea. With a basic story created, you should break the story into a series of episodes, which are major portions of a story, and scenes, which are the individual segments within each episode and contain major events, encounters and challenges that drive the story along to its conclusion. In brief, consider “episodes” to be like acts in a play or chapters in a book, while scenes are each individual scene that will take place during an act or adventure.
+
+3. Translate These Episodes Into Game Terms. With the story broken down into manageable chunks, you can then decide how to use the rules in your game. Rather than concentrate on the rules at this time, remember this maxim: only use the rules you want to!
+
+The Star Wars game works on a simple principle: everything, from shooting weapons, to flying starships, to trying to use medicine to heal someone, works in the same way. Pick a difficulty level and a difficulty number that corresponds to that difficulty. Then have the character roll the relevant skill or attribute against that difficulty. If they beat the difficulty they have succeeded at the task.
+
+While there are many rules that add more detail and take into consideration all kinds of special circumstances, all of the rules boil down to this standard mechanic for accomplishing tasks. In other words, if you just pick difficulty numbers and have the characters roll their skills against tasks, you are using the core of the game system without getting bogged down with a lot of rules.
+
+4. Make Final Preparations. After you have mapped out how you will use the game rules, it is time to make final preparations: make more detailed notes on any gamemaster characters you want to use, prepare scripts and other handouts for the characters, draw maps and prepare miniatures if you are going to use them.
+
+5. Create Player Characters. Next, get together with the players and help them choose and prepare their characters.
+
+6. Create an Improvised Star Wars Movie. After that, you are ready to play Star Wars. When you are running your first adventure, the basic key is to have fun no matter what happens. Try to keep the adventure’s pace fast and exciting so the players are interested, ham it up when playing gamemaster characters, and play the game as fast as possible, even if it means taking shortcuts with the rules. Above all else, make sure the players are having fun and get a sense of accomplishment, and there’s nothing to assure that like having the characters be heroes and overcome incredible odds.
+
+If you skim the rest of this chapter, you will find that each section is devoted to a specific facet of adventure creation and play. You should feel free to look over the rest of this chapter at
+
+your leisure and incorporate the ideas and suggestions as you see fit. The following sections include more detailed information on settings, encounters, and campaigns. For now, however, it’s time to get your first adventure ready. Read on...
+
+## THE STORY IDEA
+
+The story idea is the hook you hang your adventure on. The easiest story ideas are snippets of a plot you can blow up into full-blown adventures with a bit of work — a nefarious pirate hijacks the character’s ship; a young child is looking for her mother; an old pilot buddy wants the characters’ help; an old asteroid miner tells the characters a story about a mysterious ship he saw hiding in the local asteroid belt; the character’s ship is grounded in a dockworkers’ strike as the Imperial search team nears...
+
+Other ideas can come out of news stories, books you have read, movies you have seen, or from just about any other source, from conversations to something that happened to you on the way to the mall. Maybe you read an article about the effects an asteroid impact on Earth would have on the planet. Could this be spun into a Star Wars adventure? Sure. Toss in an undeveloped alien species living on a doomed planet, and well-intentioned Rebel characters can become heroes in a hurry (especially if the grateful species can contribute badly-needed resources to the Rebel effort).
+
+The idea doesn’t have to be complicated. Just as an oyster makes a pearl from a single grain of sand over time, you can build up a simple idea into a more complicated adventure one layer — one step — at a time.
+
+### Brainstorming
+
+It isn’t always easy to come up with a good story. Sometimes, you might sit there, staring at that blank sheet of paper, knowing that your players are counting on you to get them up to their hips in danger in just a few days. What to do?
+
+Time to jump-start the creative process by brainstorming. Clear your mind, and start jotting down every cool concept that enters your mind, no matter what it is. Write down everything you can think of. Then, try to use these phrases and ideas to come up with a few plot threads that can be built into a story. Here are a couple of ways you might get started:
+
+### Flesh Out An Element
+
+Pick an element from the Star Wars universe. Don’t limit yourself to the movies — branch out and consider the novels, comics, computer games, radio plays, and so on. Anything will do. Then think of a way that introducing that element into your game might create conflict and excitement. What can you add to the adventure to increase the fun?
+
+Example: Kristen is desperate for a fresh new idea for an adventure. She remembers the Jedi Holocron from a Dark Horse comics series. The Holocrons are ancient holo-recordings left by the Jedi of old for their students. Most were destroyed, confiscated, or hidden when the Empire came to power. What if the characters were to stumble across one, maybe unawares? That idea is okay, but it needs a bit more.
+
+What if the Holocron was not from a Jedi, but an ancient Sith master? Kristen starts to get more inter-
+
+[Página impressa 198 | PDF 200]
+
+### MAKING IT STAR WARS
+
+Roleplaying adventures are stories, which the gamemaster and the players tell together. So when you’re trying to come up with an idea for an adventure, think about the kinds of stories that make sense for Star Wars. You can incorporate many genres into a Star Wars adventure, from mystery to techno-thriller. Some work better than others in a Star Wars format, but the success of your efforts will largely depend on the interests of your playing group.
+
+The most important concept to grasp when trying to give your adventures a truly authentic Star Wars feel is this: more than anything else, Star Wars is space opera. Space opera, as a sub-genre of science fiction, has some specific conventions which you might want to keep in mind when developing adventures:
+
+• Action. Space opera moves. Sure, there are quiet moments, but sooner or later (usually sooner), a threat manifests itself, and the characters spring back into action. The plot never stands still for long.
+
+Action includes combat, starship combat, chases, interesting character action, or any other kind of dramatic conflict — the point is that the conflict unfolds quickly, and the characters spend their time reacting to things, rather than diligently plotting every move.
+
+• Morality Plays. Space opera often pits good against evil. The conflict may be a personal one, such as that between Luke Skywalker and Darth Vader, or it may be larger in scope, such as when the Rebel Alliance attacks the Empire’s Death Star battle station. In morality plays, good eventually triumphs over evil — if it doesn’t happen right away, then it certainly will in the long run.
+
+Not everyone in Star Wars is pure good or pure evil, of course. Some of the most interesting protagonists, such as Han Solo and Lando Calrissian, have rougher, less-than-perfect elements that make them more complex, three-dimensional characters. Overall, however, telling right from wrong seems much easier in the Star Wars universe than in our world, and if an action is “right,” taking action against evil is always justified!
+
+ested. Could the temptation to use Sith powers for good provide her Jedi player some great roleplaying opportunities? What if the Sith artifact is already being sought by agents of the Emperor? Maybe Dark Adepts are already closing in on the characters, preparing their evil plans...
+
+### Create a Vista
+
+Remember that first breathtaking glimpse of Cloud City? Of Coruscant? Sure you do. Those were carefully-crafted shots designed to establish the character of those locations, and to create interest in what might happen there.
+
+Writers and directors often settle on locations and scene ideas by visualizing them, gradually adding detail to their mental images until the places are as real to them as their own
+
+• Epic Storytelling. Space opera is about larger-than-life stories — giant armies and space armadas clashing, huge empires, super-weapons which threaten worlds, and dashing heroes and fearsome villains. Desperate heroes faced with overwhelming odds are a hallmark of space opera.
+
+Star Wars is no exception. Though your characters will not be likely to play a huge part in the grand epic unfolding before them (on the other hand, they might!), their conflicts will seldom be small, mundane challenges. Even adventures which start small soon balloon into bigger affairs: if the characters save a small village from destruction, they can be sure that they’ll soon be called upon to save the whole planet; they may start out putting a few local criminals back into line, but wind up taking on criminal syndicates worth millions of credits.
+
+There are two other points you ought to consider to help your adventure capture the atmosphere of the Star Wars universe. Either can become a crutch if overused, but both are effective tools if used in moderation:
+
+• Props. Dress your sets and scenes with Star Wars staples drawn from the movies — TIE fighters, R2 units, Clone Troopers, Jedi, Wookiees, and other easily recognizable Star Wars icons. The presence of such props keeps the adventure firmly grounded in the Star Wars universe.
+
+• The “Wow Button.” Remember the first time you saw Star Wars, as your seat rumbled from the deep music and that Imperial Star Destroyer lumbered into view? “Wow!” Remember the first time you saw Darth Vader, clad in his powerful battle armor? “Wow!” Remember the first time you watched the Jar Jar Binks fill the screen with his heroic presence? “Wo-” err... well, you get the idea.
+
+Push that wow button when you can. Set up scenes which will really impress the players. Don’t stage your final climactic battle in an unremarkable alley if you can set it in the giant clockworks of an ancient alien aqueduct.
+
+Take care, of course, that you don’t abuse the wow factor. Too many trés-cool scenes piled up one on top of the other will dull the senses. As in the movies, save them for your key scenes and best moments.
+
+backyards. You can use the same technique to get moving on a story idea (it is also a useful exercise to try after you have the adventure planned out — your descriptions will be much more detailed and convincing).
+
+Visualize a cool vista or visual element. The more unusual, quirky, or spectacular it is, the easier it will be to mine for story ideas. Once you have your vista fully-formed in your mind, start to ask yourself questions about it. Who lives there? What are they up to? What will happen to the characters if they go there? In answering these questions, you will begin to close in on a host of story ideas.
+
+Example: Kristen comes up with a really cool visual element — a group of Droid Tri-fighters flying up a sheer, rough cliff face. The cliff is literally thousands of meters high and is bathed in a bright orange sun
+
+[Página impressa 199 | PDF 201]
+
+set. As the fighters reach the top of the cliff, there is a castle, with grand spires and a massive wall ringing it. As the fighters climb higher, the “camera” reveals that the castle is on a huge plateau which is pitted with craters and that there is a massive sandstorm creating a gigantic cyclone scores of kilometers away.
+
+What kind of people live in the castle? How about a sect of Gamorrean scholars? Not the typical beast-like grunts we saw in Return of the Jedi, but the educated elite of the species, who live disciplined, isolated lives as monks. Okay, that’s different, Kristen thinks, that’s a start. What might interest the characters here? Maybe records of an ancient Jedi chapter house thought to be in caverns not far away? Not bad — she can tie this into her prior idea of the Sith Holocron. Why are the droid fighters swarming the fortress? Are they here because of the characters, or have the Gamorrean monks decided to openly defy the Separatists? Maybe a new leader has emerged among them, who is more interested in keeping faith with the society’s beliefs than in colluding with the Separatists. Maybe there are two camps in the castle, one of which plans to betray the other to the Separatists. Lots of chances for political intrigue here, which Kristen’s players enjoy.
+
+Kristen decides to drop the Jedi chapter house and go with this idea. Maybe the characters have been invited to the castle because the monks want a treaty, or the ruling faction does. The rest plot to bring down the order by bringing in the Separatists…
+
+As you can see, a single dramatic image can quickly grow into a multi-session adventure.
+
+### The Master Character
+
+Coming up with an interesting gamemaster character is another good way of sparking story ideas. We’ll talk in depth about developing gamemaster characters in a few chapters, but for now, run with the idea of concocting a mover-and-shaker — not a minion, but someone who will definitely alter the characters’ world when he or she walks onto the stage.
+
+This person can be either a good guy or a bad guy, but in a pinch, the bad guy option is better. By making your master character an antagonist with strong motivations and goals contrary to those held by the characters, you create conflict. And that leads right to story ideas.
+
+Example: After a bit of thrashing about, Kristen begins to develop an Imperial poet she names Nacrotis. Nacrotis is not simply a poet, but a favorite of an influential Moff’s court — he is a man with considerable power. Nacrotis is an extremely eccentric artist who is indifferent to the suffering of others. To him, the great art of poetry is more important than the lives of the little people. His specialty is slipping unnoticed into the stable lives of his “models,” gradually gaining their trust and confidence by doing them small favors and lending a sympathetic ear, and then using his influence and power to destroy them bit by bit, all the while documenting their pain and despair for the enjoyment of the Moff’s associates. He takes great care in selecting his next “canvas,” and likes to take on people at all levels of society.
+
+It is easy to see that several adventures could be created around Nacrotis if he should settle on the characters as his next subjects!
+
+### Use Other Stories
+
+We’ve already mentioned that story ideas can be drawn from movies, books, plays, news stories, and so on. Raid these sources for ideas — altered a bit and repackaged as Star Wars adventures, they often take on new life. You can try science fiction or fantasy novels, movies and comics, but other genres yield good results too, and may not be as familiar to your players. Read other types of fiction, like detective stories, espionage or adventures. Use plots from old movies — or from literature (Alexandre Dumas is a good place to start). And, of course, there is the richest source of ideas imaginable — the real world: our planet’s history and current events provide endless story ideas.
+
+If you are really stumped for a story idea, running through the headlines of old news online can yield some real gems (many news websites archive old news stories for several years — these are especially good sources).
+
+Example: Kristen browses through old news articles online looking for ideas. She jots down a few promising leads:
+
+• Hong Kong is about to be reclaimed by China.
+
+• A petroleum company has been experimenting with extremely deep oil drilling in the Gulf of Mexico.
+
+• An op/ed writer wonders whether the English “Chunnel” will be vulnerable to terrorist attacks.
+
+These look like they might yield a fairly interesting adventure if blended together a bit. What if the adventure takes place in a world adjacent to the Corporate Sector Authority — a world now ruled by a local business consortium, but which is due to fall back under full Imperial rule within the year? Kristen wants the world to produce something interesting enough that the Empire would be interested in stepping in and nationalizing local industries, but not so much that it would violate its own laws forbidding such action. After some thought, she decides that local high-tech firms have developed a series of efficient and fast hyperspace engines.
+
+To provide the necessary fear of Imperial intervention, she rules that the world is sympathetic to the Rebellion, and was on the verge of selling its new engines to the Alliance — the Imperials are not aware of these plans, but would quickly discover the truth if they started to poke around.
+
+Okay, so far so good. Next, Kristen decides that the settled world in the system is a water world with very little land. Most settlements are floating islands anchored to the seabeds, while underwater transport tubes link the cites together. To protest the coming Imperial intervention, some of the more violence-prone locals plan to sabotage the underwater tunnels and floating cities to cover their involvement in the plots. The Rebel characters will be drawn into this plot when they come to the world to inspect the new engines — at the same time an Imperial government team shows up to do exactly the same thing!
+
+[Página impressa 200 | PDF 202]
+
+As you can see, Kristen didn’t directly adapt all of these news items into the final plot, but elements from each have been incorporated into the story, even if only peripherally.
+
+### Talk To Other People
+
+Your players are your best source for story ideas. Note during gameplay what sort of adventures and plots interest them. Note what goals and interests they establish for their characters. Ask them if they want to fight any particular type of villain or visit a specific place. What you learn by taking these actions may spark a story idea — one with the added bonus of being of great interest to your players!
+
+Example: During the course of the game, Vince happens to mention that his character, Ace, first realized that he was a born leader when he led all of the other kids in his town to safety after the Empire attacked it. Kristen comes up with a glimmer of an idea — what if one of those kids ended up crossing Ace’s path again? Ace might be visiting a new world when one of his now-adult friends appeals to him for help. Ace is sure to help an old pal! What kind of trouble might be pal be in? Maybe he’s in debt to a loan shark; maybe his daughter has disappeared; maybe he’s on the run from Imperials...
+
+### Keep It Simple
+
+Star Wars uses the word “epic” a lot to describe the setting. Fortunately, while some great Star Wars adventures have their foundation in complex, intricate plots, a lot of great adventures are built from the most simple of plots.
+
+Your first adventures should be relatively straightforward: the characters are hired to deliver a cargo of spice to a certain location, or they are asked by Republic high command to rescue someone who has been captured by the Separatists, or the characters are mistaken for wanted criminals and find themselves on the run from bounty hunters and the Empire, or the characters learn that there is some valuable piece of equipment that was lost when a ship crashed on a distant alien world and there is a valuable reward for whoever retrieves the part.
+
+Remember, there are no “bad” plots; some are simply crafted and intigrated into better stories than others. You should feel free to use your favorite plots from other stories or today’s headlines.
+
+When you first think of a story idea, chances are that some scenes, characters, settings and equipment will spring to mind. Write down all of these ideas in note form so you can flesh them out in later stages of adventure preparation.
+
+## FLESHING OUT THE PLOT
+
+When you design your first few adventures, you should use the Star Wars movies as a pattern and stay close to the style of the movies in regard to plotting and drama. The easiest way to do this is to break your basic idea down into a series of episodes and scenes. Often, this will require adding a lot more information to the story. For example, if your basic plot involves the characters having to retrieve a piece of equipment, this is a fine idea, but it needs to be fleshed out.
+
+First, you’ll want to know how the characters find out about the part. This should be the first scene of the adventure, and if it
+
+involves a lot of action, so much the better. This scene must also drop some hints to the players — rather than telling them exactly where the part is, the characters will have to find someone who knows where the ship crashed. This first scene also allows the characters to get to know each other.
+
+Next, the characters will have to find out where the part is. This allows the characters to do some investigative work — they will have to find the person who knows where the ship crashed, or break into a computer system to find out this information. This next episode is a great time to introduce the main villain, which is most likely the Empire or one of its minions. The characters should be racing against someone else to get the part so they can’t be leisurely. This adds an element of pressure to the adventure.
+
+The next episode involves the characters racing to the crash site. This can be as simple as jumping into hyperspace and coming out in the right system... but that isn’t Star Wars. Instead, the characters may have to take part in a raging space battle, duking it out with the forces of the Empire as well as the people they are chasing. Likewise, when they emerge in the system, they will still be racing against time.
+
+The next episode involves the characters having to find the wreck. Typically, the characters should face some natural or man-made hazards, like dangerous animals, hostile natives, competing scavengers, earthquakes or storms. If you want to wrap up the adventure in one session, you can have the characters find the part then and there... or the part could be missing, with the only clue being strange tracks in the ground leading off into unknown territory.
+
+### Getting the Right Tone
+
+The experience of actually being in one of the Star Wars movies is what you want to recreate during your game sessions, and the easiest way to do this is to incorporate some of the things that you enjoyed most about the movies into your adventure.
+
+For example, you can set parts of your adventure in locations drawn from the movies, such as Naboo or the forest moon of Endor, and you can have the characters using equipment that they will recognize from the movies. You can also have characters from the movies, such as Anakin Skywalker and Ahsoka Tano, make “guest” appearances in your adventure.
+
+You have to realize when you begin preparing an adventure that you will never be able to account for every possibility. The players will always find ways to take courses of action that you did not predict.
+
+[Página impressa 201 | PDF 203]
+
+The best way to look at your preparations for a game is as a sketch on which to base the adventure, not as a full illustration. Your end product is the game session, not the maps and diagrams, the gamemaster character stats, or the starship designs. What is most important is that the game session and the interaction between you and the players is successful. You don’t want to put so much energy into preparing the adventure that you have none left for the game.
+
+### Plot Structure
+
+The point of breaking down Star Wars adventures into episodes and scenes is to emphasize the fact that the story is more important than mere dice rolling. Each episode is a major portion of the plot, such as retrieving a vital piece of information, or confronting a major villain. Each scene is something within an episode that propels the characters to the major plot point of that episode, and each scene gives the characters something to do.
+
+Once you have broken down your story into episodes and scenes, you will realize that there are certain locations, events and characters that you have to detail. For anything the characters will meet, you will have to have a few ideas written down so you can use the item or character in your game.
+
+### Episode One
+
+The first episode in your first adventure should explain how the player characters meet. Such an episode would parallel the introductions of Luke Skywalker to Ben Kenobi and to Han Solo and Chewbacca, possibly taking place on a backwater planet similar to Tatooine (or even on Tatooine itself) and occurring in a setting similar to the Mos Eisley cantina.
+
+With the possible exception of some minor excitement, such as a barroom brawl, or an encounter similar to Luke’s encounter with Ponda Baba and Dr. Evazan, this episode should center around roleplaying, not combat or skill use. Very little die rolling should be necessary.
+
+This type of episode will give you and the players a chance to become comfortable with the game without having to worry about the technical aspects of the rules.
+
+An episode such as this type will allow the players to start playing immediately, because they can skip the final stages of character design — personality development — and, instead, use the first episode of the adventure to develop the personalities of their characters.
+
+As the characters attempt to learn about each other — swapping stories, boasts and lies — the players will learn more about the personalities of their own characters.
+
+You might also use this time to allow the players to make a few final adjustments to the skill levels of their characters. However, after the plot of the adventure has begun, you shouldn’t allow them to make any skill changes.
+
+### Episode Two
+
+As soon as possible, the adventure should have the characters in a starship and traveling to another planet. Space travel is intrinsic to the feel of the Star Wars universe. Think about the list of locations that were visited in the movies: Tatooine, the Alderaan system, Yavin, Hoth, Dagobah, the Anoat asteroid field, Bespin and Endor. How long does Luke or Han or Leia stay on any one planet? Not very long. And your players — who want to be just like Luke, Han and Leia — won’t want to stay in any one place very long, either.
+
+The travel episode should introduce the characters to some of the oddities of the Star Wars universe, perhaps by meeting some unusual aliens in the starport, or involving the characters in some sort of conflict, such as having to blast their way out of the starport.
+
+This episode can also give the players more information about the plot. If the characters found Imperials chasing them, at this point they may get one or two clues that explain why they are in danger. To parallel Star Wars: A New Hope, in the second episode (or act) of the film, where Luke meets Obi-Wan Kenobi; Luke learns that his aunt and uncle have been murdered by the Empire, and then begins to find out that the droids he and his uncle bought are really valuable.
+
+### Episode Three
+
+Action! The players aren’t going to want to spend all of their time seeing the sights — they want to be heroes! Once they’ve arrived at some exotic location, you need to give them something exciting to do.
+
+The action should be straightforward: a rescue mission (Luke’s rescue of Leia on the Death Star), a search and destroy mission (Luke’s destruction of the Death Star) or simply having to blast one’s way through an obstacle (the Rebels trying to evacuate Hoth with the Imperial fleet in orbit above them) will get the players involved. The characters will be exposed to some personal danger and will have to act without hesitation. Of course, in this type of episode, the actions the characters will have to take will be obvious.
+
+### Beyond
+
+The next few episodes should alternate between action, space battles, interaction and problem solving. The characters should be given a test of their abilities — each adventure should have at least one episode where the characters get involved in a ground battle, one chase, one space battle, one episode involving problem solving (such as hacking into a computer) and one episode involving interacting with other inhabitants of the Star Wars universe (this can range from swapping stories, to having the characters learn background information on the story, to gambling, to haggling over the price of goods).
+
+Normally, the final two or three episodes will involve the most intense confrontations and the most dangerous battles. The first episode should have minimal danger, then the second episode should have a little more danger or tension followed by a few scenes where the tension level is reduced. The third episode should involve greater tension and danger, followed by a briefer break. Each episode after should have higher stakes, more danger and more action, with briefer rest breaks. Then, the final episode should contain the “pay-off:” the characters are thrust into the final confrontation and the finish of the adventure, where for good or bad, the story is resolved... for now. This kind of build-up and let down will get the players involved and excited about the story.
+
+There shouldn’t be too many surprises in your first adventures. The lines between good and evil, and right and wrong, should be very clear, and the players should have many choices that will lead them to success.
+
+### Locations
+
+Don’t worry about detailing locations that you don’t expect the player characters to go to. You don’t need a map for Anchorhead when the characters will most likely go straight to
+
+[Página impressa 202 | PDF 204]
+
+Mos Eisley. There is always a chance that the characters will — for reasons plausible only to themselves — go to Anchorhead instead, and that you will have to improvise an episode in Anchorhead, but there is also just as likely a chance that the characters will do something totally unpredictable — such as go hunting for Krayt dragons – which you would have had to make up anyway.
+
+It helps to have a map drawn out for the important locations in an adventure, but you should always remember that often no one but you will see that map. It doesn’t have to be perfect — in most cases, a ragged sketch, combined with a short paragraph that captures the feel of the setting, will be sufficient to keep you from forgetting any of the necessary information.
+
+Remember that you don’t need a detailed description of every location on a planet — just the ones that are important to the adventure. For example, you’ve designed an adventure set on Endor. Just because the player characters are going to travel from Bright Tree Village to Blue Star Lake doesn’t mean that you have to prepare a map of the entire forest of Endor. If there is no reason for anything exciting to happen during their journey, then you can simply cut from the characters’ departure from Bright Tree Village directly to their arrival at Blue Star Lake. The “in-between” sections of your adventure do not have to be detailed.
+
+### Gamemaster Characters
+
+When you are preparing gamemaster characters, you shouldn’t worry about determining all of their statistics. The only statistics that are important are the ones which the gamemaster character is likely to use during the encounter.
+
+If the Gamorrean guard is only going to whack at the player characters with his vibro-ax, then there is no need for you to determine his bargaining skill, or his beast riding skill. All you need to worry about are his combat skills — melee combat and melee parry, and his Strength. If it becomes necessary during the game session for the Gamorrean to ride a beast, then you can give him a beast riding skill at that time.
+
+As usual, there are exceptions to this. For characters that are very important to the plot and with whom the player characters will interact extensively, or for characters who will become recurring characters in your campaign, it is usually worth the effort to develop a detailed character description, as this will allow you to more thoroughly develop the personality of the gamemaster character and allow your portrayal of that character to be more realistic.
+
+You should also remember that some gamemaster characters will not need to be detailed at all. There will be many times when the player characters will interact with gamemaster characters in situations that will not require skill rolls. For example, the player characters come across a crowd of Humans standing around the corpse of an Imperial officer. The player characters might start asking questions of the bystanders in order to attempt to find out what happened. You don’t need to know any of the skills of the people in this crowd — all you need to know is what they might answer.
+
+It might also be possible for you to “cheat,” so to speak. When you need a background character — to add color to a scene, or to give the player characters a prod in the right direc-
+
+### ASSIGNMENTS
+
+It will help both you and the players if, for the first few adventures, the characters are given some sort of assignment. A setting such as the Mos Eisley cantina is a perfect place for a messenger to deliver instructions to the characters. For example, a Rebel leader, such as Luke Skywalker or Wedge Antilles, could appear with a mission that only these characters can accomplish, or the characters could be approached by a wealthy individual who wants to hire them or an alien who needs them to correct wrongdoing. Or, the characters could be forced into taking a job for a crimelord (such as Jabba the Hutt) to whom they owe a debt, or an Imperial officer who holds the family of one of the characters hostage.
+
+After the assignment is presented to the characters, you may have to motivate them to accept it. Some suggestions on motivation would include: appealing to their sense of honor or duty (if the characters are members of the Rebellion or Republic), appealing to the character’s greed (particularly useful if the characters are debt-ridden smugglers), or having a gamemaster character blackmail the characters or threaten them with physical violence.
+
+Once the characters have received their assignment, and have chosen or been forced to accept it, then the rest of the adventure can focus on completing that assignment. Since the characters now have a goal, the players won’t have to stand around asking, “What do we do now?”
+
+tion — you might be able to pull a character directly from one of the Star Wars movies or another piece of source material. For example, you decide that the player characters have become too relaxed while sitting in a restaurant on Berrol’s Donn, and you want to shake them up a bit, but you have nothing prepared. You might try saying something like this, “A Rodian bounty hunter — just like Greedo from the first movie — walks into the restaurant. He doesn’t take a table; he just stares at you for a moment, checks something on his datapad, then slowly backs out of the restaurant, never taking his eyes off of you.”
+
+The characters may never see the Rodian again, but they will spend the rest of the adventure wondering when he is going to pop up out of the bushes and start shooting at them.
+
+### Rewards
+
+The last thing you need to do in plotting your adventure is to decide on the rewards for successfully getting through it. Generally, each player should earn between three and 15 Character Points, depending on the contributions he or she made to the adventure. See “Running Adventures” for guidelines on Character Point awards.
+
+In addition, consider other potential awards. To some characters, money is important, and a profit on the adventure is one possibility. Hints and tidbits about where to find a master for Force training, or an exclusive hidden shadow-base where smugglers can get top credit for their goods, may be more important to others.
+
+[Página impressa 203 | PDF 205]
+
+## TRANSLATE THESE EPISODES INTO GAME TERMS
+
+When thinking about the Star Wars rules, remember the most important rule: this is supposed to be fun and ignore whatever gets in the way of having fun.
+
+When you are gamemastering at first, the key is to simply set your difficulty numbers and have the characters roll against that number. Don’t worry about all of the modifiers and other factors that are pointed out in the rules. You are trying to run a fast, action-packed adventure, and the best way to do that is to run the game as simply as possible.
+
+The purpose of rules is to help you figure out what would happen in the “real” Star Wars universe. Therefore, make your best guess about what you think should happen based on how well the characters rolled. Try to make the results as interesting and dramatic as possible, while still making it possible for the characters to succeed and be heroic.
+
+Don’t worry if occasionally you feel that you have to stop the game to look up a rule, or back up the game and replay a section where you made a mistake. The players will be patient and understanding as you learn the rules if it leads to an exciting game (and they should also be thankful that you’ve volunteered to learn the rules so that they don’t have to).
+
+However, be careful that your desire to “do it right“ doesn’t impede the progress of the story. Always try to keep going forward.
+
+### Setting Limits
+
+After you play several short games with the basic rules, and gain a thorough understanding of those rules, then you will be able to begin adding the more complicated and detailed rules. For example, you may want to limit what’s going on in the first few adventures — for example, not allowing Force users at first.
+
+As you gain experience with how the game system runs, you may want to start using the more detailed Force rules or starship and vehicle chase rules. They add a layer of complexity to the game, but also give you more detailed results.
+
+### The Skirmish Method
+
+If you want to get a better understanding of the rules, you may want to use the“skirmish method.” instead of running an entire adventure, you might want to get one or two players together just to run a detailed combat between characters, a starship battle, a chase, or a battle between Force users.
+
+This gives you the advantage of being able to concentrate on just one aspect of the rules without having to worry about how it affects the adventure. Because of this, you can also replay situations that are particularly difficult for you until you become completely comfortable with the rules.
+
+### Streamlining the Rules
+
+There are several areas where the rules are more detailed than is necessary for beginning adventures. One of the prominent rules areas are those revolving around the chase and movement system. Here is a quick way of showing how you can streamline those rules.
+
+When you run a chase scene, you will usually want the feel of game play to reflect the fast and dangerous feel of the chase itself. To begin with, you should reduce the situation to its basic elements. Think to yourself, “What is most important here?” In a chase, these elements are:
+
+• Why is the chase happening and how would it be finished?
+
+• How far apart are the vehicles?
+
+• How fast are the vehicles?
+
+• Have both operators kept control?
+
+Everything else about the chase, from when the chase ends to combat during the chase, is based on these factors.
+
+The best way to set up a situation where the rules can be streamlined is to have only two participants in the chase with vehicles that travel at the same speed. Then, the chase is simply a matter of matching driver skills against the terrain and each other. As an illustration, look at this example of a chase between two Aratech 74-Z speeder bikes.
+
+A player character named Riza is piloting the lead bike. She is being pursued by am Imperial Scout Trooper. The “why” of the chase is simple: the Imperial is chasing Riza to capture some Rebel scum; therefore, the Scout Trooper will chase Riza until he captures her, or is injured, or feels that it’s too dangerous for him to continue chasing her. Riza wants to get away or stop him — the chase will be over if she can escape, destroy his bike so he can’t chase her, or stop him in some other way.
+
+Both bikes have identical speeds and laser cannons with identical ranges. The gamemaster decides to speed up the chase scene by streamlining the rules in the following way.
+
+• The chase will only be run at “point blank,” “short,” “medium” and “long” ranges. The vehicles will start at short range. Since a speeder can make four moves per round, each move will count as a range. For example, if Riza makes three moves in a round and the Scout Trooper only makes two moves, Riza has made one more move and goes from short to medium range. The gamemaster rules that if Riza can go beyond long range, she has escaped.
+
+• The terrain for the whole chase will be Moderate. That way, there is a consistent difficulty level — the gamemaster picks a difficulty number of 13.
+
+• The gamemaster rules that if a character misses a movement roll by 1-5 points, the character just makes one less move per round (if he said he’d move two times, he’d only move once). If the character misses the roll by more than five points, he crashes the bike.
+
+[Página impressa 204 | PDF 206]
+
+• Rather than make rolls for all four moves every round, each character will only have to make one roll for movement each round. However, in Star Wars rules, every time a character acts more than once, the character loses −1D per extra action from all die rolls. Therefore, if a character is making four moves in a round, the character rolls against the terrain difficulty of 13 with a −3D penalty.
+
+• The gamemaster determines that the Scout Trooper’s repulsorlift operation skill is 6D and his vehicle blasters skill is 5D. Riza’s repulsorlift operation is 6D+1 and her vehicle blasters is 3D+2.
+
+For the first round, Riza declares that she will fly full speed through the forest (four moves). The gamemaster decides that the Scout Trooper will do the same. Both characters roll against the terrain with a penalty of −3D, and if both succeed, the speeder bikes will stay at short range.
+
+If Riza succeeds but the pursuer fails, then the distance between the two vehicles is increased by one level (from short to medium). However, if Riza fails and the Scout Trooper succeeds, the distance is decreased by one level (from short to point blank). If both characters fail their movement rolls, then the distance doesn’t change.
+
+In this case, both characters succeed, so the distance doesn’t change.
+
+For the second round, Riza declares that she will make four moves. The gamemaster decides that the Scout Trooper will fire and make four moves. Since the Scout Trooper is now firing (taking another extra action), his penalty is increased from −3D to −4D.
+
+The gamemaster resolves the firing action first. The Scout Trooper’s roll is at short range, or an Easy difficulty, but with a −4D penalty for the five actions being taken in this round. The roll is a failure and the shot misses.
+
+Riza and the Scout Trooper then make their movement rolls. The Scout Trooper is successful, but Riza misses her roll by 1. The Scout Trooper gains one rank, and goes from short range to point blank range.
+
+For the next round, Riza declares that she will try to evade the Scout Trooper by zigzagging through the trees. The gamemaster decides that the maneuvers Riza will attempt will modify the difficulty of her movement roll from Moderate to Difficult, and that, in order for the Scout Trooper to keep up, he will also have to make a Difficult movement roll. Like a dodge, Riza also gets to substitute her maneuvering roll as the difficulty to hit her bike in combat. However, since the range between the two vehicles is point blank, the Scout Trooper will also attempt another shot.
+
+Again, the gamemaster decides to resolve the firing action first. Riza rolls her maneuver. With the added difficulty of the maneuver and the −4D penalty for his multiple actions, the Scout Trooper’s shot fails. Now the rolls are made for the movement actions. Riza’s roll is a success — just barely, because of the increased difficulty level, but a success nonetheless. The Scout Trooper, however, fails his movement roll by seven points — crash!
+
+Riza’s speeder bike disappears into the trees as the Scout Trooper’s bike explodes into a ball of flame and debris...
+
+While this may seem complicated it is easier than using the fully detailed rules because it is “instinctive” — once you’ve learned the basic rules of Star Wars, this chase is very similar in execution.
+
+The rules judgments are based on making “fair judgments” about what would happen and what makes for an exciting chase. You must trust yourself in these situations since going to the rulebook for a reference will slow the chase down and reduce the tension of the scene.
+
+In this example, instead of stopping the game to find out the modifiers for Riza’s maneuvers, the gamemaster estimated that they would raise the difficulty of her movement roll by one level. Instead of rolling for every movement, the gamemaster decided to roll once per turn.
+
+And, instead of trying to determine when the Scout Trooper fired, and the precise distance between the vehicles at that time, the gamemaster simply decided to resolve the combat actions at the beginning of the round.
+
+[Página impressa 205 | PDF 207]
+
+This dependence on estimating and guessing means that this method of play isn’t as detailed as the method in the rules, but streamlining the rules speeds the game, and if you play fairly, can be just as exciting!
+
+# FINAL PREPARATION
+
+You’re just about finished. The last thing you need to do before calling your players together is pull together the scripts, maps, and other handouts you’ll use in play.
+
+### Scripts
+
+Scripts are one of the basic props of the Star Wars Roleplaying Game, and also have the advantage of being easy to prepare. Scripts are normally used at the beginning of an adventure and present each character with set lines. Through the information in the script, the players learn where they are, what they are supposed to be doing, and why their lives are in danger again. Scripts are a great way of putting the characters in a difficult and exciting predicament at the very start of an adventure instead of having to “trick” the players into stumbling into this situation during the course of the adventure.
+
+Scripts also have their uses during the course of an adventure. Sometimes it becomes necessary to portray characters in a more strictly defined manner and a scripted scene is a way to make sure that a particular event happens. This works well for transition periods between scenes. Of course, you have to be sure not to be too heavy-handed — players get very upset when their characters are forced to do something because a script says they do. You must make sure that when you direct characters in a script, you are loyal to the personality of the characters involved.
+
+Scripts can also be used for “cut-away” encounters — scenes that relay important information to the players, but don’t involve their characters. If you find yourself sitting and mulling an encounter that the players are only minimally involved with and you hear a script flowing casually through your head as you play out the scene, write it down!
+
+For example, the player characters are attending a briefing on the goings-on on the planet Chateuse VII. There are a number of warring factions and Padmé Amidala is leading a review of who the major factions are, who their leaders are and what the Republic’s current slant is on the situation. Pick out a few major gamemaster characters in the room (including Padmé) and fully script out their lines in the briefing. Don’t forget to include stage direction since how a character moves and his or her reactions give insight into their attitudes and feelings. When the time comes for the scene, hand out the scripts to your players and let them play the parts of the other members of the briefing — let them do some roleplaying beyond their own characters. They’re sure to enjoy the change of pace.
+
+When you use a script, take the time to write it out, polish it and then make enough copies for each player so everyone can be involved.
+
+### Handouts
+
+Handouts are other paper props that you can give to players. They can be used to provide information on a number of subjects, including overviews of planets the characters will visit,
+
+criminal dossiers on villains they are sent to apprehend, notes and computer data pirated from Imperial computers and mission profiles or datafiles on locations they will visit.
+
+Gamemasters are often tempted to write all of their handouts for the beginning of the game as a supplement to the beginning script. While this is useful, it is sometimes more effective to write up handouts that will be used in the middle of a gaming session — such as when the characters break into a computer. Rather than read aloud to the players what the characters have found, the gamemaster gives the players the handout of what the characters recovered.
+
+Gamemasters are encouraged to make handouts challenging. Rather than provide the players with all of the answers to a particular challenge, the gamemaster can provide several clues in a handout and allow the players to choose between which path they want to explore. For example, rather than have a handout tell the characters, “Yesgar’s hideout is on Antared III,” you might want to say, “Yesgar’s pirates have been spotted in the main spaceports of Durollia, Pegg and Hermos. Of particular interest is Merrk’s Weapons Shop on the concourse of Pegg’s main starport — several pirates have ventured into the store and never registered their purchases, if any, with the local government.” This kind of clue definitely suggests that the characters investigate the spaceport on Pegg, but it gives them several options to look into rather than forcing them along one path.
+
+Here are several suggestions for subject matter for handouts:
+
+Planets. When characters are sent to a world, the players will probably want to know what their characters know about the world and what they can call up on computer databases. Aside from listings of basic planetary data, you can use scout reports (if the world is on the frontier), encyclopedia entries, excerpts from galactic travel guides, tourism datajournals personal diaries and other data-magazines (like Contemporary Galactic Architecture) to give the characters a feel for this new world.
+
+These entries can not only provide basic information, but might discuss past events, like datajournal reports on a revolution that happened on a planet, biographies of new corporate officials, or anything else related to the plot, the location or individuals the characters are dealing with.
+
+This type of handout could also be used for specific locations on a planet, such as a city or area (like a mountain range), a factory where starships are built, a spaceport, a particularly infamous bar or any other noteworthy location.
+
+People. If the characters have been sent to capture a wanted criminal or a refugee hiding from the Empire or some other personality, what better way to give them information than to provide a personal dossier on the character? Aside from personal biographies, you could use excerpts from diaries, eyewitness accounts of incidents, a list of known and suspected criminal activities, and a list of suggested contacts and locations where the character might be encountered.
+
+Organizations. Characters might be sent to investigate a company, a cult, a group of mercenaries, a crime gang or ring, a trade organization or any number of other groups. These handouts could give information on the structure and activities of the group, important personnel, history of the group or other information that the characters and players will find of interest.
+
+[Página impressa 206 | PDF 208]
+
+Aliens. If the characters have been sent to contact a relatively unknown or poorly understood species, they would probably find xenobiologist or scout reports handy. You might also provide eyewitness accounts of previous meetings, histories and myths, information on a society’s structure and particular mannerisms or abilities that the aliens possess.
+
+Computer Piracy. If the characters manage to force their way into a computer system, the information they retrieve would be more interesting if it were presented in a handout that the players can read. This is especially useful if the characters have to decipher an unusual code or follow a complex set of directions.
+
+Ships. Players love to know what their ship looks like and how the interior of their vessel is arranged. Use a handout for things like the deck plans of whatever ship the players own.
+
+Puzzles. If you want to present the players with a new challenge, the handout could be a visual or mental puzzle, such as figuring out a pattern in certain crimes to predict where the next crime in the pattern might occur, or determining how to break through a security system by falsifying a security code.
+
+### Maps
+
+When characters are involved in combat situations or want to get an understanding of a location they are visiting, maps are a great alternative to having to verbally describe a location.
+
+Small-scale maps are used in adventures to show specific locations, like the interior of a cantina or a warehouse. They are most useful for locations where the characters are going to get into combat — by drawing all of the major terrain pieces on the map (like boxes, computers, power generators and the like), the characters can look at the map and take advantage of cover or try to plot an escape route. For example, if the characters stumble into a room and the scene is only described to the players, they might forget about the back stairwell in the corner; with a map, they are more likely to notice the stairwell.
+
+The gamemaster can also use hand-made or published counters for battles on small-scale maps. Counters are useful for representing characters in combat (and it’s a lot easier than marking up a map that you spent hours working on), but can also be used to indicate other objects that might be moved around during a combat.
+
+You can also create maps at a larger scale for chases involving speeder bikes or other vehicles. These kinds of maps give the players more options — maybe the players will want to try ducking down an alleyway instead of simply fighting it out.
+
+Large-scale maps usually aren’t necessary for an adventure, but by being able to show the characters a map of a world, a continent, or a city area with surrounding terrain, the players get a sense that the place they are visiting is a real location.
+
+Maps can also give a great amount of information to the characters as far as layout of an area. From neighborhood to terrain maps, trade routes can be seen, hiding places figured out, areas that are more defensible can be spotted and other important facts can be determined.
+
+### HAVE SOMEONE ELSE DO THE WORK
+
+Why create all of your maps from scratch when you can save yourself a lot of time and effort by using maps from the real world?
+
+A good source of terrain or topographical maps is your local sporting goods store or the U.S. Geological Survey Office. These maps give you elevation details and physical features. If you need a canyon site on a desert planet, use an actual section of the Grand Canyon — your players will never know, but they’ll love the detail. If you want to use a forest setting, get a map of a forested area in the United States and then mark any adjustments you need on the map.
+
+You can also use state, city and national road maps for your locations. They give you realistic setups for locations and save a lot of time.
+
+Of course, you can also use maps from other game products. From underground labyrinths to mega-cities, there are a variety of game maps that are readily adapted to your own Star Wars adventures.
+
+Maps also list the names of cities, terrain features and other factors. These kinds of details help make this new “temperate forest world” different than every other “temperate forest world” the characters have visited in the past.
+
+Maps of sectors of space can also be great fun. By having a map of the planets of a sector, the players can play “what world will we visit this week?” The players can see trade routes, ambush points along hyperspace routes, and areas where they are likely to cross customs inspectors. The players will have a lot of fun looking at the mysterious locations on the maps and going to these worlds to explore them.
+
+## CREATING PLAYER CHARACTERS
+
+In your early games, you might want to limit the types of characters that the players can chose to those that both you and the players are familiar with and that you feel the players can play proficiently.
+
+You may want to restrict beginning players to Human characters, because new players often won’t have sufficient roleplaying skills to develop an appropriately alien character.
+
+Good suggestions for beginning character templates would be:
+
+• Bounty Hunter • Brash Pilot • Laconic Scout • Gambler
+• Kid
+• Smuggler
+• Tongue-Tied Engineer • Wookiee
+• Ewok
+
+[Página impressa 207 | PDF 209]
+
+The Wookiee and Ewok are included, despite their being alien templates, because most people who are familiar with the Star Wars movies will be sufficiently familiar with the characters of Chewbacca and the Ewoks to develop an appropriate personality.
+
+When the players arrive, have them select a character template they would like to play and help them complete the template. Show them how to allocate their skill 7D for dice, give them some suggestions for beginning skills, show them how to roll attributes and skills and how Character Points and Force Points work. You will also want to explain how the Wild Die works.
+
+Before you begin playing, ask the players if they have any questions, then hand out the adventure scripts and get the adventure rolling. If you have the time, you may also want to prepare a handout that explains the basic mechanics of the Star Wars games — it will serve as a reference for the rules that you just explained to them. This will allow your newest players to concentrate on playing and not worrying about the rules.
+
+## CREATE AN IMPROVISED STAR WARS MOVIE
+
+As stated before, the whole point of an adventure is to get the players to feel like they are taking part in their own Star Wars movie. Therefore, you as gamemaster, need to get the adventure rolling with a bang and keep things exciting and interesting for them.
+
+As you go through the various scenes and episodes, let the players dictate the game’s action. If you drop them into a cantina and they are having fun meeting aliens and hearing stories of the space lanes, let them have fun; if they ask if there is gambling, run an impromptu gambling scene. If the players get bored with your cantina scene, then cut to the next scene in the adventure. In short, give the players the story they want.
+
+### Performing
+
+One of the most important things that you should remember about any roleplaying game is that you and the players are all performing during the game. Encourage the players to stay in character as much as possible. The game is much more exciting if it is experienced in the first person, not the second.
+
+Don’t say, “Your character is hit by the laser bolt.” Instead say, “You are hit by the laser bolt!” Anytime the players say, “My character does something,” you should correct them, asking, “What are you doing?”
+
+It is also helpful to refer to the players by their characters’ names. Instead of playing with Rob, Doug, and Paul, for example, you are dealing with Marx, Narse and Grerph the Wookiee. If you refer to the players in this manner, it will dramatically increase the flavor and “realism” of your game.
+
+Finally, if you expect your players to act in character, then it is important for you to act in character. Don’t detach yourself from these roles when you can act out the roles of the gamemaster characters.
+
+When you have the characters meet a gamemaster character, think about something you can do to establish the character’s personality: perhaps he has a unique voice, or has a habit of rubbing his chin while he’s lying, or he has a tendency to point
+
+with his pinky, or he always stands hunched over. If you make notes of these mannerisms, and use them in your game, it will help add realism to the task of roleplaying a gamemaster character.
+
+Some of you will probably be nervous about the prospect of acting out another character — relax! The people you will be playing with are your friends, and they’ll probably appreciate seeing you act out roles that you’ve never done before. Besides, if you show that you’re willing to act out a character or two, they will be encouraged to act out the roles of their characters.
+
+### Troubleshooting
+
+Beginning players are often unsure of what to do or may easily lose the path of the adventure they are playing. As gamemaster, it is your job to give the players a little help.
+
+Players new to roleplaying games seldom realize how much freedom they have. Without a board to move pieces around on, they often wonder to themselves, “What can I do?” Tell them that they can do whatever they want to — tell them to put themselves in their character’s shoes and do what he or she would do. Tell them to explain to you what they want to do, whether it is to shoot a stormtrooper or rig a starship’s engines to blow out at a certain time. Then, you will tell them what skill to use and give them an approximate task difficulty.
+
+Players who are unsure may have plans suggested by gamemasters. Maybe a gamemaster character provides information on a target or troop strength, or gives them a map. This gives the players vital information yet still allows them to plan their strategy.
+
+### Relax!
+
+All of this may sound like a lot of things to remember, but everything in this chapter, and the chapters that follow, is geared toward helping you run a better game. The key is to relax and have fun and let the game take care of itself. With a little practice, you’ll learn a lot about gamemastering and how to create a great Star Wars adventure!
+
+# SETTINGS
+
+One of the major appeals of Star Wars is the diversity and unique nature of the settings that can be used in an adventure. Instead of having the characters endlessly tromp through the same terrain, or visit cities whose only differences are their names, in Star Wars adventures characters can visit the desert world of Tatooine, venture to the awe-inspiring floating cities of Calamari, maneuver through the Hoth asteroid belt or glide among the clouds of Bespin’s Cloud City.
+
+## THE HIGH CONCEPT
+
+The Star Wars movies brought to life landscapes and sights beyond anything ever placed on a movie screen. In order to truly be Star Wars, your adventures should be filled with the breath-taking, inspirational, and exciting vistas.
+
+When creating settings, you should first devise the “high concept” of the setting. Instead of concentrating on generating a detailed location right from the start, try to come up with your own “stunning visuals” that set the mood and feel of the setting.
+
+[Página impressa 208 | PDF 210]
+
+Beginning gamemasters often feel obligated to go into extreme detail when designing a new setting, especially if they’ve played other games where virtually every location is mapped down to the smallest room. Frankly, it’s a lot of work in a situation where having a few notes and an idea of what the general location is like will almost always be sufficient. After you have a firm idea of what type of location you are inventing, then you can detail the most important locations in the adventure.
+
+There are several interesting approaches to the high concept stage of setting creation.
+
+### Using Settings From the Movies
+
+When they begin, your players will probably be most interested in locations that they have seen in the movies. There is no reason why you shouldn’t set some of your first adventures in locations that the players are already familiar with. Not only will it satisfy the desires of the players and make the story feel more like a Star Wars adventure, but it will also remove from you the pressure of designing an entirely new setting.
+
+Choosing Tatooine. One of the best settings from the movies is Tatooine because of the extent to which it has been described in the movies. Hoth and Endor were both presented almost as thoroughly, but these two planets do not suggest as many interesting story lines. Tatooine is the setting from the movies where the characters are most likely to find adventure. Tatooine has much to offer characters and new players. It has the Mos Eisley spaceport. There is a wide variety of businesses and activities which surround spaceports so the characters would easily be able to find a starship and pilot for hire. Because of the criminal elements on the world, notably Jabba the Hutt, this is a seedy spaceport, with danger and the opportunity for gambling, smuggling, bounty hunting or any other activity the characters could desire.
+
+Tatooine is also a wilderness world, with plenty of room for exploration. It has wide-ranging deserts populated by two alien species, Jawas and Tusken Raiders (Sand People), and many strange creatures, including Banthas, Dewbacks, Womp Rats, and Krayt dragons.
+
+Tatooine is also (or was also, depending upon when your adventures are set) the base of Jabba the Hutt’s criminal empire, so there is always something interesting going on that the characters could get involved with.
+
+Finally, Tatooine is a frontier world, far from the influence of galactic culture. During the Dark Times and Rebellion eras, it is a part of the Empire, but it is safely isolated from the Empire’s most oppressive manifestations. Rather than having to confront Imperial Star Destroyers, the characters are much more likely to come across a squad of local militia members or stormtroopers.
+
+Choosing Bespin. Another excellent adventure location is Cloud City on Bespin. It is a bustling mining town/vacation spot, offering high-class gambling houses and hotels and amazing luxury for those who can afford it. It has a large and diverse population, with miners, laborers, corporate executives and the seemingly ever-present influences of the galactic underworld. Of course, Cloud City also features a charismatic and daring administrator, the (in)famous Baron Lando Calrissian, who seems to bring a dose of intrigue and excitement everywhere with him. This world isn’t as isolated as Tatooine and offers more to “cultured” characters.
+
+### PLANETS AND LOCATIONS
+
+This Settings section covers two similar but distinctly different subjects. The hints in this section can be applied equally to the creation of planets and the creation of specific locations on a given planet.
+
+Gamemasters who expect to be creating many planets are advised to look at the rules system in the “Planets” chapter. This system gives specific suggestions for how to build new planets. However, if you want to build planets that look and feel interesting, without getting into the finer points like imports and exports, this section will more than suffice for your needs.
+
+With both of these settings, the people, places and history of the locations suggest many adventure possibilities. On these worlds, the characters can rub elbows with the likes of Bib Fortuna or Lobot, have to fight off Sand People, take a tour of the Cloud City casinos or visit the infamous Mos Eisley cantina. Other settings that could be useful include Coruscant and Naboo
+
+### Altering Familiar Settings
+
+Using settings from the movies is a great way to get an adventure rolling. However, a game session that is a carbon copy of the movies will be boring. Fortunately, gamemasters can take the settings from the movies and subtly alter them to provide all new locations for the characters to visit. For example, if the players exhibit an interest in going to Hoth during an adventure, you could have them travel to another planet which is similar to Hoth. Hoth itself isn’t a good choice — the Rebel Alliance picked it for a base because it was isolated and there was no one else there. Therefore, you can decide to create a new world similar to Hoth.
+
+To start with, you give this planet a name (because a planet or a city with a name almost instantly seems more realistic than an unnamed planet constantly referred to as “the planet”). You then decide how this planet is similar to Hoth: it is cold and covered with snow and ice. For a difference, you choose to have it occupied by a small group of prospectors instead of having a Rebel base.
+
+Now you have a new setting that is reminiscent of Hoth, so the players are already familiar with some aspects of the world, making it easier for them to visualize. You can also provide more information about part of a setting. For example, if the players want to visit Tatooine you can modify the setting by having them travel to Anchorhead, a small trading and farming settlement. Here, the characters will get a feel for the nature of a farming town (much more relaxed and with a more tight-knit community than the spaceport). In the adventure, the characters might have to fend off attacks from Tusken Raiders. The characters might come across some teenagers who are talking about an guy a few years older than them, Luke they think his name is, who supposedly killed his family over a couple of droids and blasted off Tatooine, and is now supposed to be space pirate (the Imperial propaganda machine has obviously done its job). The players will be familiar with Tatooine, its deserts and the moisture farmers, but they won’t know much about Anchorhead and what goes on there.
+
+[Página impressa 209 | PDF 211]
+
+### Star Wars Materials
+
+Aside from the movies, there are a wide variety of other Star Wars materials that provide information on settings. For game products, there are the sourcebooks, galaxy guides and adventures. Add to that the various Star Wars novels, comic books, the Art of... books, trading cards and toys and there is a truly impressive body of knowledge to choose from.
+
+Many of these books introduce new planets or mention new planets by name without giving much information on them. This gives the gamemaster a huge selection as to new locations that can be designed for an adventure. Players who are familiar with these materials will really enjoy the chance to visit these locations. Whether they are going to Nkllon, Corellia, Nar Shaddaa or Byss, the players will be better able to visualize the setting because they are familiar with it.
+
+### Using Exotic Settings
+
+You can just as easily base your adventure settings on real world locations by modifying them to fit into the Star Wars universe. For example, the Rebel outpost on Yavin in Star Wars: A New Hope is based on a real complex of ruins — the Mayan Temples at Tikal National Park in Guatemala. There were two things about these temples that made them seem alien enough to fit into the Star Wars universe:
+
+• One, the temples weren’t familiar to most people. Even locations that are real can seem exotic and alien to people who have never seen them before. A quick glance through an encyclopedia or a travel guide could provide you with a description and pictures of a real location that is exotic and unfamiliar enough for you to use it as the setting for part of an adventure.
+
+• Two, details such as the guard tower and the X-wing flyover were added to the real temples in Guatemala to make them seem even more alien.
+
+Movie companies use exotic locations, and with a little research so can you. The deserts of Tunisia made for a great desert world and the forests of the Pacific Northwest helped make Endor seem real. Flip through travel guidebooks, encyclopedias and search the internet. You may find pictures of stark landscapes or unusual architecture that can be the basis for an adventure setting. Of course, you will want to add other details to your setting — like starships, droids and aliens to make it truly Star Wars, but a good setting may have its foundation in Tibetan temples, Australia’s outback or south Asian islands that are exotic and alien in appearance.
+
+### Using Ordinary Locations
+
+You can take any location, even one that is just down the road, and add details to it that will allow you to use it in a Star Wars adventure. Most locations will have Star Wars counterparts because people will always need some place to buy food or goods, or to go out for a night’s entertainment, or to get their vehicles and appliances (or droids) repaired.
+
+By advancing the technology of a given real world location you can create an unique Star Wars location. For example, a movie theater would become a holotheater. A hotel could be a hundred story tall hotel, floating on repulsors with sections that rotate on a huge slow-motion gear mechanism.
+
+What would be the Star Wars equivalent of used car lot: A landspeeder lot? A droid lot? A starfighter lot? What kind of salesbeings would work there? Would a droid work as a salesbeing on a droid lot, or would the droids try to sell themselves?
+
+What are the equivalents of shopping malls in the Star Wars universe? What stores would it contain? What would be the difference between a mall on Coruscant and a on a small frontier world? Would a mall on Rodia be filled with weapon stores? Would a Quarren mall be underwater?
+
+[Página impressa 210 | PDF 212]
+
+### THE ENERGY STATION
+
+Most locations on Earth have unique Star Wars counterparts. Take a self-service gas station as an example. Think about the parts that constitute one of these stations.
+
+In its simplest form, a self-service gas station consists of a number of gasoline pumps — anywhere from four to twenty or more — and a tiny kiosk from which an attendant controls the pumps and takes the money. In addition, most stations will have some sort of identifying sign, and the attendant in the kiosk may also sell simple goods, such as soft drinks, candy, cigarettes or motor oil.
+
+Now, think about what would be different about an establishment that served this same marketing niche in the Star Wars universe.
+
+To begin with, the pumps wouldn’t be pumping gasoline. Instead, they would be fast-transfer recharging stations that renewed the energy lost by the power cells of the vehicles.
+
+Few of the vehicles that use the station will be wheeled ground vehicles. Most of the clients will be operating landspeeders. However, in order to increase the range of possible customers, the station might have two levels of recharging stations — one at ground level, to service landspeeders, and one at five meters above the ground, to service airspeeders.
+
+The attendant could be replaced by a “courteous and efficient” servant droid. Or each individual recharging station could be equipped with a simple electronic brain, eliminating the need for an attendant entirely (of course, it would have a direct line to law enforcement officials should a customer try to leave without paying).
+
+The station’s sign wouldn’t be a simple neon or fluorescent sign. Instead it might be a large holosign, constantly projecting holocommercials into the air above the station.
+
+The station would sell the local equivalent of soft drinks, candy and cigarettes, but it might also sell energy packs for equipment, comlinks, or pre-programmed travel modules to use in automated driving systems.
+
+To add that sense of “this is not Earth,” you might even say that the buildings are constructed of a smooth plastic or a rough-hewn stone, or point out catchy holograph or virtual reality displays. To a wilderness location you could add strange creature flying through the air, unusual noises, green fog, red suns and dozens of moons.
+
+With some work, even the most mundane of locations has its place in the Star Wars universe.
+
+### Fictional Settings
+
+There are countless works of fiction that provide suitable ideas for settings. With some tinkering, locations from classic myth, modern literature, and, of course, other science fiction and fantasy works, could be converted to the Star Wars universe.
+
+One of the most obvious sources for inspiration would be other science fiction movies and novels. However, you should remember that much of the material contained in other science fiction stories will not fit directly into the Star Wars universe
+
+because it doesn’t share the Star Wars feel. Material from other science fiction sources will often have to be heavily modified, but that doesn’t mean that this isn’t a useful source of basic ideas. After all, the Star Wars feel results from the combination of a large variety of sources that influenced George Lucas — everything from Westerns to comic books to Buddhist thought to Japanese samurai movies had a part in the underlying philosophy and execution of the Star Wars saga.
+
+Many books about writing science fiction contain essays on designing planets and star systems or on designing alien beings. While these essays usually deal with the specifics of designing scientifically correct planets and aliens, which is less of a concern with Star Wars, the general methods and examples that the writers present can provide you with suggestions that you can use when you begin creating your own settings.
+
+Science fiction art books show some other dramatic sights that could be incorporated into your Star Wars adventures. The ideas that you will derive from them won’t necessarily be drawn from the contents of the pictures themselves, but from thoughts that occur to you as you look at and think about the pictures.
+
+Hints on Conversion. When adapting other works of fiction to Star Wars, instead of trying to adapt a setting element for element and plot point for plot point, you should try to dissect the setting into its component elements and determine why you find it interesting. Examine what makes the world exciting — the descriptions of the architecture, the visual image of a palace on a mountain top with an immense ringed moon in the background, the technology, the strict culture, or the conflicts of different points of view — and try to mold them to more closely fit your Star Wars universe.
+
+It is suggested that you change the names of the new locations so your players don’t immediately recognize the setting. This is especially important when using settings with Earth-derived names — after all, Star Wars is a long time ago in a galaxy far, far away, so that culture has different myths and location names than ours does.
+
+When you do use another setting for inspiration, you should make some major cosmetic changes. Try to change the setting just enough so that players don’t know what your resource was. If your reference is obscure enough or you don’t get too obvious, this might mean simply changing a couple of names and introducing some new gamemaster characters. However, if your idea is closely based on a setting or work of fiction that all of your players are familiar with, this might mean adding a completely new culture, or changing the look of the architecture, or adding a new plot line, but it will result in a less derivative and more original world for your adventures.
+
+### Original Settings
+
+Creating wholly original settings from your imagination is a lot of work but it is also a great deal of fun. This is the most often used method of creating new game settings, but it can also be the most difficult for beginning gamemasters.
+
+Often, the gamemaster finds himself (or herself) staring at a blank piece of paper, trying to create worlds. This is entirely the wrong approach. Instead, the gamemaster should open himself to all the thoughts and ideas running through the back of his mind. The key to this method is to learn how to put yourself in the proper mindset for this type of creation.
+
+[Página impressa 211 | PDF 213]
+
+### CONVERTING AVALON
+
+A good example of this process is the conversion of the mythic land of Avalon to a Star Wars adventure. The theme of the Avalon myth is as appropriate to Star Wars as it was to medieval (or modern) storytelling and several aspects of the Avalon myth can be kept intact provided you can offer a logical Star Wars rationale for them.
+
+According to the legends of King Arthur, Avalon is the island where the king’s body was taken to be buried after he was mortally wounded in battle. Avalon has many mystic properties associated with it; its location is unknown and it is reputed to be an area where magic is naturally strong.
+
+To create a Star Wars setting based on Avalon, you would start by making it an entire planet — not just an island. You can keep it isolated by putting the planet in uninviting surroundings, such as a giant dust cloud that hides it from the rest of the galaxy. Of course, you will probably want to change the name of the planet, so you might select “Millinar” as the new name. Because of its isolation, there are rumors of Millinar, but people believe it to be a simple myth passed down through the millennia; no one suspects that Millinar is a real place.
+
+The weather on Avalon is always fair. The weather on Millinar is very pleasant with minimal rain. This is because there is no axial tilt to cause a cold season, and the water/land ratio is such that the level of moisture in the atmosphere never rises high enough to produce precipitation. The world’s land masses are low lying, with many natural springs and underground streams. The world’s natural beauty remains unspoiled and there is almost no technology on the world.
+
+Delicious apples grow on the many trees of Avalon. Millinar will have many varieties of succulent fruits that have natural healing properties. The trees themselves have huge root systems that reach the deep underground streams.
+
+Towards the center of Avalon is a small chapel built by Joseph of Arimathea, an ancient holy man. Instead of the chapel of Joseph of Arimathea, the focal point of this new planet is a monument built by an ancient Jedi Knight. The gamemaster decides to make this building a large, triangular building whose outer surface is covered with elaborate paintings that seem to move as sunlight plays across them.
+
+The only inhabitants of Avalon are a race of noble women who have great knowledge of magic. The inhabitants of Millinar are a group of hermaphroditic aliens who have developed skills in using the Force. They might even have powers that Luke Skywalker is unfamiliar with since it is assumed that much Jedi knowledge was lost during the purges of the Emperor.
+
+Avalon is also reputed to be the source of Arthur’s mighty sword, Excalibur. This aspect of Avalon gives you the story hook that you would use to work this new planet into an adventure. There is a legend that tells of a powerful weapon hidden on the mythical planet of Millinar. The characters will be familiar with the myths from their childhood, but they will uncover a clue (perhaps a lost temple of the Jedi) that leads them to search for Millinar in hopes that they can acquire the weapon and use it against the Empire and help bring freedom to the galaxy.
+
+Instead of trying to create everything from thin air, think of a favorite story or visual image or character and then actively concentrate on how to convert that idea to Star Wars. Every day gamemasters are exposed to thousands of interesting ideas on television, in newspapers, in books, in music and just in ordinary conversation. If you work at converting these ideas, ask yourself, “What would this thing be like in the Star Wars universe?”
+
+The Brainstorming Method. This method is the most wildly creative, and thus the least structured. Simply pull out a piece of paper and a pencil. Then start thinking about gaming and Star Wars in particular. Write down every idea, image, emotion, scene or other factor that crosses your mind. Don’t try to explain or develop these ideas, but simply write them down.
+
+After a few minutes of this, you’ll probably have scores of words, phrases and ideas written down. Then, go over the list and pick out the most interesting ones and try to develop them into interesting scenes and settings.
+
+The Matte Painting Method. Rather than trying to instantly come up with a fully realized world, you should concentrate on coming up with one exciting mental image that sets the tone for the world. Some gamemasters call this the “matte painting” shot — it is an establishing image that succinctly gives the feel and the tone of the world. These kinds of images would include the twin suns setting on Tatooine, Ben and Luke overlooking Mos Eisley spaceport, the Millennium Falcon being dragged into the Death Star’s hangar bay, the first shot of the Tauntaun running on Hoth, and the twin pod cloud cars flying toward Cloud City with the brilliant orange and red clouds in the background.
+
+All of these shots instantly suggest a world that is visually stunning. They provide enough information to be enticing, while still leaving a great deal of mystery about the specific location.
+
+These types of scenes are easy to come up with. Simply toss around visual images from Star Wars and other science fiction movies, or try to imagine your own ideas. What would the heart of a nebula look like? Or the reactor core control area of an Imperial Star Destroyer? Or a world with ammonia oceans and earthquakes that build and destroy mountain ranges literally overnight?
+
+Then, try to apply these ideas to an adventure scene — what could happen in this type of setting? How could the characters end up here? What kind of story could they get involved with? This type of creative visualization is easy and can provide some great ideas for adventure locations.
+
+The Word-Association Method. Another method is word association. By using a categorized thesaurus or dictionary, you can skim through just looking for interesting words. Particularly interesting words can be very useful in describing a planned setting or inspiring an interesting facet of a new one.
+
+You can, for example, look up “plants” and find a large list of adjectives that can be used to describe plants. If you are trying to design a new plant or a plant-like alien and find that you are stuck for ideas, then you can pick several words at random out of the “plants” list in the thesaurus and combine these words into a skeleton description of the plant, which you can then flesh out with your imagination.
+
+[Página impressa 212 | PDF 214]
+
+The Research Method. Books about space and the planets in the solar system, particularly ones with photographs and paintings in them, can be a big help when you are designing settings. Photographs taken on the surface of the moon, Mars, or Venus will help you to get an idea about what another planet might look like, and the photographs and paintings of the outer planets and stars will give you ideas about objects to put in the night skies of other planets. Some of these books contain very informative speculative chapters about planets in other solar systems and the possibility of intelligent life on other worlds.
+
+There are several other areas that might yield some interesting ideas for settings. For example, if you read about a country on Earth that has had several violent changes in power, you might be able to get a feel for a world that has known similar warfare and changes and power. Pretty soon you’ll be able to form a mental image of city ruins and whole continents blasted by the exchange of weapons. This type of setting, bleak as it is, could offer a fascinating location for a Star Wars adventure.
+
+## PREPARING SETTINGS FOR PLAY
+
+With the high concept decided, you can begin working on the details of the setting. Here are some of the questions that you will need to answer about the settings you design.
+
+### Name
+
+Give the location a name. Almost every location will have a name, ranging from a simple descriptive, such as Ben’s hut, to a more abstract name, such as Fort Tusken. Giving a location a name makes that setting more realistic, because it gives the setting a history that is reflected in the meaning of the name.
+
+For example, Ben’s hut has a vague name, because the people who call it that don’t know exactly where it is — and don’t really care. Fort Tusken is named after a settlement where people were killed in one of the first raids by Sand People.
+
+A name won’t instantly make a place seem real, but as the setting is used or the characters learn more about the setting, the place takes on a life of its own. For example, when Mos Eisley is first mentioned in Ben’s hut, it is simply a name. Then we learn that it is a dangerous spaceport. Finally, when we see “a normal day” in the spaceport, the place becomes real to us and takes on a history and life of its own.
+
+### Type
+
+A “type” is a very succinct description of the location. Those two or three words can give you an excellent feel for the location and what it is like. For example, “posh nightclub” and “seedy, criminal cantina” are essentially the same type of establishment (drinking and socialization), but the type des-cription shows how different they are from each other.
+
+The type might describe the clientele (starfighter pilot’s bar, Mon Calamari restaurant, Rodian weapons shop), the forces that occupy or own a location (Rebel base, Imperial garrison, TransGalMeg mining station) or the location’s prime function (trading offices, farm, luxury hotel). The type might also describe the true function of the setting, as opposed to its assumed function. A casino, for instance, would be assumed to function as a gaming establishment while, in fact, its true primary function could be as a place for gathering information or for contacting underworld figures.
+
+### Location
+
+Where is the setting? It is important for you to remember that the settings you design do not exist in a vacuum. Outside every wall is a street, or another building, and through every door even if the player characters never see it open — is another room. Keep these surroundings in mind, and add their effects into your design.
+
+The location should be relative to a familiar location the characters are familiar with. For example, a building may be best described as “next to the cantina,” while a small farming settlement called Motesta may be “Two and a half hours north of Anchorhead by landspeeder.” If you want to make a planet seem distant, it’s enough to say, “It’s out in the frontier of space,” while most people will assume that a world that is “near the Core Worlds” will be civilized and cultured.
+
+By being given a comparative location, the characters get a sense of how distant this new location is and you will be able to think about how the characters will get there and where they will be when they leave.
+
+For example, a holotheater located next to a planetary criminal detainment center will have a different clientele and atmosphere from one located next to an Imperial officer’s training school. The theater located next to the detainment center might have a hidden room where illegal weapons are sold. The theater next to the training school might have, instead, a large concession stand that offers expensive liqueurs.
+
+### Set-Up
+
+How is the setting laid out? How are the rooms shaped, or where are specific buildings in a military complex. If the characters are going to be doing any significant maneuvering in the area (such as invading a base or getting into a fight), they will want a map of the setting. A map, no matter how crude, will convey much more information about the layout of the location to you than will a written description.
+
+Maps aren’t necessary for all locations, but they are helpful in locations where the difference between hiding behind a door or standing in the middle of the room matters.
+
+When sketching out a location, make sure that it is logical and consistent. If a floor has an elevator at one specific spot, there had better be an elevator on the floors above or below it, or a good explanation as to why there isn’t.
+
+### Physical Description
+
+Now that you have an idea for the setting, it is time to provide specific details on the setting. What does it look like? Write up a brief description of the most important places and objects within the setting, trying to add any information that the map doesn’t convey.
+
+Use a general look to get the appropriate feeling and tone across for settings. Every setting that you design should have a pattern into which most, if not all, of the details fit. This look can often be reduced to one word, such as grungy, sterile, pastoral, or mechanical. These one word descriptions of settings, while over-simplified, can be very useful. When you begin designing the settings of your adventure, you should start with this one word. As you determine the other details of the setting, you can then modify them in light of the general look of the setting and ensure that all the details fit properly.
+
+[Página impressa 213 | PDF 215]
+
+For example, a messenger droid in a decrepit starport might be a squeaking, battered, carbon-scored R2 unit with a hastily rigged — and not very dependable — vocabulator. A messenger droid in a flourishing starport would be a top-of-the-line, well-lubricated, shining and polished protocol droid that speaks three million languages and exudes a pleasant scent from its specially constructed aroma-disseminators.
+
+The general look of the Star Wars movies is one of the things that sets them apart from most of the other science fiction movies that came before them. The Star Wars movies appear to take place in a real universe where equipment is actually used and gets dirty, and the people who use it are too busy to clean it and too poor to be constantly buying new equipment. While the characters in other science fiction movies never traveled in a starship that was not brand new, the characters in Star Wars travel in decrepit clunkers.
+
+The Star Wars movies brought to the forefront the idea that the highly advanced technology of a galactic civilization would see daily use by the common people of the galaxy. The creators of Star Wars drew their inspirations from the streets, from the day-to-day lives of the people who use their cars and refrigerators and microwave ovens constantly.
+
+Adding to this well-used look is the fact that much of the original Star Wars movies are set in the outlying reaches of the galaxy — on the poor side of town. Take Tatooine as an example. Not only are the inhabitants of Tatooine far from the cutting edge of technology, but they also — because of their struggling economy — have to make do with what they have for much longer than do the inhabitants of wealthier systems.
+
+Because of this, the settings that will seem the most appropriate for Star Wars adventures will be those that can be best described as seedy, grungy, or disheveled. However, there are always exceptions, the prequel films visualized the more posh and glossy side of the Star Wars galaxy. The Mos Eisley cantina might be considered seedy, and the characters in your adventures might find themselves spending much of their time in similar settings, but, occasionally, they should find themselves in settings that are extremely different.
+
+For example, if they were to go to the palace on Naboo, a very wealthy planet, they would find that setting to be luxurious, while a well-equipped Imperial hospital would be sterile.
+
+To get a better understanding of the possible differences in the general look of settings you should consider the differences between military installations. Imperial and Republic garrisons will be spartan, polished and organized because such surface impressions are very important to the leaders of the Empire. Decorations will be uniform and plain in most cases, and slightly more lavish in the quarters of the high ranking officers. The smaller vehicles, such as fighters and vehicles, will be polished between deployments, and the larger ships will be regularly cleaned. The troops will be inspected often, and such minor violations as a scuffed helmet will be heavily punished.
+
+Rebel bases will look disheveled, well-used and hastily put together because the Rebellion cannot afford to spend time and money on the niceties which one would find in an Imperial base (especially since Rebel bases are likely to be evacuated at extremely short notice). Maintenance in a Rebel base will be
+
+limited to only what is absolutely necessary — if the grime in the corners isn’t affecting any equipment, then it won’t be removed. Carbon scoring on starfighters will be allowed to build up until it almost threatens to interfere with flight operations. Troops will rarely, if ever, be inspected and most flaws short of willful disobedience will be overlooked.
+
+New Republic installations will be somewhere in between these two extremes — neat, perhaps, or tidy. The New Republic is concerned with appearances — some think because its leaders want to prove that they are the rightful governors of the galaxy. However, the new government is too unsettled and fragile to risk weakening its armed forces by devoting too much time to such nonproductive tasks as polishing X-wings.
+
+Even so, the maintenance schedule on all ships will be more routine and more thorough, and some emphasis will be placed on the personal appearance of the troops, although military leaders will not want to risk alienating any of the unconventional but highly talented renegades who enlisted when the only goal of the Rebellion was to destroy the Empire.
+
+### People
+
+Who — or what — will the characters meet there? Make a list of the gamemaster characters or creatures that the characters might meet in this setting. Your list of inhabitants would include colorful personalities who will almost always be at the location — for example, the cheerful owner of the weapons shop, or a mouthy patron at a bar. You could also list the rare encounters, such as a brawling alien who just happens to be in a location at the same time as the characters.
+
+You might also want to note approximately how busy the location is — is it crowded to the rafters or is there hardly a soul in the location? When writing up information on the people that populate a setting, you should make note of any particular species which are common (such as Wookiees, for example) and make sure that this fact is translated into roleplaying (characters are a lot less likely to start a fight in a bar full of Wookiees than in one full of Jawas).
+
+You will also want to make note of any creatures that are common to a setting, from herds of grazing Tauntauns to a pet sun lizard that is in a cage behind the bar. These creatures can often be “characters” in their own right.
+
+[Página impressa 214 | PDF 216]
+
+### Background
+
+The background section of setting explains “how” the setting got to be the way it is. It is an explanation of the history of the setting, and provides detailed information on the location that is not readily apparent from the physical description.
+
+For example, you might want to list some of the past owners or past events of a particular business (for example, if the bar was a past front house for spice dealing, it might explain why the local constabulary watches the place so closely). From planets to small locations, you may want to explain some of the interesting events that molded the past of the location and show how they affect the nature of the business to this day.
+
+You can also disclose information, such as how a business is run, long running feuds that are important to the location, or a listing of the real owners of the location (such as, “this business is secretly owned by Hutt gangster syndicates.”).
+
+If the setting is a large scale one, you might also want to describe the local government or how the law operates (for example, “the police are very clean and will make things even worse for criminals who attempt to bribe them.”).
+
+You can describe the local economy, giving a little bit of information about how the local people earn their living or why the town is so wealthy or poor. This can also help to explain the value of the resources on the planet or objects in the setting (for example, on desert worlds water will be a very valuable commodity; on water worlds metals will be very valuable).
+
+For a wilderness setting, you might want to list facts that aren’t readily apparent, such as a dominant predatory creature that doesn’t happen to be around when the characters visit the location, but if the characters wait around it is sure to make an appearance.
+
+### Events
+
+What will happen there? Detail the encounters that will occur in this location and how they are supposed to unfold, then write out a brief description of what will happen if something doesn’t go as planned.
+
+Preparing this in advance will give you more control over how to resolve situations and unexpected actions taken by the characters.
+
+## MODIFYING SETTINGS DURING THE GAME
+
+One of the first things that you are going to learn while running a roleplaying game is that the players will not always do what you expect them to. Because of this, you are going to have to be prepared to modify settings in order to keep the story on track.
+
+For example, you’ve prepared a restaurant setting located on Obroa-skai in which the characters will learn the location of the bounty hunter/war droid IG-88. The players, however, have convinced themselves that the information will only be available on Tatooine, and, accordingly, travel there.
+
+You could allow the characters to travel to Tatooine and fail to find the information, but this could easily become a long, frustrating experience — particularly if you don’t have anything prepared for Tatooine. Or you could just tell the players that Tatooine is a dead end, but this is unfair to the players, because it limits the choices that the characters can make, and suggests that the characters don’t really have any free will.
+
+The quickest — and fairest — way to get this adventure back on track will be to move the restaurant to Tatooine. This way, the story progresses as you have planned for it to, but the characters are still able to exercise their free will.
+
+Unfortunately, the formal, elegant restaurant that you designed for Obroa-skai would not be appropriate for the rough, pioneer planet of Tatooine. Before the setting will feel real under the twin suns of Tatooine, you will have to modify it so that it fits its new location.
+
+Your settings need to be consistent with what surrounds them, or else they will not seem real. The refined formality that might characterize the restaurant on Obroa-skai would not be present on Tatooine. If you simply transfer the setting from Obroa-skai, then it will no longer feel realistic. Whenever you are forced to move a setting to another location, you will want to hide that fact from the players. They should never know that the setting was originally designed for another planet. In this case, the restaurant should feel as if it were always set on Tatooine.
+
+To effect this, you will have to downgrade the value of the furnishings and the sophistication of the clientele. In their place, you should make the furnishings very eclectic, to reflect the cluttered styles of Tatooine, and you should make the customers more exotic and less refined, to reflect the mix of species and cultures present on Tatooine.
+
+## FINAL PREPARATION
+
+Settings are one of the key parts of Star Wars adventures. Fortunately, with a little creativity, and by concentrating on look and feel over specific details, you will find scores of settings springing to mind.
+
+Of course, as with gamemaster characters, adventure ideas, equipment and all of the factors of adventure design, you will find that you never seem to have enough time to prepare just before an adventure. Therefore, use a notebook to write up specific locations. By keeping the notebook handy, you can write up locations as they occur to you, well before you need them for an adventure. As you find yourself trying to prepare an adventure with no time for planning, you may find just the location you are looking for all written up.
+
+# ENCOUNTERS
+
+Encounters are the heart and soul of roleplaying games. From battles with alien creatures, to a round of haggling with a trader or weapons merchant, to the final confrontation with a central villain, encounters are what drive your Star Wars adventures.
+
+## YOUR FIRST ENCOUNTERS
+
+Beginning gamemasters sometimes want to design elaborate, detailed encounters right from the start. While this is an admirable goal, it can often lead to frustration instead of fun. As a beginning gamemaster, your first few encounters should be simple. The emphasis should be on developing smaller scale, exciting and interesting encounters. With experience, gamemasters can expand to more elaborate encounters.
+
+If the encounter is a roleplaying encounter, where the action will be resolved through character interaction instead of skill
+
+[Página impressa 215 | PDF 217]
+
+use or combat, then you should limit yourself to encounters where the player characters are only interacting with one gamemaster character. This will allow you to concentrate on developing just one personality at a time, instead of having to switch among several different characters.
+
+After you have had practice playing different characters over the course of several adventures, then you will be able to start playing multiple characters during encounters, but in the beginning your gamemaster characters will seem more realistic if you only play one during each different encounter.
+
+In combat encounters, you do not have to be concerned with limiting yourself to only one gamemaster character because the personalities of gamemaster characters in combat situations do not have to be as thoroughly developed as they do in roleplaying situations. There will usually be very little interaction during combat — the participants are too busy shooting at each other.
+
+Instead, you will want to consider the group of gamemaster characters as being a single, cohesive group. When you design a group of gamemaster characters for a combat encounter, you will want to use a homogeneous group — a gang of thugs or a squad of stormtroopers, for example. By running a cohesive group, you can determine the same set of priorities for the group and not have to worry about the individual reactions of each person. Whenever you make a decision for one character, that can serve as a decision for the whole group.
+
+Don’t use one thug, one bounty hunter, a battle droid and a Gamorrean as a group — each of these characters would respond to situations in different ways. The thug would run as soon as he met resistance; the bounty hunter would retreat if he sensed too great a danger, but then he would probably sneak around and attack from the back; the battle droid wouldn’t retreat until he was commanded to; and the Gamorrean would attempt to destroy the entire town. You would spend so much time trying to decide who should do what, that you’d never finish the encounter.
+
+### Recurring Characters
+
+With practice, you will be able to easily switch from one gamemaster personality to another, but, when you first start, you will probably have difficulties with this. Using recurring characters is one way to learn to overcome these difficulties.
+
+Just as it helps the players to become familiar with their characters by playing them again and again, it will help you to become more familiar with gamemaster characters by using some of them for more than one encounter. Reusing characters will allow you to learn the intricacies of developing a fictional personality.
+
+Some gamemaster characters are generic characters. Generic characters are characters that fit into a group and have very little individual identity. Stormtroopers are the perfect example of this — they always look the same, act the same, and respond in the same manner. Whenever you use a stormtrooper in an encounter, you can consider that stormtrooper to be, essentially, the same stormtrooper that the characters met last time. You can build on the nuances of the character’s personality by using the same personality as you did in the last encounter.
+
+Another example would be a common thug. Thugs may come in different shapes, sizes and species, but they have the same “attitude,” and, each time the characters interact with a common thug, you can use that as an opportunity to refine the “attitude” of the common thug.
+
+Many gamemaster characters can be used repeatedly. Gamemaster characters are not limited to only one appearance per adventure. Some characters, such as a friendly Ewok, or a lost kid, could follow the player characters throughout the adventure — turning any lull in the adventure into an encounter between themselves and the player characters. Other characters, such as an Imperial officer who has kidnapped the families of the player characters, or the crime lord to whom the characters owe a large number of credits, may appear in an encounter early in the adventure, then return for the climatic conclusion. Other characters may only show up once or twice during any given adventure, but can be used in a series of adventures. The first time a Rebel officer gives the characters their assignments, he may seem to be an unremarkable individual. By using him several times and introducing a few personality trails over time, the Rebel officer could become a sympathetic boss, a struggling revolutionary, a tough-as-nails task-master or any of hundreds of other personality types: in time, the Rebel officer becomes a person.
+
+### Multiple Characters
+
+After you become proficient at jumping from character to character between encounters, you should try playing multiple gamemaster characters simultaneously in order to add complexity to your encounters. As an added twist, you can try playing gamemaster characters that are opposed to each other and argue among themselves. A good way to try this would be to bring in a well-known pair such as C-3P0 and R2-D2 and have them constantly bicker with each other as they interact with the player characters.
+
+## PREPARING ENCOUNTERS
+
+There are several aspects of an encounter that you will have to consider before it is ready for play.
+
+### Main Character
+
+Who is the main character that the players will have to deal with? Write up a brief description of this character, including a few words about the species and appearance of the character, a list of the character’s attributes and skills (or at least the skills which you think will be necessary in the encounter), and a list of the character’s equipment. Unless this character is going to be a major, recurring character in the adventure, this description does not have to be very extensive — just enough so that you have a good idea of who this character is.
+
+You should also ensure that your gamemaster characters are well designed. In all encounters, but in roleplaying encounters especially, detailed, realistic gamemaster characters are a necessity. If their opponents are flat, empty and artificial, the player characters will also be lifeless, but interacting with living, vibrant gamemaster characters will force the players to put more life into their own characters.
+
+Gamemaster characters can often be helpful in putting the player characters back on track. If the player characters don’t seem to be having the flash of insight that will allow them to solve a puzzle, a gamemaster character can drop a hint to them. However, you don’t want the gamemaster characters to become the leaders of a party — it should always be the player characters who are making the major decisions in a game. Gamemaster characters should primarily provide support; they should rarely be used to solve the problems themselves.
+
+[Página impressa 216 | PDF 218]
+
+### Objective
+
+What does the main character want’ to gain from this encounter? Does he want to get money from the characters? Does he want to hire them to do a job? Does he want to betray them to the Empire or a crime lord for a reward? Does the main character simply want to be left alone? There is also the possibility that the main character will have no set objective regarding the characters — if the main character is out for a night on the town, he probably won’t care too much about the player characters and probably won’t have any objectives until the characters offend him, amuse him, flatter him or otherwise get his attention.
+
+Without knowing what the main character wants out of the encounter, there is no way for you to know how he or she will respond to the player characters.
+
+When you design a character, part of the creation process is determining the character’s short and long term objectives. By knowing the character’s personality, attitudes and goals, you can often make a reasonable guess as to what a character’s objectives will be in an encounter situation.
+
+### Location
+
+Where will this encounter occur? You need to have a realistic and interesting setting prepared for the encounter. Part of the Star Wars appeal are the stunning visuals of exotic worlds and locations, so you must put some effort into creating interesting locations. You have to ensure that the setting feels “realistic” to the players — they have to get the impression that this location could be a real place in the Star Wars universe, instead of a movie set. If the setting doesn’t feel realistic, then the players will not act realistically. Instead of entering fully into the persona of their characters, they will hold back.
+
+The setting in a combat encounter is important for a different reason. In a combat encounter, the players aren’t going to be concerned about the feel of a setting; they are going to be concerned about the layout of it. In combat, the finer points of strategy become most important, and, because of this, the players are going to want to know every detail of the setting. They hope to be able to find something in the setting that they can use to their advantage. Whenever you design a combat encounter, you should prepare a map — even if it is no more than a rough sketch — so that you will know precisely how the setting is arranged, and you should consider — before the encounter begins — how the different components of the setting can be used to the best advantage by both the player characters and the gamemaster characters.
+
+### The Player Characters
+
+Who is going to be in this encounter? Try to be familiar with the player characters who are going to be in the encounter and factor their strengths and weaknesses into the design of the encounter. If several of the player characters have unarmed combat skills, such as brawling, then you should try to give them an opportunity to use those skills. Or, if a character has a high skill level in an uncommon alien language, you could design an encounter in which the characters are only able to succeed because of that skill.
+
+The idea is that you should tailor the encounters to make the characters feel that fate has pushed them into these situations because they, and no one else, can be successful. These types of encounters will make the players feel as if they are in a heroic story designed just for them.
+
+For example, Luke Skywalker’s success in destroying the Death Star in Star Wars: A New Hope is largely because of his experiences hunting womp rats in Beggars Canyon on Tatooine. This connection between his past experiences and his present successes makes it seem as if fate was always preparing him for his attack on the Death Star.
+
+### Roleplaying the Scene
+
+In some situations, such as combat, it is obvious that the encounter will have to be resolved through die rolling — there is no other way to determine the success of a blaster shot, or the outcome of a brawl. However, there are many other situations that are covered by a skill such as bargaining, con, investigation, and gambling — that could be resolved through die rolling but are more suited to roleplaying.
+
+Any time the players attempt to use a skill that involves extensive personal interaction between a player character and a gamemaster character, you should play out the interaction as thoroughly as possible. If you roleplay these encounters, by taking the part of the gamemaster character and actually bargaining with the player characters, or using your wits to con them, instead of simply rolling the dice and declaring a winner, then the encounter will feel more realistic — more like a movie, and less like a game of backgammon.
+
+This does not mean that the skills covering these situations are useless in game terms. They are, in fact, very useful and can be used in several ways.
+
+First, instead of using the skill levels of the gamemaster characters to determine their successes or failures, you can use them to determine the skill level which you will exhibit while in the guise of that character. For example, the characters in an adventure need to hire a slicer to help them get into a computer system. There might be two different encounters in which they could attempt this. In one, the characters will deal directly with Ghent, a slicer employed by Talon Karrde. In the other, they will have to deal with Talon Karrde, himself.
+
+When the characters deal with Ghent, whose bargain skill is only 4D, you — as Ghent — would not drive a very hard bargain (particularly if the player character doing the bargaining had a much higher bargain skill than Ghent). However, when the player characters deal with Talon Karrde, whose bargain skill is 8D, you should make them work very hard to get what they want.
+
+Second, you can make the skill rolls in secret, then roleplay the situation, and allow it to conclude as the die roll dictates. By resolving the situation in this manner, you are able to have the game proceed according to the rules, yet still preserve the illusion — at least for the players that the gamemaster characters are acting in accord with their complex personalities.
+
+## PLOTTING
+
+The plot of your story is the manner in which you connect the encounters together. A series of well-designed encounters can lose their punch if they are not arranged in the most effective sequence.
+
+In a traditionally structured story, the dramatic tension builds as the story progresses, until it reaches a peak at the climax of the story, and the tension is released through either the failure or success of the main characters. In game terms, this means that the encounters should become more and more difficult as the story progresses.
+
+[Página impressa 217 | PDF 219]
+
+As the dramatic tension of the game increases, the characters will become more and more fearful for their lives and the lives of others; they will find themselves in increasingly dangerous situations, facing increasingly frustrating problems, and becoming increasingly angry with their opponents and the obstacles before them.
+
+Dramatic tension within the encounter should follow a pattern that is reflected in the main plot of the story. The encounter will begin with a relatively low level of tension. As the encounter progresses, the tension will rise, as the player characters begin to realize that they are going to have to fight or that they are likely to be imprisoned by stormtroopers, for example.
+
+The characters should then make their decisive moves — they start shooting, or they jump down the garbage chute to escape the stormtroopers — and some of the tension is released, but not so much that the characters are as relaxed as they were at the beginning of the encounter. Every encounter, despite the drop in tension that accompanies the resolution, should create a net increase in tension as the story progresses.
+
+In the beginning of the story, the characters should be given a chance to “catch their breath” between encounters. This could mean following a stressful encounter with a humorous one, or following a quickly moving combat encounter with a more relaxed roleplaying encounter.
+
+However, as the adventure approaches its conclusion, the breaks between stressful encounters should become smaller, until the last few encounters build on each other without allowing for any relief — until the dramatic conclusion.
+
+## DIFFICULTY LEVELS
+
+The difficulty level of an encounter should depend largely on the plotting of the adventure. Early encounters should be relatively easy, because you don’t want the characters to have a real chance of failure until they know how important their actions are. As the adventure and story progress, the encounters should get more difficult until the dramatic conclusion, which should be the most difficult encounter in the adventure.
+
+Easy encounters are important because they should allow the characters to get into the story. For example, what if Luke Skywalker had not been able to find R2-D2 on Tatooine? What if it had been too difficult? If that had happened, then the story would have ended on Tatooine, with Luke working to pay his uncle for the lost droid when Grand Moff Tarkin decides to bring in the Death Star and reduce Tatooine to dust.
+
+Dramatically, the real flaw in this series of events is that Luke would have never known his importance. He would have never known that it was his failure to find R2-D2 that led to the destruction of Tatooine and the end of the Rebel Alliance.
+
+When the player characters in an adventure fail, you want them to know exactly how badly they have failed, or else the story will have no dramatic impact.
+
+Therefore, beginning encounters should be easier, at least until the characters begin to realize the importance of what is going on. Once the characters start to understand the story, you can throw more challenging encounters at them so the characters keep on striving for success no matter what happens. On the other hand, you can make a beginning encounter so hard that the characters are going to fail and by doing so, they are thrust into the story.
+
+Several factors determine the difficulty of an encounter:
+
+• The number of opponents.
+• The skill level of the opponents. • Believability
+• Staging
+• Surprises
+
+### The Number of Opponents
+
+Larger numbers of opponents will usually increase the difficulty of an encounter. Two stormtroopers are more of an opponent than one, and twenty stormtroopers are a lot more dangerous than two. Most characters, as individuals, could probably defeat two stormtroopers, but few individuals could defeat twenty.
+
+In many cases, you will want the characters to face a large number of opponents to heighten the tension of the scene. However, if this is a scene where the characters have to succeed, you will need to give them a break in some way.
+
+In order for you to make it possible for the player characters to defeat these large numbers of opponents, you will have to lower the skill levels of the opponents or give the characters a distinct tactical advantage. For example, if the characters have to fight a superior number of Gamorreans, you might want to make sure the characters have better weapons, or give the characters better cover so that they have something to hide behind while the Gamorreans must blindly charge up the alley. Another way to deal with this is to give the Gamorreans a built-in weakness: since this group is a bunch of cowards, if two of their number are knocked unconscious or otherwise defeated, they will panic and flee.
+
+### The Skill Level of Opponents
+
+A single skilled opponent is usually much more of a threat than several unskilled opponents. Because of the die rolling mechanics of the Star Wars Roleplaying Game, a small increase in a skill level translates into a significant increase in a character’s chances of success. For example, if a character has a blaster skill of 4D and his target has a dodge skill of 3D — only a skill difference of one die — the shooting character has an excellent chance of hitting his target. If a character has a two die advantage he will almost always succeed. While this is certainly intuitive (since five or four dice are obviously better than three dice), it makes assigning skill levels very important.
+
+[Página impressa 218 | PDF 220]
+
+For example, twenty stormtroopers might be equivalent to only three bounty hunters if the bounty hunters have higher skill levels than the stormtroopers. The corollary to this is that an increase in the number of opponents can be countered by a decrease in the skill levels of the opponents, so if you want the characters to achieve a heroic and spectacular success in an encounter, you might consider having them face a large number of relatively unskilled opponents. Or, if you want the characters to suffer an embarrassing defeat, you could have them face one extremely skilled opponent, such as Darth Vader or Boba Fett.
+
+### Believability
+
+You should keep in mind the question of believability when setting the difficulty level of an encounter.
+
+Believability concerns maintaining an internal consistency to the universe. If the characters land on a planet that they know is occupied by only forty stormtroopers, then they cannot kill twenty stormtroopers in one encounter only to meet thirty more in a second encounter.
+
+How do you believably make the second encounter more challenging than the first? Simple — you make the remaining twenty stormtroopers “expert” stormtroopers and increase their skill levels, making the encounter more challenging, but not disrupting the believability of the universe. It is easier to believe in “expert” stormtroopers, than it is to explain “spontaneous generations” of additional stormtroopers.
+
+### Staging
+
+The difficulty of an encounter can also be influenced by the location in which the encounter occurs because there are many aspects of setting which can limit the number of opponents that the characters can attack or be attacked by.
+
+For example, a single player character could easily defeat ten stormtroopers if the stormtroopers are somehow forced to enter the battle one at a time (entering the room through a narrow doorway, for instance). But that same player character would be doomed if all ten stormtroopers were able to attack simultaneously.
+
+In most encounters, you should assume that the player characters will use the features of the setting for their own benefit. They will take full advantage of any opportunities for cover and attempt to force their opponents into crowded or open areas. However, you should also remember that gamemaster characters, if their intelligence warrants it, will attempt to use these same features for their benefit.
+
+An Example of Staging. Weeffil Liff’s Trading Center supplies many of the starships passing through the Ord Mantell spaceport with the foodstuffs and recycling systems that allow the crew members to survive the journey through space.
+
+The Trading Center was constructed inside the shell of a very large starship construction hangar. It consists of a warehouse, which occupies the bulk of the space in the hangar, and a small (15 by 15 meters) business area, which contains samples of Liff’s goods and where all business is transacted.
+
+The business area is located at the front of the hangar, just inside of the heavy, durasteel blast doors that secure the hangar. The only exterior entrance into the business area is a narrow doorway cut into one of the blast doors.
+
+A group of characters being chased through the starport by a local gangster’s thugs could raise the odds in their favor by ducking into Liff’s Trading Center and attacking the men as they squeeze through the narrow doorway one at a time.
+
+However, if Weeffil Liff is, in fact, a member of that gangster’s criminal organization, then the thugs might be able to turn this situation to their advantage by entering through one of the private back entrances and attacking the player characters from the catwalks that surround the ceiling of the business area.
+
+### Surprises
+
+Gamemaster characters may have advantages or disadvantages that are not readily apparent to the player characters. That clunky looking YT-450a transport that is chasing the player characters’ ship might be all stock but, then again, maybe it has been supercharged and equipped with heavy-duty turbolasers. There is no way for the players to know the truth until their characters either outrun it or find it close on their tail spitting laser bolts at them. Or perhaps the stormtroopers that are chasing the characters through a Star Destroyer have an unknown ally, such as a security officer on the bridge who is monitoring the progress of the chase and is locking and unlocking hatches in order to force the player characters into a trap. Or maybe the bounty hunters that have been chasing the characters have used up most of the charges in their blasters and are just waving the weapons around for show.
+
+The details of the advantages or disadvantages will change, but what is important is the fact that the players will have no way to predict what is going to occur. Anything is possible — if it doesn’t disrupt the internal consistency of the game.
+
+As the gamemaster, you can use these types of advantages and disadvantages as plot devices, making them an integral part of the story, or you can use them as equalizers, giving the gamemaster characters a disadvantage when the player characters are having a rough time, or giving them an advantage when the player characters seem to have everything going for them.
+
+[Página impressa 219 | PDF 221]
+
+## ENCOUNTER RESULTS
+
+In most cases you will initially conceive of the adventure as a story — that is, a series of encounters that are linked by what you believe are the most likely or most dramatic resolutions. This series of encounters will form the skeleton of the adventure that you are creating. If the player characters always act as you assume they will, and make the decisions that you expect, then they will progress through the encounters just as you expect them to.
+
+However, it is very unlikely that the players will proceed through the adventure in the orderly fashion that you expect. Because of this, after you have decided what encounters should happen, you will have to consider alternate results and how they will affect the encounters that follow.
+
+What is most likely to happen in each encounter? What could go wrong for the player characters? What could have happened earlier in the adventure that would make this encounter easier (or harder) on the players? Is this encounter likely to be resolved by combat, negotiation, or arguing?
+
+In every encounter you design, you have to have a good idea of what might happen. The more possibilities you can consider, the less likely it is that the players will be able to surprise you.
+
+For each encounter, think about what could happen differently from the way that you have it planned. If it is a combat encounter, can the characters die? Or will they just be captured, or wounded? If they can be captured, then you have to consider how to continue the story. Do they escape? Or are they are released by some unknown benefactor?
+
+If the encounter is one that involves gathering information from a gamemaster character, then you have to think about what the player characters could do to cause their failure. Could they insult the gamemaster character? Could they talk to the wrong gamemaster characters? Or could they simply fail to ask the right questions?
+
+After considering how the player characters could fail to get the information, you need to think about other methods that they could use to get the information — or ways for the story to progress without the information.
+
+Is there another gamemaster character that the player characters could speak to? Or is there a Rebel spy in the area who also knows the information and receives orders from the Alliance to take the information to the player characters? Maybe the players can come up with an interesting suggestion, such as plugging their R2 unit into a data terminal. In this case, you might have to put the information in a different form, but you would still be able to give it to the player characters, and they would feel that they discovered it on their own.
+
+As a final alternative, you could have the player characters stumble into the next planned encounter unknowingly and have the information revealed to them later in the adventure.
+
+When you first start designing encounters, you have to decide how important each encounter is to the story. Concentrate on the important ones and make sure that they are
+
+well developed. Don’t worry as much about the less important ones — as long as you have the basic facts of them developed the story can still move forwards.
+
+However, it is important that your conclusion, the climactic encounter, is well developed. If the end of the adventure is well developed and exciting, then the players will forget about any shortcomings the encounters in the middle of the adventure might have had.
+
+### Success and Failure
+
+How can the characters succeed and what is their reward? The conditions of success have to be well detailed. In an encounter involving combat, success could be victory or simply survival. In an encounter with a door, success could be bypassing the security system. In a roleplaying encounter, success could be getting the password from the bartender.
+
+In many cases, the main reward for success will be that the characters are able to continue on to the next part of the story, but sometimes the characters will receive an additional reward that helps them during later portions of the adventure.
+
+Additional rewards would include things like equipment or information, gamemaster characters allies, or extra Character Points.
+
+How can the characters fail — and what is their punishment? You will also have to determine the conditions of failure in an encounter. The important thing to remember about failure is that you don’t want it to end the story. Instead, it should complicate the activities of the characters, giving them more difficult or numerous obstacles to overcome. For each encounter, you have to consider ways in which the characters can turn failure into an eventual success, while still punishing the characters for their failure.
+
+For example, if the characters fail in their attempt to bribe a customs official, then that official may report their activities to the local government, and the characters would have to spend the rest of the adventure avoiding the local authorities. More extreme punishments for the characters could include taking away their starship, dismissing them from the Rebellion, or having loyal gamemaster character companions killed.
+
+## POSSIBLE ENCOUNTERS
+
+There are many different kinds of encounters and many ways of resolving them. Here are some types of encounters that can be used:
+
+[Página impressa 220 | PDF 222]
+
+### Combat Encounters
+
+Combat encounters are the flashiest type of encounter, with flashing blaster bolts, explosions and all of the other good elements of the combat scenes in the Star Wars movies. However, combat encounters have their place, and they are no substitute for other types of encounters.
+
+Many beginning gamemasters write adventures that are simply a string of combat scenes, with the barest of plots holding the story together. This is discouraged.
+
+Combat is most exciting when it is important. In other words, it should be used sparingly so that it is set off from the rest of the game, and thus more important to the game. Also, because of the nature of the Star Wars rules, combat can also be dangerous to characters. If the characters are herded from one fight to another, odds are that they will be killed, or if their skills are much higher than the gamemaster characters, the players will start to get a feeling of smug superiority, believing that their characters are invulnerable. Neither result is desirable — the players must believe that when their characters enter into combat there is risk and danger, but that they also have a fair chance of survival if they play shrewdly.
+
+Please note that while most of the following encounters suggest or lend themselves to combat, the characters may be able to talk their way out of the situation. Some of the best, most intense roleplaying encounters come out of scenes where combat seems imminent and the characters are smart enough to avoid a shootout.
+
+Some suggestions for combat encounters:
+
+• Stormtroopers who are attempting to capture or kill the characters, either for obvious reasons, or for reasons known only to the Imperials.
+
+• Bounty Hunters who are attempting to collect a bounty on the characters. Aside from the type of situation where the characters know why the bounty hunters are after them, this scene could involve a bounty that the characters know nothing about or it could be a case of mistaken identity.
+
+• Common thugs who are angry at the characters for being strangers. Since the thugs are probably motivated by ego and bravado, once the characters start winning the thugs will probably flee.
+
+• Pirates who think that the characters have something valuable on their ship.
+
+• Police who want to arrest the characters for breaking an obscure local law.
+
+• Inscrutable aliens who want to capture, or kill, the characters for reasons known only to the aliens.
+
+### Roleplaying Encounters
+
+Roleplaying encounters will make up the majority of each adventure. In this type of encounter, the gamemaster has no expectation that combat will erupt, and the characters shouldn’t be antagonized enough to start a fight.
+
+Roleplaying encounters are scenes where it is easy to emphasize the unique nature of the Star Wars universe. The characters will meet the exotic people, aliens and droids who make Star Wars different than the real world. The characters will encounter people, places and things that are uniquely Star Wars.
+
+To that end, gamemasters are encouraged to add lots of little details to make roleplaying encounters memorable. From designing a really interesting and unique gamemaster character, to having the characters come across something that is really unusual, these encounters highlight the unique flavor of the game.
+
+These encounters are also used to pass information and equipment to characters, as well as to introduce allies, enemies and neutral individuals who are important to a story. These encounters can also provided need comic relief to release some of the pent up tension of the game or to change the focus of the adventure for a few moments.
+
+In short, while combat encounters will often be the dramatic resolution of an adventure, roleplaying encounters will be the ones that drive the story by giving the players suggestions, information, direction and by introducing them to the people, places and things that are important to the story and the universe.
+
+Some suggestions for roleplaying encounters are:
+
+• Salesbeings who want to sell the characters anything from slave girls to battered landspeeders.
+
+• Gamblers who think that the characters look like easy marks.
+
+• Con artists who think that the characters can be easily fooled.
+
+• Lunatics who don’t think anything, but can draw unwanted attention to the characters.
+
+• Street preachers who want to convert the characters to the local religion.
+
+• Primitive aliens who want to trade pretty rocks to the characters in exchange for the lightning-makers (blasters) that the characters are carrying.
+
+### Background Encounters
+
+A background encounter is any encounter that does not advance the plot. These encounters offer opportunities for the characters to experience some of the depth of the world that you have created but aren’t integral to the story.
+
+For example, in Star Wars: A New Hope, the scene in the Jawa sandcrawler, where C-3P0 discovers R2-D2, adds little to the plot, but by serving as a device to introduce the examples of other droids it illustrates some of the diversity that exists in the Star Wars universe.
+
+Background encounters can be used to prove to the players that the universe exists independently of the activities of their characters. For example, a group of characters working as traders might be so wrapped up in their own economic struggles that they forget about the cruelties of the Empire until they are approached by a young child who, while begging for credits, tells them that her parents were killed by the Empire. Or, members of the Rebellion might learn about the far away successes or failures of the Empire through conversations with natives they encounter while riding a maglev commuter train.
+
+Background encounters are also good for comic relief — a necessity for giving a story the Star Wars feel — and for causing minor annoyances when you feel that the characters are having too easy of a time in an adventure.
+
+Some suggestions for background encounters include:
+
+[Página impressa 221 | PDF 223]
+
+• The characters meet a group of mercenaries headed off to a distant world for a “mop up” operation. These mercs might be introduced in a later adventure, and shows the characters that “hired guns” are common in the Star Wars universe.
+
+• The characters are attacked by a group of young teens. During the battle or roleplaying, they learn that the teens are trying to get money for food because their parents can’t find jobs. This illustrates the desperation and bleakness of the world the characters are visiting.
+
+• The characters see riders astride flying serpents. This shows the alienness of the world.
+
+• The characters meet an alien trader. The alien speaks in an unusual accent, has several tentacles and its skin seems to ripple. Whether or not the characters buy anything, this scene helps illustrate the diversity of the Star Wars universe.
+
+### Objects
+
+Encounters with inanimate objects are just as important as encounters with gamemaster characters. A security door that stands between the characters and their ultimate objective is as much of an opponent as a squad of guards would be. While encounters with objects normally aren’t as tense as combat encounters, they still present worthwhile challenges. Tension can be added by using a time limit, but most of the time encounters with things will often be presented as puzzles that the characters have to solve.
+
+The most common thing that the characters will find opposing them will be some sort of barrier — a locked door or a durasteel wall. When designing an encounter with a barrier, you must remember that there are only three methods to defeat it: activate the opening mechanism (by bypassing the security system, or picking the lock), break through the barrier (blast a hole through the wall, or force the door open), or go around the barrier.
+
+If it is essential to the story that the characters find some way to get past this barrier, then you must make sure that you have at least two methods that they can use to get through it.
+
+Another type of encounter with a thing would involve a piece of equipment, such as trying to retrieve information from a computer terminal or trying to pilot a malfunctioning vehicle. These types of encounters can be resolved through die rolls — the player rolls on the character’s computer programming/ repair or repulsorlift operation skill. You can make the encounter more interesting if you determine how the equipment works so that you will know how it responds to the character’s actions.
+
+For the computer, you should tell the characters how its input devices operate and what sort of output it will provide for the characters. For a vehicle, you tell the players how the controls are arranged, so that you can explain to the characters how their actions affect the operation of the vehicle.
+
+For example, the characters may have to figure out how to start a Hoverscout before they can escape from the Imperials, or they may have to activate the incredibly strange alien artifact before they can destroy attacking pirate ships.
+
+When you design these encounters, keep in mind the skills of the characters who you expect to take part in the encounter and tailor the encounter to make use of their skills. Players are always pleased when a skill that they don’t consider to be essential (usually anything other than a combat skill) allows them to solve a problem.
+
+Another example would be an encounter with a strange alien artifact, or some other type of indecipherable object. The most important aspect of an encounter such as this is that the object be truly alien. Its uses and its methods of operation should not be readily apparent, and, when the characters do activate it, it should behave strangely. Any time the characters encounter an object that is not a normal, easily recognizable part of the Star Wars universe, you must have a detailed description of it prepared, including an explanation of what it looks like, what it does, and precisely how the characters will be able to make it work.
+
+Some examples of encounters with objects:
+
+• The characters have to diffuse a bomb before it destroys whatever building or starship they happen to be in.
+
+• The characters must use their computer skills to hack through a corporate computer system and steal the data the Rebel Alliance needs.
+
+• The characters come across a wide chasm. Since they have no vehicles, they must build a rope bridge to cross the gap.
+
+• The characters have to use their sensors skill to operate portable hand scanners and detect advancing Imperial troops, giving the characters time to escape to safety.
+
+### Animals
+
+Encounters with animals can often be as dangerous as, or even more so than, encounters with sentients. It is important that you understand the animal’s motivations for its actions in order to properly implement the creature into your particular encounter.
+
+Food. One reason for an animal to attack would be for food. A hunting creature, unless it is starving, will often back away from a fight if it is met with fierce opposition — if the animal thinks it might be injured or defeated, it will run away. This means that the characters might be able to drive away a well fed Krayt dragon by putting up a fight, even though they don’t have enough strength to defeat it — the dragon would simply decide that it wasn’t worth the trouble. However, if the Krayt dragon hadn’t eaten in several days, then it would not give up as easily.
+
+Animals hunting for food can also be distracted by bait. If the characters are attacked by hungry animals, they may be able to distract them by throwing meat to the animals and fleeing while the animals are eating.
+
+Defending territory or young. A second reason that an animal attacks is to defend its territory or its young. Animals that are put in a defensive position will fight with unexpected ferocity. A herd of Tauntauns, despite their limited combat skills, would severely injure any characters who invaded their nesting areas.
+
+A creature that is starving has nothing to lose from a fight and much to gain; a creature protecting its young will fight despite the odds. These creatures will be extremely dangerous, and the characters will either have to run away from them, or destroy them.
+
+On the other hand, a well fed carnivore, or a wandering creature that the characters surprise, might be driven off by a show of bravado.
+
+[Página impressa 222 | PDF 224]
+
+Explorers. Characters may come across animals that are simply curious and exploring territory. The animals may be skittish, friendly, fierce or passive — their specific motivations, desires and reactions can vary immensely as the different animals have different drives and levels of intelligence and aggression. These types of encounters may be as surprising to the animals as to the characters.
+
+Friendly animals. Some animals, especially if they have been domesticated in the past, fed by visitors or otherwise had good experiences with beings that resemble the characters, will approach the characters seeking companionship, food, and other attention. The form of these creatures can be highly variable. In general, they will probably follow the characters until they get what they want, their curiosity is sated or the characters actively drive them off.
+
+Surprise. The animals and the characters can mutually surprise each other. The response can vary dramatically — the animals might instantly attack, stare at the characters in disbelief or misunderstanding, run away or casually walk away unconcerned.
+
+Frightened animals. Animals, typically herbivores, are easily frightened away. When the characters encounter these animals, they will probably run away in fear, or pull back to what the animals consider a safe location and try to observe the characters.
+
+Guard animals. Occasionally the characters will encounter trained guard animals. These animals will be more dangerous than their wild counterparts because they will be trained in advanced methods of fighting, and they will be healthier and stronger than any wild animal. They might also fight to the death, because they have been trained not to fear characters.
+
+Comic relief. Friendly and affectionate animals can also provide humorous encounters — if a surprise attack is foiled by the screeching of animals that are following the characters, the scene is at once humorous and frustrating. Pack and riding animals could refuse to cooperate and throw their riders; strange-looking birds could be scared away by a Wookiee’s growl, monkey creatures could dance in the trees; or slobbery dog-like creatures could become attached to one or more characters. Any of these encounters could add a much needed break from the tension of an intense adventure.
+
+Balancing animal encounters. After you understand the motivations of the animal, then you will be better able to balance the encounter. Most animal attacks will be brawling attacks — few animals have defenses that act as ranged weapons — so characters with blasters or slugthrowers will have an advantage over most animals if there is some distance between the characters and the animals when the encounter begins.
+
+Animals can overcome this disadvantage by using cover and camouflage to sneak up on the characters. However, once they get into brawling range, the animals, in many cases, will gain the advantage.
+
+In determining the number of animals that the characters will encounter, you should consider how much danger you want the characters to face. If you want the encounter to be relatively easy, then you can limit the number of animal opponents, so that the characters can defeat them with ranged weapons and barely break a sweat. If you want the encounter to be more difficult, then you can increase the number of animals, so that the characters are forced into hand to claw combat.
+
+Drama. It will often increase the drama of the encounter if the animals have a non-lethal method of attack in addition to any lethal attacks they might have. For example, Najarkan tree vipers are poisonous and can easily kill a character, but very often their first attack is a grasping, constricting attack, where they coil around their target. After they have grasped their target, then they attempt to bite.
+
+This non-lethal method of attack adds drama to the encounter because it allows the characters to be attacked once without risking any serious decrease in their health status. Instead, they can be penalized in some other fashion, such as — temporarily — losing 2D from their Dexterity.
+
+### Character Development
+
+You might also try to design a series of encounters that develop the personalities of the player characters. These encounters would be similar to the scenes in The Empire Strikes Back that document Luke’s Jedi training on Dagobah his practice sessions and his conversations with Yoda.
+
+These types of encounters require strong gamemaster characters and settings. As gamemaster, you should plot out several distinct events for these encounters that show the personality of the gamemaster character and encourage the player to flesh out his character more thoroughly.
+
+[Página impressa 223 | PDF 225]
+
+Here are some sample character development encounters:
+
+• Encounters where the characters have to pull together to help save a character’s family business. The characters could have to work together on mundane tasks, meet other gamemaster characters and see what their lives are like, so the players get a better understanding of how difficult life is for the “average” person.
+
+• A Jedi’s training with his lightsaber and Force skills. You could have the Jedi face learn the philosophy behind the use of the Force (play the role of the Jedi Master), have the character face challenges (use dream sequences, like the cave sequence in The Empire Strikes Back), and have the character have to make truly difficult decisions where good and evil are not clear (should the Jedi continue his training and risk having his friends die, or should he run to their rescue knowing that he could easily be swayed to the Dark Side).
+
+• Encounters where the characters are taught how to tear down their ship’s engines and repair them. These scenes would show the characters forming ’a bond of trust and friendship with the mechanic and each other.
+
+### Heroic Encounters
+
+The characters should be given a chance to act heroic at lease once in a while. Here, the lines of good and evil are clearly drawn and the characters must take great risks and overcome staggering odds to be successful and save the day. Players get a real sense of accomplishment when they overcome great odds, and heroic encounters are a great way to wind up a rousing adventure.
+
+Heroic encounters require the characters to fight for “good.” For example, it is not heroic to slice five unarmed pirates in half with a lightsaber. Even though that would be considered a victory in combat, it is clearly cowardly and immoral. However, a great set-up for a heroic encounter is to have the character protect a child by defeating five heavily armed pirates using only a rusty iron cutlass.
+
+Heroism should be used sparingly — it isn’t appropriate for every encounter. For example, a group of characters have infiltrated a space station and must get to the center of the station to rescue an old friend. Their first encounters should be relatively easy, but the last the one that directly precedes the rescue of their friend — should require a heroic effort.
+
+It is probably more realistic, and more satisfying, to develop heroic encounters by increasing the strength and skills of the opponent rather than by using sheer numbers. Even a character that has single-handedly defeated squads of stormtroopers will think twice about entering battle with Darth Vader in single combat.
+
+Some examples of heroic encounters include:
+
+• The characters must fight their way through the heart of an Imperial shipyard after saving one of their friends from execution at the hands of the Empire.
+
+• One of the characters has a face to face confrontation with the infamous bounty hunter who killed his family. In the final battle, the bounty hunter is seriously injured and is clinging to the edge of an overhang over an ocean of molten lava. The heroic action is to save the bounty hunter rather than kill him in cold blood or let him die.
+
+• The character flies a solo attack against a pirate base to serve as a distraction so the other characters can sneak into the base and save a group of Wookiee slaves. The character flying the attack knows that it is very likely that he will die, but he considers the lives of hundreds of slaves more important than his own.
+
+# CAMPAIGNS
+
+So your group of players had their first Star Wars adventure, and everyone enjoyed themselves. In fact, the group decided that they wanted to play the same characters again next time you all got together and start up right where you left off. Congratulations: a campaign is born! The easiest definition of a campaign is:
+
+A series of linked, consistent adventures played by a group of recurring player characters. As play continues, the player characters affect their environment, and have their personalities developed in the process. Each adventure becomes a part of the overall, continuing story.
+
+Campaigns can be planned or spontaneous (as in, everyone really has a good time the first time they play Star Wars and decide to keep on playing), but the process of devising a successful continuing story is the same.
+
+## THE STARTING POINT
+
+Whether the campaign is planned or “just happens,” the first factor is how the characters got together in the first place. Often, a first adventure will establish the characters, possibly give them a ship, and possibly establish them with the Rebel Alliance.
+
+However, if a campaign is going to be established, the gamemaster should make sure that the players are happy with the situation. They shouldn’t be forced to play Republic operatives if they really want to be smugglers. Therefore, the gamemaster should have a quick discussion with the players about whether or not they want any substantial changes to the setting or tone of the adventures before the true campaign gets going.
+
+## TYPES OF CAMPAIGNS
+
+When establishing a campaign, the gamemaster has several types of formats to select from.
+
+### Episode
+
+Episodic campaigns closely resemble television shows. The adventures are linked by a common set of characters, possibly common villains, and often the characters have a base of operations and a small number of gamemaster characters who serve as an extended family.
+
+Beyond that, each adventure is fairly independent and can vary immensely in style and tone. While there may be some continuing subplots, like a burgeoning romance or a continuing villain, most of the time a new player will be able to come into the campaign without being at a real disadvantage. Each adventure stands alone.
+
+This type of campaign is best for the group that meets infrequently or is likely to have players joining and leaving on a regular basis.
+
+[Página impressa 224 | PDF 226]
+
+### Series
+
+Series campaigns are more like continuing comic book series. The adventures can vary in style and tone dramatically. Most series campaigns have a number of long-term stories, with a couple of episodic “interludes” to allow the player characters to rest, while foreshadowing the next major story. They are linked by continuing subplots.
+
+Series campaigns are a good middle ground between episodic campaigns and epic campaigns: they give the gamemaster the latitude to do whatever he feels is most interesting without requiring the intricate plotting of epic campaigns.
+
+### Epic
+
+Epic campaigns are the most structured campaigns. Each individual night’s gaming is but one chapter in a long, detailed continuing saga. The best example of an epic campaign is the original Star Wars trilogy. In these types of campaigns, plot threads run through every adventure, such as when Han Solo mentions Jabba the Hutt in Star Wars: A New Hope. Solo’s debt to Jabba becomes a major plot point in The Empire Strikes Back and Solo is finally turned over to Jabba in Return of the Jedi.
+
+Epic campaigns are suggested for serious groups that play on a frequent basis and are very involved with their characters. They require intense plotting, with the gamemaster carefully orchestrating the overall story — planning the “fate” of the characters as it were.
+
+## THE CAMPAIGN’S GOAL
+
+Most campaigns have some sort of goal: most of the time, it is simply to keep on playing until everyone gets bored and wants to move on to something else. However, if the gamemaster establishes clear cut goals, this gives the gamemaster an opportunity to structure a campaign and new stories so that the tone and story change direction before the players get bored.
+
+An important consideration in setting a goal are the desires of the players and characters. If the players want to be smugglers and con men, it is a good idea to suggest a tangible goal, such as being able to get enough money to buy their own ship. You might even want to impose a goal on them — if they want to be smugglers, you might want to assign a debt, like Han’s to Jabba, so the characters are motivated to resolve a continuing problem.
+
+Of course, a goal that goes unfulfilled for too long is frustrating. In time, the characters should be able to fulfill that goal, whether it is to pay off their ship or topple a particularly troublesome Moff. When a goal is finished, the characters (and players) should have a little time to relax, and then you might present them with a new goal or allow the players to choose their own. For example, the characters might be hired to ferry around a group of scouts in Wild Space, or they might decide that they want to start working for the Rebel Alliance.
+
+## THE CAMPAIGN’S TONE
+
+Star Wars campaigns (and adventures) can have a wide variety of tones. It’s a big galaxy, so there is plenty of room for unusual settings or adventures with unique “feels.”
+
+Most campaigns will have a consistent theme or tone to them. The gamemaster and players together must decide what is most desirable for the campaign. Will the characters be working directly for the Republic, doing amazingly heroic and noble things in the name of freedom? Or will they instead be free agents, reacting to events in the war and sometimes getting dragged into incidents, but mostly focusing their attention on staying alive and making a profit? Will the tone be action and adventure, or will it be dark, gritty and dangerous?
+
+Another aspect of tone is to define just what sort of action the players want to get involved with, what kind of goals are they striving for. Will the campaign focus on exploring new worlds? Or is smuggling the main occupation, and if it is, is the smuggling done for profit, or is it a way the players serve the Rebellion/New Republic?
+
+### A BASE OF OPERATIONS
+
+Most players will want to have a set base of operations for their characters. The base is a place for the characters to relax and get a break from the struggles of life. However, while a base of operations should offer a semblance of security, it should also be filled with potential for adventure. A base where the characters never get dragged into an adventure allows the characters to escape too easily.
+
+Starships, Rebel bases, specific starports and planets, or even the homes of friends of the characters serve as suitable bases. For example, Han Solo’s base of operations while he was smuggling out of Nar Shaddaa was a small apartment in the Corellian Sector of the planet.
+
+Perhaps the characters are from Tatooine and will be adventuring exclusively in the Outer Rim Territories. Or, are the adventures instead set primarily in the Corporate Sector? And of course, a Rebel base is always filled with intrigue and adventure hooks.
+
+[Página impressa 225 | PDF 227]
+
+## PLAYER CHARACTERS
+
+When devising a campaign, the player characters are central to the events that will unfold. Therefore, the player characters deserve as much consideration as the other elements of the game. In designing player characters, gamemasters should work with the players to build a history for each character.
+
+How and why is the character the way he is? Where did he come from? What are his likes and dislikes? What does the character look like? What skeletons are hiding in the character’s closet? Smart gamemasters should look into those character backgrounds for new adventure ideas.
+
+As time goes by in the campaign, characters will come and go, but some will last for a long time. Those that last will eventually exhibit a personality, something which usually manifests itself in the form of reactions to events that the gamemaster throws at them. Study those characters that are well-played. They can become walking and talking adventure hooks for the gamemaster.
+
+Talk with the players who run interesting characters, and ask them for permission to add your own personal touches to their characters; things that will manifest themselves as adventure hooks. For instance, if a player character exhibits a strong hatred towards Imperial Naval officers in particular, but has never come up with a reason why, then you, as the gamemaster, could suggest that the character’s parents are in the Imperial Navy, and in fact, their vessel has been given new patrol orders: the area of space where the character in question calls home. If the gamemaster and player sit down to discuss the character, some
+
+pretty interesting revelations will probably come out of the conversation and provide suitable material for many, many adventures. Not only does this type of development flesh out the player character in question, it also drags the other characters into a rather dramatic situation.
+
+There are some players out there who have a tendency not to go through pre-generated adventures in the way they were meant to be run. These players come up with solutions to problems that can be best described as unconventional. As the gamemaster, you have to be ready for this sort of behavior, and even look for ways to have the players’ stranger actions actually shape the future course of the campaign. If you allow this sort of flexibility, the players will be gratified, feeling that what they do does make a difference and has an effect on their surroundings.
+
+Of course, players get attached to their characters. Therefore, the gamemaster is cautioned not to arbitrarily injure, alter or kill a character. While a character can die if the player does something that he knows is stupid, or the character can die if committing a heroic sacrifice, it is unfair (and upsetting to the players) to kill characters without due justification.
+
+Obi-Wan Kenobi died in a dramatic, worthy fashion. So did Darth Vader/Anakin Skywalker. It’s disappointing to be playing a character for months only to have him killed by being run over by a landspeeder or by falling and breaking his neck. On the other hand, if the character dies while saving an entire planet from some catastrophe, it is still upsetting the players, it is comforting to know that the character died a hero.
+
+[Página impressa 226 | PDF 228]
+
+## HOW CHARACTERS AFFECT THE UNIVERSE
+
+Remember, the characters will always affect your campaign in some way. Make sure the players get a chance to see the results of some of their actions, even if those results don’t manifest themselves until several adventures later.
+
+One of the easiest ways of showing characters how their actions are affecting things is by reputation. Have the player characters done anything noteworthy or infamous? What sort of reputation have they earned among the Rebellion, the Fringe and the Empire? If the characters have proven themselves to be untrustworthy and double-dealing, they will find few people willing to work with them. If the characters are known for being bloodthirsty, they may be attacked by gamemaster characters without provocation.
+
+## TIME AND SETTING
+
+In Star Wars, deciding when the campaign begins is just as important as where. Have your players decided that they want to play in the days of the Republic when Anakin Skywalker was in his prime, or during the rebellion when Vader was smiting Rebels and intercepting Senate courier ships? Or do the players want to play in a campaign where Vader and the Emperor are dead, and the New Republic is in power? The various eras are very different in tone and character roles.
+
+In the Rise of the Empire era (during the prequel movies), the Empire does not exist yet. Palpatine sits as the Supreme Chancellor of the Senate. The entire Republic is embroiled in the Clone Wars, fighting the Separatist’s droid armies. It begins as a time of peace, which later declines into all-out war. Jedi are far more common in this era than in later times.
+
+In the Dark Times era (during the time of the Rebels animated series) and the Rebellion era (during the original movies), the Empire is in control of almost all of the galaxy. It is a dangerous time to be a Rebel, and the Alliance is running from Imperial forces more often than it is waging war. Smugglers face heavy scrutiny and very harsh punishments from the Empire. The corporations and other competing interests, while a powerful factor, are always being careful not to bring the wrath of the Emperor upon themselves.
+
+In New Republic era, after the death of the Emperor, the galaxy is a dramatically different place. The Republic is trying to assert power, but it is a difficult war. The Empire is slowly disintegrating into countless factions. The companies, criminal interests and other factions are slowly asserting more and more power. In this type of setting, there is more of a parity of power — the Republic is likely as powerful as the Empire — and there are often various factions at work on a given world.
+
+## A CAMPAIGN OUTLINE
+
+Once the gamemaster decides to get a campaign going, a good beginning needs to be implemented. Remember the opening scene from Star Wars: A New Hope? A small vessel is being pursued by a huge Star Destroyer. Before you know it, the Rebels have been vanquished, the droids have escaped to Tatooine, and we meet several of the central figures in the story: C-3P0, R2-D2, Princess Leia and Darth Vader.
+
+A fast-paced opening grabs your attention and places you right into the action. Beginning a campaign with a good kick guarantees that you will hook the players quickly, and they will beg for more.
+
+Here are a few suggestions for a campaign start:
+
+• The Rebel transport carrying the characters is being shot out from under them by an Imperial Star Destroyer. The characters scramble for the escape pods. An uncharted planet lies within range of the pods’ engines.
+
+• The characters meet some high-ranking Rebel leaders in order to get an assignment, only to find that the Rebels are out to arrest them. Apparently, someone has framed the characters. The characters have a limited amount of time to prove their innocence.
+
+• A mysterious stranger hires the characters to transport several containers to a planet. Once in space, the containers accidentally open up, discharging some disgusting creatures intent on killing the characters. Who is the stranger? What is his agenda? Are the creatures the result of some lab work?
+
+• The characters find a derelict Corellian spacecraft, and no trace of the crew. The ship is laden with clues and leads to several different places. The characters need to piece together the circumstances of the ship’s fate. Where is the crew?
+
+• The characters start off on an Imperial penal colony. They have to get to know the other prisoners, find out the guard routines, plot an escape, and pull it off. Perhaps there is some sort of top secret experiment going on, using prisoners as test cases.
+
+One good way to begin a campaign is to have the characters start off not knowing each other, but are thrown together for some reason, say, they are all being transported in an Imperial prison frigate to some penal colony in the Empire. This enables the players to start with clean slates, and roleplay their introductions and first impressions of each other.
+
+In the prison ship example, one bit of background could be how each player character got into this state to begin with. Did someone from their own family turn them in? Were they the last survivor of a ship full of smugglers?
+
+### Flexibility
+
+Campaigns should be flexible in order to reflect the characters’ participation and impact. Perhaps, whichever path they take, they will eventually wind up doing the adventure the gamemaster wanted them to do, but whatever happens will be flavored by the choice of the players. Are they full-fledged Rebels, or are they just drifters? When putting a campaign together, the first adventure should hook the characters into the action, though the overall goals of the campaign need not be made obvious until the second or third adventure.
+
+### Plotting
+
+Keep in mind the “onion” theory of adventure design: the players peel off one layer of the plot, only to find another plot lurking just below it, then another, and another, until the players, if they persevere, finally reach the real purpose of the campaign. With the first adventure set up, the gamemaster should take the time to plot out where the campaign should be headed. Over the course of the first few adventures, the characters can meet the main villain, hear of him or her by reputation, or have to discover who is messing with their lives. The characters should also meet some of the main support characters, villains and heroes alike, and the background threads of the main plot should be revealed.
+
+[Página impressa 227 | PDF 229]
+
+For example, if the campaign’s finish will revolve around running an Imperial blockade to get supplies to a besieged planet, the characters should hear tales of woe about this planet early on, or they may meet smugglers who have tried to run this blockade and failed. This type of foreshadowing will build up the tension of the campaign and have the players trying to anticipate what will happen. It is useful to have one or two players be the “journal keepers” for the group.
+
+These people keep track of the pertinent facts, clues, and gamemaster character, that the characters meet and find. This becomes especially helpful when the campaign reaches its third month or so, and the gamemaster gets hard-pressed to brief everyone on the story thus far. Every campaign should have a definite conclusion, something which the characters can strive for and then look back at and say “yes, we did it, we achieved our goals.”
+
+### Beyond the Main Story
+
+In order to keep the players’ interest up, the gamemaster needs to give the players a sense of achievement. Of course, once a campaign’s goals have been met, that does not mean the action stops. On the contrary, loose ends and subplots may now be expanded upon and used as the basis for the next campaign. Let’s look at one possible campaign:
+
+The group is on board an Imperial prison ship (everyone starts out with no equipment). Each has been arrested for different
+
+reasons (offense chosen at player’s discretion). The ship is attacked by Rebels, who manage to free the characters. The freed characters find out that the Rebels were told by their Imperial informant that the ship was carrying some valuable technological equipment. A leak is suspected.
+
+The Rebels commission the characters to follow up on the informant, and in fact, they have a battered old freighter they can loan the characters. The original crew of the freighter died in the boarding assault against the prison ship.
+
+While going to the planet in question, the characters’ new ship is attacked by some privateers. Apparently, the characters inherited the crew’s enemies as well as the ship!
+
+The campaign can now go in two ways. Will the characters try and find out why the late crew were so hated by the local privateers? Or will they continue to the informant’s planet? Perhaps both plots are actually connected in some way. Perhaps the late crew of the ship were actually working for the Empire. Perhaps the crew of the ship informed the Empire about the existence of the informant.
+
+Once on the informant’s planet, the characters, after dodging Imperial stormtroopers and TIE fighters, find out that the informant has new information: the Empire deliberately set up misinformation on the ship’s cargo because the ship carrying the real equipment was sent off in a different direction, to a top secret Imperial research planetoid. The prison ship was a decoy. The informant manages to give the players a clue to someone who could provide them with more information, then gets killed in a
+
+[Página impressa 228 | PDF 230]
+
+last-ditch Imperial attack on the players. The informant is located on the same planet as the privateers who wanted to kill the old crew of the character’s freighter. On this planet, the characters have to deal with nasty underworld types, Imperial informants, and the like.
+
+The last adventure happens on the research planet, which requires the characters to hike through savage wilderness in order to find the well-hidden base. Once the base is found, the characters find out to their horror that the base is a war college, and the Empire has managed to come up with a nasty experimental weapon that will wipe out the Rebels during the next offensive. It becomes a race against time for the characters to return to the Rebellion’s headquarters with the new information. Just as they are coming in-system, the characters realize that they have just wandered into the midst of a huge space battle.
+
+A campaign like this could easily take up at least a dozen play sessions, which, if the game is played once a week, would take three months to finish. As campaigns go, that is a good time frame. If the campaign’s players do not get together very often, it could take a whole year to complete.
+
+Here are a few other possible campaigns:
+
+• A grizzled old bounty hunter is shot by the characters in self-defense in a cantina fight. The adult children of the late bounty hunter vow to hunt down the characters. They begin by doing research on the characters. The characters are alerted to this situation when one of their favored spaceship mechanics is attacked for not being cooperative.
+
+The next phase of the plan is to attack people who are closest to the characters, and leaving a few clues to piece together. In the following phase, the revenge-filled young folks begin alerting the Empire to the whereabouts of the characters, resulting in one or two adventures where the Imperials seem to be one step ahead of the characters.
+
+• While walking down an alley at a backwater spaceport, the characters are drawn into a firefight between a group of thugs and a solitary figure. The solitary being lies dying by the end of the fight, but he gives the characters a navigational program.
+
+The program contains the navigational coordinates to a huge intergalactic junk yard run by a neutral party that engages in salvage operations in the wake of Imperial-Rebel confrontations. This salvager has accidentally managed to salvage an Imperial prototype of a new TIE fighter. Now, everyone wants the plans, and it’s up to the characters to take the information and turn it over to someone responsible, like a Rebel commander who happens to live on another planet.
+
+## CONTINUITY
+
+Continuity and consistency are two of the most important things for any campaign. Continuity involves the gamemaster making sure that the data presented as part of one adventure is successfully carried over into subsequent adventures.
+
+For instance, if the characters’ ship lost a laser turret at the end of the last adventure, the next time they play, that turret better still be missing until the characters decide to spend the time and credits to repair it.
+
+In the Star Wars game, the gamemaster is the director, writer, and continuity expert. Keeping track of continuity may take effort and bookkeeping, but the end result is a believable, accurate campaign. It adds an element of reality to the game.
+
+Consistency means that the tone of the game remains the same. For instance, if your campaign is a high-action affair, with lots of spaceship chases and laser battles, and then suddenly, with no explanation, the players are given slow-paced, discreet adventures, the consistency has been interrupted.
+
+In a consistent campaign, a stormtrooper is a stormtrooper is a stormtrooper. While there is always room for surprises, a consistent campaign keeps a standard, overall Star Wars setting. If the adventures in a campaign are linked tightly, building up to some dramatic climax, continuity and consistency are critical, especially when clues and events from one adventure directly affect the conclusion.
+
+Continuity and consistency also figure in gamemaster characters. If the players angered the customs official on Tatooine to the point where the fellow was ready to shoot them, then the next time the players see the official, the gamemaster must make sure that the official is played correctly.
+
+[Página impressa 229 | PDF 231]
+
+### Populating Your Universe
+
+Recurring gamemaster characters are a necessity for campaigns. These characters should be well-designed and well-thought out by the gamemaster. Continuing gamemaster characters give the players the illusion of a “real universe,” and thus are very important to campaigns.
+
+For instance, say the player characters keep running into Lenri Dar’, a planetary customs inspection officer. Lenri is essentially corrupt, and each time the players land their ship at the spaceport, they have to pay Lenri a hefty bribe for him to look the other way and not report their activities to the Empire. In addition, Lenri could also serve a useful purpose: he may know information important to the players and the Rebellion. Ah, but he won’t divulge anything without the proper... compensation.
+
+What you start to have there is a character who the players can hate with relish, but who also serves a purpose. And if the gamemaster character is portrayed consistently from adventure to adventure, then he seems to be more realistic to the players.
+
+Populating your campaign with an assortment of such folks will make the campaign believable. Prominent gamemaster characters should include at least one character who likes the players and is willing to help them with small favors and advice. This character is a perfect gamemaster mechanism for giving the party a little break, a nudge in the right direction, or even hauling their fat out of the fire in a real dangerous situation. Note that the latter function should not be done very often or else the players will get sloppy believing that they have a safety net at their beck and call.
+
+## A SUITABLE VILLAIN
+
+Every campaign should have an enemy. Not the Empire or Separatists, mind you, that’s a given. In this case, an enemy is a person or persons with an identity, a personality, and an agenda. The enemy need not be someone who would kill the characters on sight, but rather could be someone who enjoys matching wits with the players: an arrogant Imperial Naval officer, a highly professional bounty hunter, or a wealthy crime boss are all good choices.
+
+When determining the power levels of the campaign’s chief enemy, look at the player characters. Are they just a bunch of struggling smugglers with a single inept Jedi student in their midst and a broken down Corellian Freighter? In that case, an Imperial Captain and his Imperial Star Destroyer would be a poor choice. Perhaps the bounty hunter, his scurvy crew, and their own barely functional vessel may be a better foe.
+
+One thing about a good enemy is that he should pop up at the most inopportune times. When the smuggler pilot, desperately trying to outrun a TIE fighter squadron, mutters, “What else could go wrong,” then into the fray comes the bounty hunter, loudly demanding restitution for damages in a bar fight that happened last adventure.
+
+Also, a good enemy should be difficult to eliminate. There can even be situations where the enemy’s death is apparent, but no body is found. That is the perfect way of bringing back the enemy without violating continuity. This sets the stage for further encounters with the being in question.
+
+Besides having allies and enemies, the gamemaster should also include gamemaster characters whose status is uncertain at best: the shadowy figure whose morals, agenda, and loyalties are never completely known. These sorts of people may be a good friend at one point, then betray the characters at another, usually depending on their own needs at the time.
+
+These non-aligned gamemaster characters are best portrayed as not being part of either the Empire, Rebel Alliance, Republic or the Separatists. They go about their merry way, considering neither side a friend nor an enemy.
+
+## THE CAMPAIGN DEVELOPS
+
+Once the game gets rolling, things change. All of the things that happen in real life happen in the Star Wars universe. The people, places and things that the characters are familiar with are going to change over time. As gamemaster, you must consider “What happened to...?” each element of the continuing campaign while the characters were off doing something else.
+
+When running a campaign, be ready to alter things as the players begin to affect their environment. For example, an
+
+[Página impressa 230 | PDF 232]
+
+annoying droid may eventually get its arms torn off by an angry Wookiee player character. Be ready to be flexible, and roll with the unexpected challenges the players throw at you.
+
+Future campaign adventure ideas will come from the actions that the player characters initiate in the present adventures. Keep your eyes and ears open for possible unresolved minor subplots that can be expanded into full-fledged adventures later on.
+
+## KEEPING THE CHARACTERS HUNGRY
+
+One of the detrimental side effects of a long-running campaign is that any players who are at least half-competent will begin accumulating wealth, material possessions, and skills in rather large amounts.
+
+In time, this can threaten game balance. If the players’ freighter has been modified and refitted so many times that it now has the firepower of a Star Destroyer, then you may have problems. Any campaign where the players do not have some measure of risk in their games will rapidly degenerate into a boring waste of time. The thrill, suspense and tension will vanish. So will player interest.
+
+A good way for gamemasters to keep this thing from happening is to prevent it from ever starting — specifically by making sure that the rewards given to players are not outrageous.
+
+Don’t give the players the chance to find a device that renders their vessel invisible to sensor scans if there is a chance that they will keep it, install it on their ship, and run roughshod over the Empire. As for monetary compensation, the Rebellion/New Republic isn’t exactly wealthy. In many instance, the undying gratitude of the Alliance, and maybe a medal or two, may be all the thanks the characters get.
+
+If you design campaign adventures that have bigger and bigger stakes, and consequently give out bigger and bigger rewards, you will find yourself on an escalating spiral, forcing you to create bigger and grander plots, until the campaign is out of control. Don’t give your players your best shots right away. Instead, save something for future adventures. Give the players missions where the stakes are not so galaxy-shattering.
+
+Adventures that affect only a few people can still be dramatic and exciting. Look at the rescue of Han Solo in Return of the Jedi. The fate of the galaxy wasn’t at stake. However, it was
+
+a tense and emotional adventure because people care about Han Solo; the rescue was done for personal reasons like loyalty and love. Adventures where the stakes are personal are prime fodder for character development and a developed character will only enhance a campaign. Every adventure need not be “The Republic’s survival hinges on your every move.”
+
+If, despite your best efforts, the players are accumulating a bit too much money and fancy equipment, well, even the good guys have set-backs. Remember The Empire Strikes Back? The movie ended with the Rebels appearing to get the worst of it. A few devastating reversals for the players, such as confiscation of much of their property by Imperial customs personnel, destruction of their base of operations, serious danger to a loved gamemaster character, or a solid, costly pounding on their vessel are all good reversals of fortune that can fit well in the game as well as prune the over-powerful player characters. In fact, the players’ attempting to recover from such reversals would make a fine campaign in and of itself. Rescuing their beloved gamemaster character from the Empire, giving the Imperial customs officer his comeuppance, and finding an accommodating dockyard to repair their vessel can all be linked to a series of adventures.
+
+### Putting the Characters in Their Place
+
+No matter how powerful someone is, there is always someone out there who is even more powerful. Excessively powerful player characters and their ultra-souped up ships will either attract lots of smugglers and pirates anxious to make a name for themselves by eliminating the characters, or an Empire that does not take too kindly to having excessive firepower in non- Imperial hands.
+
+As characters gain in power and experience, it is ever so important to prove this fact to the players in the occasional adventure.
+
+## FINAL WORDS
+
+A Star Wars campaign, at its best, captures all of the adventure and excitement of the Star Wars movies. These types of campaigns take planning and careful thought, but the rewards of a well-played and thoroughly enjoyed campaign make all of the long hours of planning worthwhile.
+
+Yes, designing adventures can be a lot of work... but like a hard-fought victory in battle, it’s all worth it in the end. When you see your players having fun — and you know that it’s your story that is giving them thrills and excitement — you ’II know a satisfaction like no other in the galaxy.
+
+Now move on to the “Pirates of Prexiar” adventure which you can use to get started. You’ll see many of the points made in this chapter were used in writing this adventure, and it is a great way of getting your group started on a Star Wars campaign!

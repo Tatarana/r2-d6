@@ -1,0 +1,2269 @@
+CHAPTER 3: ATTRIBUTES & SKILLS
+(Páginas impressas 32-66 | PDF 34-68)
+
+[Página impressa 32 | PDF 34]
+
+3
+
+# ATTRIBUTES & SKILLS
+
+Now that I’ve talked you through character generation, we’re going to get down to what really makes your character work: attributes and skills. You’ve basically defined who your character is, what he’s like, and what he is capable of doing. Your character’s a little like a starship. In creating a starship (or commissioning one to be built for you), you define the vessel you’ll be flying. But you can’t do anything until you know how to fly it. You can’t do much with your character until you know the finer details of how to run him. In this chapter, you’ll learn how specific skills and attributes work so your character can tackle all the challenges waiting out there in the galaxy.
+
+Just like in the “Characters” chapter, I’ve conveniently marked the stuff you need to know with tan boxes. The other stuff is an explanation of how each skill works, and it’s there mostly for the benefit of the gamemaster: it provides some general guidelines and some specific examples of how to set difficulty numbers when you try to use the skill.
+
+By now you’ve probably figured out that characters in the Star Wars game have six attributes: Dexterity, Knowledge, Mechanical, Perception, Strength and
+ Technical. Each attribute covers many skills.
+
+CHAPTER THREE
+
+[Página impressa 33 | PDF 35]
+
+Using attributes and skills is easy if you follow one simple concept. It’s called the “Star Wars Rule of Thumb.”
+
+Pick a difficulty number. If the character’s skill
+
+roll is equal or higher, she succeeds.
+
+When you want your character to do something, the gamemaster picks a difficulty number. (All the lists and explanations in this chapter tell him how to figure out what the difficulty number should be.) If you roll equal to or higher than the difficulty number, your character succeeded at what she was trying to do.
+
+Now you know the one major rule you need to play this game.
+
+## SKILL DESCRIPTIONS
+
+Time Taken: This is generally how long it takes to do something with the skill. Many skills (especially combat skills) can be used in one round. More complex skills, like computer programming/repair, may take a round... or minutes, hours or even days to do something. These are general guidelines; the gamemaster can always customize the time taken depending upon the situation.
+
+Specializations: Characters may choose a specialization for a skill. The kinds of specializations are explained, and several examples are provided in italics.
+
+The skill description tells you what the skill covers and gives a few sample difficulties and modifiers.
+
+# DEXTERITY SKILLS
+
+Dexterity is a measure of your character’s eye-hand coordination and balance. Characters with a high Dexterity are good shots, can dodge blaster bolts, can walk balance beams with ease and even make good pick-pockets. Characters with a low Dexterity are clumsy.
+
+### Using Ranged Combat Skills
+
+Dexterity has several “ranged combat” skills covering weapons that can be used to attack someone from a distance. These skills all work the same way.
+
+When a character shoots a ranged weapon, the difficulty number is based on the range to the target: the further away a target, the higher the difficulty number. (Each weapon has different ranges; weapons are described in the chapter on “Weapons & Equipment.”)
+
+If your skill roll is equal to or greater than the difficulty number, your attack hits.
+
+It’s not always that simple, however — the target might dodge (that’s a “reaction skill”) or might be partially protected by cover. This is explained in the chapter on “Combat and Injuries.”
+
+The “ranged combat” skills include: archaic guns, artillery, blaster, blaster artillery, bowcaster, bows, firearms, flamethrower, grenade, missile weapons, thrown weapons and vehicle blasters. (Starship gunnery and capital ship gunnery are also “ranged combat” skills, but they’re covered by Mechanical.)
+
+### Using Melee Combat Skills
+
+Dexterity has “melee combat” skills which cover any type of hand-to-hand attack. They’re melee combat and lightsaber; brawling — a Strength skill — is also a melee combat skill.
+
+Each melee weapon has a different difficulty number. (The weapons are described in the chapter on “Weapons & Equipment.”) If the character rolls equal to or higher than the difficulty number, the attack hits.
+
+Of course, just like ranged combat skills, it’s not always that simple. The target might parry the attack using a “reaction skill” or might be partially protected by cover. This is explained in the chapter on “Combat & Injuries.”
+
+### Using Reaction Skills
+
+Dexterity covers several “reaction skills,” which are used to avoid or block attacks. When your character is attacked and you roll a “reaction skill,” the attacker’s difficulty number is now whatever you roll.
+
+There are several reaction skills: acrobatics, brawling parry, dodge and melee parry. Lightsaber can also be used to parry attacks. The many vehicle operation and starship piloting skills — they’re all under Mechanical — can also be used for “vehicle dodges” to avoid enemy fire.
+
+Full Reaction. A reaction skill can also be used for a “full reaction.” The character rolls the reaction skill — acrobatics, brawling parry, dodge, melee parry, parries with a lightsaber, or a vehicle or starship dodge — and adds the roll to the attackers’ difficulty numbers. However, a character making a full reaction can’t do anything else in the round.
+
+The chapter on “Combat and Injuries” fully explains how to use reaction skills.
+
+### Acrobatics
+
+Time Taken: One round.
+Specializations: Type of acrobatics used, form or style — diving, trapeze, tumbling.
+
+Characters with this skill can tumble, leap, and roll to avoid falling damage, to entertain an audience, or to surprise an opponent in combat.
+
+Using acrobatics can improve many of a character’s climbing/jumping and running attempts. The gamemaster determines the difficulty of the acrobatics stunt. One-half of the difference (rounded up) between the difficulty and the acrobatics roll is added to the complementary skill. The acrobatics attempt and the climbing/jumping or running try must be done on the same turn, incurring a multiple action penalty.
+
+Instead of adding a modifier to the running or swim difficulty for particularly challenging obstacle courses, the gamemaster may have the hero make an acrobatics roll in addition to a running or swim roll.
+
+Acrobatics can make a character appear more intimidating. The player may add one-half of the difference (rounded up) between the difficulty and the successful acrobatics roll to their intimidation attempt. The intimidating attempt may be made on the same turn as the acrobatics roll or on the next round.
+
+[Página impressa 34 | PDF 36]
+
+### SKILLS SUMMARY TABLE
+
+Skill | Attribute | Time Taken
+Acrobatics | DEX | 1rnd
+(A) Aquatic Vehicle Engineering | TEC | various
+Aquatic Vehicle Operation | MEC | 1rnd+
+Aquatic Vehicle Repair | TEC | various
+Archaic Guns | DEX | 1rnd
+Archaic Starship Piloting | MEC | 1rnd+
+(A) Armor Engineering | TEC | various
+Armor Repair | TEC | various
+Alien Species | KNO | 1rnd+
+Artillery | DEX | 1rnd+
+Astrogation | MEC | various
+Bargain | PER | 1min-1hr
+Beast Riding | MEC | 1rnd+
+Blaster | DEX | 1rnd
+Blaster Artillery | DEX | 1rnd+
+Blaster Repair | TEC | various
+Bowcaster | DEX | 1rnd
+Bows | DEX | 1rnd
+Brawling | STR | 1rnd
+Brawling Parry | DEX | 1rnd
+Bureaucracy | KNO | 1rnd-days
+Business | KNO | 1rnd-days
+(A) Capital Ship Engineering | TEC | various
+Capital Ship Gunnery | MEC | 1rnd
+Capital Ship Piloting | MEC | 1rnd+
+Capital Ship Repair | TEC | various
+Capital Ship Shields | MEC | 1rnd
+Capital Ship Weapon Repair | TEC | various
+(A) Civil/Industrial Engineering | TEC | various
+Climbing/Jumping | STR | 1rnd
+Command | PER | 1rnd
+Communications | MEC | 1rnd
+(A) Computer Engineering | TEC | various
+Computer Programming/Repair | TEC | 1rnd-days
+Con | PER | 1rnd
+Cultures | KNO | 1rnd-days
+Demolitions | TEC | 1rnd-mins
+Dodge | DEX | 1rnd
+(A) Droid Engineering | TEC | various
+Droid Programming | TEC | various
+Droid Repair | TEC | various
+(A) Equipment Engineering | TEC | various
+Equipment Repair | TEC | various
+Firearms | DEX | 1rnd
+First Aid | TEC | 1rnd
+Flamethrower | DEX | 1rnd+
+Forgery | PER | 1rnd-days
+Gambling | PER | 1rnd-mins
+Grenade | DEX | 1rnd
+(A) Ground Vehicle Engineering | TEC | various
+Ground Vehicle Operation | MEC | 1rnd+
+Ground Vehicle Repair | TEC | various
+Hide | PER | 1rnd
+(A) Hover Vehicle Engineering | TEC | various
+Hover Vehicle Operation | MEC | 1rnd+
+
+Skill | Attribute | Time Taken
+Hover Vehicle Repair | TEC | various
+(A) Installation Engineering | TEC | various
+Intimidation | KNO | 1rnd-hrs
+Investigation | PER | 1rnd-days
+Jet Pack Operation | MEC | 1rnd
+Languages | KNO | 1rnd
+Law Enforcement | KNO | 1rnd
+Lifting | STR | 1rnd
+Lightsaber | DEX | 1rnd
+Lightsaber Repair/Engineering | TEC | various
+(A) Medicine | TEC | mins-hrs
+Melee Combat | DEX | 1rnd
+Melee Parry | DEX | 1rnd
+Missile Weapons | DEX | 1rnd+
+Persuasion | PER | 1rnd+
+Pick Pocket | DEX | 1rnd
+Planetary Systems | KNO | 1rnd
+Podracer Operation | MEC | 1rnd+
+Powersuit Operation | MEC | 1rnd+
+(A) Repulsorlift Engineering | TEC | various
+Repulsorlift Operation | MEC | 1rnd+
+Repulsorlift Repair | TEC | various
+Rocket Pack Operation | MEC | 1rnd+
+Running | DEX | 1rnd+
+Scholar | KNO | 1rnd-days
+Search | PER | 1rnd+
+Security | TEC | 1rnd-mins
+Sensors | MEC | 1rnd+
+Sneak | PER | 1rnd
+Space Transports | MEC | 1rnd+
+(A) Space Transport Engineering | TEC | various
+Space Transports Repair | TEC | various
+Stamina | STR | various
+(A) Starfighter Engineering | TEC | various
+Starfighter Piloting | MEC | 1rnd+
+Starfighter Repair | TEC | various
+Starship Gunnery | MEC | 1rnd
+Starship Shields | MEC | 1rnd
+Starship Weapon Repair | TEC | various
+Streetwise | KNO | 1rnd-days
+(A) Submersible Vehicle Engineering | TEC | various
+Submersible Vehicle Operation | MEC | 1rnd+
+Submersible Vehicle Repair | TEC | various
+Survival | KNO | 1rnd-hrs
+Swimming | STR | 1rnd-hrs
+Swoop Operation | MEC | 1rnd+
+Tactics | KNO | 1rnd-mins
+Thrown Weapons | DEX | 1rnd
+Value | KNO | 1rnd
+Vehicle Blasters | DEX | 1rnd
+(A) Walker Engineering | TEC | various
+Walker Operation | MEC | 1rnd+
+Walker Repair | TEC | various
+(A) Weapon Engineering | TEC | various
+Willpower | KNO | 1rnd
+
+[Página impressa 35 | PDF 37]
+
+During a fall, acrobatics may be used to reduce bodily harm. If the character has not already used his declared actions for the round, he may rely on acrobatics in an attempt to land properly as a “full reaction”. The character generates an acrobatics total. For every five points over the base difficulty number of 10, the hero reduces the damage total by one point, in addition to a base reduction of one point. The damage total, however, cannot be lower than zero.
+
+The difficulty depends upon how difficult the acrobatic maneuver is, some examples are provided below:
+
+• Very Easy: Somersault; pirouette
+
+• Easy: Handspring; cartwheel; handstand; Swing over a obstacle
+
+• Moderate: Round-off; back-flip; Vaulting over an obstacle
+
+• Very Difficult: Bouncing off a surface to reach a specific destination
+
+Modifiers:
+No Modifier: Performing the maneuver from a flat surface, to another flat surface.
+
+−3 to the difficulty: Unlimited landing area.
++3 to the difficulty: Limited landing area, rough or unsteady landing area, high surface to low surface, slippery landing area, or strong wind.
+
++6 to the difficulty: Almost no landing area, from a low surface to high surface, or performing the maneuver on a narrow surface.
+
+−3 or more to character’s roll: Add a twist of the body (per twist) or performing the maneuver backwards or while underwater.
+
+−9 or more to character’s roll: Performing the maneuver in the air (such as on a trapeze or bars).
+
+Note: Characters may combine one or more maneuvers in the same action. In this case, use the difficulty of the most challenging maneuver, add 5 for each additional maneuver (up to five additional maneuvers), and include modifiers as if the complex stunt was one maneuver.
+
+### Archaic Guns
+
+Time Taken: One round.
+Specializations: Indicates a specific kind or model of archaic gun — black powder pistol, matchlock, musket, wheelock.
+
+Archaic guns is a “ranged combat” skill used to fire any primitive gun, including black powder pistols, flintlocks and muskets. Normally, only characters from primitive-technology worlds will know this skill.
+
+### Artillery
+
+Time Taken: One round or longer.
+Specializations: The particular type or model of projectile artillery — cannons, Golan Arms M102 Fire Arc.
+
+Artillery is the “ranged combat” skill used to fire all non-energy projectile weapons, such as cannons and field guns (excluding self-propelled projectiles or launched grenades, which are covered under missile weapons).
+
+The time taken to use this skill is often one round. However, certain kinds of artillery have a “fire rate,” which indicates how many times a round that weapon can be used.
+
+### Blaster
+
+Time Taken: One round.
+Specializations: A specific type or model of character-scale blaster weapon — blaster pistol, heavy blaster pistol, blaster rifle, BlasTech DL-44, hold-out blaster.
+
+Blaster is the “ranged combat” skill used to shoot blaster weapons that can be held and carried by a character. Blaster covers everything from tiny holdout blasters to large repeating blasters (such as the EWEB heavy repeating blaster used by Imperial snowtroopers on Hoth in The Empire Strikes Back). Other blaster types include sporting blasters (Princess Leia uses a sporting blaster in Star Wars: A New Hope), blaster pistols, heavy blaster pistols (like Han Solo’s BlasTech DL-44), and the blaster rifles used by stormtroopers.
+
+Do not use blaster to fire fixed blasters or multi-crew weapons (use blaster artillery), weapons mounted on vehicles (use vehicle blasters), or starship weapons (use capital ship gunnery or starship gunnery, both Mechanical skills).
+
+### Blaster Artillery
+
+Time Taken: One round or longer.
+Specializations: The particular type or model of artillery — anti-infantry, anti-vehicle, Golan Arms DF.9, surface-to-space, surface-to-surface.
+
+Blaster artillery is the “ranged combat” skill that covers all fixed, multi-crew heavy energy weapons, such as those used by the Rebel Alliance at the Battle of Hoth and the fixed ion cannons fired from a planet’s surface.
+
+The time taken to use this skill is often one round. However, certain kinds of artillery have a “fire rate,” which indicates how many times a round that weapon can be used. For example, the anti-vehicle laser cannon used at Hoth can only be used once every other round (fire rate: 1/2), but the anti-infantry battery can fire up to twice per round (fire rate: 2).
+
+### Bowcaster
+
+Time Taken: One round.
+
+Bowcaster is a “ranged combat” skill that reflects the user’s proficiency at firing the unusual Wookiee bowcaster. This weapon requires great strength and is normally only used by Wookiees.
+
+### Bows
+
+Time Taken: One round.
+Specializations: Specific type or model bow — crossbow, long bow, short bow.
+
+Bows is a “ranged combat” skill covering all bow-type weapons, including short bows, long bows and crossbows (excluding Wookiee bowcasters, which fall under the bowcaster skill). Bows are normally only found on low-technology worlds, so this skill is fairly unusual.
+
+[Página impressa 36 | PDF 38]
+
+### Brawling Parry
+
+Time Taken: One round.
+Specializations: Style of brawling being parried when unarmed and avoiding a brawling or melee attack — boxing, martial arts.
+
+Brawling parry is a “reaction skill” used to avoid being hit by a brawling or melee combat attack if you’re unarmed. Brawling parry is used to hold one’s ground yet avoid or block a hand-to-hand combat attack.
+
+### Dodge
+
+Time Taken: One round.
+Specializations: Kind of ranged attack to be dodged — energy weapons, grenades, missile weapons.
+
+Dodge is a “reaction skill” used to avoid any ranged attack, including blaster fire, grenades, bullets and arrows. Characters using this are doing whatever they can to dodge the attack — slipping around a corner for cover, diving behind cargo containers, dropping to the ground, or any other maneuvers to avoid getting hit.
+
+### Firearms
+
+Time Taken: One round.
+Specializations: Type or model firearm used — pistols, rifles, machineguns.
+
+Firearms is the “ranged combat” skill used to for all guns which fire bullets, including pistols, rifles, machine guns, assault rifles and any other firearms. (Firearms doesn’t include very primitive guns, which are covered under archaic guns.)
+
+### Flamethrower
+
+Time Taken: One round or longer.
+Specializations: Type or model flamethrower — Merr- Sonn C-22, Wrist-Mounted Flame Projectors.
+
+Flamethrower is the “ranged combat” skill used to fire all types of flame projectors, including flame rifles, wrist mounted flame projectors, and flame carbines.
+
+### Grenade
+
+Time Taken: One round.
+Specializations: Kind or model of grenade — thermal detonator, anti-vehicle grenade.
+
+Grenade is the “ranged combat” skill to throw grenades. Success means the grenade hits the location it was thrown to. Failure means it lands somewhere else.
+
+This skill covers throwing other objects like rocks and balls.
+
+### Lightsaber
+
+Time Taken: One round.
+
+Specializations: Specific type or model lightsaber — double-bladed lightsaber, light-whip.
+
+Lightsaber is the “melee combat” skill used for the lightsaber, the weapon of the famed Jedi Knights.
+
+While a very powerful weapon, a lightsaber is dangerous to an unskilled user — if an attacking character misses the attack difficulty number by 10 or more points, then the character has injured himself with the weapon and rolls damage against his own Strength.
+
+Lightsaber can also be used as a “reaction skill” to parry brawling, lightsaber and melee combat attacks. Jedi Knights can parry blaster bolts with a lightsaber, but that’s only because they have the lightsaber combat Force power; it’s very, very difficult for a character without the power to parry blaster shots.
+
+Example: Ana Tathis is using her lightsaber to strike at a pirate. Her lightsaber skill is 5D and the lightsaber’s difficulty is Difficult (her difficulty number is a 20). Ana’s player rolls her skill dice and gets a 21 — she hits. If she had rolled a 10 or lower, Ana would have underestimated the momentum of her attack maneuver and sliced herself with her own lightsaber, causing 5D damage to herself.
+
+### Melee Combat
+
+Time Taken: One round.
+Specializations: Specific type of melee weapon — swords, knives, axes, vibroblades, vibro-axes.
+
+Melee combat is the “melee combat” skill used for all hand-to-hand weapons (except lightsabers, which is covered under the lightsaber skill). Melee weapons include vibro-axes, force pikes, clubs, bayonets and even impromptu weapons like chairs and blaster butts.
+
+### Melee Parry
+
+Time Taken: One round.
+Specializations: Type of melee weapon used — lightsabers, knives, clubs, axes, vibroblades.
+
+Melee parry is the “reaction skill” used if a character has a melee weapon and is attacked by someone with a melee combat, brawling or lightsaber attack. (Melee parry can’t be used to parry blaster attacks — that’s dodge.)
+
+[Página impressa 37 | PDF 39]
+
+### Missile Weapons
+
+Time Taken: One round or longer.
+Specializations: Type or model missile weapon — concussion missile, grenade launcher, Golan Arms FC1 flechette launcher, power harpoon.
+
+Missile weapons is the “ranged combat” skill used to fire all types of missile weapons, including grappling hook launchers, grenade launchers, and personal proton torpedo launchers.
+
+### Pick Pocket
+
+Time Taken: One round.
+
+Characters use pick pocket to pick the pockets of others, or to palm objects without being noticed.
+
+When a character makes a pick pocket attempt, the victim makes an opposed search or Perception roll to notice it.
+
+Example: Dirk Harkness wants to dip into a courier’s satchel to filch a datapad which happens to hold important patrol schedules for a nearby Imperial garrison base. Dirk rolls his pick pocket skill of 5D and gets an 18. The gamemaster rolls the courier’s Perception of 2D and gets a 7. Since his roll is higher than the courier’s, Dirk successfully slips the datapad out of the satchel.
+
+Modifiers:
++5 or more to target’s roll: Light crowd, with few distractions.
+
++10 or more to target’s roll: Very small crowd or target has very good reason to notice pick-pocket.
+
++10 or more to character’s roll: Huge, congested crowd. Target constantly being jostled by street traffic. Major distraction, such as a heated blaster battle, being at a loud concert, or an accident occurs immediately in front of the target.
+
++5 or more to character’s roll: Crowded conditions, such as those aboard a public transport or in a packed starport. Darkness. Minor distraction, such as street performers or a nearby speeder accident.
+
+The difference between the two rolls determines the pickpocket’s success. Use the following guidelines:
+
+Pick-pocket rolls higher than the target by:
+
+21+: Target won’t notice missing item until thief is well out of sight.
+
+16-20: Target notices missing item after a minute or so; pick-pocket has several rounds to dive into the crowd.
+
+11-15: Target notices missing item after three rounds.
+6-10: Target notices that item is missing on next round.
+0-5: The object is snagged on material or somehow still held by the target.
+
+Target rolls higher than pick-pocket by:
+
+1-5: Target feels pick-pocket’s hand rummaging through his pocket. Target can react next round.
+
+6+: Pick-pocket gets hand caught in target’s pocket; target notices immediately.
+
+### Running
+
+Time Taken: One round or more.
+Specializations: Long distance, short sprint.
+
+Running is the character’s ability to run and keep his balance, especially in dangerous terrain. The running difficulty is based on the kind of terrain being crossed and how fast the character moves. See the chapter on “Movement and Chases” for more information.
+
+### Thrown Weapons
+
+Time Taken: One round.
+Specializations: Specific kind of thrown weapon — knife, spear, sling.
+
+Thrown weapons is the “ranged combat” skill used whenever a character employs a primitive thrown weapon, including throwing knives, slings, throwing spears and javelins.
+
+### Vehicle Blasters
+
+Time Taken: One round.
+Specializations: Type or model of vehicle-mounted blaster — heavy blaster cannon, heavy laser cannon, light blaster cannon, light laser cannon, medium blaster cannon, medium laser cannon.
+
+Vehicle blasters is the “ranged combat” skill used to fire vehicle-mounted energy weapons, especially those that are speeder- or walker-scale. (The weapon’s description will list which skill it uses.) Vehicle blasters can also be used to fire speeder- or walker-scale weapons mounted on starships.
+
+# KNOWLEDGE SKILLS
+
+Knowledge skills generally reflect how much a character knows about a given subject, whether it’s aliens, languages or laws.
+
+Knowledge is a measure of your character’s “common sense” and academic knowledge. Characters with a high Knowledge have a good memory for details, and have learned a lot about different aliens and planets. They often have a flair for languages, and they know how to get things done in bureaucracies.
+
+Knowledge is used whenever a player wants to find out how much his character knows about a certain field. The difficulty depends upon how obscure the information is and how much the character knows about the general subject.
+
+Use the following guidelines to pick a difficulty, but remember that they should be modified based on the circumstances. See the chapter on “The Rules” for more information:
+
+• Very Easy: General, common knowledge that almost anyone would know.
+
+• Easy: Most people would know this much.
+
+• Moderate: Professional level of knowledge. The average person who has an interest in the subject would know this much.
+
+[Página impressa 38 | PDF 40]
+
+• Difficult: Professionals would know this much about a given subject; the average person would be hard-pressed to give much information.
+
+• Very Difficult: Detailed, comprehensive knowledge of a subject. Professionals and scholars would probably have to research a subject to gain this amount of knowledge.
+
+• Heroic: Only a very small number of people would know this much information.
+
+Gamemasters should modify difficulties — and how much information characters get — to suit the particular situation. Easily found knowledge probably won’t have a modifier; very obscure information could have a difficulty modifier of +10, +20 or much more.
+
+Modifiers might also be made for particular situations under which knowledge must be recalled — trying to remember the right Rodian custom for signaling cease-fire would be easier in the calm comfort of one’s starship, and much more difficult in a confusing firefight with several very angry Rodian bounty hunters.
+
+A Knowledge skill roll represents what a character can recall at the time the roll is made, or the extent to which the character remembers certain general information. It’s not reasonable to say that a character is an expert on the subject simply because he rolls well once when looking for information. A high roll might reveal one specific bit of information sought, and a few hints for finding the rest of the knowledge the character is looking for.
+
+### Alien Species
+
+Time Taken: One round or longer.
+Specializations: Knowledge of a particular alien species — Wookiees, Gamorreans, Ewoks, Sullustans.
+
+Alien species involves knowledge of any species outside of the character’s. For human characters, it covers all non-humans; for Wookiees, the skill covers all non-Wookiees.
+
+Alien species represents knowledge of customs, societies, physical appearance, attitudes, philosophy, history, art, politics, special abilities, and other areas of reasonable knowledge.
+
+### Bureaucracy
+
+Time Taken: One round to several days.
+Specializations: Specific planetary or administrative government, or branch within it — Tatooine, Celanon, Bureau of Commerce, Bureau of Ships and Services.
+
+This skill reflects a character’s familiarity with bureaucracies and their procedures. Bureaucracy can be used in two ways:
+
+First, the character can use this skill to determine whether or not he knows what to expect from a bureaucracy. For example, if a character needs to get a permit for his blaster, a successful bureaucracy skill check means he knows what forms and identification he needs, who he would have to talk to, how long the process might take and some short cuts he might be able to use.
+
+Second, bureaucracy can also be used to find out what information a bureaucracy has on file.
+
+The difficulty depends upon how restricted the information is:
+
+• Very Easy: Available to all. Finding out how much you owe on your starship.
+
+• Easy: Available to most people. Discovering which ships are in port.
+
+• Moderate: Available to anyone who meets certain qualifications. Finding out which ships are impounded or under guard.
+
+• Difficult: Somewhat restricted. Finding out how much someone else owes on their starship. Determining how to legally get your ship out of an impound yard.
+
+• Very Difficult: Very restricted. Who to bribe to illegally get your ship out of an impound yard. Getting permission to make an emergency landing in the middle of a busy intersection.
+
+Modifiers:
++5-10 to the difficulty: Request is unusual.
++15 or more to the difficulty: Request is very unusual.
++5 or more to the difficulty: The bureaucracy is poorly-funded or has low morale.
+
++10 or more to the difficulty: The bureaucracy is very corrupt and doesn’t care about providing services.
+
++5 to the character’s roll: The bureaucracy is well-funded, has good morale, or is truly dedicated to meeting the needs of those who use it.
+
++5 or more to the character’s roll: The character is well-known and well-liked, and the bureaucrats have good reason to help the character. For example, Luke Skywalker asking a New Republic general for assistance.
+
+No modifier: The character isn’t well-known and the bureaucrat has no reason to want to help the character — but no reason to hinder him either.
+
++5-10 or more to the difficulty: The character is a known troublemaker, nuisance or criminal. The modifier applies if the character is affiliated with an organization that has that reputation.
+
+If the character succeeds at the roll, he gets whatever he needs done (within reason) in a shorter amount of time — up to half the normal time. If the character fails, the process takes as long as normal... and longer if the character has drawn undue attention to himself. The character might even be arrested on a trumped-up charge if he has been particularly obnoxious.
+
+Remember, the bureaucracy roll is only as good as the bureaucrat the character is dealing with. Data-crunching desk-warmers can’t access the same information as Imperial governors. Bullying, bribing, or rolling really high against a low-level bureaucrat will not allow you to find out when a Star Destroyer is leaving orbit. If he doesn’t know and doesn’t have any way of finding out, the best he’ll be able to do is lead you to someone who might.
+
+### Business
+
+Time Taken: One round to one day or longer.
+Specializations: Field or organization (company, conglomerate, trade guild) — starships, weapons, droids, Sienar Fleet Systems, Corporate Sector Authority, Golan Arms.
+
+[Página impressa 39 | PDF 41]
+
+The character has a working knowledge of businesses and business procedures. A character skilled in business might want to run his own company, or knows how to convince a warehouse manager to give him a tour of a facility or to allow him to “borrow” a few things in an emergency.
+
+Characters with a high business skill know how much it costs companies to produce goods and will be able to negotiate for good prices direct from a company or distributor. The character probably has several contacts in the business world and can get special favors done for him if he is somewhere where the company has a lot of power.
+
+Discovering information about businesses is also possible with the business skill. Most stores, shops, and markets are Easy to figure out, while factories, service facilities, and public works range from Moderate to Very Difficult depending on their complexity and how much their workers/owners/supervisors want to hide the information from the public. A Heroic business task would be trying to find out how much Jabba the Hutt is making from legitimate companies, or what industries Emperor Palpatine has special interest in.
+
+### Cultures
+
+Time Taken: One round to one day or longer.
+Specializations: Planet or social group — Corellians, Alderaan royal family, Brentaal, Prexian pirates.
+
+This skill reflects knowledge of particular cultures and common cultural forms (primitive tribal civilizations tend to be somewhat similar, for example). Cultures allows a character to determine how he is expected to behave in a particular situation among a certain group of individuals. The more obscure the information or culture, the higher the difficulty. Cultural knowledge includes information about a certain group’s art, history, politics, customs, rites of passage, and views on outsiders.
+
+For instance, a visitor to Tatooine might make a cultures roll to better understand the moisture farmers he’s dealing with. Depending on what the player asks about this culture, he could learn the moisture farmers depend heavily on droids, they often trade with roaming bands of Jawa scavengers, and their calendar revolves around planting and harvesting seasons.
+
+This skill can be used for cultures of one’s own species or for those of other species.
+
+### Intimidation
+
+Time Taken: One round to several hours or longer. Specializations: Interrogation, bullying.
+
+Intimidation is a character’s ability to scare or frighten others to force them to obey commands, reveal information they wish to keep hidden, or otherwise do the bidding of the intimidating character.
+
+Intimidation is normally dependent upon a character’s physical presence, body language or force of will to be successful. Some characters use the threat of torture, pain or other unpleasantness to intimidate others.
+
+Characters resist intimidation with the willpower skill.
+
+Modifiers:
++5 or more to intimidator’s roll: Intimidator is threatening target with physical violence (and is either armed or has superior strength).
+
++10 or more to intimidator’s roll: Intimidator is obviously much more powerful.
+
++15 or more to intimidator’s roll: Target is totally at the mercy of intimidator.
+
++5 or more to the difficulty: Target has the advantage.
++10 or more to the difficulty: Target is in a position of greater strength.
+
++15 or more to the difficulty: Target cannot conceive of danger from intimidator.
+
+Using in Combat (Option): At gamemaster discretion, intimidation can enhance a character’s attacks and defenses. The player adds one-half of the difference (positive or negative) between the difficulty and the intimidation roll to any one attack or defense attempt (not both) made at Point Blank or Short range. The character must use the benefit from scaring the target on the same turn as or on the round after the interaction endeavor.
+
+### Languages
+
+Time Taken: One round.
+Specializations: Specific language known — Wookiee, Huttese, Bocce, Ewok.
+
+The common language of the Known Galaxy is Basic. Most people speak it — if not as their main language, they are at least fluent in it — and virtually everyone can understand it. However, some areas of the galaxy are so isolated that Basic is rarely spoken. Some aliens can’t or refuse to speak Basic. For example, Wookiees can under-
+
+[Página impressa 40 | PDF 42]
+
+stand Basic, but, because of the structure of their mouths, usually cannot speak it. Ewoks do not normally understand Basic, but can learn it fairly easily.
+
+The languages skill is used to determine whether or not a character understands something in another language.
+
+If the character wants to say something in a language in which he isn’t fluent (see “specialization” below) increase the difficulty by two levels.
+
+The base difficulty depends on the language’s complexity and structure compared to Basic (or any other language the character knows):
+
+• Very Easy: Dialect of Basic, uses many common slang words or phrases.
+
+• Easy: Common language related to Basic.
+
+• Moderate: Common language, but not related to Basic (Huttese).
+
+• Difficult: Obscure language, not related to Basic (Wookiee).
+
+• Very Difficult: Extremely obscure language, such as one unique to a culture that has never been contacted before or a “dead” language; language that cannot be pronounced by the person trying to understand.
+
+• Heroic: Language where many concepts are beyond the character’s understanding or experience. May include musical languages or languages dependent upon intricate body language.
+
+Modifiers:
++10 or more to character’s roll: Idea is very simple. “No.” “Yes.”
+
++ 1-5 to character’s roll: Idea is simple. “I have a bad feeling about this.”, “Landspeeder — only 1,500 credits.”
+
+No modifier: Idea is of average complexity. “We’re out of ammo.” “Big explosion... generators go ‘boom’!”
+
++1-5 or more to difficulty: Idea is of above average complexity. “The stormtroopers are going to be charging over that ridge in 10 minutes.” “3,000 credits for the 10 blasters, plus a crate of blaster power packs, and I’ll give you my word that I won’t tell anyone what a great deal you gave me.”
+
++6-10 or more to difficulty: Idea is complex. “When the shield generator drops, Red Squadron will go for the ion cannons along the hull, while Blue Squadron will concentrate their fire on the bridge. Until then, try to defend each other from the TIE fighters.”
+
++11-20 or more to difficulty: Idea is very complex. “From a sociological point of view, the culture of the Ithorians is wholly dedicated to to the metaphors of their first great poet and philosopher, Tiethiagg. His aptitude for understanding the unique herd culture and how it related to the individual, and how each Ithorian had to contribute to the health of the planet as a whole...”
+
+Fluency: Any character who makes 10 Difficult (or greater) difficulty checks on a specific language is considered fluent in that language and no longer has to make languages rolls to see if he understands the language.
+
+Specialization: Characters may specialize in a specific language, such as Wookiee, Huttese, or astromech droid. Once the character has 5D in the specialized language, the character is considered fluent in the language and no longer has to make rolls to understand anything in that language.
+
+If the character is attempting to understand unusual dialects or seldom used words of that language, he can use the specialty language’s skill code — and should have a much lower difficulty number. For example, a character fluent in Huttese trying to understand a dialect of Huttese will have a much easier time than a character who only knows Basic.
+
+Gamemaster Note: Certain characters, like Luke Skywalker or Han Solo, know more languages than one would expect. Han travels around the galaxy a lot, and knows Wookiee, Huttese and probably several other languages. Luke comes from a planet with at least three common languages — Basic, Jawa, and Tusken Raider.
+
+If a player wants her character to know several additional languages, you might want to give them to her at a reduced cost (such as three obscure languages at 5D for 1D in beginning skill dice), especially if she comes up with a very detailed background explaining why her character knows so many languages. Giving a character a few “extra” language dice is okay as long as the player “earns” them and you make sure that her added knowledge won’t seriously unbalance the campaign. If the players aren’t willing to do some extra work developing their characters’ histories and personalities, they shouldn’t receive such skill bonuses.
+
+### Law Enforcement
+
+Time Taken: One round.
+Specializations: Particular planet’s or organization’s laws and procedures — Alderaan, Tatooine, the Empire, Rebel Alliance.
+
+The character is familiar with law enforcement techniques and procedures. He knows how to deal with the authorities — for example, he may be able to persuade a customs official not to impound his ship or not arrest him for a minor offense.
+
+Characters are also knowledgeable about laws. By making a successful law enforcement skill check, the character will know whether or not bribery, resistance or cooperation is advisable under particular circumstances. This skill covers major laws — Old Republic, New Republic, or Imperial — and their underlying principles. Some planets have very unusual legal systems and customs: law enforcement difficulties on these worlds should be much higher.
+
+### Planetary Systems
+
+Time Taken: One round.
+Specializations: Specific system or planet — Tatooine, Endor, Hoth, Kessel.
+
+This skill reflects a character’s general knowledge of geography, weather, life-forms, trade products, settlements, technology, government and other general information about different systems and planets. Much of this information is gained from personal experience, computer records and hearsay from others who’ve visited various systems.
+
+[Página impressa 41 | PDF 43]
+
+Characters specializing in particular planets have a deeper knowledge of more subtle details — more than the average general database would contain. Although someone with an improved planetary systems skill would know that Tatooine’s deserts are home to Jawas and Tusken Raiders, those with planetary systems: Tatooine would know the role the Jawa scavengers play in supplying the moisture farmers with spare parts and droids.
+
+The planetary systems difficulty is based on how obscure the system is:
+
+• Very Easy: Systems that everyone has heard of and knows something about. Coruscant, the former Imperial capital and the capital of the New Republic. Endor after the Battle of Endor. Alderaan. The Corellian system.
+
+• Easy: Systems that most people will have heard of, but they will only know one or two things about. Kessel has spice mines. Lianna is the home of Sienar Fleet Systems.
+
+• Moderate: Systems that the average person might have heard of, but they probably know nothing about. Sullust, home of the Sullustans. Kashyyyk, the Wookiee homeworld.
+
+• Difficult: Very obscure systems that most people will never have heard of, or maybe they’ve heard of it but have no interest in learning anything about it. Bespin. Questal.
+
+• Very Difficult: Systems that very few people have ever heard of, and even then, only a small percentage know anything of it beyond its name. Dantooine. Ord Mantell. Tatooine before Luke Skywalker became famous.
+
+• Heroic: Systems that almost no one has ever heard of. The system may not even be on the star charts. An unexplored system that might have been visited by traders. Dagobah. Hoth. Yavin. Endor before the Battle of Endor.
+
+Modifiers:
+Modifiers depend on whether the information a character seeks is common or obscure. The more obscure the information, the more difficult it is to recall:
+
+No modifier: Information is very common or easily figured out from quick observation. All natives and most visitors know this. Dagobah is a swamp world without any advanced settlements. The only reason to go to Tatooine is Mos Eisley Spaceport and to do business with Jabba the Hutt’s crime syndicate.
+
++ 1-5 to difficulty: Information is common, but requires some observation or investigation. All natives will know this; many visitors might. Cloud City is powered by custom- designed repulsorlift generators. The basis of Coruscant’s economy is the huge bureaucracy.
+
++6-10 to difficulty: Information is obscure and requires detailed observation. Most natives know this information, but most visitors don’t. Tatooine is populated by a hostile species known as Tusken Raiders. Kashyyyk’s lowest eco-levels are extremely dangerous.
+
++11-20 to difficulty: Information isn’t well known. Significant observation and investigation is needed to discover this. In Cloud City, Lando Calrissian siphoned off a small portion of Tibanna gas to produce spin-sealed Tibanna gases for blasters. Hoth is populated by dangerous predators called wampas.
+
++21 or more to difficulty: Only a select few individuals know this. The information is restricted or not well distributed to the galaxy at large. Before the Battle of Yavin, knowledge that Yavin was the site of the main Rebel base.
+
+### Scholar
+
+Time Taken: One round to several days.
+Specialization: Particular field of study — archaeology, Jedi lore, history, geology, physics.
+
+This skill reflects formal academic training or dedicated research in a particular field. Scholar also reflects a character’s ability to find information through research. Characters often choose a specialization to reflect a specific area which they have studied. Specializations are subjects often taught at the great universities throughout the galaxy, including archaeology, botany, chemistry, geology, history, hyperspace theories, and physics. Specializations can also be topics a character can research on his own.
+
+Scholar represents “book-learning,” not information learned from practical experience. A character can know the various hyperspace theories inside and out, but this doesn’t qualify him to fly starships through hyperspace (that’s covered by the astrogation skill). He might know the physical principles which make a blaster fire, but that doesn’t make him a better shot.
+
+Gamemasters can choose to allow players a limited benefit under certain circumstances — the character is applying theory in a real-world situation. For example, a character with scholar: military tactics (the history of tactics) doesn’t get a bonus to tactics rolls, but under certain circumstances, a good scholar: military tactics roll might merit a small (+1D or so) bonus to tactics.
+
+Gamemasters should allow players to choose their own scholar specializations — new ones can be created at the gamemaster’s discretion. When determining a character’s background, players should explain why and how they gained such academic training in a field.
+
+Like many other Knowledge skills, the difficulty is based on the obscurity and detail of the information sought.
+
+### Streetwise
+
+Time Taken: One round to one day or longer.
+Specializations: Specific planet or criminal organization — Celanon, Corellia, Jabba the Halt’s organization, Black Sun, Talon Karrde’s organization.
+
+Streetwise reflects a character’s familiarity with underworld organizations and their operation. He can use streetwise to make a contact in the criminal underworld, purchase illegal goods or services, or find someone to do something illegal.
+
+Illegal activities may include the usual vices: gambling, fencing stolen goods, racketeering, blackmail, contract killing, and fraud. Because Imperial laws are repressive, some actions deemed “criminal” may be perfectly moral: freeing slaves, delivering medicine and food to refugees from Imperial aggression, and smuggling wanted criminals (such as Alliance personnel) through Imperial blockades.
+
+[Página impressa 42 | PDF 44]
+
+This skill also reflects knowledge of specific criminal bosses, such as Jabba the Hutt or Talon Karrde, and their organizations and activities.
+
+The base difficulty depends upon how common the service or good is or how hard it is to find the underworld contact:
+
+• Very Easy: Things that are fairly easy to find under most circumstances. A blaster on a planet where blasters are illegal but enforcement is lax. A bounty hunter on a “crime world.”
+
+• Easy: Things that are easy to find, but normally require some discretion or careful investigation. Finding a representative of a well-known criminal organization. Hiring someone to steal some merchandise.
+
+• Moderate: Any service which involves considerable risk, or finding an item which is both illegal and well-regulated. Finding a blaster on a planet where ownership is very carefully-controlled. Hiring someone to sneak you off a planet when you’re the subject of an Imperial manhunt. Knowing where the best smugglers, thieves or other types of criminals might be hiding.
+
+• Difficult: Finding someone with a very unusual skill, or finding an item that is very expensive, dangerous or carefully-controlled. Finding stolen TIE fighters.
+
+• Very Difficult: Finding a specific criminal who is in hiding. Finding an item on a world where its possession incurs an automatic death penalty. Arranging a personal meeting with Jabba the Hutt — when he isn’t expecting you.
+
+• Heroic: Finding extremely rare merchandise which normally wouldn’t be available, even under the best of circumstances. Finding a lightsaber for sale on the black market.
+
+Modifiers:
++10 or more to the character’s roll: There is almost no law enforcement on the planet.
+
+No modifier: There is moderate law enforcement; the local law looks the other way as long as criminal activity is discreet and isn’t dangerous to the local government or general public.
+
++10 or more to the difficulty: There is very strict law enforcement. The world is under martial law or has no tolerance for criminals.
+
++10 or more to the difficulty: The character has never been to the planet before or has no contacts in the area. The character is not familiar with the locale and acceptable procedures, and may not know who to bribe.
+
++1-9 to the difficulty: The character has been to the planet before but has no contacts, or the character has a contact but doesn’t know how the local underworld operates.
+
+No modifier: The character may have a minor contact and at least knows what not to do in most circumstances.
+
++1-9 to the character’s roll: The character is known in the area, or has some contacts.
+
++10 or more to the character’s roll: The character is well-known and liked by the local underworld. He is known as reliable and trustworthy (as criminals and their associates go).
+
++10 or more to the difficulty: The underworld doesn’t trust the character because he has turned in other criminals or is known to work for the local law.
+
+No modifier: The character is local, or is a recent arrival, but is discreet and hasn’t given any cause to be suspected.
+
++5 or more to the difficulty: The character is known or believed to work for a rival, enemy criminal organization.
+
++5 or more to the character’s roll: The character is known or believed to work for a sympathetic criminal organization, or at least one that is not a competitor.
+
+### Survival
+
+Time Taken: One round when used for knowledge or reacting to danger; one hour or more when looking for necessities.
+
+Specializations: Type of environment — volcano, jungle, desert, poisonous atmosphere.
+
+This skill represents how much a character knows about surviving in hostile environments, including deserts, jungles, ocean, forests, asteroid belts, volcanoes, poisonous atmosphere worlds, mountains and other dangerous terrain.
+
+Survival can be rolled to gain general information — revealing what the character knows about this environment — and it can give clues as to how best to deal with native dangers.
+
+If the character is in a dangerous situation, the player may roll the survival skill to see if the character knows how to handle the situation.
+
+When a character is in a hostile environment, he may roll survival to find the necessities of life: shelter, food, water, herbs and roots that can be made into medicines, and so forth.
+
+When the character makes a survival roll, use these difficulty guidelines:
+
+• Very Easy: Character is intimately familiar with terrain type. Luke on Tatooine.
+
+• Easy: Character is familiar with terrain type. Leia on Endor.
+
+• Moderate: Character is somewhat familiar with terrain. May have briefly visited area before. Han on Hoth.
+
+• Difficult: Character is unfamiliar with terrain; first time in a particular environment. Admiral Ackbar on Tatooine.
+
+• Very Difficult: Character is completely unfamiliar with situation. Leia inside a space slug.
+
+• Heroic: Character is completely unfamiliar with situation and has no idea how to proceed. Any character who doesn’t know where they are.
+
+### Tactics
+
+Time Taken: One round to several minutes.
+Specializations: Type of military unit — squads, fleets, capital ships, ground assault.
+
+Tactics represents a character’s skill in deploying military forces and maneuvering them to his best advantage. It may be rolled to gain general knowledge of how best to stage certain military operations: blockading a planet with a fleet, invading an enemy installation, assaulting a fixed turbolaser bunker.
+
+[Página impressa 43 | PDF 45]
+
+This skill may also be used to determine the best response to an opponent’s move in battle: for instance, what to do if the enemy entraps your ships in a pincer movement, how to proceed in the assault should reinforcements arrive, what to do if a unit becomes trapped behind enemy lines.
+
+Although tactics rolls might reveal how best to handle military situations, the final outcome of how well the character’s side does in a battle hinges on other skill rolls — command for the leader, and the combat rolls of both forces.
+
+Tactics difficulties should be based on various factors of complexity within a battle: how many units are involved, the setting (open space or asteroid field, plains or jungle terrain), and the difference in training and equipment between units (Star Destroyers against starfighters, stormtroopers against Ewoks, Imperial Army troopers against crack Rebel commandos).
+
+When rolling this skill, characters are often seeking ways to deal with military situations. The better the result, the more hints a gamemaster should give to help the character win the battle. Hints can take the form of reminders about different moves the enemy can make, suggestions on how to maneuver the character’s forces, or (for especially good rolls) risky and unanticipated moves which could throw the enemy off guard.
+
+### Value
+
+Time Taken: One round.
+Specializations: Type of goods or specific planet’s markets — starships, droids, Kessel, Coruscant.
+
+This skill reflects a character’s ability to gauge the fair market value of goods based on the local economy, the availability of merchandise, quality and other market factors. The character can also gauge specific capabilities of and modifications made to goods with regard to performance.
+
+Using value often answers the question, “How much is it really worth?” Results often depend on the source of information about the item, and how much the character already knows about that kind of merchandise. A starship dealer rattling on about a particular used-freighter might be exaggerating — although characters can make some estimations based on the starship model. If the item can be examined in person, its value is much easier to determine.
+
+When the character makes a value roll, use these difficulty guidelines:
+
+• Very Easy: Knowing that a new astromech droid should cost about 1,000 credits.
+
+• Easy: Knowing that a new freighter, equipped with heavy duty weapons, should cost well over 100,000 credits; knowing that it could probably stand up to a slower starfighter, but not a customs ship.
+
+• Moderate: Figuring out how much a modified freighter is worth, and how much better (or worse) the modifications make it.
+
+• Difficult: Determining how much it should cost to hire a pilot to make a smuggling run where there’s a high level of risk involved.
+
+• Very Difficult: Determining how expensive it should be to hire a crack pilot to fly an Imperial blockade... when he knows the risks.
+
+• Heroic: Coming up with a market price for a product in a hurry — one that isn’t normally “on the market” (Cloud City, a Star Destroyer, a Rebel Princess to be sold to the Empire). Knowing how much an Imperial prototype weapon is worth.
+
+### Willpower
+
+Time Taken: One round.
+Specializations: Kind of coercion to be resisted — persuasion, intimidation.
+
+Willpower is a character’s strength of will and determination. It is used to resist intimidation and persuasion attempts.
+
+Also, when a character fails a stamina check, if the character can make a willpower check at one higher level of difficulty, he can drive himself on through sheer willpower. A character doing this has to make a willpower check as often as he would normally have had to make a stamina check, with all checks at one difficulty level higher. Once the character fails a check or stops pushing himself, he is completely exhausted and must rest double the normal length of time. If, as a result of failing a stamina check, the character would have suffered any damage, the character suffers one worse wound level as a result of pushing his body far beyond its limitations.
+
+# MECHANICAL SKILLS
+
+Mechanical stands for “mechanical aptitude” and represents how well a character can pilot vehicles and starships and operate the various systems on board. It also reflects how well the character handles live mounts, like banthas and tauntauns. A character with a high Mechanical attribute is going to take naturally to driving landspeeders, flying cloud cars and piloting X-wings and ships like the Millennium Falcon. A character with a low Mechanical attribute has a lot of minor accidents.
+
+[Página impressa 44 | PDF 46]
+
+Most Mechanical skills are used to drive vehicles or pilot starships. Most of the time, characters should be able to negotiate clear terrain (Very Easy or Easy) without too much trouble. It’s when a driver goes too fast, tries risky maneuvers or gets involved in a chase that things get tricky.
+
+Movement, chase and vehicle combat rules are explained in the chapter on “Movement and Chases.” Movement and chases with starships is explained in the chapter on “Space Travel and Combat.”
+
+Time Taken: One round for chases and combat. For trips, several minutes, hours or days. (Characters might roll space transports to see if anything went wrong over a trip that takes three hours. One beast riding roll might be made to see how well a character handles his tauntaun over a patrol march of several hours.)
+
+### Aquatic Vehicle Operation
+
+Time Taken: One round or longer.
+Specializations: Particular ship type or class — Oceanic transport, coastal runabout, skiff, sailboat.
+
+This skill allows characters to pilot naval ships and boats. While these vehicles are seldom used in the higher-tech worlds, many low-tech cultures use them for transporting personnel and freight over bodies of water.
+
+Note that aquatic vehicles which employ the use of repulsorlift or hover technology may also require the use of different skills (namely repulsorlift operation and hover vehicle operation).
+
+Aquatic vehicle operation can be used for a vehicle dodge — a “reaction skill” — to avoid enemy fire.
+
+### Archaic Starship Piloting
+
+Time Taken: One round or longer.
+Specializations: Particular ship type or class — Delaya-class, Coruscant-class heavy courier.
+
+This skill allows characters to pilot primitive starships and other basic archaic ship designs. While these vehicles are seldom used in settled areas, they can be encountered on frontier worlds or planets that have just developed space travel on their own.
+
+Archaic starship piloting can be used for a vehicle dodge — a “reaction skill” — to avoid enemy fire.
+
+### Astrogation
+
+Time Taken: One minute when your position is known and you are following a commonly-traveled jump route for which hyperspace coordinates have already been calculated (can be reduced to one round in emergencies). A few hours when your position is known, but your destination is one to which you have not traveled before and the nav computer must calculate coordinates. One day when you must take readings to determine your ship’s current position and then compute jump coordinates.
+
+Specializations: Specific trade route — Kessel Run, Tatooine to Coruscant, Corellian Run Trade Route.
+
+Starship pilots use astrogation to plot a course from one star system to another. For more details on astrogation difficulties, see the chapter on “Space Travel and Combat.”
+
+### Beast Riding
+
+Time Taken: One round or longer.
+Specializations: Particular riding animal — banthas, Cracian thumpers, dewbacks, tauntauns.
+
+Beast riding represents a character’s ability to ride any live mount. Unlike vehicles, animals sometimes resist orders from their riders. Each animal has an orneriness code. When a character mounts a riding animal, the character makes an opposed roll against the animal’s orneriness code. If the character rolls higher than the animal, it does as he wishes. If the animal rolls higher, find the results on the chart below.
+
+The character must make another opposed roll whenever the animal is exposed to danger or is in a situation which could scare the animal — being involved in a battle, encountering a ferocious predator, being surprised by a sudden storm or an incoming starship.
+
+Animal rolls higher than character by:
+
+21+ points: Animal bucks rider. Roll the animal’s Strength versus the character’s Dexterity: If the animal rolls higher, the character is thrown to the ground. The animal will trample the rider if there is no immediate threat; otherwise, it will run to safety.
+
+16-20 points: Animal bucks rider and runs to safety. If the character falls off, the creature will not attempt to trample the rider.
+
+11-15 points: Animal refuses to follow rider’s command and runs to safety. The rider may regain control by making another beast riding roll and beating the animal’s total by 5 or more points.
+
+6-10 points: Animal stops moving and refuses to move for the rest of the round or the next round.
+
+1-5 points: Animal stops moving and refuses to move for the rest of the round.
+
+### Capital Ship Gunnery
+
+Time Taken: One round.
+Specializations: Weapon type or model — concussion missiles, gravity well projectors, ion cannons, laser cannons, proton torpedoes, tractor beams, turbolasers.
+
+Capital ship gunnery is the “ranged combat” skill that covers the operation of capital-scale starship weapons, including turbolasers, ion cannons and tractor beams.
+
+See the chapter on “Space Travel and Combat,” for more information on using this skill.
+
+[Página impressa 45 | PDF 47]
+
+### Capital Ship Piloting
+
+Time Taken: One round or longer.
+Specializations: Type or class of capital ship — Imperial Star Destroyer, Victory Star Destroyer, Nebulon-B frigate, Trade Federation Battleship.
+
+Capital ship piloting covers the operation of large combat starships such as Imperial Star Destroyers, Carrack-class cruisers, Corellian Corvettes and Mon Cal cruisers. Capital ships normally require huge crews for efficient operation, and thus the skill emphasizes both quick reflexes and disciplined teamwork. The chapter on “Space Travel and Combat” has more details about using capital ship piloting.
+
+Capital ship piloting can be used for a starship dodge — a “reaction skill” — to avoid enemy fire.
+
+### Capital Ship Shields
+
+Time Taken: One round.
+
+Characters use this skill when operating shields on capital-scale starships, both military and civilian. These shields normally require large, coordinated crews for efficient operation. You can find more information about capital ship shields in the chapter “Space Travel and Combat.”
+
+Capital ship shields can be used to bring up shields — a “reaction skill” — to block enemy fire.
+
+### Communications
+
+Time Taken: One round.
+Specializations: Type or model of communications unit — comlink, subspace radio.
+
+Communications represents a character’s ability to use subspace radios, comlinks and other communications systems. While operating communications devices is generally a
+
+Very Easy task, the difficulty numbers are higher when the skill is used to descramble enemy codes and find particular enemy transmission frequencies.
+
+Characters may also use communications to send or receive a signal through natural hazards which disrupt communications, such as a gas cloud, heavy magnetic fields or locations with a high metal content.
+
+The following difficulties are for finding a specific kind of frequency:
+
+• Very Easy: Listening in on a known, registered frequency. Public communications, low-security corporate commnets.
+
+• Easy: Listening in on a specific private frequency. Low-security government communications such as emergency services.
+
+• Moderate: Listening in on a somewhat sensitive communication frequency. Local governments, sensitive businesses or security-conscious individuals.
+
+• Difficult: Tapping professionally secure channels. Lower-level Imperial or higher-level police bands.
+
+• Very Difficult: Listening in on higher Imperial channels, or high-ranking government channels.
+
+• Heroic: Listening in on a top-secret Imperial, Rebel or New Republic frequency.
+
+If the signal is coded, the character can use communications to make a decoding roll. Some broadcasting devices have coding die codes, which adds to the broadcaster’s communication skills when determining how difficult it is to decode the message. By comparing the results on the “Decoder Roll Chart,” (below) the character may decode none, some or all of the message.
+
+Note that some messages will also have code words — for example, Coruscant might be referred to as “Dewback” in a message. At this point, the characters only know what was said about “Dewback” and must figure out what “Dewback” is.
+
+### DECODER ROLL CHART
+
+Coder’s roll is ≥ decoder’s roll by:
+Decoder learns:
+6
+Nothing can be made out
+1-5
+Decoder makes out wrong message
+
+0-3 | One or two garbled passages
+4-6 | About one-quarter of the information in the message
+7-10 | About half of the information in the message
+11+ | The entire message is unscrambled
+
+Decoder’s roll is ≥ coder’s roll by:
+Decoder learns:
+
+[Página impressa 46 | PDF 48]
+
+Field Communications. A host of factors can complicate communications. Most civilian comlinks are supported by repeater stations, processing nodes, comsats and fairly short transmission distances. Combat communications can be confounded by intervening terrain, inadequate repeating stations, enemy jamming and strong electrical activity.
+
+Almost any comlink, even a fairly low-power comlink, can reach orbital comsats in clear weather. Ordinary comlinks use a wide-band broadcast to reach comsats, but these are much too easy to trace. As a result, military units use comlinks with narrow beamcast antennas, which reduces the chances of detection (though it also reduces range and clarity).
+
+When attempting to jam enemy communications the comjammer operator adds his communications skill roll to the opponent’s difficulty.
+
+Detecting and locating comlinks involves sensor rolls. Use the rules on pages 47 and 48 for more information.
+
+The following are basic difficulty guidelines for using communications equipment:
+
+• Very Easy: Base communications set. HoloNet node. Surface-based comm. Signal with a system.
+
+• Easy: Military comset. Civilian comset in city.
+
+• Moderate: Military comlink. Civilian comset in rural area.
+
+• Difficult: Civilian comset in wild area.
+
+Modifiers:
++5 to operators difficulty: Heavy cloud cover. Active energy fields (such as from moderate combat with 20 kilometers).
+
++10 to operators difficulty: Storm activity. Broad based enemy jamming. Heavy combat conditions (due to strong energy fields).
+
++15 to operators difficulty: Nearby, very strong, or specific bandwidth energy fields. Trying to punch through planetary shields (either way).
+
+### Ground Vehicle Operation
+
+Time Taken: One round or longer.
+Specializations: Type or model ground vehicle — compact assault vehicle, Juggernaut.
+
+Ground vehicle operation covers primitive wheeled and tracked land vehicles, including Jawa sandcrawlers, the Rebel personnel transports on Yavin IV, personal transportation cars and bikes, and cargo haulers. Some military vehicles — such as the Empire’s Juggernaut and PX-4 Mobile Command Base — also utilize wheel or track-technology.
+
+Ground vehicle operation is seldom needed on modern worlds — where repulsorlift vehicles are very common — but this primitive technology is often used on low-tech worlds.
+
+Ground vehicle operation can be used for a vehicle dodge — a “reaction skill” — to avoid enemy fire.
+
+### Hover Vehicle Operation
+
+Time Taken: One round or longer.
+Specializations: Type or model vehicle — hoverscout.
+
+Hover vehicles generate a cushion of air for travel — hover vehicle operation enables characters to pilot these
+
+vehicles. Hovercraft are generally unwieldy, but they are used on many primitive worlds and are sometimes used for specific military applications. They are also used on planets with unusual gravitational fluctuations or other quirks which interfere with repulsorlift operation.
+
+Hover vehicle operation can be used for a vehicle dodge — a “reaction skill” — to avoid enemy fire.
+
+### Jet Pack Operation
+
+Time Taken: One round.
+
+This skill represents a character’s skill at using jet packs. Since these back-mounted packs rely on pulling in surrounding atmosphere and mixing it with regulated amounts of fuel, they can only be operated within atmospheres. Characters with jet pack operation gain no bonuses when operating “rocket packs,” which use the rocket pack operation skill.
+
+Jet pack operation can be used as a “reaction skill” to avoid enemy fire.
+
+### Pod Racer Operation
+
+Time Taken: One round or longer.
+Specializations: Particular custom pod racer.
+
+Advanced Skill — requires repulsorlift operations of at least 5D.
+
+Pod racers are dangerously fast, difficult to pilot vehicles which combine a typical repulsorlift engine with extremely powerful thruster engines for unbelievable performance. Pod racer operation reflects a character’s ability to successfully fly one of the fastest, and most dangerous vehicles in the galaxy.
+
+Pod racer operation can be used for a vehicle dodge — a “reaction skill” — to avoid enemy fire.
+
+### Powersuit Operation
+
+Time Taken: One round or longer.
+Specializations: Particular kind or model powersuit — spacetrooper armor, servo-lifter.
+
+Powersuits are devices which enhance a person’s natural abilities through servo-mechanisms and powered movement. These suits are often used for construction or cargo movement work wherever industrial droids are neither practical nor desirable. This technology has also been adapted to the zero-gee stormtrooper (spacetrooper) battle suits.
+
+Powersuit operation can be used as a “reaction skill” to dodge enemy fire.
+
+### Repulsorlift Operation
+
+Time Taken: One round or longer.
+Specializations: Type or model repulsorlift vehicle — XP-38 landspeeder, Incom T-16 Skyhopper, Rebel Alliance combat snowspeeder.
+
+The character knows how to operate common repulsorlift (or “antigrav”) craft, including landspeeders, snowspeeders, T-16 skyhoppers, cloud cars, airspeeders, speeder bikes, skiffs and sail barges.
+
+Repulsorlift operation can be used for a vehicle dodge — a “reaction skill” — to avoid enemy fire.
+
+[Página impressa 47 | PDF 49]
+
+### Rocket Pack Operation
+
+Time Taken: One round or longer.
+
+This skill reflects the character’s ability to use personal, self-contained rocket packs. Since these backpack units contain all the chemical thrust components for propulsion and maneuvering, they can be used in zero, low or high atmosphere conditions. Characters with rocket pack operation gain no bonuses when operating “jet packs,” which use the jet pack operation skill.
+
+Rocket pack operation can be used as a “reaction skill” to dodge enemy fire.
+
+### Sensors
+
+Time Taken: One round or longer.
+Specializations: Type or model scanner — hand scanner, med diagnostic scanner, heat sensor.
+
+Characters with the this skill can operate various kinds of sensors, including those that detect lifeforms, identify vehicles, pick up energy readings, and make long-distance visual readings. Sensors covers everything from portable hand scanners (like the one used by Han Solo on Hoth) to the huge sensor arrays used on capital ships and in military bases.
+
+Some scanners have die code bonuses — these extra dice are added when characters roll their sensors skill.
+
+Gamemaster Note: Sensors are best used as a plot devices; the characters should detect just enough to intrigue them. They’ll have to personally investigate the situation to find out the whole story. (“You detect three ships headed out of the system... sensors can’t determine what they are, but their energy signatures indicate they could be fighters. Wait! They’ve just changed course and are now closing in you!”)
+
+While there are plenty of sensors modifiers to choose from, don’t be afraid to keep things simple. Pick a difficulty number using your judgment. If the character beats the difficulty number, he detects something; if he rolls really well, he maybe able to get very detailed information.
+
+One sensors roll can be made per round: the character detects everything he rolled well enough to notice. Sensors can perform two distinct tasks: detection and identification.
+
+When a sensor detects something, it means that it has noticed the object, but cannot identify exactly what it is. (“There’s a ship out there... it might be a freighter or a fighter.”)
+
+When a sensor identifies something, that means that the sensor identifies the specific type of ship or object. (“It’s a light freighter. Scanner identifies it as a Corellian YT-1300. Look at the power signature... he’s carrying around a lot of weaponry.”)
+
+The base difficulty to find a ship with sensors depends on the mode the sensor is in: passive, scan, search or focus. The ship must be within a sensor’s scanning range to be detected.
+
+Sensor Mode | Detect | Identify
+Passive | Moderate | Very Difficult
+Scan | Easy | Moderate
+Search | Easy | Difficult
+Focus | Very Easy | Easy
+
+Modifiers:
++10 or more to the difficulty: Target is using a sensor mask. +5 to the difficulty to identify only: Target is using a sensor decoy (sensors detect both ship and decoy as “real” unless difficulty is beat). (“We’ve got one ship out there. Wait a minute... sensors are now picking up two ships!”)
+
++5 to the difficulty: Target ship’s sensors are in passive mode. (See the chapter on “Space Travel and Combat.”)
+
++15 or more to the difficulty: Target ship is running silent. (See the chapter on “Space Travel and Combat.”)
+
++10 or more to the difficulty to identify only: Target is jamming sensor readings. (See the chapter on “Space Travel and Combat.”)
+
++10 or more to the difficulty: Ship is hiding behind planet or other massive body.
+
++20 to the difficulty: Ship has other mass objects, such as asteroids, to hide among.
+
++5 to the character’s roll: Targeting a small natural body. A small asteroid.
+
++10 to the character’s roll: Target is capital ship sized.
++10 to the character’s roll to detect only: Target ship is jamming sensor readings.
+
++10 to the character’s roll: Target is a moderate-size natural body. A decent-sized asteroid.
+
++20 to the character’s roll: Planetary or moon-sized natural body. Death Star-scale ship.
+
++30 or more to the character’s roll: Stellar object. A star, nebula, black hole.
+
+If the sensor operator scans a ship and beats the sensors difficulty by ten (10) or more points, he can pick out a ship’s transponder code. However, while the Bureau of Ships and Services (BoSS) keeps detailed records of starship transponder codes, it only releases these records to the proper authorities — local planetary defense forces, starport authorities and, of course, the Imperial Navy and Imperial Customs. Should characters somehow get BoSS records and download them into their ship’s sensors computer, they may be able to identify other vessels by their transponder codes. Of course, if the ship has a false transponder code, this information is worthless anyway.
+
+Scanning Planets: Scanning for specific objects on a planet’s surface can be fairly difficult. While it’s easy to find major landmarks — continents, mountain chains, inland seas and so forth — a planet’s geothermal functions, the energy generated by large settlements, large concentrations of metal, and other energy sources can distort sensor readings, especially if the sensor is looking for a small facility but scanning a large area. Often, sensor operators must greatly limit their scanning area — covering perhaps a few square kilometers at a time — to find military bases, small cities and other “minor” landmarks.
+
+The basic sensors difficulty depends upon how much of the planet is being scanned. No more than half a planet may be scanned as only one hemisphere is visible at any given time.
+
+Characters normally make a general scan of the planet to determine basic characteristics — atmosphere type, presence of major geographic features, scans for energy readings typical of very large cities — and then conduct increasingly detailed scans on smaller and smaller areas to determine information about interesting landmarks.
+
+[Página impressa 48 | PDF 50]
+
+These sample difficulties are for scanning from orbit and finding a specific item — such as a starport, small town, factory complex, scout base, Imperial garrison or industrial compound — when scanning an area of a certain size.
+
+• Very Easy: An area one square kilometer or less.
+
+• Easy: An area 100 square kilometers or less.
+
+• Moderate: An area 1,000 square kilometers or less.
+
+• Difficult: An area one million square kilometers or less. An average size nation.
+
+• Very Difficult: An area 100 million square kilometers or less. A small continent.
+
+• Heroic: One hemisphere.
+
+Modifiers:
++5-20 or more to the difficulty: Looking for telltale energy emissions, such as emissions from spaceships.
+
++10 or more to the difficulty: Specific signal is hidden among other similar emissions or in an area where other signals will overwhelm that object’s signal. (A ship flying among volcanoes to disguise its trail; for a hand scanner, hiding a droid in a factory filled with active droids and electronics systems.)
+
++5 or more to the difficulty: Spotting or identifying a specific life-form if there are various species in an area.
+
++25 or more to the character’s roll: Looking for basic information. Location of major continents, planet’s atmosphere and gravity, composition of land masses.
+
++10 to the character’s roll: Looking for major sources of heat, light and other energy sources; by default, other, non-energy emitting areas, such as glaciers, can be found.
+
++5-15 to the character’s roll (depending upon size): Looking for major landmarks. Mountain chains, forests, large lakes, or cities.
+
++5 or more to the character’s roll: Finding life-forms if life-form is known and there are massive concentrations of them (determining that humans live on a planet if there are thousands of them clustered in a small area).
+
++5 or more to the character’s roll: Spotting or identifying a specific life-form if it is very different from all other lifeforms around it (finding a human and a Wookiee who are hiding in a Noghri village).
+
++10 or more to the character’s roll: Following an energy trail left by an incoming starship.
+
+### Space Transports
+
+Time Taken: One round or longer.
+Specializations: Type or model transport — YT-1300 transport, Gallofree medium transport, Corellian Action VI transport.
+
+Space transports is used to pilot all space transports: any non-combat starship, ranging from small light freighters (the Millennium Falcon is a highly-modified YT- 1300 light freighter) and scout ships to passenger liners, huge container ships and super transports. Transports may be starfighter- or capital-scale.
+
+Space transports can be used for a starship dodge — a “reaction skill” — to avoid enemy fire.
+
+### Starfighter Piloting
+
+Time Taken: One round or longer.
+Specializations: Type or model starfighter — X-wing, TIE/In, TIE interceptor, Z-95 Headhunter.
+
+Starfighter piloting is used for all combat starfighters, including X-wings, Y-wings, A-wings, and TIE fighters. See the chapter on “Space Travel and Combat.”
+
+Starfighter piloting can be used for a starship dodge — a “reaction skill” — to avoid enemy fire.
+
+### Starship Gunnery
+
+Time Taken: One round.
+Specializations: Specific type or model weapon — concussion missiles, ion cannons, laser cannon, proton torpedoes, turbolasers.
+
+Starship gunnery is the “ranged combat” skill that covers all starfighter-scale weapons, including laser cannons, ion cannons, concussion missiles, and proton torpedoes.
+
+Starfighter-scale weapons may be mounted on both starfighter-scale ships and capital-scale vessels. See the chapter on “Space Travel and Combat,” for more information on using this skill.
+
+### Starship Shields
+
+Time Taken: One round.
+
+Starship shields is the skill used to operate shields on all starfighter-scale ships. The difficulty of the roll is determined by how many fire arcs the character is trying
+
+[Página impressa 49 | PDF 51]
+
+to raise shields over (front, left, right, back). See the chapter on “Space Travel and Combat” for more details on using this skill.
+
+Starship shields can be used to bring up shields — a “reaction skill” — to block enemy fire.
+
+### Submersible Vehicle Operation
+
+Time Taken: One round or longer.
+Specializations: Particular submersible type or class — Bongo, electric submarine.
+
+This skill allows characters to pilot submersible ships and boats. While these vehicles are seldom used in the higher-tech worlds, many low-tech cultures use them for inspection, exploration and transportation.
+
+Note that submersibles which employ the use of repulsorlift may also require the use of the repulsorlift operation skill.
+
+Submersible vehicle operation can be used for a vehicle dodge — a “reaction skill” — to avoid enemy fire.
+
+### Swoop Operation
+
+Time Taken: One round or longer.
+Specialization: Specific type or model swoop — TaggeCo Air-2, Ubrikkian Skybird.
+
+Swoops are dangerously fast, difficult to pilot vehicles which combine a typical repulsorlift engine with an ion engine afterburner for unbelievable performance. Swoop operation reflects a character’s ability to successfully fly what is little more than a powerful engine with a seat.
+
+Swoop operation can be used for a vehicle dodge — a “reaction skill” — to avoid enemy fire.
+
+### Walker Operation
+
+Time Taken: One round.
+Specializations: Particular kind of walker — AT-AT, AT- ST, AT-PT.
+
+Walkers are difficult vehicles to learn how to operate. Generally only military characters or characters who formally worked in an industrial field would have this specialized vehicle skill. A character with this skill can pilot AT-ATs, AT-STs, AT-PTs, personal walkers and various other types of walkers.
+
+Walker operation can be used for a vehicle dodge — a “reaction skill” — to avoid enemy fire.
+
+# PERCEPTION SKILLS
+
+Perception is the character’s ability to notice things about his surroundings and other characters. Those with a high Perception are quick to spot concealed objects or people hiding behind a corner. They’re also good at convincing other people to do favors for them, tricking or conning others, and bargaining to get a good price for goods or services. Characters with a low Perception get lost a lot.
+
+Gamemasters often ask players to make search or Perception rolls to see how much their characters notice about their surroundings. The higher the roll, the more the character notices.
+
+Here are some sample difficulties for search or Perception rolls:
+
+• Very Easy: Noticing something very obvious. A character is walking down a crowded starport avenue.
+
+• Easy: Making an obvious finding. The starport street crowd consists of spacers and aliens (a few Rodians, Duros and Sullustans).
+
+• Moderate: Finding something interesting. One of the aliens is a Wookiee, and one Sullustan is carrying an over-sized bag.
+
+• Difficult: Spotting something very specific. The Wookiee seems to be walking along with another spacer. The bag bears SoroSuub markings.
+
+• Very Difficult: Observing something requiring more than just casual glance. The spacer and the Wookiee are arguing about starship repairs. Somebody’s tailing you.
+
+• Heroic: You really have to look to notice this. The Wookiee has blue eyes, and his spacer friend’s trousers have a Corellian Bloodstripe running down the side. The guy following you is trying to conceal an Imperial Security Bureau identification badge under his vest.
+
+Several Perception skills are interaction skills — they are used to influence people the characters meet. Using these interactive skills often pits the character’s skill against the other person’s skill to resist it (often Perception or willpower).
+
+Interaction skills between player and gamemaster characters shouldn’t be solely determined by the die roll. If a character is conning a customs agent, and the player rolls a high con score, he obviously succeeds — but how does his character do it? What does he say to influence the customs agent? This is up to the player. The better the player acts the role of his character, the greater his chance of success should be.
+
+Interactive skill rolls shouldn’t be used by players to influence other players’ characters — instead, they should resolve the situation by roleplaying and coming to some kind of mutual agreement. By reducing player interaction to a series of skill rolls, the game turns from a fun exercise in social interaction to a die rolling contest, which isn’t nearly as enjoyable.
+
+### Bargain
+
+Time Taken: One minute to an hour.
+Specializations: Kind of merchandise to be purchased or sold — spice, weapons, droids, datapads.
+
+Characters use this skill to haggle over prices for goods they want to purchase or sell. The difficulty is often an opposed roll against the gamemaster character’s bargain skill.
+
+The gamemaster should determine the local market value of the good. In general, the item’s value should be near the value listed in the stat-block. (see “Equipment & Weapons”), but some goods in some marketplaces will be very expensive or very cheap compared to other locations. Likewise, some merchants will charge exorbitant fees, either as part of the “bargaining process” or because of the local situation.
+
+This skill is designed to be roleplayed rather than simply rolled. The gamemaster may also use a mixture of roleplaying and die rolls to determine how the character is doing.
+
+[Página impressa 50 | PDF 52]
+
+The player always has the choice to refuse a deal. If the gamemaster feels that the character’s roll represents an unfair deal, without the player embellishing by roleplaying the situation, he should allow the gamemaster character to refuse the deal as well.
+
+To resolve the haggling, make an opposed skill roll using any modifiers appropriate. Find the results on the “Bargaining Results” table above.
+
+Modifiers:
+No modifier: Bargainers who have never dealt before.
++5 or more to purchaser: Buyer and seller have good relationship. The buyer is a frequent customer, pays on time and never has a serious complaint.
+
++5 or more to seller: Customer has been a “problem” customer, so buyer has a vested interest in getting as good a price as possible, or even risk losing the sale in order to get personal satisfaction.
+
++5 or more to purchaser: Local market is flooded with this good, and the prices have been driven down by easy availability.
+
++5 or more to seller: Product isn’t readily available, and thus has a high demand.
+
++10 or more to seller: Local merchants work together to artificially inflate prices.
+
++5 or more to buyer: Item is damaged. The seller will pretend to drive a hard bargain, but will let goods go at a lower price and hope that the buyer doesn’t notice the damaged item. If the customer makes appropriate Perception check to notice that good is damaged, the modifier should increase to +10 at a minimum.
+
++5 or more to seller: Seller makes up extravagant claims about abilities or qualities of good in hopes that customer will accept claims at face value. If customer makes an appropriate value skill check, customer will realize which claims are false.
+
+Bribery: Bargain can also be used to bribe others. This skill use requires more than simply handing someone a stack of coins. The character must gain that person’s confidence so that they will believe the bribe will remain their secret. Bribery may
+
+also take the form of having to do favors: “You know, if you allow me to ‘buy back’ my blaster (slipping the inspector a 100 credit coin), I can find out when Jabba’s smugglers are going to be delivering the next shipment of Kessel spice. I’m sure that anyone who could bust that kind of shipment would receive the admiration of his superior, and a large reward...”
+
+Note that there are few officials above accepting a bribe now and then — it’s just a matter of figuring out how many credits or what favors will get the individual’s attention. Characters make opposed bargain skill rolls when negotiating a bribe — if the recipient of the bribe rolls higher, he should be able to demand more money or favors for his cooperation.
+
+The type and size of the bribe depends on the situation. Petty local officials may want 100 credits to get a confiscated blaster back or several thousand to get a ship out of the impound yard. A character may have to pay 15 or 20 credits to get a specific table at a restaurant, or possibly several hundred just to get a certain room at a fancy hotel. If the official is famous or very powerful, bribes will have to be correspondingly large or somehow subtle (for example, giving an official’s wife a loan at a very favorable interest rate). Remember that some characters have no use for bribes and will be likely to report someone who attempts to bribe.
+
+The size of the bribe also determines how well it is received.
+
+Modifiers:
++10 or more to target’s roll: Bribe is insultingly small (less than half of what is reasonable). The bribing character may be reported to local officials.
+
++5 to target’s roll: Bribe is small (less than 90% of what is reasonable).
+
++5 to bribing character’s roll: Bribe is larger than expected. +10 or more to bribing character’s roll: Bribe is much larger than is expected.
+
+A note on bribery: Imperial stormtroopers and Republic clone-troopers generally (with gamemaster discretion of course) cannot be bribed. They can be tricked, conned, intimidated and, of course, killed, but bribing one is like trying to teach a rancor table manners.
+
+### Command
+
+Time Taken: One round.
+Specializations: Leader’s unit — Rogue Squadron, Imperial stormtroopers.
+
+Command is a measure of a character’s ability to convince gamemaster characters and subordinates to do what they’re told. Command generally shouldn’t be used against other player characters to force them to do something against their will — these situations should be handled through roleplaying interaction.
+
+A high command roll can complement individual participants’ rolls in a group activity, while a low command roll can impose negative modifiers. It generally requires at least one round of planning to perform effectively.
+
+The skill is often used in combat situations, such as a squad leader commanding his troops or a Star Destroyer captain telling his gunners which enemy ship to target.
+
+### BARGAINING RESULTS
+
+Seller beats buyer by:
+
+21+ | Price is three times local market value.
+16-20 | Price is two times local market value.
+11-15 | Price is one and a half times local market value.
+6-10 | Price is one and a quarter times local market value.
+3-5 | Price is 110% of local market value.
+
+If rolls are within two points of each other either way, then purchase price is at local market value.
+
+Buyer rolls higher than seller by:
+
+3-5 | Price is about 90% of local market value.
+6-10 | Price is about 85% of local market value.
+11-15 | Price is about 75% of local market value.
+16-20 | Price is about 65% of local market value.
+21+ | Price is about 50% of local market value.
+
+[Página impressa 51 | PDF 53]
+
+When a character uses command, determine a difficulty number.
+
+• Very Easy: Characters have every reason to obey. (Stormtroopers taking orders from an Imperial admiral.)
+
+• Easy: Characters have some reason to obey. (A bunch of Rebels from different units working together to fight off Imperial troops.)
+
+• Moderate: Characters have no reason to disobey. (A crowd of civilians being commanded to “Move along” at an accident scene.)
+
+• Difficult: Characters are skeptical or suspicious. (A bunch of Ewoks who are carrying you lashed to stakes.)
+
+• Very Difficult: Characters have every reason to be suspicious. (Imperial troops who think you’re a Rebel agent.)
+
+• Heroic: Characters have no reason at all to listen to you. (Imperial troops when you’re dressed like a Rebel.)
+
+Command is also used when coordinating projects with many workers, such as manufacturing ships in space dock and other complex operations. See the sections on “Combined Actions” in the chapter on “The Rules.”
+
+### Con
+
+Time Taken: One combat round to several minutes, depending upon how long it takes the character to say what is needed to pull off the con.
+
+Specializations: Particular method of conning — disguise, fast-talk.
+
+Con is used to trick and deceive characters, or otherwise convince them to do something that isn’t in their best interest. (Con is another interaction skill, so you’ll often want to use roleplaying to resolve these situations.)
+
+The difficulty of the con depends upon who is being conned.
+
+• Very Easy: A close friend or relative who has no reason to suspect a con.
+
+• Easy: Naive teenager, gullible person.
+
+• Moderate: A stormtrooper when the con doesn’t personally involve him.
+
+• Difficult: A customs or law enforcement officer; stormtrooper when con will involve possible danger.
+
+• Very Difficult: Someone who should know better. Jabba the Hutt, an Imperial general.
+
+• Heroic: Someone who really knows better. A Jedi Knight, Emperor Palpatine.
+
+Modifiers:
++10 or more to victim’s roll: Con will cause victim to do something illegal or highly dangerous.
+
++5 or more to victim’s roll: Person knows the character is prone to pulling cons and has their guard up.
+
+No modifier: Con will convince victim to do something they might normally do anyway.
+
++5 or more to conning character’s roll: Victim generally likes character, but suspects something because of character’s unusual behavior.
+
++10 or more to conning character’s roll: Victim has no reason to suspect dishonesty, and trusts and likes that character.
+
+Characters can actively resist a con attempt by rolling their con or Perception dice against the opponent’s con total. In that case, the con difficulty number is ignored, but the modifiers are not. Cons can only be resisted by characters who suspect one — the gamemaster should never say, “Would you like to roll against a con attempt?”
+
+Some characters will be better off not resisting and just let the conning character roll against the difficulty number. If a character with a Perception of 2D “calls” a con — rolls against it — and the difficulty would have normally been Heroic, it’s now whatever the Perception roll is... sometimes people outsmart themselves and fall for something even when they should know better.
+
+### Forgery
+
+Time Taken: One round to several days.
+Specializations: Specific kind of documentation to be forged — security codes, datapad scandocs, starship permits.
+
+The character has the ability to falsify electronic documents to say what the character wishes. Characters might forge bank codes to get someone else’s credits out of an account, alter official Imperial cargo vouchers so they may appear to have the right permit to carry a certain type of restricted good, or create valid identification so they may impersonate New Republic inspectors.
+
+A person inspecting a forged document may make an opposed forgery, search or Perception roll to spot the forgery. This is further modified by the difficulty in forging the document and familiarity with the type of document in question.
+
+Modifiers:
++10 or more to forger’s roll: Forger has had extensive experience with document type or inspector has had none.
+
++5 to forger’s roll: Forger has some experience with document type or inspector has had little.
+
++3 to forger’s roll: Forger has “sample” document to compare forgery to.
+
++3 to forger’s roll: Forger has all necessary materials to perform forgery.
+
++3-15 to forger’s roll: Forger has special assistance (droids, computers) designed to assist in forging documents.
+
+No modifier: Both characters have equal experience with document type.
+
++10 or more to difficulty or inspector’s roll: Inspector has extensive experience with document type or forger has none.
+
++5 to difficulty or inspector’s roll: Inspector has some experience with document type or forger has had little.
+
++3 to inspector’s roll: Inspector has “sample” document to compare forgery to.
+
++3-15 to inspector’s roll: Inspector has additional assistance (computers, droids, analyzers) designed to help spot forgeries.
+
+[Página impressa 52 | PDF 54]
+
+### Gambling
+
+Time Taken: One round to several minutes.
+Specializations: Particular game of chance — sabacc, Trin sticks, warp-top.
+
+Gambling reflects a character’s skill at various games of chance — it is used to increase his odds of winning. This skill doesn’t affect games that are purely random, but does influence games with an element of strategy, like sabacc or a similar game. When playing a skill game honestly, all characters make opposed gambling rolls, and the highest roll wins.
+
+A character can also use the gambling skill to cheat or detect others who are cheating. When a character cheats, every other character is allowed to make an opposed gambling skill roll to see if they detect the cheat. The characters can make detection rolls every time the gambler attempts to cheat. If they fail, the gambler “wins” the round.
+
+Modifiers include “assistance” (more than one person looking for the cheater, or helping the cheater), one character’s familiarity with the game being played surpasses the other’s, or other factors. The gamemaster should consider as many “angles” as possible when using the gambling skill.
+
+Gamemasters are also encouraged to ask players to describe exactly how they’re cheating. A player whose character rolls a high gambling roll to cheat but doesn’t create a feasible method his character could use should not be successful. For instance, a character cheating at sabacc might hide a card up his sleeve or use a rigged card-chip.
+
+### Hide
+
+Time Taken: One round.
+Specializations: Camouflage.
+
+Hide represents a character’s ability to conceal objects from view. The skill is used when trying to hide weapons on one’s person, conceal goods within luggage, plant objects to be left in a room and other similar tasks.
+
+### SABACC
+
+The game of sabacc has been played for thousands of years, dating back to the ancient days of the Old Republic. Sabacc tables can be found in the most expensive luxury casinos, or dangerous hole-in-the-wall establishments, and anywhere else.
+
+Sabacc is played with a deck of 76 card-chips. Through the use of micro-circuitry in the card-chips, card values change randomly, triggered by electronic impulses sent out by the dealer. There are four suits in the deck: sabers, staves, flasks and coins. Each suit consists of eleven numbered cards (marked 1-11) and four ranked cards: the Commander, the Mistress, the Master and the Ace (numbered 12-15). There are also sixteen face cards (two each of eight different cards), with special names, symbols and values. The cards are as follows: the Idiot (O), the Queen of Air and Darkness (−2), Endurance (−8), Balance (−11), Demise (−13), Moderation (−14), the Evil One (−15), and the Star (−17).
+
+When a hand is dealt, the dealer pushes a button on the table which sends out a series of random electronic pulses, which shift the values of the cards. Card values can change at any time and this wild randomness has been credited with making sabacc so popular.
+
+Through several rounds of bluffing and betting, players watch and wait for their cardchips to shift. They can lock any or all of their card-chip values by placing them in the table’s interference field (located at the center of the playing surface) — the card is “frozen” at that value.
+
+Sabacc is played in both hands and games (a game can have many hands). The object of sabacc is to have the highest card total which is less than or equal to twenty-three. A total which is more than twenty-three, less than negative twenty-three, or equal to zero is a bomb out. Each player is dealt two card-chips to start and must always have at least two card-chips in his hand.
+
+Sabacc has two different pots. The first pot, called the hand pot, the second pot is the sabacc pot.
+
+With sabacc hands, a player wins if everyone else folds or if he locks in the highest card total less than twenty-three. If two or more players tie. they participate in a sudden demise–each player is dealt one cardchip from the deck which must be added to their locked-in hand. The best hand after this deal takes the hand pot. If there is still a tie, the pot is split.
+
+There are two ways to win the sabacc pot. The first, when a player has a total of exactly 23, is called a pure sabacc. The second is an idiot’s array, which means the player has an Idiot face card (O), and a two value card and a three value card — a literal twenty-three! At most tables, an idiot’s array beats a pure sabacc. The game is over when the sabacc pot has been won.
+
+Some players have found a way to cheat at sabacc by using a rigged card-chip called a skifter. A skifter allows the player to change its value by tapping the corner of the card. The player waits until it produces the exact value he desires. Of course. being caught using a skifter is a good way to end up on the wrong end of a blaster...
+
+[Página impressa 53 | PDF 55]
+
+When characters are attempting to spot hidden objects, they must make an opposed search or Perception check. Modifiers include how well the gamemaster thinks the character hid the object. Just rolling high to hide a lightsaber on a character’s belt won’t do any good in a pat-down search, but dumping one into a ventilator shaft will be much more effective (usually).
+
+Hide can also be used to conceal large objects: camouflaging a grounded starfighter or covering up the cave entrance of a secret base.
+
+### Investigation
+
+Time Taken: One round to several days.
+Specializations: Locale or field of investigation — Mos Eisley, Imperial City, property estates, criminal records.
+
+Investigation is a character’s ability to find and gather information regarding someone else’s activities, and then draw a conclusion about what the target has done or where she has gone. Investigation is useful for finding out about the target’s ship reservations and following her to a specific planet, or figuring out what shady business dealings she has undertaken. Just as with other skills, investigation is often more fun when you use roleplaying over skill rolls; when a player makes a good investigation roll, gamemasters can provide additional hints and clues rather than just giving the player the answer to a puzzle.
+
+### Persuasion
+
+Time Taken: One round or longer.
+Specializations: Specific form of persuasion — debate, storytelling, flirt, oration.
+
+Persuasion is similar to con and bargain — and is a little bit of both. A character using persuasion is trying to convince someone to go along with them — but they aren’t tricking the person (that would be con), and they aren’t paying them (as in a bargain).
+
+However, potential rewards can be offered — talking someone into rescuing a princess from an Imperial holding cell is definitely a persuasion attempt. And stating that the reward would be “bigger than anything you can imagine” without going into details is not unusual.
+
+The difficulty ranges for persuasion are the same as for con on page 51 — except they should be modified as follows:
+
+If the character making the persuasion actually means what he says about a situation (as Luke Skywalker did when he convinced Han Solo about rescuing Leia), decrease the difficulty range by one level.
+
+If the character making the attempt is actually trying a low-level con on the target (as Greedo tried to when he told Han he’d “lose” him if Han turned over the money he owed Jabba), then increase the difficulty range by one level.
+
+### Search
+
+Time Taken: One round or longer. Specializations: Tracking.
+
+This skill is used when the character is trying to spot hidden objects or individuals. If the subject of the search has been purposefully hidden, the searching character
+
+makes an opposed roll against the hiding character’s hide skill. If the object hasn’t been hidden, the character simply makes a roll against a difficulty.
+
+This skill is also used to spot characters using the sneak skill, such as a group of rebels moving into position to prepare an ambush, or someone attempting to conceal themselves. This is an opposed roll — the character sneaking around makes a roll, and anyone who might spot the character makes a search (or Perception) roll.
+
+Here are some sample search difficulties:
+
+• Very Easy: Character knows object’s exact location.
+
+• Easy: Character knows object’s general location.
+
+• Moderate: Character has only vague information, or has only a general idea regarding what he is looking for.
+
+• Difficult: Character is conducting a general search, but doesn’t know what he is looking for (looking for clues at a crime scene). Looking for objects that are very small, like coins.
+
+• Very Difficult: Character doesn’t know what he is looking for, or is searching for a very obscure or extremely small object.
+
+• Heroic: Object is almost microscopic in size.
+
+Modifiers:
+No Modifier: Grassland.
++3 to search difficulty: If the trail is a day old.
++6 to search difficulty: If the trail is a few days old.
++9 to search difficulty: If the trail is a week old.
++6 to search difficulty: Tracking during bad weather.
++3 to search difficulty: In a Forrest or thin crowd
++6 to search difficulty: In a rain forest or big crowd.
++9 to search difficulty: In a desert, wasteland, or over a hard surface.
+
+−3 to search difficulty: Soft dirt, mud, or snow.
+−3 to search difficulty: For every two people in a party being tracked.
+
+−6 to search difficulty: If tracking wheeled/tracked vehicle. −3 to search difficulty: Per each additional vehicle being tracked.
+
+### Sneak
+
+Time Taken: One round.
+Specializations: Specific type of terrain — jungle, urban.
+
+Sneak represents the character’s ability to move silently, hide from view, move in shadows and otherwise creep around without being noticed. This is an opposed roll — the character sneaking around makes a sneak roll, and anyone who might spot the character makes a search or Perception roll.
+
+This skill allows characters to hide themselves only — to conceal objects, they must use the hide skill.
+
+This skill is also used when the character wants to make a long distance journey without leaving behind physical clues. The character makes a roll to leave behind false clues and paths and the tracking character must make an opposed search roll to follow the true path.
+
+[Página impressa 54 | PDF 56]
+
+# STRENGTH SKILLS
+
+Strength represents a character’s physical strength, endurance and health. Characters with a high Strength can lift heavy objects, push themselves for days without rest and are good at resisting disease and injury. A character with a low Strength gets winded very easily.
+
+### Brawling
+
+Time Taken: One round.
+Specializations: Specific brawling style — boxing, martial arts.
+
+Brawling is the “melee combat” skill used for fighting hand-to-hand without any weapons. Most creatures have a good brawling skill.
+
+The base difficulty to make a brawling attack is Very Easy unless the target makes a brawling parry roll.
+
+Characters may grapple with their opponents rather than simply slugging them. When grappling, a character is trying to subdue his foe by wrestling him to the ground, pinning his arms so he cannot fight back, or stop him in some other way. When a character attempts to grapple, increase the difficulty of his attack by +10 — if the attacker achieves a stun result or better, the opponent is at a disadvantage: pinned, in a headlock, or a similar situation. If the attacker wishes, he can automatically inflict normal damage for every round the victim is held at bay. The victim must make an opposed Strength roll to escape, with a +1 penalty for each point by which the character succeeded in his grapple attempt.
+
+Martial Arts: Martial arts is a specialization of the brawling skill. Each time the specialization is raised 1D above a character’s Strength stat the player may choose a combat action (or technique) that their character knows. (see “Martial Arts” in the “Combat & Injuries” chapter).
+
+### Climbing/Jumping
+
+Time Taken: One round.
+Specializations: Climbing, jumping.
+
+Use this skill when a character attempts to climb a tree, wall or cliff, leap a wide gap, or jump up and grab an outcropping.
+
+Characters who have the climbing/jumping skill can move up a surface at their normal Move (barring adverse environmental factors) with a base difficulty of Very Easy. Those without the climbing/jumping skill move at half their normal movement rate. Increasing the rate increases the difficulty by +10 for each additional one-half of the base climbing Move (rounded up).
+
+Example: A character with a Move of 10 and without the climbing/jumping skill wants to move quickly up a tree. His base climbing Move is 5. To increase this to eight meters per round means a difficulty of 15 (5 to climb the tree plus +10 to increase the movement by one-half, or three meters, of his base climbing Move).
+
+A character’s total leaping distance (vertically and horizontally) from a standing position equals one-quarter of his Move in meters (rounded up). The base difficulty is Very Easy to move this distance, and +10 for each additional two meters (vertically and horizontally) the character hopes to cover. If there is enough room, the character may try running before jumping. The character may add +5 to his skill total per round of the running start, up to a maximum of +10 (two rounds). The character must have beat the running difficulty in both rounds in order to get the full bonus.
+
+Climbers usually move in groups and combine actions, with frequent rest breaks and patient, steady progress. Base difficulties for uses of this skill are described above. Note that taking care in climbing and carrying 50% or more of the character’s body weight slows the character down by two meters or more per round.
+
+Climbing Modifiers:
+
+−10 to climber’s difficulty: Many handholds.
+−6 to climber’s difficulty: Prepared for climbing. −5 to climber’s difficulty: Taking care in climbing.
+
+−3 to climber’s difficulty: Less than a 90-degree angle.
+
+−6 to climber’s difficulty: Less than a 60-degree angle.
+
+−9 to climber’s difficulty: Less than a 45-degree angle.
+
++3 to climber’s difficulty: Carrying 25% of body weight.
+
++6 to climber’s difficulty: Carrying 50% of body weight.
+
++15 to climber’s difficulty: Carrying 100% of body weight.
+
++5 to climber’s difficulty: Slick or loose surface. +10 to climber’s difficulty: Fewer than basic handholds and footholds.
+
+[Página impressa 55 | PDF 57]
+
+Jumping Modifiers:
+No Modifier: Performing the maneuver from a flat surface, to another flat surface.
+
+−5 to the jumper’s difficulty: Unlimited landing area.
++5 to the the jumper’s difficulty: Limited landing area,
++10 to the jumper’s difficulty: Almost no landing area.
++3 or more to the jumper’s difficulty: Rough, slick, or unsteady landing area.
+
++6 to the jumper’s difficulty: Uphill (more than 30-degrees). +6 to jumper’s difficulty: Carrying 50% of body weight.
++9 to jumper’s difficulty: Carrying 75% of body weight.
++12 to jumper’s difficulty: Carrying 100% of body weight.
+
+### Lifting
+
+Time Taken: One round.
+
+Lifting is a character’s ability to lift heavy objects; it’s also the character’s ability to carry something for a long time. The difficulty depends on the weight of the object and how long it will be carried.
+
+When a character first lifts an object, he must make a lifting check. At each interval listed on the chart below, the character has to make another check to see if he can continue to carry the object or is so exhausted that he must put it down.
+
+If the character fails a roll, he must immediately put the object down. If the character matches the difficulty level, he can do nothing but concentrate on carrying the object for that time while walking.
+
+If the character beats the difficulty by more than one level, the character can do other actions while carrying the weight, but lifting the object always counts as an action.
+
+Please note that for repeated Heroic actions, the difficulty should escalate (for example, a first Heroic action might have a difficulty number of 30; the second one might have a difficulty of 35; the third might have a difficulty number of 45, and so forth).
+
+Weight | Difficulty Level
+10kg | Very Easy
+50kg | Easy
+100kg | Moderate
+200kg | Difficult
+500kg | Very Difficult
+750kg | Heroic
+
+Increase the difficulty based on how long the character wishes to lift the object:
+
+Time | Difficulty Level Increase
+7 rounds-3 minutes | + 1 difficulty level
+Up to 10 minutes | +2 difficulty levels
+Up to 30 minutes | +3 difficulty levels
+
+1-6 rounds
+(up to 30 seconds)
+Up to 1 hour +4 difficulty levels
+
+After the first hour, the character must make a new lifting or Strength roll every hour at the same difficulty as for one hour. If the character fails the roll, the character must rest for twice as long as he was lifting the heavy weight.
+
+### Stamina
+
+Time Taken: Stamina checks are made when characters exert themselves over long periods of time.
+
+Stamina checks reflect that a character is being pushed to his or her physical limits. They should be called for once in a while to show the strain on a character; only require them when a character does something out of the ordinary.
+
+Whenever a character fails a stamina roll, he is fatigued; all actions are at −1D for every stamina check failed until the character rests for as long as he exerted himself.
+
+Characters can still continue if they are fatigued, until they fail a third stamina check. At this point, the character is completely exhausted and must rest for twice the amount of time that he exerted himself to remove the penalty.
+
+Example: Platt Okeefe has crash-landed on a planet and must march over scorching badlands to reach the nearest village. The gamemaster decides to ask Platt’s player to roll her stamina once, for each hour of game time (between various encounters with badland raiders, hungry sand lizards and a nasty swoop gang).
+
+Platt’s stamina is 4D — the gamemaster determines that marching under the harsh wasteland sun is Difficult (with a difficulty number of 17). Platt fails her first stamina check by rolling only 14. She continues with a −1D penalty to all actions.
+
+She fails her next roll (getting only a 9) and takes a −2D penalty to all rolls. Still she goes on. When she fails her third stamina roll, Platt drags herself to a shady rock outcropping and collapses in exhaustion.
+
+### Swimming
+
+Time Taken: One round to several minutes or hours.
+
+This skill represents the character’s ability to stay afloat in aquatic environments — lakes, oceans, flooding rivers and luxury starliner swimming pools. Swimming difficulties are determined by the water conditions: the starliner pool is Very Easy, while a roaring river might be Very Difficult.
+
+When a character fails a swimming check, he begins to drown. Roll 2D at the beginning of each round; if the total is less than the number of rounds that the character has been drowning, the character drowns and dies. Characters can attempt other actions while drowning at a −3D penalty. Characters who are drowning may attempt to save themselves once per round. They must make a swimming total at one level of difficulty higher than the one in which they failed their swimming roll (the character doesn’t suffer the −3D penalty when making this roll).
+
+1 metric ton | Heroic+10
+1.5 metric tons | Heroic+20
+2 metric tons | Heroic+30
+2.5 metric tons | Heroic+40
+3 metric tons | Heroic+50
+
+[Página impressa 56 | PDF 58]
+
+# TECHNICAL SKILLS
+
+Technical stands for “technical aptitude” and represents a character’s innate knowledge of how to take apart, repair and modify things. A character with a high Technical attribute can take apart a droid to repair a malfunction, fix a busted drive system on a landspeeder, and modify a blaster to have a longer range. Technical also reflects a character’s knowledge of healing and medicine, skill setting explosives, and ability to figure out electronic security systems. Characters with a low Technical have trouble changing a power pack in a blaster.
+
+## USING REPAIR SKILLS
+
+The various repair skills follow similar patterns for time taken and difficulties. While the individual skills are explained below, some general rules regarding repair skills are outlined here for easy reference.
+
+Time Taken: Several repair skill rolls can be made when fixing damaged vehicles and equipment. The initial roll represents 15 minutes of work. Should that roll fail, additional repair rolls may be made after varying lengths of time.
+
+High technology machinery is very complex, and requires extra maintenance to ensure it operates at optimum performance levels. While repair rolls can represent time taken to maintain vehicles and vessels, this type of activity can be done “off-camera” (outside of game play) rather than take place during adventures.
+
+Damaged Systems: Each damaged system aboard a vehicle or vessel (drives, shields, weapons, etc.) requires a separate repair roll to fix. No single repair roll will fix all the systems of any craft if multiple components are damaged; however, several characters with repair skills may dole out the work and try to fix different systems at the same time — it just requires separate rolls from different characters.
+
+Repair Difficulties: The difficulty level for repair rolls depends on how much damage the item, vehicle or starship has taken.
+
+For determining vehicle damage, see the chapter on “Movement and Chases.” Starship damage is discussed in the chapter on “Space Travel and Combat.”
+
+Once you’ve determined how badly the starship, vehicle or item is damaged, check the appropriate sections below. They’re divided by the different stats and systems that can be affected by damage — each lists the pertinent skills which can be used to repair such systems.
+
+Note: As always, repair times, difficulties and costs are generalizations. Feel free to adjust them to suit the needs of your game. Particular situational modifiers are listed below:
+
++7 to repair roll: Previously built or modified the item; intimately familiar with item.
+
++5 to repair roll: Has the item’s designs.
+No modifier: Common item, all parts available, character has a general tool kit (note: an enhanced tool kits may provide additional bonuses).
+
++5 to difficulty: Has seen but not used item.
++10 to difficulty: Has never seen item, only some parts available.
+
++15 to difficulty: Makeshift tools. +20 to difficulty: No parts available.
+
+Drives: The ion engines, repulsorlift generators and motors that power starships and vehicles are often known as “drives.” They can be destroyed in combat, resulting in the loss of propulsion. When a drive or generator is destroyed, a Difficult repair roll is necessary to replace it, and it costs 35% of the craft’s original value.
+
+Aquatic vehicle repair, capital ship repair, ground vehicle repair, hover vehicle repair, repulsorlift repair, space transports repair, starfighter repair, submersible vehicle repair and walker repair can be used to fix drives on their respective vehicles and vessels.
+
+Hyperdrives: The machinery used to propel starships into hyperspace can be damaged in combat, preventing vessels from jumping. A Moderate repair roll is necessary to fix a damaged hyperdrive.
+
+Skills used to fix hyperdrives include capital ship repair, space transports repair and starfighter repair. Individual skills can only repair hyperdrives on their respective starship types.
+
+Maneuverability: When a craft’s maneuver components are hit, it loses directional control. The difficulty to repair these systems depends on how many maneuverability dice were lost. Damage also reflects the cost for new parts and tools based on a percentage of the vehicle or vessel’s original price.
+
+Maneuver | Repair | Repair
+Dice Lost | Difficulty | Cost
+−1D | Easy | 10%
+−2D | Moderate | 15%
+−3D or more | Difficult | 20%
+
+Aquatic vehicle repair, capital ship repair, ground vehicle repair, hover vehicle repair, repulsorlift repair, space transports repair, starfighter repair, submersible vehicle repair and walker repair can be used to return maneuverability to normal on their respective vessels.
+
+Move or Space: These stats reflect how fast vehicles and starships can travel. When drives take smaller increments of damage, a craft slows down, as represented by a loss of “moves” (whether it’s a vehicle with a “Move” stat or a starship with a “Space” stat). To repair lost “moves,” check the chart below for difficulties and cost:
+
+Moves | Repair Repair
+Lost | Difficulty Cost
+1 | Easy 10%
+2 | Moderate 15%
+3 | Difficult 20%
+4 | Very Difficult 25%
+5 | Drive destroyed; must be replaced
+
+Use these skills when fixing damage from lost moves: aquatic vehicle repair, capital ship repair, ground vehicle repair, hover vehicle repair, repulsorlift repair, space transports repair, starfighter repair, submersible vehicle repair and walker repair. Individual skills can only replace moves on their respective vehicle or vessel types.
+
+[Página impressa 57 | PDF 59]
+
+Shields: Starship combat can blow out vessels’ shield generators — difficulties and costs to repair this damage depends on how many shield dice were lost.
+
+Shield | Repair | Repair
+Dice Lost | Difficulty | Cost
+1D | Easy | 5%
+2D | Moderate | 5%
+3D | Difficult | 5%
+4D+ | Very Difficult | 10%
+
+Capital ship repair, space transports repair and starfighter repair are used to repair shields aboard their respective vessels.
+
+Weapons: Blaster pistols, turbolasers, quad laser cannons and other weapons can take damage in combat, and characters with weapons repair skills must step in to fix them. Difficulties and cost depend on how badly weapons are hit. The “cost” is based on the weapon’s cost, not the ship’s.
+
+Damage | Repair Difficulty | Repair Cost
+Lightly | Easy | 15%
+Heavily | Moderate | 25%
+Severely | Very Difficult | 35%
+Destroyed | May not be repaired
+
+Blaster repair is used to fix any character-, speeder-, or walker-scale blaster. (This includes everything from blaster pistols to heavy blaster weapons, and artillery batteries like the Golan Arms DF.9 anti-infantry battery used by Rebels at the Battle of Hoth.) Capital ship weapon repair is used to fix capital-scale ship weapons, while starship weapon repair is used to fix starfighter-scale weapons. Bows, slugthrowers, flamethrowers, vibroblades and other non-blaster equipment is fixed by using the equipment repair skill. Lightsabers are repaired using the lightsaber repair/engineering skill.
+
+Armor and Equipment: The rules for repairing weapons also apply for repairing damaged armor (using the armor repair skill) and general equipment like comlinks and breath masks (using the equipment repair skill). Use the weapon repair table above to determine the difficulty and cost to repair damaged items and blasted armor.
+
+## IMPROVING VEHICLES, VESSELS AND WEAPONS
+
+During the course of a Star Wars game campaign, characters grow attached to their favorite starships, landspeeders and blasters. They want to tinker with them — characters can use their repair skills to improve the speed, damage, shields, or other stats of their vehicles, vessels and weapons.
+
+Boosting these stats involves many different factors: cost of new materials, the technician’s talent, and strain of modifications on existing parts and systems. Han Solo’s freighter, the Millennium Falcon, is a good example. Han’s improved the hyperdrives, weapons, shields — almost every system aboard his ship (and some more than once). Although this gives the Falcon great advantages (better speed, firepower and protection), there are many disadvantages. The hyperdrives are twitchy, the droid brains argue all the time, and the interior looks like a mess.
+
+Sometimes the Falcon just doesn’t want to work at all — and needs a persuasive nudge (or a banged control panel) to get going.
+
+Gamemasters, beware: the more you let players improve their characters’ vehicles and ships, the more powerful they become. Characters failing modification repair rolls might permanently damage or destroy the system they’re working on. Feel free to give successfully modified systems occasional quirks or problems. They’re good plot devices, balance out game play, and give the vehicle or vessel a personality of sorts.
+
+Example: Bob the gamemaster wants to give his players a modified light freighter with a cool and powerful weapon — his players have been bothering him for months about this, and he’s finally caving in. His solution? A banged-up Ghtroc freighter called the Lumpy Bantha. Although the Bantha has a regular laser cannon in one gun mount, Bob has given the players a really cool quad laser cannon in the other mount. The players are happy. There’s only one problem. To balance out game play, Bob decides that the previous owner did a slipshod job installing the quad laser cannon. Every time the characters power it up, it randomly draws off power from one other ship’s system (life support, maneuverability, ion drives, hyperdrives, or shields) shutting that system down! The first time the characters use the weapon — while fleeing from a swarm of TIE fighters — the Lumpy Bantha’s shields go down! Although they have better firepower when using the quad laser cannons, they’ll think more carefully next time before powering up the weapon.
+
+Here are some general rules for modifying vehicles, vessels and weapons. They are in no way comprehensive, but they provide a basic framework. The notes are broken down by system (just like “Using Repair Skills” above) which discusses difficulties, costs and skills your characters can use.
+
+Modification Limit: Stats may only be increased one “pip,” one Move level or one hyperdrive level at a time. For instance, a maneuverability of 1D must be improved to 1D+1 and 1D+2 before it can be modified to 2D.
+
+Increases shown in the charts below reflect the modification above the original stat: the owner is constantly replacing and upgrading parts of the original ship’s systems.
+
+Using these rules, no system may be improved more than +1D+2, or more than 4 moves.
+
+A new repair improvement roll can be made every month of game time. Use the charts below for guidelines on difficulties and costs. The costs are always a percentage of the item’s original value. Should characters find someone else capable of implementing modifications, double or triple the cost.
+
+Mishaps: Modified equipment has a chance of failure. The more a piece of equipment is pushed past its original design specifications, the greater the chance of failure. When someone is using a modified piece of equipment, the gamemaster may use the following rules.
+
+First, the gamemaster should determine what type of modification has been used: Weapon, Vehicle (for starships and vehicles) or Non-Lethal (for anything else, like jetpacks, datapads, sensors and so forth).
+
+[Página impressa 58 | PDF 60]
+
+Whenever the player rolls a 1 on the Wild Die while using the modified device, the gamemaster should roll a 1D “mishap roll”, adding the Mishap Modifier column as indicated on the modified system table. Reference the tables above to determine the type of complication.
+
+The tables above are designed to present baseline failures and are intentionally general in nature. The gamemaster is encouraged to be creative in determining the specifics of the mishap based on the ship, vehicle, or equipment involved, and the system experiencing the mishap.
+
+Hyperdrives: These sensitive engines can be improved to speed travel through hyperspace. The difficulty and cost for improvement depends on the level of the old hyperdrive engine compared to the new one.
+
+Old/New | Difficulty | Cost | Modifier
+×4/×3 | Easy | 10% | +1
+×3/×2 | Moderate | 15% | +1
+×2/×1 | Very Difficult | 25% | +2
+×1/×½ | Heroic | 35% | +3
+
+Mishap
+
+Failure on these modification repair rolls could permanently damage hyperdrives, or cause them to function sporadically.
+
+Skills used to improve hyperdrives include capital ship repair, space transports repair and starfighter repair. Individual skills can only modify hyperdrives on their respective starship types.
+
+Maneuverability: This stat can be increased by adding new lateral and variable thrusters to the craft. Use the difficulties and the percentage of original cost indicated on the chart in the next column:
+
+Pip |  |  | Mishap
+Increase | Difficulty | Cost | Modifier
++1 | Easy | 5% | +1
++2 | Moderate | 10% | +1
++1D | Difficult | 15% | +1
++1D+1 | Very Difficult | 20% | +2
++1D+2 | Heroic | 25% | +3
+
+Failing any modification repair roll can result in loss of some or all maneuverability. It could also have some serious side-effects, such as reversing controls (left jets turn the ship right, right jets veer left) or misfiring thrusters (zigging when the craft should have zagged).
+
+Improvements to maneuverability can be made using the skill appropriate to the craft modified: aquatic vehicle repair, capital ship repair, ground vehicle repair, hover vehicle repair, repulsorlift repair, space transports repair, starfighter repair, submersible vehicle repair and walker repair.
+
+Move or Space: By improving a vehicle or vessel’s drives, characters can improve its Move or Space stat. To add to a vehicle’s Move, check the chart below for difficulties and cost:
+
+Move |  |  | Mishap
+Increase | Difficulty | Cost | Modifier
++5 | Moderate | 10% | +1
++10 | Difficult | 15% | +1
++15 | Very Difficult | 20% | +2
++20 | Heroic | 25% | +3
+
+To boost a starship’s Space stat, use the chart on the next page. (The ship’s new Move can be found on the “Ships in an Atmosphere” chart in the chapter on “Space Travel & Combat.”)
+
+### WEAPON MISHAP
+
+1D
+Result
+1-3
+The weapon is fine.
+4
+The weapon stops working, but need only be slammed hard against something to work again, or re-calibrated in the case of a starship or heavy weapon. It takes an action to do this.
+5
+The weapon is broken and cannot be repaired.
+6
+The weapon explodes, doing damage equal to the amount of the modification bonus.
+
+### VEHICLE MISHAP
+
+1D
+Result
+1-3
+The vehicle is fine.
+4
+The system which fails or the vehicle suffers a temporary power loss (maintains speed and heading for this round). The problem is fixed if the operator kicks or hits one random control panel; it takes an action to do this.
+5
+The vehicle bucks, or the system affected begins to spark and smoke. An Easy skill roll is necessary to keep the vehicle from careening out of control and an Easy repair roll to fix the smoking system.
+6
+All power systems shut down and the vehicle drops like a stone. A Moderate skill roll for the vehicle is necessary for a safe emergency landing, otherwise the vehicle crashes.
+
+### NON-LETHAL MISHAP
+
+1D | Result
+1-4 5 | The item is fine.
+6 | The item is broken and cannot be repaired.
+
+The item stops working, but if slammed hard against something, it works again. It takes an action to do this.
+
+[Página impressa 59 | PDF 61]
+
+Space |  |  | Mishap
+Increase | Difficulty | Cost | Modifier
++1 | Moderate | 10% | +1
++2 | Difficult | 15% | +1
++3 | Very Difficult | 20% | +2
++4 | Heroic | 25% | +3
+
+Characters failing repair rolls to increase moves might seriously damage their ship’s drives, possibly reducing the Move or Space of their craft. A failure may also periodic malfunctions or cause “jumpy” movement, stalls or slow starts.
+
+These skills are used to improve vehicle and starship speeds: aquatic vehicle repair, capital ship repair, ground vehicle repair hover vehicle repair, repulsorlift repair, space transports repair, starfighter repair, submersible vehicle repair and walker repair. Individual skills can only improve moves on their respective vehicle or vessel types.
+
+Shields: A starship may add protection by boosting its shield die code. Improvements often reflect additional shield generators or boosters — although only so many may be added effectively before overloading the ship’s power core.
+
+Pip |  |  | Mishap
+Increase | Difficulty | Cost | Modifier
++1 | Easy | 15% | +1
++2 | Moderate | 25% | +1
++1D | Difficult | 30% | +1
++1D+1 | Very Difficult | 35% | +2
++1D+2 | Heroic | 50% | +3
+
+Failed modification repair rolls might permanently blow out a ship’s shield generator, could foul shield controls (adding +5 or more to all difficulties when deploying shields) or could cause random shield malfunctions.
+
+Capital ship repair, space transports repair and starfighter repair may be used to improve shields aboard their respective vessels.
+
+Weapons: Characters may wish to improve the fire control and damage for certain weapons, including personal sidearms (blaster pistols) and ordnance mounted on vessels. (The cost is based on the original cost of the weapon itself, not the ship or vehicle it’s mounted on.)
+
+Pip |  |  | Mishap
+Increase | Difficulty | Cost | Modifier
++1 | Easy | 15% | +1
++2 | Moderate | 25% | +1
++1D | Difficult | 30% | +1
++1D+1 | Very Difficult | 35% | +2
++1D+2 | Heroic | 50% | +3
+
+Character may also improve the ranges of their weapons, see the chart below:
+
+Range |  |  | Mishap
+Increase | Difficulty | Cost | Modifier
++5% | Easy | 5% | +1
++10% | Moderate | 10% | +1
++15% | Difficult | 15% | +1
++20% | Very Difficult | 20% | +2
++25% | Heroic | 25% | +3
+
+A failed modification repair roll could result in the weapon’s destruction, or might cause a recurring quirk (weapon loses power after each shot), reduced damage or fire control.
+
+Blaster repair can modify all character-, speeder- or walker-scale blasters. Capital ship weapon repair is required for capital-scale weapons, while starship weapon repair is required for starfighter-scale weapons. Bows, slugthrowers, flamethrowers, vibroblades and other non-blaster weapons are modified by using the equipment repair skill. Lightsabers are modified by using the lightsaber repair/engineering skill.
+
+Armor and Equipment: The rules for modifying weapons also apply for improving personal armor (using the armor repair skill) and general equipment like comlinks and breath masks (using the equipment repair skill). Use the charts above to determine the difficulty and cost to boost armor and equipment die codes.
+
+### Aquatic Vehicle Repair
+
+Time Taken: In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.
+
+Specializations: Particular ship type or class — Oceanic transport, coastal runabout, skiff. sailboat.
+
+This skill represents a character’s familiarity with the workings of aquatic vehicles, and his ability to repair and modify them. Each roll may repair one damaged system aboard a particular vessel. The cost and difficulty to repair a vessel depends on how badly it is damaged, and what systems have been hit. See “Using Repair Skills” above for difficulties and costs associated with various systems which may be damaged.
+
+[Página impressa 60 | PDF 62]
+
+### Armor Repair
+
+Time Taken: In general, 15 minutes, then one hour, then two hours. May be customized to circumstances.
+
+Specializations: Armor Type — Stormtrooper armor.
+
+Armor repair reflects the character’s ability to fix and modify armor that has been damaged. The cost and difficulty to repair armor depends upon how badly damaged it is. See “Weapons” in “Using Repair Skills” above.
+
+### Blaster Repair
+
+Time Taken: In general, 15 minutes, then one hour, then two hours. May be customized to circumstances.
+
+Specializations: Type or model blaster — blaster pistols, surface-to-surface blaster artillery, heavy blaster cannon.
+
+A character’s ability to fix and modify blaster weapons (character-, speeder- and walker-scale) is represented by his blaster repair skill. The cost and difficulty to repair weapons depends upon how badly it is damaged — see “Weapons” in “Using Repair Skills” above.
+
+Note vibroblades, slugthrowers, and other non-blaster weapons are repaired and modified using the equipment repair skill.
+
+### Capital Ship Repair
+
+Time Taken: In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.
+
+Specializations: Type or class of capital ship — Imperial Star Destroyer, Victory Star Destroyer, Nebulon-B frigate.
+
+This skill represents a character’s familiarity with the workings of capital ships, and his ability to repair them. Each roll may repair one damaged component aboard a particular vessel. The cost and difficulty to repair a system depends on how badly it is damaged, and what systems have been damaged. See “Using Repair Skills” above for difficulties and costs associated with various systems which may be damaged.
+
+### Capital Ship Weapon Repair
+
+Time Taken: In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.
+
+Specializations: Weapon type or model — concussion missiles, gravity well projectors, ion cannons, laser cannon, proton torpedoes, tractor beams, turbolaser.
+
+Capital ship weapon repair is used to repair capital -scale ship weapons. The cost and difficulty to repair a weapon depends upon how badly it is damaged — see “Weapons” in “Using Repair Skills” above for exact difficulties and costs associated with fixing capital ship weapons.
+
+### Computer Programming/Repair
+
+Time Taken: One round to several minutes, hours or days.
+
+Specializations: Type or model computer — portable computer, mainframe, datapad, YT1300- computer.
+
+Characters use this skill to repair, modify, and program computers — it also covers a character’s familiarity with computer security procedures, his ability to evade them, and the ability to get secure information.
+
+Getting information through a computer requires you to connect to the appropriate network (such as the HoloNet, or its equivalent in other eras) and locate the files you seek. Connecting to a network (generally takes 1 whole round) doesn’t require a skill roll if you use a computer that’s already linked to it. However, establishing a connection to a network using a remote computer requires an Easy computer programming/ repair skill roll. Most secure computer connections in the Star Wars universe require a physical connection jack or plug in. Generally HoloNet and networked connections are only available on larger worlds, but you can also get information without connecting to a network if you use a computer whose memory contains that information; the gamemaster decides what information a computer’s memory actually holds.
+
+Finding information on a single topic requires a set amount of time (see below); at the end of this time, you must make a computer programming/ repair skill roll. The time required and the Difficulty of are determined by the type of information sought.
+
+• Very Easy: Public data. Your character’s credit balance. (1 minute)
+
+• Easy: Public data, but finding it may take a little more research. Who owns a building or starship. (10 minutes)
+
+• Moderate: Private data. A person’s diary, or their credit balance. (1 hour)
+
+• Difficult: Secret data. A corporation’s records, military plans. (8 hours)
+
+• Very Difficult: Top-secret data. The Navy’s cloaking device plans, a Grand Moff’s itinerary (gamemaster discretion).
+
+[Página impressa 61 | PDF 63]
+
+• Heroic: Information that only a select few individuals would know. The location of all of Emperor Palpatine’s secret weapons vaults (gamemaster discretion).
+
+If the character beats the difficulty number, he retrieves the information he was looking for. If the roll is less than half the difficulty number, the computer’s security system becomes aware of the intruder and triggers all alarms.
+
+### Demolitions
+
+Time Taken: One round to several minutes.
+Specializations: Specific target type — bridges, walls, vehicles.
+
+Demolitions reflects a character’s ability to set explosives for both destructive purposes and to accomplish specific special effects.
+
+The most common explosive is detonite, and a fist sized cube does 1D speeder-scale damage. The damage in the charts below is figured for one cube of detonite. Additional detonite cubes increase the base damage by +1D. If characters aren’t using a high-grade explosive like detonite, reduce damage. Making explosives out of readily available materials (blaster power packs, reactant chemicals, power converters) is a handy skill in the field; however, these alternative explosives are often not as effective as detonite.
+
+When a character sets charges, he can either try to set the explosive to cause extra damage or create some special effects.
+
+Extra Damage: Use the following difficulties when setting explosives to cause extra damage. The difficulty depends on the object being destroyed:
+
+• Very Easy: A plywood door.
+
+• Easy: A hard wooden door.
+
+• Moderate: A bolted steel door.
+
+• Difficult: A lightly armored door such as a blast door.
+
+• Very Difficult: A heavily armored object, such as the hull of a starship.
+
+If the character beats the difficulty, he adds extra damage dice past the detonite’s 1D. Find the number of points by which the character beat the difficulty:
+
+Points Above
+
+Difficulty | Extra Damage
+1-5 | +1D
+6-10 | +2D
+11-15 | +3D
+16-20 | +4D
+21-30 | +5D
+31+ | +6D
+
+This bonus is added to the explosive’s base damage. Roll the damage against the object’s body strength. (See the chapter on “Combat and Injuries.”)
+
+If that damage penetrates the obstacle, then the attempt succeeded. Note that, if enough explosive is used, the roll becomes almost irrelevant (except in checking for mishaps).
+
+Special Effects: Characters may also try achieving special effects with explosives. The difficulty depends on the specific type of result:
+
+• Very Easy: Rigging a bomb so the next time a speeder is put into drive the bomb goes off, destroying the vehicle.
+
+• Easy: Blowing off the back hatch of a computer without leaving any permanent marks or burns.
+
+• Moderate: Rigging and hiding explosives on blast doors so the next time they are closed the explosive goes off, funneling the explosion down a specific hall. This takes five minutes to prepare.
+
+• Difficult: Setting off an explosive charge on the leg of an AT- AT walker so the drive cords are severed and the walker topples over when it tries to take a step.
+
+### Droid Programming
+
+Time Taken: 15 minutes to several hours or days.
+Specializations: Type or model droid — astromech droid, protocol droid, probe droid.
+
+Characters may use this skill to program a droid to learn a new skill or task. While droids can “learn” through trial and error, or by drawing conclusions, it is often easier and faster to program the activity into the droid’s memory.
+
+The programmer must have access to a computer or datapad, which must be jacked directly into the droid’s memory for programming.
+
+The difficulty depends on the task’s sophistication, but can be modified by other factors. The time taken also depends upon the complexity of the task — a Very Easy task might take only half an hour to program, but a Very Difficult task might take days or weeks to program.
+
+Droid owners often wipe their more intelligent droids’ memories — their intelligence and creative capabilities often allow droid personalities to develop over time. A memory wipe eliminates all of the droid’s memory, including all learned skills and tasks which aren’t directly hard-wired into the droid’s permanent memory (normally, this is only done by the manufacturer; if a skill is directly hardwired into a droid’s permanent memory, increase the programming difficulty by +30).
+
+When a new skill is programmed into the droid, it begins at one pip over the attribute. Once the droid has learned the basic skill, it may pay Character Points or buy skill cartridges to increase its skill.
+
+Note that many extremely difficult tasks are broken down into a series of steps of lesser difficulty, but this requires more time-consuming droid programming rolls to reflect that the programmer is tackling the job one problem at a time.
+
+• Very Easy: Move any boxes from one area to another area, one at a time, making neat stacks.
+
+• Easy: Patrol an area in a particular pattern at regular intervals, and report or stop any unauthorized intruders. Performing a memory wipe.
+
+• Moderate: To handle the front desk of a hotel, and be courteous to all customers, as well as to solve customer service problems.
+
+[Página impressa 62 | PDF 64]
+
+• Difficult: To teach droid a rudimentary skill use (see the chapter on “Droids”).
+
+• Very Difficult: To modify vehicles or other equipment for better performance by making assumptions rather than relying on pure, established fact.
+
+• Heroic: To design a factory-made droid in a manner that overrides its core programming — to change a protocol droid into a droid that can fight in combat effectively; to reprogram a droid’s preset “personality.”
+
+Modifiers:
++5-30 to the difficulty: Droid type is completely unfamiliar to programmer (modifier depends upon how unfamiliar).
+
++15 or more to the difficulty: Task is not related to kinds of tasks that droid is designed to undertake.
+
++10 or more to the difficulty: Droid is of very low intelligence, and is incapable of creative thought (messenger droid, power generator droid).
+
++10 to the difficulty: Task is distantly related to droid’s designated functions.
+
++5 to the difficulty: Task is close to, but not exactly, the type of task or skill that the droid is designed for.
+
++5 to the difficulty: Droid is of low intelligence, such as a labor droid, and isn’t intended to be capable of creative thought.
+
++5-10 to the character’s roll: Droid model is familiar to programmer.
+
++5 or more to the character’s roll: Droid is fully sapient and is intended to make independent conclusions and decisions (astromech or protocol droid).
+
++5 or more to the character’s roll: Droid has been operating “independently” for a long time.
+
+### Droid Repair
+
+Time Taken: 15 minutes, then one hour, then two hours; may be several hours or days depending upon the level of repair.
+
+Specializations: Type or model droid — astromech droid, protocol droid, probe droid.
+
+This skill represents a character’s talent to repair, modify, and maintain droids. The repair difficulty depends on how badly damaged the droid is — the cost reflects the price of replacement parts based on the droid’s original value.
+
+Droid Was | Difficulty | Cost
+Lightly damaged | Easy | 15%
+Heavily damaged | Difficult | 25%
+Severely damaged | Very Difficult | 35%
+Nearly obliterated | Heroic | 65%
+
+As with droid programming, droid repair tasks can be broken down into several smaller, easier, but more time-consuming tasks, so that unless a droid was destroyed it can often be repaired given enough time, patience and money.
+
+Gamemasters should discuss any modifications characters want to make to droids. Difficulties and costs can vary, and may be based on parts availability, complexity of an attachment, and the configuration of the droid. For instance, a fourth-degree
+
+droid designed for combat can much more readily accept an interior mounted grenade launcher than a first-degree droid, such as a 2-1B surgical unit. The fourth-degree droid’s shell is properly reinforced and its software nodes are designed around the appropriate programs to operate the launcher. Most attachments come with software which must be programmed or hardwired into the droid’s memory by using the droid programming skill.
+
+### Engineering
+
+Time Taken: Minutes or Hours
+
+Advanced skill — requires prerequisite skills (see below).
+
+Like other advanced skills, (A) engineering has a higher Character Point cost-double the cost of advancing a normal skill-and requires certain prerequisite skills.
+
+Each specialization of (A) engineering has different prerequisites. Some specializations have fewer requirements than others (since some areas are more limited than others).
+
+The (A) engineering skill involves many separate and complex activities and fields of study. An engineer must be versed in a number of skill disciplines and will likely be called upon to perform a wide range of tasks. Part architect, part technician, part repairman, part inventor, and part scientist, the engineer needs to be familiar with every aspect of his specialization.
+
+Using (A) engineering specializations allows a character to perform anyone of the following tasks; build, maintain, repair, or modify.
+
+The (A) engineering skill is one that is left generally to gamemaster discretion. The core rules are intentionally vague regarding the application of the (A) engineering skill rules (with the exception of (A) droid engineering). Characters will inevitably attempt to design very powerful and unbalanced designs. The gamemaster should be cautions about allowing certain design types to be constructed and should require multiple rolls at varying difficulties in order to complete a design. The construction of the design will take a lot of time and possibly (for larger designs) require a work crew to build the prototype. The costs associated with custom design are generally much than with a “stock” purchase. This is due to the fact that many of the parts and structure may have to be fabricated. The players and gamemaster should work together to set the “ground rules” for cost, time to complete, and difficulty prior to a player character taking this skill.
+
+Engineering Modification Option: At gamemaster discretion, if the player is using the appropriate (A) engineering skill to modify a component, instead of the repair skill, the system being modified is no longer considered “jury-rigged.” In this case, “mishap modifiers” may be ignored if a roll on the Mishap Modifier table is required. When a complication (rolling “1” on the Wild Die) occurs, the gamemaster simply handle this according to normal Wild Die rules, or the gamemaster may opt to roll on the mishap tables, although no “mishap modifiers” should be applied in this case. Additionally the player using the (A) engineering skill may be able to modify the system at one Difficulty Level lower than indicated.
+
+[Página impressa 63 | PDF 65]
+
+For example a character modifying a vehicle’s Move by +5 (See the Move Increase chart) would be able to do so at a Difficulty of Easy and would not take a Mishap Modifier penalty when a mishap roll was required.
+
+Engineering Prerequisites: The following lists the various (A) engineering specializations that are recommended, and the prerequisite skills needed to purchase and utilize them. Each prerequisite skill has a die code associated with it (for example, “4D armor repair”); the character must have the indicated skill at the indicated die code before purchasing the specialization.
+
+(A) Aquatic Vehicle Engineering: Requires 4D in aquatic vehicle repair, and allows the design of various aquatic vehicles and aquatic vehicle systems.
+
+(A) Armor Engineering: Requires 4D in armor repair. Allows the design of various types of personal armor
+
+(A) Capital Ship Engineering: Requires 5D in capital ship repair, 4D capital ship weapon repair, and 2D computer programming/repair. It is possible to take this skill without the required die codes in capital ship weapon repair and computer programming/repair, but the bonus effects from engineering would not apply to those areas. This skill allows the design of various capital ships, and capital ship systems.
+
+(A) Civil/Industrial Engineering: Requires 1D in bureaucracy, 2D business, 3D demolitions, 1D law enforcement, and 2D in any two repair skills. This is a skill that relates to the building, maintenance, and modification of settlements, civic projects, businesses, and factories.
+
+(A) Computer Engineering: Requires 5D in computer programming/repair. This skill allows the design and construction of various computers, computer software, and complex computer networks.
+
+(A) Droid Engineering: Requires Requires 5D in droid repair or 5D in droid programming. This skill allows the design and construction of droids, See the “Droids” chapter for rules pertaining to the use of this skill.
+
+(A) Equipment Engineering: Requires 5D in equipment repair. This skill allows for the design and construction of various small equipment items and non-blaster weapons (e.g. vibroblades, breath masks, slugthrowers, comlinks).
+
+(A) Ground Vehicle Engineering: Requires 4D in ground vehicle repair. This skill allows the design of various vehicles and vehicle systems.
+
+(A) Hover Vehicle Engineering: Requires 4D in hover vehicle repair. This skill allows the design of various hover vehicles and hover vehicle systems.
+
+(A) Installation Engineering: Requires 2D computer programming/repair, 2D demolitions, and 1D in any two of the following — (A) capital ship engineering, (A) civil/industrial engineering, (A) space transports engineering, (A) starfighter engineering, or (A) weapons engineering. This skill allows for the construction of fortified bases, strong holds, and other military installations.
+
+(A) Repulsorlift Engineering: Requires 4D in repulsorlift repair. This skill allows the design of various repulsorlift vehicles and repulsorlift vehicle systems.
+
+(A) Space Transport Engineering: Requires 5D in space transports repair. This skill allows the design of various space transports and space transport systems.
+
+(A) Starfighter Engineering: Requires 5D starfighter repair and 3D starship weapons repair. It is possible to take this skill without the required die code in starship weapons repair, but the bonus effects from engineering would only apply to non-weapon functions. This skill allows the design of various starfighters and starfighter systems.
+
+(A) Submersible Vehicle Engineering: Requires 4D in submersible vehicle repair. This skill allows the design of various submersible vehicles and submersible vehicle systems.
+
+(A) Walker Engineering: Requires 4D in walker repair. This skill allows the design of various walkers and walker systems.
+
+(A) Weapon Engineering: Requires 5D in any two of the following — blaster repair, capital ship weapon repair, demolitions, equipment repair, starship weapon repair. This skill allows for the design and construction of various weapons systems and blasters.
+
+### Equipment Repair
+
+Time Taken: In general, 15 minutes, then one hour, then two hours. May be customized to circumstances.
+
+Specializations: Type or model equipment — breath mask, comlink, slugthrower, vibroblade.
+
+A character’s ability to fix and modify various character-, speeder-, and walker-scale equipment items (including non-blaster, and non-energy beam weapons). The cost and difficulty to repair equipment depends upon how badly it is damaged — see “Weapons” in “Using Repair Skills” above.
+
+Note blasters and other energy weapons are repaired and modified using the blaster repair skill. Computers and small sensors are repaired using the computer programming/repair skill.
+
+### First Aid
+
+Time Taken: One combat round.
+Specializations: Species of patient — humans, Ewoks, Wookiees.
+
+First aid reflects a character’s ability to perform emergency life saving procedures in the field. For rules on the use of first aid, see “Combat and Injuries.”
+
+### Ground Vehicle Repair
+
+Time Taken: In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.
+
+Specializations: Type or model ground vehicle — compact assault vehicle, Juggernaut.
+
+This skill represents a character’s familiarity with the workings of ground vehicles, and his ability to modify or repair them. Each roll may repair one damaged system aboard a particular craft. The cost and difficulty to repair a vehicle depends on how badly it is damaged, and what systems have been damaged. See “Using Repair Skills” above for difficulties and costs associated with various systems which may be damaged.
+
+[Página impressa 64 | PDF 66]
+
+### Hover Vehicle Repair
+
+Time Taken: In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.
+
+Specializations: Type or model hover vehicle — hoverscout.
+
+Characters use this skill when repairing or modifying hover vehicle systems. Each roll may repair one damaged component aboard a particular craft. The cost and difficulty to repair a hover vehicle depends on how badly it is hit, and what systems have been damaged. See “Using Repair Skills” above for difficulties and costs associated with various systems which may be damaged.
+
+### Lightsaber Repair/Engineering
+
+Time Taken: In general, 15 minutes, then one hour, then one day, then two days. Construction takes approximately one month.
+
+Specific type or model lightsaber — double-bladed lightsaber, light-whip.
+
+Characters use this skill when repairing, modifying, or building a lightsaber, the weapon of the Jedi. This skill is generally restricted to Jedi Knights who learned it from their master. Lightsaber repair/engineering combines the repair and design skills into one, due to the special nature of the skill. The cost and difficulty to repair equipment depends upon how badly it is damaged — see “Weapons” in “Using Repair Skills” above.
+
+Lightsaber Construction: To construct a Iightsaber from its basic components parts takes a minimum of one month and requires a successful lightsaber repair roll against a Very Difficult difficulty.
+
+Decrease the difficulty by one level for each extra month spent building the saber, to a minimum of Easy. Jedi characters may adjust a Iightsaber’s base damage die code through modifications (as indicated in the “Improving Vehicles, Vessels, and Weapons” section). Characters rely on their lightsaber repair/engineering skill to make such improvements.
+
+Note that lightsaber repair/engineering is not an advanced skill, however it should be judiciously governed by the gamemaster and generally used only by Jedi characters.
+
+### Medicine
+
+Time Taken: Minutes or hours.
+Specializations: Specific field known — medicines, cyborging, surgery.
+
+Advanced skill — requires first aid of at least 5D.
+
+Characters with this skill can perform complex medical procedures such as surgery, operation of bacta tanks, and the installation of cybernetic replacements and enhancements. They are also familiar with all types of medicines and are capable of using them to best effect.
+
+### Repulsorlift Repair
+
+Time Taken: In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.
+
+Specializations: Type or model repulsorlift vehicle — XP-38 landspeeder, Incom T-16 Skyhopper, Rebel Alliance combat snowspeeder.
+
+Repulsorlift repair represents a character’s affinity for repairing and modifying vehicles with repulsorlift generators. Each roll may repair one damaged system aboard a particular vehicle. The cost and difficulty to repair a vehicle depends on how badly it is damaged, and what systems have been hit. See “Using Repair Skills” above for difficulties and costs associated with various systems which may be damaged.
+
+### Security
+
+Time Taken: One round to several minutes.
+Specializations: Type or model security device — magna lock, blast door, retinal lock.
+
+This skill represents a character’s knowledge of physical security systems: locks, alarm systems and other detection devices. It does not govern computer security procedures.
+
+The difficulty depends on the sophistication of the lock or alarm:
+
+• Very Easy: Standard lock, no special protection.
+
+• Easy: Regular security lock, civilian.
+
+• Moderate: High-quality lock, standard military.
+
+• Difficult: Bank vault lock, upper military.
+
+• Very Difficult: Super-security lock, Imperial governor, Fleet captain, rare collectible dealer, Jabba the Hutt’s locks.
+
+• Heroic: If Darth Vader or Emperor Palpatine locked things up, this is what they’d use.
+
+### Space Transport Repair
+
+Time Taken: In general, 15 minutes, then one hour, then one day, then two days. May be customized by circumstances.
+
+Specializations: Type or model transport — YT-1300 transport, Gallofree medium transport, Corellian Action VI transport.
+
+Characters with this skill can repair and modify space transports. Each roll may repair one damaged compo-
+
+[Página impressa 65 | PDF 67]
+
+nent aboard a particular transport. The cost and difficulty to repair a vessel depends on how badly it is damaged, and what systems have been hit. See Using Repair Skills” above for difficulties and costs associated with various systems which may be damaged.
+
+### Starfighter Repair
+
+Time Taken: In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.
+
+Specializations: Type or model starfighter — X-wing, TIE/In, TIE interceptor, Z-95 Headhunter.
+
+This repair skill represents a character’s ability to fix and modify starfighters. Each roll may repair one damaged system aboard a particular fighter. The cost and difficulty to repair a ship depends on how badly it is damaged, and what systems have been hit. See “Using Repair Skills” above for difficulties and costs associated with various systems which may be damaged.
+
+### Starship Weapon Repair
+
+Time Taken: In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.
+
+Specializations: Specific type or model weapon — concussion missiles, ion cannons, laser cannon, proton torpedoes, turbolasers.
+
+Starship weapon repair covers a character’s ability to fix and modify starfighter-scale weapons. The cost and difficulty to repair weapons depends upon how badly it is damaged — see “Weapons” in “Using Repair Skills.”
+
+### Submersible Vehicle Repair
+
+Time Taken: In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.
+
+Specializations: Particular submersible type or class — Bongo, electric submarine.
+
+This repair skill represents a character’s ability to fix and modify submersible vehicles. Each roll may repair one damaged system aboard a particular submersible. The cost and difficulty to repair depends on how badly it is damaged, and what systems have been hit. See “Using Repair Skills” above for difficulties and costs associated with various systems which may be damaged.
+
+### Walker Repair
+
+Time Taken: In general, 15 minutes, then six hours, then one day, then two days. May be customized to circumstances.
+
+Specializations: Particular kind of walker — AT-AT, AT- ST, AT-PT.
+
+Characters use this skill when repairing or modifying walker systems. Each roll may fix one damaged component aboard a particular walker. The cost and difficulty to repair a walker depends on how badly it is hit, and what systems have been damaged. See “Using Repair Skills” above for difficulties and costs associated with various systems which may be damaged.
+
+## OTHER SKILLS
+
+There are plenty of other skills in the galaxy, but most of them don’t directly affect the game, so they’re not covered here. When a character wants to do something not covered by a skill, the gamemaster can simply assign the action to an attribute; if the player wants his character to get better at the task, the gamemaster can invent a new skill.
+
+For example, what if the character wants to get better at a sport called nega-ball? There’s no nega-ball skill... but the game involves a lot of running around and throwing a ball at a small target, so the gamemaster decides that the character should use his Dexterity attribute. If the player decides that he wants his character to get better at nega-ball, the gamemaster can invent a nega-ball skill.
+
+Interpreting the System. The Star Wars game system is very flexible and the gamemaster should interpret the rules as needed. For example, even though there’s not a nega-ball skill, the gamemaster could have chosen to use several skills: thrown weapons or even grenade whenever the character throws the ball, running when the character tries to move around other players on the nega-ball court and stamina to see how the character holds up. All of these choices are just as “right” as choosing to create the nega-ball skill — it depends on what the gamemaster and the players feel is fair.
+
+Controlling Skills. Some players may try to come up with some ridiculously powerful skills or specializations — for example, communications: Imperial secret codes. Granted, this skill may exist, but no character could have the skill without a really good reason. Gamemasters may reject any new skill or specialization they think is unbalanced — or better yet, they may give the character some unexpected complications from having this kind of skill. You can give the players what they want... but remind them to be careful what they wish for because they may get it and all the consequences, too.
+
+With communications: Imperial secret codes, for example, the Empire might know that this character has in-depth knowledge of Imperial security procedures, and decides that he has to be “eliminated.” Yes, this characters gets the skill, but his life has just been made a lot more interesting...
+
+“Now you know how to use all those skills. If you’re a player, you are all set. You have some idea of what skills your character has and what he can do with those talents.
+
+If you’re a gamemaster, your job’s not over yet. Your players have just learned how to “operate” their characters, just like pilots learn how to fly their starships. Now you get to figure out where the characters are going... sort of like creating the system where the pilot flies her starship.
+
+You have the opportunity to actually create your own Star Wars stories for your players to stumble through. Sure, you’ll need to know about these skills but don’t let all the modifiers and details slow down the game. Fall back on the rule of thumb... quick, what’s the difficulty to scan fora human and a Wookiee who are hiding in a Noghri village? Moderate? Difficult? Yeah, that sounds good. Roll your sensors skill. Have fun and clear skies!
+
+[Página impressa 66 | PDF 68]
+
+

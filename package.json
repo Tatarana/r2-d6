@@ -1,0 +1,35 @@
+{
+  "name": "r2-d6",
+  "private": true,
+  "type": "module",
+  "description": "r2-d6 v2: companheiro de mesa para o Star Wars RPG REUP (D6)",
+  "engines": {
+    "node": ">=22.12"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "predev": "node scripts/setup.mjs --quick",
+    "dev": "concurrently -k -n api,web -c cyan,magenta \"npm run dev -w @r2d6/api\" \"npm run dev -w @r2d6/web\"",
+    "setup": "node scripts/setup.mjs",
+    "data:build": "node packages/data/scripts/build.mjs",
+    "db:generate": "npm run db:generate -w @r2d6/api",
+    "db:migrate": "npm run db:migrate -w @r2d6/api",
+    "db:seed": "npm run db:seed -w @r2d6/api",
+    "test": "node scripts/ensure-data.mjs && vitest run",
+    "test:e2e": "playwright test",
+    "build": "npm run data:build && npm run build -w @r2d6/web",
+    "typecheck": "tsc --noEmit -p packages/rules && tsc --noEmit -p packages/data && tsc --noEmit -p packages/contracts && tsc --noEmit -p apps/api && tsc --noEmit -p apps/web",
+    "test:rules": "vitest run --project rules --project data"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "concurrently": "^9.2.0",
+    "dotenv": "^18.0.9",
+    "pg": "^8.23.1",
+    "typescript": "^5.9.0",
+    "vitest": "^3.2.0"
+  }
+}

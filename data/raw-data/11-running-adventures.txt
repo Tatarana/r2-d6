@@ -1,0 +1,645 @@
+CHAPTER 11: RUNNING ADVENTURES
+(Páginas impressas 180-195 | PDF 182-197)
+
+[Página impressa 180 | PDF 182]
+
+11
+
+# RUNNING ADVENTURES
+
+“The Rebel commanders charged with defending Hoth would never have tried it without a battle plan in place. They readied their troops, tried to anticipate what the Imperials would do and how best they could respond to it. But... it’s fair to say that no battle plan lasts for more than a few seconds after the shooting starts.
+
+“Planning adventures isn’t quite as life or death as mapping out a battle, but the idea is the same. You can be prepared for some of the things your characters might do, but you’ll never anticipate all of them. Surprises are a fact of life. So lay out your plans, by all means, but be flexible enough to change them as the adventure goes on. That’s the kind of thinking that wins battles — and makes for great game sessions, too.
+
+“In an adventure, characters confront a series of obstacles as they attempt to reach an ultimate goal. Adventures, then, are the heart of roleplaying games. Here is where you’ll find the story — the evil adversaries, the alien locales, and the fantastic technology, all threaded together to form an engaging plot for the main characters (the players).
+
+“Each of the original Star Wars movies is a separate adventure. In A New Hope, the Rebels strive to destroy the Death Star. In The Empire Strikes Back, the Alliance has to evade the retaliation of the Imperial forces. In Return of the Jedi, the remainder of the Rebel Alliance seeks to end the Emperor’s tyrannical reign. These goals entail epic struggles, but the adventures your players participate in will usually involve less galaxy-spanning conflicts.
+
+“This chapter covers everything you need to know about preparing and running adventures. Right now it may seem like a lot to assimilate; but don’t worry, you’ll get the hang of it in no time. Actually, there’s only one rule you need to remember: make sure everyone has fun!”
+
+CHAPTER ELEVEN
+
+[Página impressa 181 | PDF 183]
+
+Certain groups of players will prefer a certain style of play, so not all of what follows applies in every situation. As you run your adventures you’ll develop a feel for what excites and enthralls your players, and then you’ll be able to structure your subsequent scenarios to incorporate those elements.
+
+The chapter is divided into three main sections: Preparing Adventures, Running Adventures, and Ending Adventures. You may want to reread these sections once in a while as you begin your gamemastering career, but there’s nothing here to memorize or to reference during a game session. Instead you’ll find tips and suggestions that will help you create hours of entertainment for your friends as well as for yourself.
+
+# PREPARING ADVENTURES
+
+First, you’re going to need an adventure. You can use one of the old West End Games published adventures, create one yourself, or make one up as you go along. This book contains seven adventures you can use immediately. You may want to glance at this scenario as you read through this chapter to get a feel for what a finished adventure looks like. If you’re a bit more daring, you can skip to Chapter Twelve, “Designing Adventures,” to develop your own scenario from scratch.
+
+### Reading the Adventure
+
+Make sure you’re thoroughly familiar with the adventure before you start playing. The players may not proceed through the encounters in the order they appear, so if you read only the first half of the scenario, you could find yourself vigorously flipping through pages trying to figure out what happens next.
+
+You don’t have to memorize every detail either, just know the basic plotline and structure of the story. If the players do something unexpected, like killing a major villain who’s supposed to participate in the finale of the adventure, you’ll need to know what you can do to alter the remainder of the story so that it still comes to a satisfying conclusion.
+
+### Character Cards
+
+One way to quicken game play is to create gamemaster character cards. You can either copy the section detailing each character or you can write their game information on an index card. As the player characters encounter various gamemaster characters, you can pull out their character cards so that you have all of their important information at your fingertips. In this way, you won’t have to flip through pages of the adventure looking for a particular character’s stats, especially if that character participates in more than one encounter.
+
+This technique works especially well for campaigns where many characters play a recurring role. Also, if you wind up creating new characters on the fly (when the characters momentarily wander away from the scripted adventure), you can quickly jot down their information on an index card so that you have it for later. You never know when the players may decide to return to speak with a particular character. If you haven’t kept a record of his game information, you may have to guess — and you could be wrong, thereby shattering the player’s suspension of disbelief (“Didn’t this guy have blue skin the last time we talked with him?”).
+
+### Stock Encounters
+
+Another way to save time during an adventure — and to save you from looking ill-prepared — is to create several “stock” encounters. These short scenes could be anything from a bar brawl to a chance meeting with a squad of stormtroopers checking IDs. When your players decide to go somewhere or do something that you hadn’t foreseen — and therefore hadn’t written out beforehand — you can use one of your stock encounters to fill in the space while you figure out a way to get the characters back on track with the adventure.
+
+For example, your Alliance player characters are supposed to rendezvous with an Alliance spy at a spaceport on a remote world. When they arrive, however, they decide to first pay a visit to the city’s starship parts shop, hoping to purchase replacement parts for their recently damaged freighter. When you designed your adventure, you hadn’t counted on the characters going anywhere on the planet other than the cantina where they are supposed to meet their contact. When the players state their intention, you quickly skim through your stock encounters and pull up a “Business/shop” scene that you haven’t used before with this group. In this encounter, you have the shop owner being harassed by a pair of tough-looking aliens. If the characters help the owner, they could get on the bad side of the crimelord who sent the toughs to collect the money the owner owes (which could provide a hook for the characters’ next adventure).
+
+It’s a good idea to develop 10 or more stock encounters that cover everything from cantina scenes to bounty hunters to stormtroopers. The more you create, the less likely you’ll be to get stuck in an adventure because the player characters did something or went somewhere unexpected. The Encounters section of the next chapter elaborates on this concept.
+
+[Página impressa 182 | PDF 184]
+
+## SETTING THE MOOD
+
+The wide array of multimedia elements created by various companies for the Star Wars universe allows you to quickly and easily get your players into the spirit of the adventure.
+
+### The Movies
+
+The most obvious way to get a true feel for Star Wars is to watch the movies. The characters, the frontier of space, the heart stopping sense of adventure and danger, the fantastic images and aliens, the battle of good versus evil — it’s all there for you and your players to experience and absorb.
+
+The movies also work in bits and pieces. If you’re going to play a space battle during a gaming session, take the time to cue up one of the movies to a space battle and allow your players a few minutes to absorb the feel of the action and then get right into the gaming.
+
+There are many other films available that give a good feel for what it’s like in space. From science fiction movies to space documentaries, any number of these can show your players entertaining visual images and help set a mood for an encounter or adventure. Head to the local library and you’re sure to find something that will match the tone you want.
+
+Don’t overlook the current crop of computer animation available. There are a lot of beautiful and intriguing space scenes in these videos. NASA and the Jet Propulsion Laboratory (JPL) have created a number of computer simulations of space flight and many of these have made it to the internet. Another good source of video footage is documentaries and news reports — keep an eye out for those specials that could lend good footage to your campaign.
+
+Another tool you can use is your home video camera. Creating a small set in your home is another simple trick to using video in your campaign. A simple black background, with painted stars or merely a curtain, can provide a backdrop for a simple set. What better way to dramatize an intercepted video communication — and the beauty is you can cut the transmission off whenever you see fit. Also, you could use the camera as both a
+
+surveillance camera or spy satellite, setting it up to record either a group of friends acting out a scene or taking an overhead shot of miniatures set up to represent military deployments.
+
+### The Music
+
+Playing music while gaming helps lend atmosphere to your adventures. We all know the familiar theme of Star Wars and all the other accompanying themes from the movies. Every major idea or character had its own signature music — and you know your players will react if you play Darth Vader’s march during an adventure.
+
+Music can play a big role in developing the atmosphere and feel for a situation. There is music out there for almost any mood. The most obvious place to start are the soundtracks for all of the movies since they are familiar to your players. Soundtracks from other science fiction, fantasy, horror and action-adventure movies and television shows can help set the mood for a night’s gaming. There is a wealth of classical music to call on, with a variety of themes from joyous to malevolent. Some notables are Hoist’s “The Planets,” a beautiful musical exploration of our solar system and rife with themes both menacing and haunting or Richard Strauss’s “Also Sprach (or “Thus Spake”) Zarathustra” (the familiar sunrise theme from “2001 A Space Odyssey”).
+
+Another place to look for good mood music is today’s modern music. There are a variety of instrumental artists that can set any number of moods. There are also a number of “New Age” artists that produce a good variety of mood-evoking pieces. Keep your ears open and note down those pieces that interest you and might seem appropriate to gaming.
+
+Rather than spending a lot of money on this music, a great place to find and sample new music is your local library. Take the time to check the music catalogs for titles that might be listed under “Space” and “Soundtracks.” These usually have a better selection of music with the appropriate atmosphere. Don’t be afraid to browse the classical section for likely musical candidates.
+
+[Página impressa 183 | PDF 185]
+
+### Collectible Cards
+
+A great source of exciting visual images are the various collectible card sets. You can find pictures of Star Destroyers, Twi’leks, stormtroopers, exploding starfighters, major characters, planets, technology, and much more. Like they say, a picture is worth a thousand words. If you can show your players what they’ve encountered, they can more quickly become engaged in the story since their minds don’t have to spend that extra bit of time conjuring up an image of what you’ve just explained. Instead, the scene (or the elements in that scene) appear vividly before them without any effort on their parts. The plot moves more quickly and therefore your players become all that more enthralled by the adventure.
+
+### Illustrations
+
+If you’re the artistic type, or capable with a graphic design program (or just have a photocopier and scissors), illustrations can give more detail to any location, person, ship, alien species or whatever concept you may need to illustrate. The old aphorism “a picture is worth a thousand words” works especially well in gaming.
+
+If you can draw, creating what you need is easy. For those of you without the artistic gift, there are a variety of sources to pull from. With all of the Star Wars comics, Art of ... books, trading cards and illustrations from game products, you’ve got countless new characters, locations and starships at your finger tips.
+
+Beyond official Star Wars materials, there are a wide variety of science fiction and gaming magazines just teeming with pictures for you to put to the proper use. With a little ingenuity, a razor knife or scissors and some tape or glue, you can create new scenes for your characters to experience.
+
+Other sources — like newspapers, television program guides, technical and scientific magazines, various websites — can yield whole new visualizations and campaign ideas. A technical diagram of a new appliance, scanned, touched up and relabeled, easily passes for a cross section of a new experimental ion engine power damper; a map from this week’s news weeklies, with new tags, makes for a new spaceport in the heart of a galactic metropolis.
+
+### Miniatures
+
+Miniatures are a tried and true gaming tradition. Any tactical situation can be better depicted with miniatures used to represent a player’s character. Whether painted or unpainted, these carved pieces of lead or plastic can be a helpful aid to any campaign. Often times, various companies carry a line of Star Wars miniatures, and there are many other science fiction and fantasy miniature lines that can easily be converted to your Star Wars adventures. Painting miniatures is a fun hobby and some truly amazing results can be achieved with practice. There are a wide variety of magazines and books that illustrate painting techniques.
+
+Beyond miniatures, scenery can add a lot to representations of scenes. Anything from small boxes, to plastic model parts, to empty plastic bottles can be cut, glued and painted to make buildings, power generators or other Star Wars scenery. Use of poster-board and tape and a bit of artistic creativity can create buildings, barricades, or hedgerows.
+
+### MINIATURES BATTLE: ENDOR
+
+The battle for the shield generator on the moon of Endor is a classic example of what could be easily achieved and visualized with the help of miniatures. A simple pillbox being assaulted in a dense forest takes on a greater depth and feel with the players suddenly given the ability to place their miniatures behind available cover.
+
+First is the ground cover on Endor. This is easily solved by use of “grass mat,” which is sold at most hobby and model railroading stores. The grass mat is a piece of backing (paper or other material) with the textured grass-material glued to it.
+
+For trees, there are several options. The trees can be purchased outright from model or hobby stores, or an enterprising gamer can make the trees from twigs or wire. Leaves can be simulated with lichen or even sponge.
+
+Next, add the bunker. This could be made by buying a plastic or resin building kit that approximates the shape, or the building could be carved from Styrofoam or made out of cardboard.
+
+You could add a couple of AT-ST walker plastic model kits. For the speeder bikes, you could convert plastic or lead models from other science fiction games or try to make your own.
+
+The final touch is the addition of the actual miniatures. With a few Ewoks, stormtroopers and a squad of Rebel guerrillas, the players get a whole new dimension added to their gaming.
+
+Plastic model kits are a great way to spice up a scene. Why describe an AT-AT walker chasing the characters when you can put the plastic model on the tabletop and show it looming over the characters’ figures?
+
+Gamemasters are encouraged to think about building dioramas for non-combat scenes as well. Your players will be surprised and delighted if you present a detailed cantina complete with miniatures, furniture, painted walls and miniature speakers running off an audio player that plays the “Cantina Band” theme. These kinds of dioramas lead to fun nights of heavy duty roleplaying, where the gamemaster characters inside the cantina are more important than combat.
+
+Of course, building dioramas takes a lot longer than simply writing adventures, but the resulting prop is often worth the effort. If one of your players enjoys this kind of construction, these kinds of dioramas can be built by a him or her instead without giving away too much information about the adventure. Best of all, after the diorama is used, you’ve got a showpiece for your bookshelf or a prop that can be used over and over again with minor retouches.
+
+### Communications Media
+
+Here’s where you can get into some unusual props to add to your adventures. Some of these suggestions might seem a little unusual at first, but if you can get your players to go along, they can add to your gaming experience.
+
+With the aid of a friend or two, a script could be recorded and played back at a later gaming session to simulate a conversation overheard by the player characters.
+
+[Página impressa 184 | PDF 186]
+
+Also, the recorder could be used as a personal log stolen from a major villain, contain personal notes on a Rebel soldier’s views of his compatriots (one of them being a possible traitor) or any of a number of things that a character would have occasion to record.
+
+Smartphones could be used to keep a library of sound effects, images, and videos as well as musical themes. Of course, computers also come in handy here — if you can record and digitize the sound effects from the movies, you can program your phone to replay them on command, or with the right software you may be able to alter them for entirely new effects.
+
+Walkie-talkies are more than childhood toys they can be used as a gaming prop. Set up a friend on the other end to broadcast coded messages, or to act out the role of a surrounded ally, or to be a menacing villain taunting the heroes as their ship is strafed by TIE Fighters. The players could also use the radios to converse with “distant allies” and learn the results of current combats and rumors from other sectors.
+
+The cellphone also works in this regard. Having a friend call at a designated time during your gaming session and working from a script can also add to the feeling of distance. If this conversation ends abruptly, say with blaster fire, well who knows what the situation holds for the player...
+
+### Other Props
+
+There are numerous other props available, including toy equivalents of equipment seen in the movies. Who wouldn’t enjoy having their own blaster in their hand? Or perhaps a lightsaber? A quick trip to the toy store can yield any number of models and props. There are all sorts of alien ships, model kits and other accessories that can add to your play.
+
+Another overlooked mood creator is lighting and temperature. A darkened temple can be simulated by using candlelight instead of normal lighting. Turn down the thermostat a few degrees, turn off the lights, add a few candles and you have instant creepy ruins.
+
+Up the temperature a few notches, throw in some animal sound effects and a few plants and you have a ready made jungle setting, complete with that large hulking beast hiding behind the bushes. There are several online videos on hosting a haunted house, or various themed parties involving science fiction or “cyberpunk” settings; many of the techniques described in these videos have mood setting gaming applications as well.
+
+## STARTING THE ADVENTURE
+
+You have several options for starting an adventure. The most common is the mission briefing introduction (especially if the characters are agents of the Republic, Rebel Alliance, or New Republic). The characters, who may or may not know each other, have been assembled by their superior for a meeting on their upcoming assignment. The superior gives them an objective, provides them with the resources they’ll need to accomplish that goal, and answers whatever questions he can.
+
+While this standard opening works in most situations, it can also get boring, especially since not much happens during this encounter. The characters just sit around discussing the mission. Nothing really starts to happen until they get on their way.
+
+Of course, you could always add a little flare to your briefings. Perhaps a “famous” figure (like General Solo himself) is giving the briefing; or maybe is is during extreme circumstances, like during the bombardment of a base.
+
+### Using a Script
+
+One way to liven up the beginning of an adventure is to use a script. You assign each player a part (Bob is Rebel 1, Jim is Rebel 2, Sara is Rebel 3, and so on). As gamemaster, you play the role of the narrator and any gamemaster character part (like the player characters’ superior, for example).
+
+The script usually brings the characters through an exciting or mysterious scene (or both) that launches them into the heart of the adventure. New players (especially those who have never played a roleplaying game before) immediately get a feel for how to play the Star Wars Roleplaying Game. The use of a script is recommended for inexperienced groups.
+
+The main problem with this technique comes from the heavy-handedness with which it prescribes the player characters’ words and actions. Experienced players often would rather retain complete control over their alternate persona, and so may shy away from adventure scripts. You’ll have to see how your players react to know whether or not they prefer using a script (or you can just ask them before you start!).
+
+### In Medias Res
+
+Another way to throw characters into the midst of the action is to start the game in medias res. The player characters literally begin play in the middle of an explosive or suspenseful event. Maybe their ship experiences a technical problem and the characters have to fix it before it careens into a planet. Such an adventure could start something like this:
+
+Gamemaster: Okay, everyone ready to play?
+
+The Group: Sure.
+
+Gamemaster: OK. You make your last course correction to bring the starship into a landing vector — and then suddenly something explodes at the back of the ship. You begin to lose attitude control and start plummeting toward the surface! What are you going to do?
+
+Such fast starts put the players immediately on their toes, thrusting them into the Star Wars galaxy before they even know it. Once they’ve dealt with their immediate problem, they’re thoroughly enmeshed in the story.
+
+Again, be careful with this technique. Some players may not like it, some may love it. Choose the one that works best for your group. And above all, vary your adventure beginnings. Nothing puts players to sleep more quickly than an introduction that exactly mirrors that last five.
+
+# RUNNING ADVENTURES
+
+You’ve successfully brought the player characters into the adventure. Now you have to keep them focused and enthralled with the plot. If you see their eyes start to wander, or they fall into a conversation about the last game (or worse, what they watched on television last night), you know something’s gone wrong.
+
+## SETTING THE SCENE
+
+Your first job is to vividly depict the scene unfolding before the player characters. Where are they? Who else is there? What’s happening? These are the questions you must answer immediately.
+
+[Página impressa 185 | PDF 187]
+
+### Description
+
+Most published Star Wars adventures contain “read aloud sections” at the beginning of each episode. To set up the scene you can just read out loud or paraphrase the text. At that point the players usually either ask you questions about their surroundings (“How many stormtroopers do we see?”) or tell you their reaction to the situation (“I blast ’em!”).
+
+The key here is to engage the players’ senses, just like a good movie, novel, or television show. Try to use evocative words to give the players a clear and vivid view of their characters’ environment. The best way to learn how to provide such lifelike descriptions is to picture the scene in your mind and do whatever you can to convey that same scene to your players. You may incorporate movie footage or collectible cards (as mentioned above), maps and diagrams, or even illustrations you’ve drawn yourself. Sound effects and audio can also help you set the stage for the characters.
+
+Just remember that your players have five senses. Don’t just rely on the sense of sight. Describe what your characters hear, smell, touch, and (sometimes) taste.
+
+Sight. For most people, sight is the most important sense, so the bulk of your descriptions will be visual. To make the most effective use of sight, you will have to learn to arrange your descriptions so that the most important or most unusual visual detail about the setting comes in a spot where it is emphasized (usually near the very beginning of the description).
+
+You might also want to classify what the characters see by how hard they look. Make notes of what the characters see if they take a quick glance, then what they see if the stop to look around a bit, and then what they see if they make a detailed search. A character taking a quick glance isn’t going to notice how many tables a cantina has, for example, but a character making a detailed search will know. Characters who only glance around a location are likely to miss important visual clues unless they make a good Perception roll.
+
+As an interesting diversion, you might want to put the characters in a situation where they cannot see — such as a dark cave, a black nebula, or the inner reaches of a dead alien starship — and force the players, and you, to operate without the sense of sight.
+
+Smell. Next to sight, smell is probably the most important sense to consider in your descriptions of settings. A smell is something that cannot be easily avoided; it will fill the area. The sense of smell also lends itself to some very expressive adjectives — fragrant, ambrosial, putrid, fetid and rank.
+
+You can also use specific scents that the players are familiar with. For example, describing something as “smelling like burning motor oil” is a lot more expressive than it smells “bad.” A planet where the atmosphere “smells faintly like cinnamon” will seem instantly more alive.
+
+Hearing. Sound can also be a powerful part of a description, ranging from the proverbial eerie silence that precedes an ambush, to the annoyingly loud banging and
+
+clanging of an industrial planet. Like a smell, a sound is something that is hard to avoid and it provides detailed information.
+
+Wherever possible you should try to simulate these sounds by using your own voice, or pre-record sounds for playback during gaming.
+
+Taste. Taste is hard to work into most descriptions excluding, of course, food and drink that is ingested. However, you should remember that the senses of taste and smell are closely connected, and strong smells often carry with them the sensations of taste (as in, “the air near the ocean tasted salty”).
+
+Touch. Characters will usually have to make an effort to experience the textures of an object, but you should remember that touch also registers air temperature — an important aspect of any description.
+
+Touch can be used in a variety of ways, such as when describing a new artifact. It takes on a whole new light if it looks smooth but is “slimy” to the touch. You can also make comparisons when using the sense of touch. For example, “When you grasp the end of the handle, it feels cold and frigid, like metal left outside in the middle of winter.” These kinds of descriptions give the players a true sense of what their characters are experiencing.
+
+Other Senses. Certain alien species will have unique senses. For example, Gotals use the cones on their heads to “see” radiation, the Verpine have a limited form of telepathy amongst members of their own species, and the Defel can see ultraviolet radiation. When you have characters who are members of that species, you should carefully think about what they will perceive with their limited senses and work that information into your descriptions.
+
+Qualities. There are a number of areas that you may want to consider in the physical description of a location. Remember that anything from a small business to an entire continent (or even planet) can be described in these types of terms, depending upon the scale of the location being created.
+
+[Página impressa 186 | PDF 188]
+
+A good place to start is temperature and “general atmosphere.” These qualities might might be mentioned if they aren’t “comfortable.” A bar that is described as “hot and sticky, with uncirculated air that is thick with smoke” instantly has a certain character.
+
+A variable factor is gravity, especially for businesses that cater to a variety of aliens with a non-standard gravity range. Some places will also have special atmospheres for aliens — if the characters have to venture here, they may have to don breath masks or even environment suits.
+
+Some businesses will have certain cycles; some places will be closed all day and only be open at night (or vice-versa). Or a particular location might have different kinds of patrons depending upon the time of day or even the season. For example, some areas are tourist spots at certain times of the year, and thus the location will be much busier during tourist season. Some bars will attract certain kinds of clients during the day (for example business men), and attract a completely different crowd at night (perhaps university students and artist types).
+
+An example of qualities that affect location on a planetary scale is Ryloth, homeworld of the Twi’leks. The length of day and year are equal: one side of Ryloth always faces the planet’s sun while one side is always dark. The dark side of Ryloth would be uninhabitable were it not warmed by the raging winds generated on the bright side. This unusual planetary system — where the Twi’leks are forced to live in a darkness ravaged by harsh “heat storms” — accounts for the cunning nature that the Twi’leks have developed.
+
+On some worlds or in some specific locations, you might want to make note of the tech level. Some worlds will be fairly primitive, so blasters will be uncommon or even wondrous to the population. Even on civilized worlds, there may be areas
+
+where blasters, droids and vehicles are uncommon or possibly outlawed, so a portion of the world effectively has a lower tech level.
+
+You will also want to make note of any landmarks for a given setting. If a planet is famous for a particular oddity of nature or a social event, or if a bar is reputed for a colorful moving hologram of the galaxy, this kind of information should be noted for added color and information in the description of the location.
+
+Exceptions. Once you’ve established a look for a particular setting, you may decide to add an exception or two. Anachronisms can give character to a setting.
+
+Suppose the centerpiece to a disreputable bar was a delicate statue that would be more at home in one of the Core World art museums. What would this say about the owner of the bar? It could imply that, at one time, the owner of the disreputable bar was a wealthy art collector. From this exception to the general look of the bar, you could develop a history which would give the owner — and the bar a unique personality.
+
+### Believable Characters
+
+The player characters will inevitably encounter other people who live in the Star Wars galaxy. Your job is to make sure that these gamemaster characters appear real to the players. Their words and actions must seem appropriate in the context of their histories, personalities, and ambitions. If a stormtrooper suddenly took off his helmet and started joking around, the players would probably just stare at your for a minute as the game came crashing to a halt.
+
+Play each character to your best ability. Make sure he does everything in his power to achieve his goals, whether he’s trying to thwart the player characters or earn a transport-load of cred
+
+[Página impressa 187 | PDF 189]
+
+its. This does not mean that every gamemaster character should act overtly. Part of his goal may be to achieve his objective undetected, or to make it look like someone else was responsible. Rather, the idea is that the gamemaster character should use all of his resources — his skills, allies, finances, etc. — to accomplish his immediate as well as his long-term goals.
+
+For more on gamemaster characters, see the chapter on “Gamemaster Characters.”
+
+## GRABBING THE PLAYERS’ INTEREST
+
+Once you get the adventure underway, you spend the rest of your time trying to maintain the interest of the players — just like any other story, whether it be a novel, comic book, or movie. You have several options for moving the plot along and making the players focus on the situation at hand.
+
+### Using Elements From the Movies
+
+People play Star Wars because they loved the movies. If you incorporate images, characters, settings, or plot threads from the films, your players will immediately feel that their characters are truly part of the Star Wars galaxy. Player characters could encounter one of the secondary characters like Wedge Antilles, or visit a locale like Cloud City, or become involved in the theft of the Death Star plans.
+
+Action and Adventure. The movies were full of action and movement. The characters in the Star Wars movies do not sit around and wait for adventure to come to them — they go out in search of adventure. Their lives are filled with action. For your games to have the feel of the Star Wars movies, they also must be filled with action and adventure.
+
+Blaster bolts should fly fast and furious, characters should have to undertake chases through dangerous ice geysers or cave-ins, and characters should have to battle Imperial TIE fighters and pirates in the depths of space. All of these elements are uniquely Star Wars and reinforce the right “feeling” in your adventures.
+
+Wide Scope. The movies had a wide scope. None of the movies were confined to single locations. The characters traveled to many different locations, both across planets and throughout the galaxy. Similarly, the actions of the characters were widely felt. No matter how insignificant their actions may have seemed, they were of great importance and had repercussions throughout the galaxy.
+
+Background Material. The movies contained a large amount of background material. Plot is not all that a story needs. A story also has to occur in a setting — a place. Background material helps define this place without slowing the story down for explanation. Background material is important to the look and feel of the story, but it is not important to the plot, so its details can be left unexplained.
+
+The cantina scene in Mos Eisley, with its many quick glimpses of aliens, is a good example of background material in the Star Wars movies. In this short sequence, the immensity of the Star Wars universe is increased one thousandfold. It becomes a place that is brimming with intelligent life in a multitude of different forms; a place where Humans and aliens can exist together.
+
+These scenes add much to the movie, but mean nothing to the plot. Luke and Ben could have easily met Han and Chewbacca in the landing bay next to the Millennium Falcon, and the story would have progressed nicely, but the look and feel of the Star Wars universe would not have been the same.
+
+You can simulate these scenes by describing to the players what they see, hear, touch, smell and taste. Make sure to specify little details that stand out — the alien who seems to have three nostrils and whose eyes change color depending upon his mood.
+
+When describing scenes or acting as a gamemaster character, don’t be afraid to drop brand names of equipment and vehicles (for example, the characters shouldn’t be given “blaster pistols” when they can be given “SoroSuub 035 blaster pistols, which have a long, thick stock and are a lot heavier than standard models.”). Have the gamemaster characters talk about their history, or discuss events that happened elsewhere in the galaxy. In your descriptions, mention the names of worlds, important personalities or locations.
+
+Adding this kind of detail reinforces the realism of the Star Wars universe.
+
+Humor. The movies had an element of humor. A story is not a Star Wars story unless it has some humor in it. Think about the Ewoks, and the bickering between R2-D2 and C-3P0. A large part of their importance in the movies comes from the humor that they provide. Han Solo’s sarcasm is another type of humor that can be injected into an adventure. Other examples of humor can be sarcasm in narrations, comical aliens trying to beg for “funny light sticks” (blasters), droids pleading with Wookiees not to be disassembled and other items of humor that are inherent in a particular situation. By using humor, you can also help control the tension level of the game.
+
+For example, after the characters have leveled an entire Imperial research facility, one of the characters comments, “We’d better get going. There’s not much more we can do here.” The sarcasm is funny, and at the same time points out to the characters the consequences of their actions.
+
+Heroes. Another aspect of the Star Wars style is heroism. The characters in a Star Wars adventure should be heroes!
+
+However, while the characters can act heroic in any adventure, this is very different from having the characters actually be heroes. You, the gamemaster, will have to orchestrate plots to allow the characters to become true heroes. To do this, you will have to keep in mind several facts about heroes.
+
+Heroes are flamboyant. Not only are heroes willing to take significant risks in order to succeed, they are also willing to make those risks even greater if it will allow them to do something spectacular — in other words, heroes will show off.
+
+It is up to you to make sure that the characters have ample opportunities to take flamboyant actions. Don’t simply put them in a situation where they have to shoot at TIE fighters when you can give them the opportunity to stand on the bottom of a crippled ship that is madly careening — upside down, no less — through the atmosphere and shoot at TIE fighters with their hand blasters. This is the kind of thing that heroes will want to do.
+
+And, if the characters do this, if they take the flamboyant, heroic path and do something that has little chance of success but has a high entertainment factor, you should give them a break. Anytime a character attempts something creative and
+
+[Página impressa 188 | PDF 190]
+
+exciting enough to qualify as true heroism, that character should have a better chance at success. A good way to do this is to streamline the rules — instead of having the characters roll every round to see if they can keep their balance on the upside-down ship as it plummets to the surface, have the characters roll once or twice for several minutes worth of activity. This decreases the likelihood of a bad roll that results in tragedy.
+
+Heroes should overcome great odds. For the characters to have a chance to be heroic, they should always have the deck stacked against them. Their opponents have to be strong, and their obstacles formidable. They should not have to fight two or three stormtroopers — they should face whole squads of them. Real heroes will have sufficient skills and talents to find their way out of these situations.
+
+To give the characters the feel of the dangers that they face, you should take every available opportunity to emphasize to the players that their characters are only millimeters from death. Heroes may not die, but they should come very close.
+
+Heroes have responsibilities to others. The characters shouldn’t always start the adventure with the fate of the Rebellion or the Republic, or the galaxy, on their shoulders, but that responsibility will often be theirs before the adventure ends. Heroes are responsible for more than just their own lives. The lives of others — of helpless, innocent beings — depend on their successes.
+
+An immediate way to emphasize this is to have helpless gamemaster characters tag along behind the player characters so that the characters have to consider the safety of those around them. Using this, you can then project on them the responsibility of protecting the faceless millions whose lives are depending on the success of the characters.
+
+Heroes are remembered after their deaths. Survival is important to everyone, but reputation is more important to heroes. A glorious death that results in the salvation of millions of innocent beings could be more satisfying than continued existence.
+
+The death of a hero should be a significant event, and it should advance the story. It should be well-planned and, as much as possible, it should be a situation where the character, in an effort to save someone else, chooses a course that will surely lead to death.
+
+### Exciting Locales
+
+Use settings that evoke a sense of wonder. You could create a community situated amid dozens of cascades and waterfalls, or a crimelord’s fortress suspended above the ground by massive repulsorlifts, or a spaceport built into the sides of the cliffs of an ancient series of canyons.
+
+Try to make each place the player characters visit seem different from the others. By doing this, you can make these sights engaging and memorable for the players. For more on creating exciting locales, see the chapter on “Designing Adventures.”
+
+### Deadlines
+
+Another way to keep the players enraptured in the story is to give them a deadline. They have only four hours to rescue slaves headed for an unknown location in the Outer Rim Territories. Or maybe the Rebel Alliance needs to warn a remote outpost before the Empire arrives to destroy it, but communications are
+
+down. Or one of the player characters may have contracted a fatal disease that can only be cured by a particularly enigmatic doctor working somewhere, far far away, in the Corporate Sector Authority.
+
+When the players know they have only a limited time to accomplish their objective, they don’t waste time meandering about the galaxy, which is usually when they get bored with the adventure. You can even enforce a real-time deadline. You give the characters four hours of real time (as opposed to game time) to achieve their goal. Then, throughout the adventure, you keep reminding them about the time constraint. When you get down to the last hour, just watch them do everything in their power to help you move the story along!
+
+### Mysteries
+
+Human beings seem to possess an obsession with discovery and solving problems. If you present your players with a strange quandary that either cannot be explained by normal phenomena or lacks several key elements, they’ll do whatever they can to uncover the truth.
+
+Maybe a bounty hunter starts stalking the characters. They don’t owe anyone any money and they’re not wanted criminals, so who is after them and why? Or maybe a Rebel outpost suddenly goes silent. When the characters arrive they find no one at the base and no signs that would indicate a sudden mass exodus. What happened?
+
+Be careful using mysteries. Keep offering players pieces of the puzzle throughout the adventure so that they don’t get too frustrated and give up. If halfway through the adventure they feel that they’re no closer to the truth than they were when they started, they’ll figure that the mystery is unsolvable and forget about it, and there goes the rest of your adventure.
+
+### Personal Stake
+
+One of the best ways to engage the players is to provide them with a personal stake in the outcome of the adventure. Maybe one of their siblings has been captured by the Separatists, or a crimelord has sent bounty hunters after them, or the Republic mistakenly believes they have become traitors. The characters need to deal with these situations, although the whole adventure need not focus on that storyline. While the characters perform a supply run for the Alliance, for example, they could receive word that the pilot’s father has been taken in for questioning on his home world. Between accomplishing their mission and returning to the Rebel base, the characters could travel to the pilot’s planet to find out what’s going on and to extricate his father from the (apparently) unwarranted incarceration.
+
+Every once in while you should ask to see the players’ character sheets. Look for background information and personality traits that might lend themselves to a personal stake. If a player has written that his character is extremely competitive, for example, you could create a rival group of Clone Troopers (or smugglers, or whatever, depending on your campaign) who seek to outdo the characters at every turn. This character will do everything in his power to make sure his group succeeds more often and more quickly than these newcomers.
+
+Try to note these things during character generation, perhaps you can even use these ideas to create unique twists and turns that appeal to the individual characters, and players playing them.
+
+[Página impressa 189 | PDF 191]
+
+## GIVING OPTIONS
+
+Don’t constantly force your players to follow along the prescribed path of the adventure. They may have devised an alternate scheme for success not covered by the scenario, and you shouldn’t penalize them for their creativity. Instead you’ll have to use your judgment to run the remainder of the adventure.
+
+If the players feel that they never have a choice, that you have predetermined what their characters will do and say — and therefore, how the adventure will turn out — they’re not going to have any interest in playing. Part of the fun of a roleplaying game is the almost unlimited possible reactions to any given situation. Take that away and you’ve lost much of the reason for participating in this type of game.
+
+Sometimes the characters will have only a few choices — or at least, a few obvious choices — and that’s fine if it makes logical sense in the context of the scenario and doesn’t seem like an attempt by you as gamemaster to dictate their characters’ paths.
+
+Reward creativity. Give the players a reason to exercise their brains. The more freedom they believe they have, the more they’ll enjoy the adventure. When their characters make a mistake, they have no one else to blame it on, and when their characters succeed they feel a genuine sense of accomplishment.
+
+## THE ART OF MISDIRECTION
+
+If the players can correctly guess the conclusion of an adventure while they’re progressing through the first episode, the following episodes won’t provide much excitement.
+
+This where the subtle art of misdirection comes in. The goal here is to keep the players (and their characters) guessing and then revising those guesses through the whole adventure. You can do this in small ways: make die rolls, smile for a moment, and then don’t say anything about it; have the characters roll Perception checks, ask for their totals, and then just continue with the episode; ask a player for detailed information on how her character is going to close a blast door (“Which hand are you using?” “Do you have a weapon in your hand”), but then have the door close uneventfully.
+
+You also have the option of throwing in major red herrings. A gamemaster character starts tracking the characters. The players will immediately attempt to mesh this new person with the rest of the adventure. In reality, however, he’s just a common thief looking for an easy mark, or he thinks that one of the characters looks familiar but doesn’t want to say anything until he’s sure he’s not mistaking that character for someone else.
+
+The character could receive a death threat from a large criminal organization operating in the sector.
+Unfortunately, the message was delivered to the wrong person, and the crimelord has no interest in them. Of course, you won’t let them know that.
+
+## LOADING THE DICE
+
+The most important part of a roleplaying game is the story. Don’t let the rules get in the way. If a flubbed die roll would normally indicate that the main villain dies a few minutes into the adventure, fudge the roll. Say he just barely escaped. For this reason you should try to make all of your rolls behind a gamemaster screen or hidden from the players by some other object (like your hands).
+
+If the players make a roll that would destroy the scenario, or would make it less exciting, you can fudge the difficulty number. For example, you’ve set up a situation where the characters must pursue a fleeing Imperial spy out onto enormous struts suspended high above a duracrete floor. One player decides that her character will just turn off the lights and wait for their quarry to fall. You hadn’t thought of that possibility when you designed your adventure (or it wasn’t addressed in the published adventure), and there’s no reason the character can’t attempt such a feat. You tell her to make a security roll to bypass the computer lockout on the lighting system. She rolls high, and even though it’s enough to accomplish the task, you say that she just missed it. Now the player character will have to risk their lives balancing on the struts to apprehend the spy.
+
+Don’t go overboard with this technique. If the players suspect that you’ve been altering die rolls and difficulties, they’ll start to lose interest because it will seem that their free will has been taken away. You should fudge rules only at critical moments and you should always be fair, giving the benefit sometimes to the gamemaster characters, and sometimes to the player characters.
+
+## JUDGMENT CALLS
+
+During an adventure you’re in charge. You can always discuss rules questions or arguments with the players after the game (see the “Getting Feedback” section below).
+
+While this general guideline provides you with a great deal of power, it also gives you the responsibility of using that power wisely. You have to be fair. If a referee in a ball game started randomly penalizing one team, the other team would get extremely frustrated and eventually quit once it became obvious that there was no point in continuing.
+
+While you take the role of the villains in the adventures you run, do not think of yourself as the opponent of the players. You’re job is to make sure the players have a good time, not to
+
+[Página impressa 190 | PDF 192]
+
+beat them. While you should try to provide the players’ characters with a challenge, you shouldn’t try to devise an unbeatable adventure.
+
+Then again, if the players do something stupid, you shouldn’t coddle them. They first time they make a particular mistake you may want to alert them and reduce the damage it would have caused, but the second time you should adjudicate the error fairly.
+
+Tread carefully on this aspect of gamemastering. It’s easy to fall one way or the other. Just remember that you’re all playing this game to have fun.
+
+## KEEPING THE GAME GOING
+
+As a gamemaster, only you have the full knowledge on the intended direction of an adventure or campaign. The goals and steps needed to get to the conclusion are already predetermined and your task is to get the players to that ultimate destination. But, players will be players...
+
+Sometimes (almost always?) your players will find a way to alter the steps and perhaps even the final goal of the adventure. At these times, when your players have shown a bit more ingenuity than you expected, you have to fall back on that old gamemaster tradition of improvisation.
+
+While the very word improvisation would suggest that the activity is completely spontaneous and unrehearsed, there are many techniques you can use to prepare yourself for the process of having to improvise an adventure situation.
+
+When the players do something unexpected, jumping in headlong and simply reacting to the players’ actions can lead to some disastrous results. Careful thought and planning are what it takes to get an adventure back on course and flowing smoothly. First though, let’s take a look at what to do when the plot goes astray.
+
+### Immediate Reaction
+
+If your players have taken an unexpected jump from the planned route of an adventure, your first reaction is to steer them directly back to the plot line. Do not fall prey to the old tenet that the plot as written is absolute!
+
+Roleplaying is a mutual give-and-take between the players and the gamemaster, and putting up roadblocks in your players way or leading them by the nose back to where they “should be” leads to player dissatisfaction.
+
+If some new encounters immediately spring to mind that will eventually lead things back toward the original plot, run with them. Make up the details as you go along, but write them all down so that you can make sure you are being consistent.
+
+If the players have really thrown you for a loop, your best bet is to ask the players if you can take a ten or fifteen minute break to think things through. Try not to let this downtime last more than a half hour as you are likely to lose your players’ attention to the television, books or other distractions.
+
+While you’re figuring out how to get the adventure moving again, the players can be running out to get food, looking up some game information they were curious about, or find some other activity to entertain them for a short while.
+
+### Regrouping
+
+Once you have some time to gather your thoughts and get back to work, what are the next steps to getting the players back on course? The first priority is dealing with whatever actions the characters want to carry out next. It may be necessary to spontaneously generate a few locales and gamemaster characters to flesh out the new scenario.
+
+In this kind of situation, you’re advised to go for stereotypes or cardboard cut-out characters that are easy to conceptualize and describe. Don’t worry about making this new situation the best scenario you’ve ever run; instead, try to make it interesting enough to hold your players’ attention and get them to the plot point they need to reach.
+
+Hopefully, the players haven’t taken a course so wild that a major rethinking of the plot is needed. More than likely this won’t be the case, as the players should have a feel for what the major goals of an adventure are before they are too far into it.
+
+The first step is to take a look at the whole overview of the adventure and see how far the characters have strayed. Every scenario, no matter how well written, has points where the story can diverge and this is exactly what your players have done. They have found one of these divergent points and decided to take a route not accounted for.
+
+This does not make their new direction implausible, just unexpected. You have three options:
+
+• Retrofitting
+• Branching
+• Winging It
+
+Retrofitting. Direct retrofitting is the process of changing an “old” plot to fit a new situation. It involves changing the plot the least amount possible while still getting the players back into the story.
+
+Most of the time, adventures revolve around a “who” or a “what,” as opposed to a “where.” If the plot you’ve written calls for the characters to go to Cloud City and the players decide that they want to tromp off to the Isen Asteroid Belt, they’re going to go there. However, ask yourself if you can retrofit the “who” or the “what” of the adventure to that new location.
+
+Can the major villain have gone there? Can you have the characters come across that vital information in the new setting?
+
+[Página impressa 191 | PDF 193]
+
+Can you create one or two new encounters in this new location that gives the characters information leading them to the location they were supposed to visit in the first place — if they uncover a fraction of that information and learn that they have to go to Cloud City for the rest of the data, the players have been directed to where you need them to go. Can you have them meet a few traders who give them information that leads them to Cloud City, maybe on a completely unrelated matter, and then once they go there, have them bounce right back into the thick of the story?
+
+Branching. This method is called “branching” because it is a lot more convoluted than retrofitting. No matter how many smaller branches there are on a tree, and no matter the twists and turns on these “branches,” they all lead back to the “trunk” or the core of the story. Likewise, the players will in time get back to the story.
+
+Branching takes a little more effort but has the advantage that it is a less heavy-handed approach to dealing with these situations.
+
+Take the players’ new idea and develop it as much as possible. How many different events can happen as a result of their actions and how can these results lead back to the plot?
+
+The players have come up with a new plan, and if it’s reasonable, it should have an opportunity to succeed. Take whatever locale the players have decided to visit and visualize it in your mind and jot down a few notes. Make sure to note the general condition of the location: the sights, the sounds, the people in the area. Is it clean or dingy? Noisy or quiet? What stands out as your mind’s eye looks around the place? The furnishings, the smells, the lighting, noteworthy equipment and props all add to the overall feel of a specific location. Take the time to sketch out a general layout of the area if necessary and keep it handy.
+
+The next step is to take some of the characters visualized in the scene and give them depth and personality. If appropriate, use a character template for each of the notable characters and make some quick notations as to species, skills, general outlook, behavior and quirks. Normally, you will only need one or two “personalities” for such an encounter, and the rest of the people in the scene can be background scenery and unimportant to the action of the story.
+
+If a template doesn’t fit your conception, make a quick list of notable skills and attributes that fit the character’s general conception. Make sure you give every necessary character a name. It is one of the easiest things to overlook, but can also be one of the most difficult things to come up with on the spur of the moment.
+
+After the gaming session is over, take the time to further flesh out the characters if the player characters are going to have continuing contact with them in the future. Other things to note are roleplaying notes for the character like accents, physical features, habits, behavior, props and equipment. Easily created on the spot, all of these are easily forgettable after the session is over.
+
+With this technique, the gamemaster gives the players an interesting new encounter or story, but they still get back to the plot.
+
+Winging It. This can be the hardest option, but sometimes it turns out to be the most entertaining. Rather than trying to get
+
+the characters back on the plot, an idea will jump up in front of you and demand to take precedence. Go for it.
+
+Take the opportunity to make this new story fit properly into the campaign. Since the players won’t know the particulars of an adventure, they’ll never know that you changed things in mid-stream.
+
+This gives you the freedom to take new suggestions from both yourself and the players and expand on these ideas. This can lead to all kinds of complications if not thoroughly planned out, but sometimes the new story is so entertaining and exciting that it is worth the added strain and pressure of making up the new story.
+
+It helps to go through your collection of old gamemaster characters and pick one especially suited for the adventure. You might also want to use a familiar plot from an earlier adventure and update it to the new setting, maybe even making the new adventure a sequel to what happened in the original adventure.
+
+This type of approach relies on the fluidity of roleplaying and that flexibility is a key ingredient in any game.
+
+### Prepared Improvisation
+
+Your players, as they adventure and gain Character Points and experience, will have the opportunity to try things that are more and more out of the realm of the realistic. This is especially true of those characters who have training in Force skills. You must learn how to deal with these situations.
+
+Though seemingly a contradiction in terms, prepared improvisation is one of the most useful tools a gamemaster has at his command. A little preparation can head off a lot of scrambling around and on-the-spot creation of scenarios and characters.
+
+Whenever you get ready to run an adventure, whether you bought it or wrote it yourself, take the time beforehand to give the adventure a thorough read. Become totally familiar with all the elements of the adventure: the locales, the gamemaster characters, the overall plot and all the scenes that make up the total adventure. Once you are familiar with the adventure it becomes much easier to roll with any player changes and identify where these changes might occur.
+
+To find the possible divergent points of the adventure, sit down and scrutinize where you, as a player, might take actions that change the adventure. Are the characters expected to do the logical thing? What encounters can you throw in to get them back on to the story, or how can you encourage the characters to do what is expected of them?
+
+As always, take notes of where you find these and detail the possible changes at each of these points. This gives you a good basis on what types of encounters you may have to come up with during the course of running the adventure.
+
+Having identified the possible trouble spots, consider as to whether your players would actually take advantage of these jumping off points. Knowing how your players will react to a situation can give you clues as to when and where it will become necessary to improvise and fill in the holes. Once you have made your best determination as to where your players would deviate from the given plot, look at all the alternatives for that situation. Choose one or two of the alternatives that seem most likely and create these as possible encounters if the need arises.
+
+[Página impressa 192 | PDF 194]
+
+As with improvising on the spot, the same guidelines apply in the creation of the encounter. Fully detail the aspects of the encounter that you are going to need, such as gamemaster characters, the general area of the setting and all the noticeable details about the locale and the people around it. It is always better to have a little too much detail than not enough, as you can choose to leave things out much easier than you can create information on the fly.
+
+Another advantage you have with preparing ahead of time is you can also deal with player variations from the plot by putting up a series of little roadblocks. These deterrents need not be heavy-handed in their execution since they can be subtly foreshadowed throughout the early stages of an adventure.
+
+Pregenerated Gamemaster Characters. One of the main facets of prepared improvisation is to have a cast of characters ready for any occasion. Players will constantly want to get involved with characters placed only in a locale for the purpose of window dressing. However, the players do not know ahead of time that these characters are unimportant to the adventure.
+
+As a player, it’s easy to assume that any character the gamemaster describes is fair game as far as plot threads go. With prior preparation, any character can be instantly given life and relevance.
+
+Take the time between sessions just to create background characters that can be set to fill a variety of situations. Create a number of these characters using the standard quick write-up formats presented in the “Gamemaster Characters” chapter. Add a few notes and keep these characters on-hand to slip into an encounter when the time is right.
+
+Rather than having to create characters from out of thin air, you can concentrate on getting the story back on track while having fun playing a character you already have a thorough understanding of.
+
+When you do use such a character, keep a note of this, and mark down any history, personal behaviors or other pertinent data that can be used when you play the character in future encounters. Players will remember familiar characters and will look for them when they return to a given locale.
+
+You might also want to create multiple versions of the same “type” of character. We know that there are thousands of smugglers in the galaxy, so rather than putting all of your time into creating one really detailed smuggler, come up with five or six unique smugglers that you can use for different situations and encounters.
+
+Pregenerated Encounters. Another facet of prepared improvisation is that every planet will have a certain number of shops, businesses and other establishments that are common to every other world in the galaxy. These businesses will not vary too much from place to place, and therefore can be written up well in advance of the time they may be needed to fill out an adventure.
+
+The people who populate an encounter are as important as the encounter locale itself. Some ideas as to possible encounter locations are cantinas and bars, droid repair shops, salvage yards, ship repair docks, governmental offices and local law enforcement offices. Take the time to detail these and several others ahead of time and prevent a lot of headaches when it comes to having to generate a new encounter from scratch.
+
+The easiest way to get a feel for one of these establishments is to actually visit its modern day counterpart and take notice of what goes on around that area. For example, a spaceport could easily be created after a trip to a harbor or airport and observing the general goings-on. You could probably come up with a novel Ithorian herd ship after spending some time at a trendy shopping complex (“trendy” because only the wealthy can afford to visit an Ithorian herd ship).
+
+Be sure to take note of the general condition of the area. If it’s busy, are there maintenance crews working? Do they work all day or just part of the day? How diligent is the security? Are the people relaxed or is there a hurried feeling to their activities? Take special note of those people of importance in the area and those that would make good gamemaster characters. Every locale has its own style and progression of hierarchy. Who are the important people and who do they report to?
+
+### Subplots
+
+Subplots are story threads that keep on showing up in adventure after adventure. They normally start as a small part of one adventure, and then are reintroduced in later adventures, always providing a little more information than before.
+
+When you find yourself improvising an adventure or encounter, you may want to drop one of your continuing subplots into the story or create a new one on the spot.
+
+Subplots are reasonably easy to introduce through the use of gamemaster characters generated to fill these improvised scenarios. Since every person has there own specific contacts and problems, certain subplots could be tagged onto these characters. One possible way to keep subplots available is to note with every pregenerated character or encounter the possible subplots tied to this character.
+
+Another way is while reading and becoming familiar with an adventure, log the possible places to add new plot lines, very much like identifying the areas for possible player variance from the plot.
+
+Subplots are what carry a continuing story from adventure to adventure — they are the little segue needed to move the players from one adventure to another. Any information the character gleans in an adventure from a character is fair game for another adventure.
+
+As gamemaster, if you feel that a certain subplot fits well as an addition into an adventure, or you notice a good opportunity to create one on the spot, take the time and do so.
+
+### Starting from Scratch
+
+The best way to learn how to improvise is to practice at it. At some time, you might want to suggest a night of “impromptu gaming.” Tell them that you want to run a scenario with no preparation — just bring dice, and you’ll make it up as you go along. Make it clear that this will not be part of the campaign (unless, of course, it goes exceptionally well).
+
+At this point, try to come up with a basic plot line or have one the players suggest a story. Perhaps it will be something as simple as “the hyperdrive is busted... again.” Try to devise a scenario on the fly, and solicit suggestions from the players about what they’d like to see.
+
+These ad-lib scenarios tend to result in the most memorable sessions for both players and gamemasters, as everybody’s creative juices are flowing freely.
+
+[Página impressa 193 | PDF 195]
+
+Start by giving the players a situation for them to deal with. Give them an opening scene and let them react however they want to. If they say, “We want to hire mercenaries to protect us” then ad-lib a scene where they spread the word in cantinas or where they go to a company that can contact the mercenaries. The challenge here is to build a story with the players instead of trying to control their actions.
+
+• Work with your players towards developing a workable, cohesive story line. There are more of them than you and therefore a lot more ideas on their side of the table. Take what they offer and consider it carefully.
+
+• Don’t be afraid to take your time and deliberate over important decisions. Snap judgments can come back to haunt you. If a new weakness has been discovered in a certain type of spaceship, expect the players to exploit that weakness every time they see it.
+
+• Take notes during and after the game session. Have everyone make comments about what they did and didn’t like. Have them suggest alternative ways of dealing with situations.
+
+After the game, think about the plot and try to come up with better ways of handling the situation. As a whole, free-style improvisation can add life to a campaign that is going flat and in need of some inspiration.
+
+Allowing your players to help in the creation of new adventures can re-energize your players’ interest and add to the liveliness of their roleplaying. After completing an adventure, take the time to see what situations your players liked and disliked and what possible plot threads they would like to follow up.
+
+It can be quite surprising how many minor gamemaster characters introduced through improvisation can become player favorites. Taking the time to discuss the adventure as a whole
+
+and finding out what your players liked, can shed light on what things you are doing right and wrong as a gamemaster and also gives you clues on how to better handle unforeseen situations in the future. This kind of technique may seem difficult at first, but it will help you to perfect your ability to improvise during “normal” gaming.
+
+## IT’S OKAY FOR
+
+### THE CHARACTERS TO FAIL
+
+Characters always run the risk of failure in their adventures. Most gamemasters assume that failure in an adventure automatically equates with the death of some or all of the characters. In fact, there are many alternatives to death that you can use.
+
+It is a good idea when the characters begin an encounter for you to consider what is at stake in this situation. ls it a situation that could dramatically justify the death of a character? Or could it only justify injury or a loss of property? Set a limit on what can be lost in this situation, and unless the characters do something really stupid, don’t allow them to suffer beyond that limit — no matter what the dice say.
+
+Of course, stupidity can and should be punished. If the characters aren’t thinking, or if they insist on entering into dangerous situations that don’t advance the story, then you are under no obligation to protect them. Let the dice fall where they may.
+
+Don’t let the players get cautious — or bored. If you follow the letter of the rules in every encounter, then the odds are that characters who act heroically are going to die in a very undramatic fashion. If the players find that their characters die every time they try something heroically dangerous, then they will become cautious, and cautious players make for a boring story.
+
+One of your main jobs is to ensure that the game doesn’t become dull, and one way to do this is to show the players that, although their characters will come close to death, there is always a chance for survival.
+
+### Making the Most of Failure
+
+Most players — and gamemasters — assume that failure is an end. They think that the story is “over” because the player characters couldn’t save the senator in time or they were defeated by the pirates or they made a wrong turn and parked their landspeeder in the middle of an Imperial complex. But this is far from the truth. In a good adventure, failure is only the beginning.
+
+### Redemption
+
+Characters who fail to fulfill their goals in an adventure can often be given a chance to redeem themselves. This doesn’t mean that you should allow the players to run through the adventure again, correcting the mistakes that they made the first time. Instead, you should take all the unresolved plot points from the original adventure and restructure them into an entirely new adventure.
+
+For example, Rebel Commander Zeke Rondel orders the characters to Kailor V to search for information about a secret Imperial installation. Despite all their efforts, they cannot find the information and are forced to return to Commander Rondel empty handed. The follow-up adventure, which allows the characters to regain their stature, could be something like this:
+
+[Página impressa 194 | PDF 196]
+
+The characters, as punishment, are assigned to a supply freighter. While loading the freighter in one of the outer systems, the characters capture an Imperial spy who carries information about the secret Imperial installation. The characters then decide to hijack the supply freighter and go directly to the secret installation to collect the information needed by the Rebellion.
+
+### Capture
+
+Any event that ends in the capture of the characters could be followed by a sequence of encounters that offers a chance for escape. The process of escaping — as seen in the capture and rescue of Han Solo — could easily be as long, complicated and exciting as was the adventure which led to the capture.
+
+### Damaged or Lost Equipment
+
+In some encounters, failure could result in a loss of valuable equipment. This loss could then lead to an adventure in which the characters attempt to repair or replace the equipment. This procedure wouldn’t be as simple as going down to the corner starship repair shop. Maybe the characters will have to travel to a distant system in order to locate the necessary materials. Or, perhaps they will have to work their way through a complex planetary bureaucracy to gain permission to have the repairs performed.
+
+For example, the freighter carrying the characters is damaged and forced to land on the surface of a barren, uninhabited planet. The characters then have to determine what is wrong with the ship, how to fix it, and how to acquire the necessary materials on this empty planet.
+
+### Injury
+
+Injuries are no real worry when you’ve got plenty of medpacs or if you’re minutes away from a bacta tank. But what happens when an injury occurs in the middle of nowhere or on the surface of a low technology planet? The attempt to get a character to a location where proper medical care could be provided can become a very exciting interlude in an adventure, particularly when the character has only a limited amount of time to live.
+
+### Complications
+
+The idea of using a failure as a basis for further adventure should be kept in mind whenever you use the complications aspect of the Wild Die. A complication is a not simple failure. Rather, it is a failure that has repercussions that extend beyond the current skill use.
+
+Whenever you are determining a complication, you should consider the ways in which it might expand the scope of the adventure; that is, instead of curtailing the actions of the characters, it should ultimately extend them.
+
+# ENDING ADVENTURES
+
+Adventures can last a single night or can span several game sessions. At the end of a scenario (or the end of the game session), you may wish to distribute rewards.
+
+## REWARDS
+
+Make sure that what the characters receive for their actions matches what they went through during the adventure.
+
+Characters may be awarded money, equipment and weapons for their activities. They may also make contact with an important gamemaster character — someone who can save their skins in a future adventure.
+
+Characters receive Force Points for particularly heroic actions at appropriate times (see “The Rules” chapter).
+
+Characters also receive Character Points at the end of adventures, which can be used to increase skills or can be saved for later adventures.
+
+As a general rule, a character should receive between three and 15 Character Points for each adventure. The award depends upon several factors:
+
+[Página impressa 195 | PDF 197]
+
+• How Well The Characters (and Players) Did. This is a reward for how the group did as a whole. If the players solved puzzles, came up with great solutions, and made sure that everyone had fun, give them six to eight Character Points; if the players did very poorly, they should only receive three or four Character Points.
+
+• How Well Each Individual Player Did. If certain players were exceptional — very clever and went out of their way to make the game fun — give the player an extra two or three Character Points.
+
+• Whether They Cooperated. If the players worked well as a team, they should get two to four extra Character Points. If they did nothing but argue (as players, not as characters; characters traditionally hassle each other during the game), they shouldn’t receive points for working together.
+
+• Did They Play In Character? If a player roleplayed his character well, give him three or four Character Points. If the player didn’t play the character correctly — such as having his Jedi commit evil at every chance — don’t give him any points for roleplaying.
+
+• Did All of You Have Fun? If all of you (yes, this includes the gamemaster) had a good time, give the players as many as three or four Character Points as a way of saying, “Good game.” If players were difficult and never tried to get into the spirit of things, don’t give them these bonus points.
+
+Adventures can have greatly varying length. These award guidelines are for an average adventure spanning two nights of gaming, or four or five fairly long episodes. If an adventure runs over several sessions, the gamemaster may want to give partial awards during the adventure so the players don’t go too long without getting anything to show for their efforts. Final Character Point awards should be correspondingly increased to reflect the length of the adventure. On the other hand, if playing one- or two-episode quick adventures, you should decrease the Character Point awards.
+
+No adventure should award any character more than 15 Character Points at one time. If you think this is going to happen, then award some of the points during the adventure. You might even give them a way to spend them on skills or attributes during the scenario. In The Empire Strikes Back, part of the adventure has Luke learning Jedi skills from Yoda, and Han, Leia, Chewbacca and C-3PO working on the Falcon. They all have a chance to use the points they earned during the Hoth battle and the escape from the Empire.
+
+Other rewards, such as cash, equipment, or other material objects, are given at your discretion. Again, try not to be too lavish in giving out “stuff” — your characters need something to work for later. In the movies, rewards of friendship, honor, and camaraderie were more important than money or equipment. Of course, a cash advance now and then doesn’t hurt...
+
+## CLIFFHANGERS
+
+If an adventure will continue over a few game sessions you may want to end each night on a cliffhanger so that the players will look forward to the next part of the scenario. At first they may resist such a tactic, but after a few cliffhangers they’ll come to enjoy and expect it. Think of it as throwing up a “to be continued” line at the end of the night’s episode.
+
+For example, the player characters race across the galaxy to stop a rogue Rebel officer from betraying the Alliance. Just as they rush into the room where the traitor is supposed to make the exchange, a dozen stormtroopers appear from hidden alcoves and point heavy blasters at the characters. The misguided Rebel turns and says, “What took you so long?” and the session ends. Don’t even let the players ask any questions about the scene. Just tell them they’ll have to wait until next time.
+
+## SETTING UP THE NEXT ADVENTURE
+
+The end of one adventure could be the best time to infuse elements of the next episode in the characters’ lives. Throwing in a character who fits prominently in a subsequent scenario can make the galaxy seem more tied together, and therefore, more real. In literature and screen-writing, this technique is called foreshadowing. You incorporate images, characters, events, or settings of a future adventure into the current scenario to give the sense of concurrent and over lapping story lines.
+
+You can even “end” an adventure by playing out the first scene of the next scenario. The players leave that night’s game session with a hint of what’s to come, and over the time between games their excitement about the next adventure gradually grows. You’ve given them something to think about, and they’ll envision different ways to deal with the situation you’ve presented and left unfinished.
+
+At the conclusion of any game session just remember to follow the age-old rule: always leave’em wanting more!
+
+## GETTING FEEDBACK
+
+Sometimes an adventure doesn’t thrill the players like you expected it to when you were first reading or creating it. As you run a scenario you should pay attention to the players’ reactions to the various scenes. Did they stand up and all try to talk at once during the chase? Did they go comatose when they reached the puzzle-solving encounter? The players words and actions can convey a great deal of information about which parts of the adventure they enjoyed and which parts put them to sleep.
+
+You also have to gauge their reactions to your judgment calls and improvisation. Don’t take any negative responses as criticism. It takes a lot of work to plan and run a game, and you can’t always please everyone no matter what you do. Instead, view player reactions and comments as hints as to what you can do in the next adventure that will keep them on the edge of their seats.
+
+The best way to confront such a problem is to ask the players what they did and didn’t like. You could even have them write you an anonymous note with a list of their favorite and least favorite scenes. Just don’t forget to listen to what your players have to say. They may want to take the game in a different direction than you do. Compromise. Make sure you and your players have fun. If not, either you or your players will eventually give up and find something else to do during those precious spare moments.

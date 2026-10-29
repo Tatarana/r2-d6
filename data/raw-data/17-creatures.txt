@@ -1,0 +1,862 @@
+CHAPTER 17: CREATURES
+(Páginas impressas 318-332 | PDF 320-334)
+
+[Página impressa 318 | PDF 320]
+
+17
+
+# CREATURES
+
+In my time with the Rebel Alliance, I have seen many wonderful and unusual things, from vast fleets of starships engaged in fierce battle, to dens of iniquity that would make the most grizzled Corellian pirate uneasy.
+
+One of my missions after the Battle of Endor was to examine the headquarters of an Imperial governor in Parmic sector; the “Laramus Base Irregulars” had finally succeeded in toppling Moff Abran Balfour, and my job was to sift through Imperial records captured in the battle.
+
+Upon arriving at Spice Terminus (the location of Balfour’s private fortress), I discovered an unusual feature of the Moff’s lair: a complete menagerie of non-sentient, exotic creatures. As I reviewed Balfour’s records, I inadvertently triggered some kind of automated defense mechanism; a trapdoor opened up beneath me and sent me spiraling into the heart of his zoo.
+
+I found myself surrounded by a bewildering array of animals — hissing, purring, growling, thrashing, flying — that seemed to cover every evolutionary possibility. According to the report filed by the Laramus Irregulars, they could “hear Na’al’s screams in vacuum.”
+
+According to General Cracken, this makes me “uniquely qualified to discuss non-sentient life forms.”
+
+I will never understand military humor.
+
+CHAPTER SEVENTEEN
+
+[Página impressa 319 | PDF 321]
+
+Creatures in game terms are non-sentient living beings that do not use rational thought processes to interpret their environment; instead, creatures rely on instinct.
+
+This does not mean that all creatures are stupid; many are quite clever, and can even learn commands and simple tricks, but they are not considered truly intelligent: they are essentially animals.
+
+Creatures do not possess the same number of attributes as sentient species; creatures are limited to Dexterity, Perception and Strength.
+
+## ROLE OF CREATURES IN THE GAME
+
+Creatures can be used in a Star Wars roleplaying session in a number of ways. Most often, creatures are overlooked, viewed simply as opponents in a combat situation. While this view is not without precedent (witness the fearsome Wampa from The Empire Strikes Back), these exotic animals can be useful in a variety of ways. At the end of this chapter are a number of common creatures that gamemasters can use to spice up a roleplaying session.
+
+### Transport and Pack Animals
+
+One of the first (and most memorable) creatures seen in the Star Wars trilogy is the Bantha, a massive, horned beast of burden. Animals of this type can be extremely useful to a gamemaster trying to give a setting a more primitive feel; the players will know their characters are in a wild, untamed region if they are forced to rely on pack animals to get from place to place, instead of using more high-tech transportation.
+
+### Pet
+
+Some animals can be kept as pets, and even trained to perform useful tasks. Perhaps a player character can train an agile creature to fetch small items that have been dropped, or to screech a warning when an unfamiliar person approaches. While the training of such a creature should not dominate a roleplaying session, a pet can add color and humor to a Star Wars game.
+
+### Food
+
+One often-overlooked use for creatures in the roleplaying game is simply food. When stranded on an alien planet, characters may be forced to hunt to replenish dwindling food stores. These scenes can be roleplayed out to great effect, and can often lead to some exciting chases and plot twists. Animal hides and bones can also be useful in emergencies, particularly if the player characters need to fashion simple tools.
+
+### Predators
+
+Perhaps the most common “game use” for creatures, predatory animals can be used to add some surprise and excitement to a roleplaying session. Canny gamemasters can use these encounters to complicate matters for the players. For example, as the player characters sneak through an alien forest to ambush an Imperial patrol, they are suddenly attacked by a cluster of ferocious vine snakes. The characters must deal with the situation quietly or risk alerting the Imperials to the impending ambush.
+
+## ENCOUNTERS
+
+When characters visit new worlds they will inevitably encounter the native life forms. The reaction of these forms depends upon how familiar the characters are to the creatures: if the characters are similar to predators, herbivores are likely to flee. If the characters appear similar to the prey of a predator, they may be attacked. Particularly territorial or brutal predators might attack the characters simply for being in their territory. Some life forms will ignore the characters completely.
+
+Gamemasters are encouraged to use creatures that steal “shiny objects,” (like blaster power packs or credit vouchers), packs of running animals that storm through the characters’ camp, or anything else that may surprise the player characters.
+
+## GAME STATISTICS
+
+All creatures in the Star Wars roleplaying game have a number of game statistics. These are “average” stats — individual creatures can vary considerably. They are listed as follows.
+
+Type: A quick summary and classification of the creature.
+
+Attributes and Skills: Non-intelligent creatures have only Dexterity, Perception and Strength attributes. Some creatures have skills, such as brawling, climbing/jumping or swimming.
+
+Creatures use their Strength or brawling skill to hit in combat, as well as their Strength to determine damage. (Some creatures have claws or teeth which can do extra damage; they’re listed under “Special Abilities.”)
+
+Special Abilities: These listings note any special abilities or natural tools that help the creature. Special abilities may include claws, armor, the ability to breathe water or any number of other tools or abilities.
+
+Move: The average Move for the creature. If the creature has two or more prime modes of movement, all will be listed.
+
+Size: A common size range for adult specimens of the creature.
+
+Scale: Normally creatures will be “creature” scale (which is the same as “character” scale). This listing will be given only if the creature is not creature scale.
+
+Orneriness: If the creature can be ridden, an orneriness code will be listed. This die code is rolled against the rider’s beast riding skill to see if the rider can maintain control of the creature in dangerous situations.
+
+# CREATURES OF THE GALAXY
+
+This section contains sample beasts from the Star Wars feature films, the expanded Star Wars universe, and even some original creations. Each description includes statistics for a typical member of the species.
+
+## ACKLAY
+
+The acklay is a non-sentient carnivore native to Vendaxa. Acklays have sharp claws, thick skin, and average 3 meters tall. Due to these attributes, as well as the species’ ferocity, acklays are often exported from Vendaxa to be used in gladiatorial combat. The creatures can be found on Geonosis, where they are commonly brought in to fight other creatures — and sentients — in the Petranaki arena.
+
+[Página impressa 320 | PDF 322]
+
+Though acklays live underwater, they can go on land to hunt, which they frequently do, as the lemnai, a creature that lives on the plains of Vendaxa, is their main source of food. As they reside in the oceans of Vendaxa, their eyes enable them to see in darkness, although they are near-sighted. Despite their crustacean-like nature, acklays also have characteristics possessed by reptiles, such as their powerful jaws filled with sharp teeth. The acklay has a tough, leathery skin that ranges in color from green to brown, another trait from its reptilian heritage. Its belly is more vulnerable than other parts of its body, as the flesh covering it is not as tough as it is elsewhere. Acklays have a bony crest around their neck, used for both intimidation and protection.
+
+Acklays have small stomachs, but are capable of expanding them when necessary. They have a high metabolism, which gives them substantial amounts of energy, but also causes them to starve quickly.
+
+Each acklay has six deadly claws, used for both pinning an opponent in combat or slicing them. Their limbs are long, allowing them to strike at enemies from a distance. While their claws — actually fingertips covered by hardened skin — themselves have no feeling, hairs on their bodies allow the creatures the sensation of touch. These cilia also enable an acklay to sense the neuro-electric energy of other life-forms. The acklay’s exoskeleton is strong enough to be used by some cultures as chitinous personal body armor. Although not high tech, it is occasionally used as a trophy item.
+
+Acklays can be Force-sensitive, although this is an extremely rare mutation. Such creatures can teach themselves to use the Force and can fire Force lightning from their mouths.
+
+#### ACKLAY
+
+Type: Aquatic Predator
+DEXTERITY 1D+1
+PERCEPTION 2D+1
+
+Search 6D STRENGTH 7D
+
+Climbing/jumping 8D Special Abilities:
+
+Armor: The natural armor of the acklay grants it a +2D bonus to Strength when resisting physical damage.
+Bite: Does Strength+2 damage.
+Claws: Do Strength+1D damage.
+Exceptional Reflexes: Acklays gain a +1D bonus to all
+Perception rolls made to determine initiative.
+Resistant to Radiation: Acklays gain a +1D bonus to Strength when resisting the effects of harmful radiation.
+Move: 12
+Size: 6 meters long
+
+## AIWHA
+
+A giant flying creature that lives on watery planets such as Kamino and Naboo, the aiwha uses its large wing-fins to swim underwater and to fly through the sky. Kaminoans keep large herds of aiwhas to serve as domesticated riding beasts, since the creatures can traverse the perpetually stormy seas of Kamino with relative ease. The Gungans of Naboo train the beasts to provide airborne transportation and use them in war for reconnaissance patrols and as bombers. Given the striking similarities between the two species, the aiwhas and the thrantas of Alderaan are believed to share a common ancestor, although no relation has been conclusively proven.
+
+#### AIWHA
+
+Type: Aquatic herd animal
+DEXTERITY 1D+1
+PERCEPTION 2D+1
+STRENGTH 6D
+
+Swimming 8D Special Abilities:
+
+Slamming: Aiwhas can slam against an opponent, doing STR+2D damage.
+Move: 20 (swimming or flying)
+Size: 20-30 meters wingspan
+Orneriness: 1D
+
+## BANTHA
+
+Banthas are large, oxygen-breathing, carbon-based herbivores adapted to plains environments. Adults stand two to three meters at the shoulder, the male being slightly larger than the female. Paired spiral horns grow from the skulls of males.
+
+Banthas are extremely adaptable animals, surviving comfortably in climates ranging from deserts to tundra, and have been known to go weeks without either food or water.
+
+No one knows what world banthas originally came from. They have existed since prehistoric times on at least a dozen planets in the galaxy. On the planets where banthas thrive, they have established a niche in the planetary ecology. Because banthas have existed on so many different worlds for so long, a certain amount of genetic drift is to be expected — and, indeed, it has occurred. Bantha subspecies vary considerably in size, coloration, social grouping, behavior, and metabolic specifics.
+
+Wild bantha herds thunder across many worlds. Bantha herders raise the docile beasts for food and clothing. In many systems, travelers can find restaurants that serve bantha steaks, and bantha-skin boots and cloaks are popular accessories among the upper classes.
+
+[Página impressa 321 | PDF 323]
+
+Because of their great size, strength and adaptability to harsh climates, banthas make excellent beasts of burden. Many inhabitants of dusty Tatooine employ the bantha as a mount and pack animal, including the elusive and dangerous Sand People.
+
+Banthas are peaceful herbivores with few natural enemies. In the wild, they fight only in defense of their young and the herd. When attacked, banthas usually flee. When trapped, or when young banthas must be defended, male banthas form a circle around their calves and cows. They attack by lowering their heads and tossing their horns.
+
+Some domesticated banthas have been trained as war animals. War banthas charge the enemy, trampling them underfoot. Many people will encounter domesticated banthas as beasts of burden or mounts. As mounts, they are controlled by a drover, who transmits his commands to the beast by tapping the bantha’s head and flanks with a stick. A bantha can carry up to 500 kilos of cargo, or a drover plus up to four other characters. The rocking gait of the bantha has been known to cause motion sickness in riders.
+
+#### BANTHA
+
+Type: Domesticated pack animal
+DEXTERITY 2D
+PERCEPTION 2D
+STRENGTH 8D
+Special Abilities:
+
+Horns: STR −1D damage
+Trample: STR damage
+Move: 5
+Size: 2-3 meters at the shoulder Orneriness: 2D
+
+## BELDON
+
+Beldons are among the largest animals in the galaxy. These immense floaters appear as huge gas bags riding on the wind currents in the colorful Bespin sky.
+
+Theories persist that beldons give off natural tibanna gas, and as such, these animals are protected by law. They are gentle animals, sometimes traveling in herds, feeding off the algae and nutrients that lie suspended in the clouds.
+
+#### BELDON
+
+Type: Atmospheric floater
+DEXTERITY 1D
+PERCEPTION 4D
+STRENGTH 9D
+Special Abilities:
+
+Electrolocomotion: Beldons generate an electrical field which allows them to maneuver in the clouds of Bespin.
+Electrolocation: Beldons are sensitive to disturbances in the electrical field surrounding them. They have effective scan sensors capability of 2km/1D.
+Move: 70; 200 km/h
+Size: 800 meters to 10 kilometers Scale: Walker
+
+## CORELLIAN BANSHEE BIRD
+
+The Corellian banshee bird is a dangerous avian predator that gets its name from its distinctive wail. The screech of a banshee bird can be heard from miles away, and the creature typically uses it to flush out hidden prey as it swoops down on a hunting ground. On Corellia, banshee birds are often sought after by wealthy individuals and off-world nobles as pets; like many other birds, banshee birds can be tamed by a skilled trainer and made into relatively domesticated creatures.
+However, unlike other birds, banshee birds cannot be kept caged for any significant amount of time; they are extremely claustrophobic creatures, and as a result those who do have them as pets usually keep them in large, open spaces (such as an aviary) in order to allow them to stretch their wings and fly. Corellian banshee birds are fast and dangerous predators but make good companions, because they are loyal to those who treat them well and vicious against anyone they perceive as a threat to them or their masters.
+
+#### CORELLIAN BANSHEE BIRD
+
+Type: Avian predator
+DEXTERITY 4D+1
+PERCEPTION 2D
+
+Search 5D
+STRENGTH 2D+1
+Special Abilities:
+
+Claws: Do Strength+2 damage
+Low Light Vision: A banshee bird can see twice as far as a normal human in poor lighting conditions. The gamemaster should allow Corellian Banshee birds to make the appropriate Perception-based skill checks at a lower difficulty than normal human characters. Wail: The banshee can emit a loud wail that disorients opponents. Nearby targets must make a Difficult willpower roll or suffer a cumulative −1 penalty to all actions. This is a temporary mind-affecting effect.
+Move: 20 (flying)
+Size: 2 meter wingspan
+
+[Página impressa 322 | PDF 324]
+
+## CRACIAN THUMPER
+
+The Cracian Thumper is the galaxy’s most widely used land mount. Originally a native of all five planets in the Craci System, the thumper has been exported to most civilized systems of the galaxy. It is used as a versatile mount for military operations by the Rebel Alliance, and as a racing mount by residents of more urban areas. A Cracian Thumper is bipedal, with powerful hind limbs, smaller forelimbs, and a thick tail it uses for balance and defense. Thick, long fur covers its body in colder climes, but is shed on warmer planets. Racing thumpers are typically shaved to reduce weight and to give the creatures a sleeker appearance.
+
+The beast is known for its agility, intelligence, and versatility; however, above all else, thumpers are known for their stealth. Cracian Thumpers have large feet that cause most observers to mistakenly anticipate that the creatures will make loud, thumping sounds as they run. On the contrary, the thumper is exceptionally quiet and makes an excellent mount for stealthy land operations.
+
+Although they are herbivores, Cracian Thumpers possess potent defenses: sharply clawed front and rear limbs, and a powerful tail. Thumpers are capable of lashing out with their rear claws without breaking stride, or of knocking the heads off of unlucky stormtroopers with their muscular tails.
+
+For animals, thumpers are also fairly intelligent. They are easily trained for a variety of uses and are particularly good at recognizing simple patterns; for example, the Rebellion teaches their thumpers that humanoid shapes in hard, all-white shells are the enemy. A thumper is typically assigned one rider as a trainer in order to take advantage of the creature’s naturally loyal disposition. They can carry up to 110 kilos of cargo, or a rider and up to 50 kilos.
+
+#### CRACIAN THUMPER
+
+Type: Bipedal land mount
+DEXTERITY 3D
+PERCEPTION 3D+2
+
+Sneak 4D+2
+STRENGTH 3D
+Special Abilities:
+
+Claws: STR+1 damage
+Tail: STR+1D+2,
+Silent Movement: Thumpers can move very silently, adding 1D+2 to sneak attempts if they move at high speed or slower.
+Move: 12
+Size: 1-1.8 meters at the shoulder
+Orneriness: 1D
+
+## DEWBACK
+
+Dewbacks are large, oxygen-breathing, carbon-based lizard-like omnivores native to Tatooine. Adults stand between as high as two meters at the shoulder. They are active during the warm
+
+daylight hours and sluggish during the night. Coloration ranges from gray and brown through dull red and blue; camouflage patterns are common. Comfortable on the desert world, dewbacks are often seen digging through dunes in search of scrub, small animals (such as womp rats), or moisture.
+
+Dewbacks are solitary animals, but once each year they gather in the Jundland Wastes to mate (they will not breed in captivity). When the frenzy ends, the females lay clutches of eggs by the thousands, then return to their lives as lone wanderers until nature calls again. Half a year later, during the womp rat migration, the eggs hatch young dewbacks, who must survive the dangers of the Wastes without aid from their elders.
+
+Most dewbacks are wild, but some have been domesticated and are used as riding beasts. Tatooine’s local authorities use them as patrol animals because they are well-suited to high temperatures and the blowing sands that can damage landspeeders. Even in the face of severe sand storms, a dewback will carry its rider to his destination with hardly a complaint or growl. A dewback is faster and more agile than the plodding bantha, giving patrols a measure of superiority over Tusken Raiders and slow-moving Jawa sandcrawlers.
+
+Sand People hunt dewbacks as a source of food and material. The leathery protective hides are used to make boots, belts and pouches, as well as tents and other gear. They also serve as a substantial part of the krayt dragon’s varied diet. During their mating season, many dewbacks fall to claws, razor-sharp teeth and blaster bolts.
+
+Dewbacks have no parental or herd instincts, and will fight only if threatened. If confronted by violence, their usual instinct is to flee, or hide if flight is impossible.
+
+#### DEWBACK
+
+Type: Desert Lizard
+DEXTERITY 3D
+PERCEPTION 2D
+STRENGTH 4D
+
+Brawling 4D+1
+Move: 35; 100 km/h (during day), 7; 20 km/h (at night) Size: 1.3-2.1 meters tall at shoulder
+Orneriness: 3D
+
+## DIANOGA
+
+The dianoga is a scavenger originally from the swamp world of Vodran, where it evolved as a marine scavenger. Having escaped Vodran long ago in the hold of a space freighter, the dianoga has spread to colonize many worlds.
+
+The dianoga, or garbage squid as it is sometimes called, thrives in the sewers and river canals of large urban centers throughout the galaxy. It feeds on all types of refuse, and can consume almost anything except pure metals.
+
+The dianoga possesses a single eyestalk which it can extend up out of the water like a periscope and even around corners. It has seven tentacles that it uses for locomotion and to catch food. These tentacles grow back rapidly if severed. Naturally
+
+[Página impressa 323 | PDF 325]
+
+translucent, the dianoga
+
+turns the color of its food It is difficult
+
+to see whether fed
+
+or starving. Young dianogas
+
+are a toler- ated pest on many worlds — they consume
+
+vast quantities
+
+of garbage and therefore serve a valuable
+
+function for cities which gen- erate tons of refuse
+
+a day (some space stations breed dianoga in their garbage dumps). On the other hand, dianoga grow larger and more aggressive as they grow older. While usually shy and peaceful, dianoga can become aggressive if starved or panicked. Especially large specimens can threaten humans and other species, and are often hunted down and destroyed when discovered.
+
+#### DIANOGA
+
+Type: Underwater predator
+DEXTERITY 2D
+PERCEPTION 3D+1
+STRENGTH 6D
+Special Abilities:
+
+Camouflage: Can change color to match surroundings (+4D to sneak) Tentacles: Target must make opposed Strength roll to escape and not be dragged along.
+Move: 3 (swim)
+Size: Up to 3 meters long
+
+## DRAGONSNAKE
+
+The dragonsnake is one of the deadliest predators found on Dagohah. It is a swift but patient hunter, lying motionless for hours, waiting for prey to come within range. When prey approaches, it hinges forward in the water and either engulfs the target with its large mouth or grabs it with its two clawed forelimbs and drags it underwater.
+
+Although slow-moving creatures on land, dragonsnakes move with surprising swiftness when they attack in the water.
+
+They are exceptionally silent swimmers and excel at gliding silently forward in the water until they come within striking range. Dragonsnakes can swallow whole any Small or smaller creatures, but must rend and tear larger prey in order to consume it. They are solitary hunters; each beast claims a single lake, hay, or other moderately large body of water as its territory. Because they must come ashore to lay their eggs, dragonsnakes always make their lairs fairly close to shore.
+
+#### DRAGONSNAKE
+
+Type: Underwater predator
+DEXTERITY 2D
+PERCEPTION 2D
+STRENGHT 5D
+Special Abilities:
+
+Bite: Does Strength+2D damage. If dragonsnake attack roll is double a target’s parry or swimming attempt, the target is swallowed whole. If swallowed, target receives Strength damage, and the target must inflict non-stun damage to be spit out; stun weapons are not effective in this case.
+Razor-sharp Fins: Do Strength+3D damage.
+Constrictor Coils: if dragonsnake connects with a Moderate brawling attack, target is ensnared. Target receives Strength damage each round until free. Target must incapacitate dragonsnake to break free.
+Move: 5 (swim)
+Size: Up to 4 meters long
+
+## EOPIE
+
+Of all Tatooine’s indigenous creatures, eopies are perhaps the most useful to that world’s residents, providing susten-ance as well as being extremely useful as pack animals and mounts.
+And eopies are far more affordable than banthas or dewbacks. The eopie’s long snout enables it to eat the water-sucking weeds that invariably creep up around moisture vaporators, much to the pleasure of moisture farmers across Tatooine.
+Eopies are known for being able to survive for weeks without water, as well as for plodding along in the worst sandstorms. The eopie’s noted lack of panic at a sudden threat has lead to a common spacers’ expression: “as steady as an eopie.”
+
+#### EOPIE
+
+Type: Transport beast
+DEXTERITY 1D+1
+PERCEPTION 1D+1
+
+Search 3D
+STRENGTH 4D+1
+Special Abilities:
+
+Bite: Does STR+2 damage.
+Move: 6
+Size: 2 meters tall
+Orneriness: 2D
+Notes: For every ten years of age, an eopie’s Orneriness rating drops by 1D (minimum 0D).
+
+[Página impressa 324 | PDF 326]
+
+## GUNDARK
+
+Gundarks are a widespread and robust species, known as one of the most dangerous creatures in the galaxy. Gundarks have four arms, broad hands and feet with opposable digits, ears nearly as wide as their heads, and a covering of short hair that ranges from brown to gray in color. They can be found the galaxy over, but most live in temperate climates. Gundarks are considered to be semi-sentient by most galactic authorities. As such, they are protected from exploitation, even after the Empire’s rise to power. This protection does little to stop black market trade in gundarks, which is little better than slavery. Because of the gundarks’ reputation as fearless and aggressive combatants, they are most often sold to underground gladiatorial arenas, or to hunters who see them as the ultimate sport. The primitive society of gundarks consists of small matriarchal family units. Multiple families sometimes gather together into tribes, allowing them to support one another. While the females hunt and gather food, the males construct homes and teach young gundarks how to fight. Defense of the home falls to the males, and it is a task they excel at.
+
+Fearless: Gundarks gain a +1D bonus to resist Intimidation and Force powers that cause fear.
+Low Light Vision: A gundark can see twice as far as a normal human in poor lighting conditions.
+Track by Scent: Gundarks receive a +3D bonus to search: tracking if scent plays a part.
+Weapons: Gundarks often wield weapons, such as clubs, which inflict STR+2 damage.
+Move: 12
+Size: 1 to 2.5 meters tall, 1.5 meters on average.
+
+## KATARN
+
+The katarn is a predator native to the Wookiee homeworld of Kashyyyk. It is a lizard-like quadruped with a thick hide and rows of sharp spurs along its legs. These spurs make katarn excel-lent tree climbers; they are able to move at their full speed when climbing up or down trees The creature has a narrow, beak-like mouth that is lined with several rows of teeth.
+Though the bite of a katarn is not particularly fearsome in combat, it is quite effective when used to root tree-burrowers from their arboreal homes.
+
+Katarns mate every few years, and females that become pregnant leave their mates as soon as they are ready to give birth. The female climbs high into the forest canopy in search of a likely spot to deliver her young. Once the pups are born, she savagely protects them from predators until they are old enough to fend for themselves.
+
+The katarn is an important part of Wookiee mythology and tradition. Wookiees believe that the katarn once hunted them, which in turn taught the Wookiees how to resist or escape the katarn in order to survive. Over time, the Wookiees became the hunters and the katarn the hunted, and things will remain that way until such time as their positions are reversed once more.
+
+#### KATARN
+
+Type: Kashyyyk predator DEXTERITY 3D
+
+Dodge 6D+1 PERCEPTION 4D
+
+Search: hunting 7D, sneak 5D
+STRENGTH 4D
+Special Abilities:
+
+Teeth: STR+1D
+Claws: STR+1D
+Horns: STR+1
+Move: 15
+Size: 0.6-0.8 meters long
+
+## K’LOR’SLUG
+
+The k’lor’slug is a venomous swamp creature from the planet Noe’ha’on, feared for its innate aggressiveness as well as its keen senses of smell and vision. The k’lor’slug is fast, silent and deadly, particularly when it is near its nest. The worm-like monsters lay eggs by the hundreds, and when hatched, infant k’lor’slugs spread rapidly, devouring anything resembling food.
+
+The k’lor’slug has pink-hued skin that closely matches the coloration of the mud-clay found in Noe’ha’on’s swamps (which makes the creature devilishly difficult to detect). The slug has a long, flexible tail that it can use to attack; the small stinger on the end of the tail can administer a neurotoxin that renders the victim immobile. Once a target is paralyzed, the k’lor’slug can feed at its leisure, tearing its prey apart with its strong, sharp pincers.
+
+[Página impressa 325 | PDF 327]
+
+K’LOR’SLUG
+Type: Swamp predator
+DEXTERITY 4D
+
+Dodge 5D
+PERCEPTION 4D
+
+Sneak 5D
+STRENGTH 2D
+Special Abilities:
+Pincers: Do STR +1D+2 damage
+Tail: Does STR +1D damage. If the k’lor’slug makes a Difficult Dexterity roll, the target has been stung and suffers from the effects of the creature’s potent neurotoxin. Affected characters must make a Difficult stamina or Strength or be rendered immobile. The poison is effective for 1D minutes.
+Camouflage: The k’lor’slug receives a +2D to sneak rolls when hidden
+
+in the pink clay of Noe’ha’on’s swamps. Move: 10
+Size: 2−3 meters long
+
+## KNOBBY SPIDER
+
+The knobby white spider is a large predatory arachnid native to the swamps of Dagobah. In addition to living amid the pillar-like roots of the planet’s enormous gnarltrees, it is also a part of the gnarltree’s bizarre life cycle. To reproduce, gnarltrees occasionally extrude mobile roots that drop off the tree when they are no larger than an astromech droid. These roots immediately begin hunting live prey so they can grow. When this “spider” reaches maturity, it locates a clear area and takes root. It shoves its eight legs deep into the ground, and these legs become the first of the new gnarltree’s roots. The transformation from spider to tree is swift; within three months after rooting, the creature’s skin has sufficiently darkened and thickened that it has become indistinguishable from any other young gnarltree. Unlike most other animals, knobby white spiders have complete radial symmetry. They have a stinger near the end of each leg capable of delivering their poison and a ring of eight eyes underneath their eight legs, allowing them to see in all directions at once.
+
+KNOBBY SPIDER
+Type: Large predatory arachnid/mobile plant
+DEXTERITY 4D
+PERCEPTION 2D+1
+STRENGTH 6D
+Special Abilities:
+Bite: Does STR+1D damage.
+Eight Legs: Due to their number of limbs, knobby spiders can perform two actions per round with no penalty; a third action in a round receives a −1D penalty, a fourth action in a round receives a −2D penalty and so forth.
+Move: 11
+Size: Up to 4 meters tall
+
+## KRAYT DRAGON
+
+The terrible krayt dragon of Tatooine is a large carnivorous reptile that dwells in the mountains and dunes surrounding Tatooine’s Jundland Wastes in the evening.
+Krayt dragons subsist primarily on rontos, banthas, dewbacks, and slow Sand People. They swat prey with their large claws, and then strike the stunned victim with their powerful jaws.
+Because of the krayt dragon’s ferocity, a
+
+of rumors and myths are associated with the fearsome creature. One such rumor concerns “dragon pearls,” valuable stones that can be found in the dragon’s innards. While the krayt dragon has massive claws and teeth, it uses them only to rip and tear its prey; the creature possesses no teeth suitable for chewing. Instead, krayt dragons possess “gizzards” (quite like those of birds) which mash food into digestible form. In order to grind the food, the krayt dragon ingests small rocks and stones, which act as “teeth” inside the gizzard. However, the intense pressure of the krayt dragon’s digestive system polishes and tempers the stones into valuable gems (known as “dragon pearls”). Unfortunately, the only way to obtain dragon pearls is to kill a krayt dragon — no easy feat.
+
+KRAYT DRAGON
+Type: Large carnivore
+DEXTERITY 3D
+PERCEPTION 1D+2
+STRENGTH 12D
+Special Abilities:
+Claws: 8D damage
+Teeth: 15D damage
+Motion Tracking: The Krayt dragon tracks its prey by detecting motion. The dragon receives +1D to Perception to detect targets that are moving. Characters that make a successful Difficult sneak roll can stand still enough to fool the Krayt dragon.
+Move: 15
+Size: 10 meters tall, 15-30 meters long
+
+[Página impressa 326 | PDF 328]
+
+## MASSIFF
+
+Massiffs are bulky, well-armored predators originally from
+Geonosis and now found on several worlds. They are most common on Geonosis and Tatooine. Massiffs were domesticated thousands of years ago by the Geonosians, who use them as sentries and guard beasts. Because of their usefulness, the crews of some Geonosian ships carried them to guard their vessels and sold others to off-worlders. Standing a meter high at the shoulder, these animals make fearsome guards, and their keen senses allow them to easily notice the approach of any intruders. Massiffs are voracious eaters capable of wrestling down large, slow-moving prey. However, their wild diet consists mostly of various types of small vermin as well as carrion and any smaller carrion-eaters who fail to flee when massiffs arrive at a carcass.
+
+#### MASSIFF
+
+Type: Armored predator DEXTERITY 3D
+
+Running 3D+2 PERCEPTION 2D+2
+
+Hide 3D+2, search 3D+1, search: tracking 4D, sneak 3D+2 STRENGTH 3D+1
+
+Climbing/jumping 5D+1 Special Abilities:
+
+Bite: Does STR+2 damage.
+Resistant to Radiation: Massiff gain a +1D bonus to Strength when resisting the effects of harmful radiation.
+Track by Scent: Massiff can track by scent, and gain a +1D bonus to their search: tracking skill when doing so.
+Move: 10
+Size: 2 meters long
+
+## MYNOCK
+
+Mynocks are one of the few species of space-dwelling life believed to have evolved in vacuum. They can-not survive for more than a few minutes inside any sort of atmo-sphere. A mynock has a wingspan of a little over a meter. If attacked, it defends itself by hitting opponents with its exceedingly tough wings. These silicon-based based life forms originated in the rings of the planet Ord Mynock. Today, they are found throughout the galaxy. Their magnetically charged wings allow them to catch the stellar winds and literally fly through space. They live in asteroid fields and planetary rings and make their nests on small asteroids. Mynocks normally subsist on a mixture of stellar radiation and the charged particle fluxes put out by stars, but are often attracted to richer energy sources, such as the power plants of
+
+passing starships. They are regarded as dangerous pests by all star-travelers; ships that approach airless worlds are often inspected for mynock infestations, and those that have attracted any of the creatures are usually quarantined.
+
+#### MYNOCK
+
+Type: Parasite
+DEXTERITY 3D
+PERCEPTION 1D
+STRENGTH 1D
+Special Abilities:
+
+Energy Drain: survive by draining energy from starships.
+Flight: Mynocks who drain enough energy can fly. Silicon life forms: silicon-based life forms and can survive in the vacuum of space. Move: 9, 1 (space units per turn)
+Size: 1.5 meters wide, 0.5 meters tall
+
+## NEXU
+
+Native to the jungles of Indona and Cholganna, the nexu is a fierce, stealthy predator with little fear of larger opponents, or even the weapons of sentient beings. Hunted for sport on their native planet, nexu often turn the tables on their would-be hunters and slash them to ribbons before they can fire a shot.
+
+#### NEXU
+
+Type: Stalking predator
+DEXTERITY 4D+2
+PERCEPTION 3D
+
+Hide 4D+1, search 5D, sneak 4D+1 STRENGTH 4D+1
+
+Climbing/jumping 6D+1 Special Abilities:
+
+Bite: Does STR+2 damage.
+Claws: Do STR+1 damage.
+Exceptional Reflexes: Nexu gain a +1D bonus to all Perception rolls made to determine initiative.
+Keen Hearing: Nexu have excellent hearing, and gain a +1D bonus to all search rolls that involve sound.
+Move: 16
+Size: 2 meters long (medium)
+
+## RANCOR
+
+Rancors are one of the largest land predators that can survive in human environments. The exact location of the rancor’s home planet is largely unknown; at the time of the Rebellion, only Jabba has managed to keep a rancor in captivity. Some believe that the rancor was a unique creature, possibly genetically engineered to sate the Hutt crimelord’s vile appetites. (Of course, those few who have visited Dathomir know otherwise.)
+
+The rancor is bipedal, with dripping fangs and long, sharp claws. The thick hide of the rancor makes it highly resistant to blasters and most other hand-held energy weapons, and melee weapons do not fare much better.
+
+[Página impressa 327 | PDF 329]
+
+#### RANCOR
+
+Type: Gigantic predator
+DEXTERITY 4D
+PERCEPTION 1D
+
+Search: tracking 3D
+STRENGTH 7D
+Special Abilities:
+
+Armor: +3D protection
+
+against physical and energy attacks
+Claws: STR+3D damage
+Teeth: STR+5D damage
+Move: 20
+Size: 5 meters tall
+
+## REEK
+
+Reeks wander the plains of Ylesia in great herds, contentedly munching on grass and lichens. Although immensely strong, they generally reserve their violent behavior for the mating season, when the sound of two bull reeks fighting for dominance rumbles like thunder across the plains.
+
+When a reek attacks, it lowers its head, charges, and attempts to gore with its large horn. Should the initial attack miss, the reek flails its head about blindly, hoping to chase away its prey so that it can attempt another charge.
+
+#### REEK
+
+Type: Herbivorous herd animal
+DEXTERITY 1D+1
+PERCEPTION 1D
+
+Hide 2D, search 2D+1
+STRENGTH 6D
+Special Abilities:
+
+Enraged: When enraged, a reek gains +1D to all Perception rolls made to determine initiative.
+Gore Attack: Can gore with its horn for STR+1D damage.
+Thick Skin: Due to a reek’s thick hide, it gains a +2D bonus to Strength rolls when resisting physical damage, and +1D bonus to Strength rolls when resisting energy damage.
+Move: 10
+Size: 6 meters long
+
+## RONTO
+
+The huge but gentle pack animals called rontos are favorites of the Jawas of Tatooine. Known for their loyalty and strength, they can carry immense burdens and are large enough to frighten off attackers such as Tusken Raiders. However, they are also very skittish creatures, and are easily startled by urban traffic. Most owners of rontos keep them well away from Mos Eisley’s bustling streets.
+
+Rontos have an excellent sense of smell — they can detect a krayt dragon coming a kilometer away. Unfortunately, their vision is quite poor. While rontos need plenty of water, their skin easily sheds excess heat, making them well-suited to Tatooine’s harsh desert environment.
+
+#### RONTO
+
+Type: Pack beast of burden DEXTERITY 2D
+
+Running 3D
+PERCEPTION 3D
+STRENGTH 5D
+
+Stamina 6D
+Special Abilities:
+
+Heat endurance: Rontos are extremely
+
+adaptable to desert conditions, though they still need water to survive.
+Sense of smell: Rontos have a keen
+
+sense of smell. They add +1D to any Perception roll involving smell.
+Skittish: Rontos are easily upset by
+
+any machines that move signif-icantly faster than they. Add +3D to their orneriness when around fast-moving vehicles.
+Move: 10
+Size: 4.25 meters tall
+Orneriness: 1D
+
+## SARLACC
+
+In addition to its burning temperatures, biting sandstorms and bantha-swallowing dunes, there are several indigenous creatures which make the dread Dune Sea the most perilous place on the face of Tatooine. Most feared among these creatures is the great Sarlacc.
+
+Resting at the bottom of the infamous Pit of Carkoon, the Sarlacc is a massive, omnivorous creature. From the mouth of its pit, it appears as a great hooked beak, surrounded by dozens of grasping tentacles. This is only the mouth of the creature — the enormous body of the Sarlacc is buried deep beneath the sand.
+
+The Sarlacc uses its tentacles to grab prey from the surface and drag it down to its beak. These tentacles have been known to reach a full four meters beyond the Pit, snagging those who thought they were completely safe. However, the Sarlacc seldom needs to go to such trouble — the Pit of Carkoon supplies most of its prey. The highly unstable and shifting slopes of the Pit send anyone unlucky enough to step in tumbling to a grisly death below.
+
+Immobile, living in the center of the parched and barren Dune Sea, the Sarlacc does not feed often. Fortunately, it doesn’t need to. Its highly efficient digestive system preserves food for incredibly long periods of time, digesting it slowly, and storing it until needed for sustenance. The victim remains alive for much of this time.
+
+[Página impressa 328 | PDF 330]
+
+#### SARLACC
+
+Type: Solitary stationary carnivore DEXTERITY 2D
+PERCEPTION 1D
+STRENGTH 6D
+Special Abilities:
+
+Tentacles: have a Strength of 6D, reach up to four meters outside pit; do not cause damage, but victims must make a successful opposed Strength roll to escape.
+Bite: 5D damage.
+Acid digestion: Any creature dragged into the sarlacc’s maw suffers 5D damage from digestive acid until the victim is knocked unconscious and dragged into the sarlacc’s digestive tract — at that point, the victim normally wakes up, but by then it is normally incapacitated by the sarlacc’s paralyzing digestive enzymes, 7D stun damage.
+Move: 2
+Size: 2.5-3 meters across (mouth), 100 meters long (underground)
+
+## SPACE SLUG
+
+Space slugs are toothed, worm-like, silicon-based lifeforms. They survive in the harsh environment of space by feeding on stellar energy emissions, though they also feed on minerals found in asteroids. Larger slugs also dine on mynocks who are drawn to their energy, though the small creatures are as likely to become parasites within their bodies as be digested.
+
+Most slugs measure less than 10 meters, though specimens many times larger have been recorded. Slugs large enough to swallow small ships whole, though extremely rare, do exist. Most spacers discount them as tall tales, however.
+
+Space slugs are found primarily in asteroid fields where food is plentiful. They can travel between asteroids by pushing off one and gliding to another. Space slugs have a highly developed spacial sense which allows them to calculate the trajectory and speed of every moving body in their immediate area. This sense helps them target other asteroids — and also food sources such as mynocks, small asteroids — and the occasional small ship.
+
+Space slugs are highly prized for their various organs and body parts, which can be used in a wide variety of industrial applications. Some systems keep a few small slugs on hand to keep the mynock population under control
+
+#### SPACE SLUG
+
+Type: Vacuum Predator
+DEXTERITY 2D
+PERCEPTION 1D
+STRENGTH 6D (creature scale) /5D (starfighter scale)*
+
+* For a 6-meter-long and 900-meter-long slug respectively; Strength varies dramatically by the length of the slug; extremely large slugs are in the starfighter or capital class.
+Special Abilities:
+
+Vacuum: Space slugs are native to the vacuum of space and can survive in this environment with no assistance.
+Teeth: Do STR+1D damage.
+Move: 6 (creature-scale slugs only).
+Size: May be as small as 1 meter long, possibly up to 900 meters long.
+
+## TAUNTAUN
+
+Natives of the ice planet Hoth, tauntauns were used as riding beasts by Rebel forces on the frigid world. Tauntauns were easily tamed, though they remained somewhat skittish.
+
+Tauntauns stand roughly two meters tall, and are extremely warm-blooded (to allow them to survive Hoth’s deadly cold). Tauntauns possess a muscular tail roughly one meter long, which helps the creature maintain its balance on Hoth’s icy surface. Tauntauns have three-clawed feet and curved horns on the sides of their heads that they use in combat.
+
+#### TAUNTAUN
+
+Type: Arctic climate omnivore
+DEXTERITY 2D
+PERCEPTION 3D
+STRENGTH 4D
+Special Abilities:
+Charge attack: Does STR+1D+1 damage.
+Arctic creature: Tauntauns can withstand frigid temperatures that are deadly to most other creatures (although their stamina in the cold is not unlimited)
+Move: 16
+Size: Adults stand 1.3-2 meters at the shoulder
+Orneriness: 1D
+
+## UKIAN TORBULL
+
+The planet Ukio, a prominent agricultural world, is home to the “Ukian torbull.” The torbull was originally an experiment; the Ukians hoped to breed a hardy pack beast that could adapt to virtually any environment (which could in turn be sold to virtually every planet in the galaxy). The experiment was only a partial success — the torbull is nearly as adaptable as the bantha, and is in fact capable of functioning in environments that the bantha can not.
+
+While the torbull is a versatile and easy-to-tame creature, it does have one major disadvantage: its appetite. Where a bantha can go for weeks without food or water, the torbull requires massive amounts of sustenance. Because of its ravenous nature, the torbull is not a popular pack beast (simply because of the expense of hauling around vast food stores to sustain the creature).
+
+The torbull is a large, hairless quadruped, and possesses huge teeth and eyes that appear to flash with anger. The creature has a very thick, tough hide that has a rough, peb-
+
+[Página impressa 329 | PDF 331]
+
+bly texture.
+Despite its somewhat
+ fearsome appearance, the torbull is exceptionally docile and — as long as it is properly fed — extremely friendly. The torbull’s main advantage over the bantha is its ability to operate in extremely moist regions. Despite its massive bulk, the creature is surprisingly buoyant and can swim with relative ease. In addition, the torbull is considerably faster than a bantha, though it is not as strong.
+
+#### UKIAN TORBULL
+
+Type: Docile pack beast DEXTERITY 2D
+
+Dodge 3D
+PERCEPTION 2D
+STRENGTH 4D
+Special Abilities:
+
+Tough hide: The torbull’s tough hide provides +1D protection against physical attacks.
+Tame: The torbull does not have an aggressive nature; when ridden, the rider receives a +1D bonus to beast riding.
+Appetite: The torbull must be fed and watered at least four times per standard day; a minimum of 20 liters of water and 10 kilograms of grain (or other foodstuff) are required to sustain the torbull. Constant grazing is usually effective, though when operating in desert conditions ample foodstuffs must be carried. The orneriness code of a torbull that has missed a feeding increases by 3D. A torbull that misses more than two consecutive feedings dies of hunger.
+Move: 10, 15 (swimming)
+Size: 2 meters at the shoulder; 5 meters long
+Orneriness: 1D
+
+## VARACTYL
+
+Varactyls are a large saurian species native to the planet Utapau. They are lizard-like in appearance, with green scales that thicken into armored plates on the varactyl’s head. Quills, some of which
+
+resemble feathers, sprout in a ridge that runs from the creature’s head to the tip of its tail. The plumage of the female of the species tends to be more vibrant than that of the male.
+
+As cold-blooded animals, varactyls are more active during daylight hours. They spend much of the day sunning themselves as they cling to the walls of Utapau’s sinkholes. They are excellent climbers and can travel across vertical surfaces with incredible speed and agility. When they aren’t warming themselves, they hunt for lichens and roots to eat. At night, varactyls retreat into burrows that they create in sinkhole walls They do so to avoid the dactillion, a birdlike predator that is also native to Utapau.
+
+Although they are native to Utapau, varactyls have also been encountered on a handful of other worlds. For instance, Kashyyyk maintains a small population of the creatures, though the details of how they came to the Wookiee homeworld are somewhat mysterious. It is assumed that one or more varactyl eggs ended up on Kashyyyk in the possession of a smuggler, but this has yet to be proven beyond a reasonable doubt.
+
+#### VARACTYL
+
+Type: Riding lizard DEXTERITY 4D+2
+
+Running 5D
+PERCEPTION 1D+2
+
+Search 3D, sneak 4D STRENGTH 7D
+
+Climbing/jumping 8D, swimming 7D+2 Special Abilities:
+
+Cold-Blooded: During nighttime, varactyls suffer a −2D penalty to all actions.
+Spined Tail: Females have a fan of rigid spines along its tail that deal STR+2 damage.
+Claws: Provide +1D to climbing.
+Move: 40
+Size: 15 meters long
+Orneriness: 2D+2
+
+## VORNSKR
+
+Native to the planet
+Myrkr, the vornskr is a dog-like predator with an innate sensitivity to the Force and Force-users. These furred quadrupeds have long legs tipped in sharp claws, powerful jaws filled with deadly fangs, and long, whip-like tails tipped with poisonous spines. They are aggressive, fast, and incredibly strong for their size Vornskrs are nocturnal, hunting after dark in packs consisting of between three and five individuals. One of the vornskr’s primary prey animals is the ysalamiri, a lizard-like creature that is also native to Myrkr. Ysalamiri project a bubble-shaped field that nullifies the use of Force powers, which makes it difficult for vornskrs to locate them. Vornskrs sometimes mistake a Force-user for a group of ysalamiri, leading them to attack. The presence of Force-users enrages vornskrs, a behavior that no amount of training can eliminate.
+
+[Página impressa 330 | PDF 332]
+
+#### VORNSKR
+
+Type: Force-sensitive predator
+DEXTERITY 4D
+PERCEPTION 2D+2
+
+Sneak 5D
+STRENGTH 3D+2
+Special Abilities:
+
+Teeth: STR+2D damage
+Sense Force: Vornskrs can detect Force-users. They are considered to have 3D in this ability. Upon sensing a Force-user, they become very agitated and aggressive: they confuse all Force-users with the ysalamiri. A Force-user within 10 meters can be detected and tracked by a vornskr with a Very Easy roll; 11-25 meters is an easy roll; 26-50 meters requires a moderate roll; and 51-100 meters requires a Difficult roll. Over 100 meters is a Heroic difficulty.
+Move: 15
+Size: 0.8 meters tall at the shoulder, up to 1.6 meters long(including tail)
+
+## WAMPA
+
+Wampas are fearsome beasts that inhabit the icy planet Hoth. Wampas stand roughly three meters high and possess razor-sharp claws and fangs. Older wampas possess horns (which grow longer with age). Because of their thick white fur, wampas are almost impossible to spot amidst the blowing snow of Hoth.
+
+Wampas live in ice caves, and tend to be solitary hunters, exhibiting a frightening amount of cunning and intelligence for what are ostensibly non-sentient creatures.
+
+#### WAMPA ICE CREATURE
+
+Type: Snow predator
+DEXTERITY 3D
+PERCEPTION 4D
+
+Search; tracking arctic 6D, sneak: arctic 7D STRENGTH 7D
+Special Abilities:
+
+Claws: STR+1 damage
+Teeth: STR+2 damage
+Camouflage: +3D to sneak in arctic climates, heat-diffusing body adds +2D to sneak versus sensors
+Howling: Wampa howls are a rudimentary form of communication that allows wampas to coordinate attacks; these howls are virtually indistinguishable from the sound of Hoth’s winds.
+Move: 13
+Size: 3 meters tall
+
+## WOMP RAT
+
+Womp rats are large rodents native to the deserts of Tatooine. They breed in sizable colonies and are both scavengers and hunters. Individual womp rats subsist by eating carrion or hunting small animals, often including wandering pets and, on rare occasions, small children. Groups of womp rats sometimes work together to bring down larger prey, including young banthas, as well as lone Jawas, Sand People, or other intelligent beings who find themselves poorly armed and alone. However, they are not especially dangerous except when hunting in groups, and their tactics consist largely of attacking a single target at once. If there are sufficient numbers of womp rats, they are often willing to attack Medium or Large targets. Although
+
+never acclaimed for their bravery, womp rats are often renowned for both their endurance and their determination. They are perfectly adapted for life in the deep desert and can go for days without either food or water.
+
+#### WOMP RAT
+
+Type: Large rodents
+DEXTERITY 2D
+PERCEPTION 1D+1
+STRENGTH 2D+1
+Special Abilities:
+
+Claws: 2D+2 damage
+Teeth: 3D+1 damage
+Pack Combat: These vicious Tatooine natives attack in packs of up to five. The hairy carnivores usually circle once, then lunge. They scatter when a total of three wounds has been inflicted on the pack as a whole or an incapacitated result has been inflicted upon any single individual.
+Move: 5
+Size: 2.1, meters long
+
+## YSALAMIRI
+
+Ysalamiri are tiny creatures native to the planet Myrkr. They grow to be up to half a meter long, are covered in fur, and superficially resemble snakes with legs. The typical ysalamiri spends most of its life in a motionless state, attached by its claws to the metal-rich trees that form its primary habitat. They are difficult to remove from the trees once they have attached themselves, and they will die 1-4 days after being removed.
+
+The most interesting aspect of the ysalamiri is its ability to push back or repel the Force in a spherical area centered on itself. It has been hypothesized that this ability evolved as a defense mechanism against the ysalamiri’s primary prey animal on Myrkr, the vornskr. Since vornskrs depend on Force powers in order to locate and bring down prey, the ysalamiri’s ability to push back the Force makes the small creatures much harder for these predators to locate.
+
+#### YSALAMIRI
+
+Type: Force-repelling creature
+DEXTERITY +2
+PERCEPTION 1D+1
+STRENGTH +2
+Special Abilities:
+
+Force Repulsion: Ysalamiri can create “bubbles” in which the Force cannot be manipulated. A single ysalamiri can form a defensive bubble up to 10 meters in radius. Within the bubble, characters cannot use the Force skills, Force Points, or Character Points. Force attacks directed at ysalamiri fade away as they enter the creature’s “Force bubble.”
+Move: 0
+Size: Up to 50 centimeters long
+
+[Página impressa 331 | PDF 333]
+
+# DESIGNING CREATURES
+
+Many gamemasters will doubtless want to create their own monsters and animals for use in a Star Wars game. Given the vast amount of habitable planets in the Star Wars galaxy, gamemasters should feel free to populate their campaign environment with as many colorful, exotic animals as they wish.
+
+When devising creatures, the gamemaster must start with a creature that is to be used in the adventure. Often, a gamemaster will only have to create one or two creatures for a given adventure and not really worry about the larger ecosystem that it fits into. The gamemaster should assign die codes that he feels are appropriate to the creature in light of its environment and role in the planetary ecosphere. Because some worlds are more hostile than others, and there are countless niches that can be selected, the gamemaster’s decision regarding die codes can be fairly arbitrary.
+
+All creatures need Dexterity, Perception and Strength die codes. If the creature can be ridden, an Orneriness Code should be assigned to the creature (riders roll their beast riding skill against the code). The gamemaster might also elect to give the creatures extra skill dice in areas like brawling parry, brawling, search, sneak or other skills relevant to the survival of the creature.
+
+## ADAPTATIONS
+
+The gamemaster may also choose one of several adaptations that creatures have evolved. This should be done with careful consideration for the ecosystem that the creature is to inhabit. This is only a partial list of possible factors, presented in terms of suggestions rather than specific mechanics, enabling the gamemaster to devise creatures to fit the specific needs of the adventure.
+
+• Sense: The creature has highly developed senses such as sight, smell, hearing, taste and touch (which can detect ground vibrations). The senses can be used to detect predators coming after the creature, or be used to aid it in hunting. The creature should receive bonus to Perception under specific conditions or with the specific sense.
+
+• Speed: The creature has great speed compared to other creatures in the ecosphere. The creature might have great endurance, and be capable of sustaining the speed for a long time, or might only be able to move at this high speed in short bursts. This ability is reflected by a high Move score relative to other creatures in the area.
+
+• Claws: The creature has claws, talons or other hard and sharp weapons on the end of its paws or other appendages. This should be reflected as a separate die code for damage, normally higher than the creature’s Strength.
+
+• Armor: The creature has armor that can absorb physical and/or energy attacks. The armor might be in the form of hardened skin, a hard exoskeleton, a reflective skin that helps deflect energy bolts, a flexible body structure that can absorb shocks with minimal damage, or some other unusual way of absorbing damage without inflicting injury. The armor adds extra die codes to the creature’s ability to resist damage without adding to its raw Strength.
+
+• Camouflage: The creature is colored so that it can blend into the surroundings of its natural environment. The creature might also have learned behaviors so that when it is trying to hide it is even tougher to spot than when it is going about its natural activities. Some creatures blend into the surroundings through their permanent coloration, others have coloration that changes with seasons, and still others can change color within a few seconds or minutes. Creatures with this ability receive extra dice to their sneak skill.
+
+• Poison: The creature produces venom that helps kill prey or helps to protect the creature from hunters and predators. The poison may he delivered through a bite, claws, quills, or a stinger. The poison may also be on the outer surface of the creature (secreted by glands, or in the skin and fur of the creature) so that when a predator attempts to bite or eat the creature it receives the poison. The effects of the poison can vary, from mild illness, to nausea, to a potent neural toxin that can kill.
+
+• Odors: Some creatures produce offensive odors as a defense mechanism to scare away predators. The odor is normally strong enough to overpower the senses of the predator, allowing the odor-producing creature to escape. Another adaptation is for the creature to produce an odor so strong that it masks the trail of the creature, so hunters cannot track the creature. Another common adaptation is for the creature to produce enzymes and scents so that it “tastes bad” to any creature that attempts to eat it — while an individual of the species will die, predators will learn to leave the species as a whole alone. With such attacks, victimized creatures may have to make willpower rolls to be able to act against the odor-producing animal, or make more difficult search totals to track and follow the animal.
+
+• Quills: Some creatures have sharp or barbed quills on the outer surfaces of their bodies. The quills may hook themselves into another creature when it attacks the quill-bearing animal, or in rare cases, the creature may be able to hurl the quills for ranged attacks. Aside from the base damage, the quills may continue to produce damage is they aren’t removed from the victim, or even be coated with poison. Some creatures might have “quill sacs” inside their mouths, so that they could “spit” the quills at distances as well. Normally the creature should have a skill relevant to throwing the quills, and the quills should have a base damage value.
+
+• Reproduction: The creatures can reproduce rapidly, so that they survive not due to the strength of an individual, but through strength of numbers. The creatures may produce great numbers of young, or mate several times in a season, producing many more litters than other types of creatures. This is a common tactic for herbivores, since they tend to lack effective attacks and defenses against predators.
+
+• Large Communities: Some animals are helpless in small numbers, but when in large groups, they are excellent survivors. In large groups, the creatures might have excellent combat tactics, or as with many herd members, when predators attack one member of a herd, the rest of the herd flees, assuring the continued survival of the species.
+
+• Homes: Some creatures build complex and confusing home areas, such as underground burrows or warrens, tree cities, or aquatic structures. In this case, when predators attack, they
+
+[Página impressa 332 | PDF 334]
+
+often get confused in the natural maze of the home, while the creature flees, retreats to a defensible location, or readies an attack on the invader. Such types of homes are excellent to protect helpless young.
+
+• Energy Projection: Some creatures may be able to absorb or produce certain types of energy, such as heat, light, sound or radiation. These can be used as an attack form, causing damage to attackers or targets. The gamemaster simply needs to determine the ranges (if any) and damage of such attack forms. The creature may need a recuperation period between uses, so that it might be helpless or unable to use the defense more than once in a certain span of time.
+
+• Migratory: The creatures migrate great distances to seek food, avoid devastating climate changes, or even have a pre-programmed urge to return to traditional mating or young rearing areas.
+
+• Hibernation: During times of limited food or dangerous natural conditions, such as seasonal extremes, creatures may be able to go into hibernation. During these times, the creature can survive on very limited air and gets all of its energy from stored layers of fat. Hibernation periods may last a few days, weeks, months, or even years, depending upon the nature of the planet and the metabolism of the creature.
+
+• Blubber: Many creatures store excess energy as fat, able to break the fat back down into energy when food is scarce, or the creature can’t take the time to hunt, such as in migrations. Likewise the creature may also have the ability to store water or other vital fluids, so that it can go a long time without stopping to drink, or can survive temperature extremes in relative comfort.
+
+• Play Dead: A very bizarre form of natural defense; when confronted by a more powerful predator, the creature pretends to be dead in the hopes that the predator will pass it by. This tactic works best against creatures that eat only live prey.
+
+• Non-Essential Parts: The creature can shed portions of its body when attacked. Often, the tail is one such appendage: the attacker is often content to let the creature scamper to safety because it can at least make a meal out of its tail.
+
+• Digging: The creature digs quickly, so that it can build underground structures or can travel underground in relative secrecy. Some creatures tunnel under potential prey, and then burst from the ground, attacking and killing the target before it has a chance to react. To determine game effects, simply give the creature a Move for tunneling.
+
+• Flying: The creature can fly or glide in atmospheres. The most common ways of doing this are through wings or air bladders. Most creatures can climb, dive and maneuver at will, but some creatures are helpless in the air, and thus glide along air currents. Many flying creatures can make nests and homes in isolated locations where ground-based predators cannot reach them. Assign a flight speed to the creature.
+
+• Amphibious: The creature can survive, and probably hunt as well, on land and in water, possibly breathing both water and air.
+
+• Leaper: The creature can jump or leap great distances. This can be used for high speed movement across the surface of a world, or the creature may use this ability to leap from trees in movement or during an attack. This type of movement can also conceivably hide the trail of a creature, so there is no continuous contact with a surface to hold scent.
+
+• Confuse Senses: The creature has the ability to mask its presence by other than visual means. The creature can disperse its heat so that it doesn’t stand out to infrared vision, can make sounds like other creatures or has some other ability so that it isn’t easily detected or is mistaken for some other type of creature. Creatures with this ability often also have camouflage.
+
+• Dexterity: The creature is extremely dexterous, and talented at dodging attacks using the brawling parry and dodge skills. The creature does this by jumping, moving quickly and making other feints that make it difficult to catch or hit in combat.
+
+• Tail: The creature has a tail, which can be used to aid in balance, or to cause damage in combat.
+
+• Antlers/horns/tusks: The creature has antlers, horns or tusks which aid it in combat, doing more damage than a simple Strength attack.
+
+• Communication: The creature has an unusual form of communication, including echo-location, using feet to make sounds on the ground, communication by releasing scents, or by touching. The complexity, range and reliability of the communication varies by creature.
+
+• Cold-Blooded: The creature is cold-blooded, and thus is very susceptible to temperature changes. When it gets too hot or cold, the creature may become lethargic or be unable to hunt or move; severe extremes may kill the creature. The advantage of this adaptation is that, in general, the creature needs to eat much less food than similarly sized warm-blooded creatures.
+
+• Independent Young: Young are fully capable of taking care of themselves from birth — they can find food, defend themselves, and are in no way dependent upon the parent for care or nurturing.
+
+After the gamemaster has devised a base creature, he should determine the creature’s social habits and behaviors. Are the creatures solitary, or do they hunt in packs? Do they try to surround opponents, or simply charge when prey is spotted? Are they stealthy enough to sneak up on opponents without being spotted? Often, a creature with mediocre abilities can become a devastating foe if it is cunning enough to confuse and surprise prey.

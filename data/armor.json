@@ -1,0 +1,289 @@
+{
+ "id": "armor",
+ "source": {
+  "chapter": 18,
+  "pages": [
+   333,
+   359
+  ],
+  "file": "raw-data/18-equipment-weapons.txt"
+ },
+ "notes": "Armor adds to the Strength roll to resist damage (see rules/combat-injuries.md#armor). protection is parsed from game_notes where possible; always read game_notes.",
+ "items": [
+  {
+   "id": "armored-spacesuit",
+   "name": "Armored Spacesuit",
+   "category": "armor",
+   "group": "Armored Spacesuit",
+   "page": 356,
+   "model": "Merr-Sonn Weapons Superior Boarding Armor",
+   "type": "Armored space suit",
+   "cost": "10,000",
+   "availability": "2, X",
+   "game_notes": "Armor provides +2D versus energy, +1D versus physical damage; −1D from Dexterity and related skills. Holds 25 hours of atmosphere. Rocket Pack: Suit includes a rocket pack; Space Move: 1, uses rocket pack operation.",
+   "cost_credits": 10000,
+   "protection": {
+    "energy": "+2D",
+    "physical": "+1D",
+    "dexterity_penalty": "-1D"
+   }
+  },
+  {
+   "id": "medium-battle-armor",
+   "name": "Medium Battle Armor",
+   "category": "armor",
+   "group": "Battle Armor, Medium",
+   "page": 356,
+   "model": "Drolan Plasteel TYI Flex- Armor",
+   "type": "Personal armor",
+   "scale": "Character",
+   "cost": "2,000",
+   "availability": "3",
+   "game_notes": "Head, torso, arms, legs: +1D to all physical and energy attacks; −1D penalty to all Dexterity and Perception attribute and skill checks.",
+   "cost_credits": 2000,
+   "protection": {
+    "physical": "+1D",
+    "energy": "+1D",
+    "dexterity_penalty": "-1D"
+   }
+  },
+  {
+   "id": "heavy-battle-armor",
+   "name": "Heavy Battle Armor",
+   "category": "armor",
+   "group": "Battle Armor, Heavy",
+   "page": 356,
+   "model": "Core World Arms Dura-Armor",
+   "type": "Impact-resistant molded armor",
+   "scale": "Character",
+   "cost": "8,000",
+   "availability": "3",
+   "game_notes": "Head, torso, arms, legs: +2D to all physical (non-energy) attacks; +2D to all energy attacks; −2D penalty to all Dexterity and Perception attribute and skill checks.",
+   "cost_credits": 8000,
+   "protection": {
+    "physical": "+2D",
+    "energy": "+2D",
+    "dexterity_penalty": "-2D"
+   }
+  },
+  {
+   "id": "blast-helmet",
+   "name": "Blast Helmet",
+   "category": "armor",
+   "group": "Blast Helmet and Vest",
+   "page": 356,
+   "model": "Typical blast helmet",
+   "type": "Personal armor",
+   "scale": "Character",
+   "cost": "200",
+   "availability": "1",
+   "game_notes": "+1D physical, +1 energy (head only).",
+   "cost_credits": 200,
+   "protection": {
+    "physical": "+1D",
+    "energy": "+1"
+   }
+  },
+  {
+   "id": "blast-vest",
+   "name": "Blast Vest",
+   "category": "armor",
+   "group": "Blast Helmet and Vest",
+   "page": 356,
+   "model": "Typical blast vest",
+   "type": "Personal armor",
+   "scale": "Character",
+   "cost": "300",
+   "availability": "1",
+   "game_notes": "+1D physical, +1 energy (torso).",
+   "cost_credits": 300,
+   "protection": {
+    "physical": "+1D",
+    "energy": "+1"
+   }
+  },
+  {
+   "id": "royal-guard-armor",
+   "name": "Royal Guard Armor",
+   "category": "armor",
+   "group": "Ceremonial Armor",
+   "page": 357,
+   "model": "Standard Royal Guard Armor",
+   "type": "Military armor",
+   "scale": "Character",
+   "cost": "Not available for sale",
+   "availability": "3, X",
+   "game_notes": " Armor Protection: +2D physical, +1D energy, −1D Dexterity and related skills. Comlink: Tongue-activated top-security scrambler helmet comlink. Sealed Body Glove: Climate controlled body glove and breath mask allows operation in extremely cold or warm climates and toxic-air environments. MFTAS: Multi-Frequency Targeting Acquisition System; adds +3D to Perception and search checks in low-visibility situations, +2D to ranged weapon skill uses against targets moving more than 10 meters per round; polarized lenses prevent flash-blinding. Utility Belt: High-tension wire, grappling hooks, spare blaster power packs, ion flares, concentrated rations, spare comlink, water packs, 2 medpacs.",
+   "cost_credits": null,
+   "protection": {
+    "physical": "+2D",
+    "energy": "+1D",
+    "dexterity_penalty": "-1D"
+   }
+  },
+  {
+   "id": "combat-jumpsuit",
+   "name": "Combat Jumpsuit",
+   "category": "armor",
+   "group": "Combat Jumpsuit",
+   "page": 357,
+   "model": "A/KT Tuff1 Combat Jumpsuit",
+   "type": "Light combat armor",
+   "cost": "1,000",
+   "availability": "2",
+   "game_notes": "Provides +1D physical, +2 energy protection.",
+   "cost_credits": 1000,
+   "protection": {
+    "physical": "+1D",
+    "energy": "+2"
+   }
+  },
+  {
+   "id": "corellian-powersuit",
+   "name": "Corellian Powersuit",
+   "category": "armor",
+   "group": "Corellian Powersuit",
+   "page": 357,
+   "model": "Corellian powersuit",
+   "type": "Powersuit body armor",
+   "scale": "Character",
+   "skill": "Powersuit operation",
+   "cost": "10,000",
+   "availability": "2, R",
+   "game_notes": "+1D+2 physical, +1D energy, −1D Dexterity and related attributes. Servos in the armor provide +1D Strength bonus for lifting skill rolls and melee and brawling damage. If the wearer can’t make an Easy powersuit operation roll, or if the armor is disabled or out of power, this bonus doesn’t apply and the wearer suffers a further −1D penalty to Strength and Dexterity.",
+   "cost_credits": 10000,
+   "protection": {
+    "physical": "+1D+2",
+    "energy": "+1D",
+    "dexterity_penalty": "-1D"
+   }
+  },
+  {
+   "id": "armored-flight-suit",
+   "name": "Armored Flight Suit",
+   "category": "armor",
+   "group": "Flight Suit, Armored",
+   "page": 357,
+   "model": "Corellian TX-3",
+   "type": "Armored flight suit",
+   "scale": "Character",
+   "cost": "4,000",
+   "availability": "2",
+   "game_notes": "Provides +1D to Strength to resist physical and energy damage and additional protection against vacuum for limited periods. It grants a +1D+1 bonus to stamina to resist cold temperatures. An armored flight suit provides up to 10 hours of life support, allowing its wearer to survive in the vacuum of space or any other hostile environment. Utility Belt: Ion flares, one week concentrated rations, spare comlink, water packs, 1 medpac.",
+   "cost_credits": 4000,
+   "protection": {
+    "physical": "+1D",
+    "energy": "+1D"
+   }
+  },
+  {
+   "id": "padded-flight-suit",
+   "name": "Padded Flight Suit",
+   "category": "armor",
+   "group": "Flight Suit, Padded",
+   "page": 357,
+   "type": "Typical padded flight suit",
+   "scale": "Character",
+   "cost": "2,000",
+   "availability": "1",
+   "game_notes": "Provides +1 to Strength to resist physical damage and additional protection against decompression, g-forces and harmful environments. Comes with a matching helmet and gloves that seal around the wearer and provide up to 10 hours of life support. It grants a +2 bonus to stamina to resist cold temperatures.",
+   "cost_credits": 2000,
+   "protection": {
+    "physical": "+1"
+   }
+  },
+  {
+   "id": "clone-trooper-armor",
+   "name": "Clone Trooper Armor",
+   "category": "armor",
+   "group": "Stormtrooper/Clone Trooper Armor",
+   "page": 357,
+   "model": "Republic Clone Trooper Armor, Mark I",
+   "type": "Military armor",
+   "scale": "Character",
+   "cost": "Not available for sale",
+   "availability": "3, X",
+   "game_notes": " Armor Protection: +2D physical, +1D energy, −1D penalty Dexterity and related skills. Comlink: Tongue-activated helmet comlink. Body Glove: Climate controlled body glove allows operation in uncomfortably cold or warm climates. MFTAS: Multi-Frequency Targeting Acquisition System; adds +1 to Perception checks in low-visibility situations, +1 to ranged weapon skill uses against targets moving more than 10 meters per round. Utility Belt: High-tension wire, grappling hooks, spare blaster power packs, ion flares, concentrated rations, spare comlink, water packs, 2 medpacs.",
+   "cost_credits": null,
+   "protection": {
+    "physical": "+2D",
+    "energy": "+1D",
+    "dexterity_penalty": "-1D"
+   }
+  },
+  {
+   "id": "stormtrooper-armor",
+   "name": "Stormtrooper Armor",
+   "category": "armor",
+   "group": "Stormtrooper/Clone Trooper Armor",
+   "page": 358,
+   "model": "Standard Stormtrooper armor",
+   "type": "Military armor",
+   "scale": "Character",
+   "cost": "Not available for sale",
+   "availability": "3, X",
+   "game_notes": " Armor Protection: +2D physical, +1D energy. −1D penalty to all Dexterity attribute and skill checks. Comlink: Helmet contains tongue-activated comlink. MFTAS: Multi-Frequency Targeting and Acquisition System (MFTAS), +2D to Perception checks in low-visibility situations, +2D to ranged weapon skill uses against targets that move more than 10 meters per round; polarized lenses prevent flashblinding. Body Glove: Climate controlled body glove (allows operation in moderately warm or cold climates). Utility Belt: High-tension wire, grappling hooks, spare blaster power packs, ion flares, concentrated rations, spare comlink, water packs, 2 medpacs.",
+   "cost_credits": null,
+   "protection": {
+    "physical": "+2D",
+    "energy": "+1D",
+    "dexterity_penalty": "-1D"
+   }
+  },
+  {
+   "id": "scout-trooper-armor",
+   "name": "Scout Trooper Armor",
+   "category": "armor",
+   "group": "Stormtrooper/Clone Trooper Armor",
+   "page": 358,
+   "model": "Standard Stormtrooper Scour armor",
+   "type": "Military armor",
+   "scale": "Character",
+   "cost": "Not available for sale",
+   "availability": "3, X",
+   "game_notes": " Armor Protection: +2 physical, +2 energy. Comlink: Helmet contains tongue-activated comlink. MFTAS: Multi-Frequency Targeting and Acquisition System (MFTAS), +2D to Perception checks in low-visibility situations, +2D to ranged weapon skill uses against targets that move more than 10 meters per round; polarized lenses prevent flashblinding. Body Glove: Climate controlled body glove (allows operation in mod erately warm or cold climates). Viewplate: Macrobinocular imaging set (100-250/500/1,000 meter range) with sensor relay. Sensor Pack: Enables user to make passive sensor scans (no bonus); in forward focus the scanner patches into the rider’s viewplate to provide navigation aid (+2D to repulsorlift operation) Utility Belt: High-tension wire, grappling hooks, spare blaster power packs, ion flares, concentrated rations, spare comlink, water packs, 2 medpacs, camo tent, water purifier.",
+   "cost_credits": null,
+   "protection": {
+    "physical": "+2",
+    "energy": "+2"
+   }
+  },
+  {
+   "id": "snowtrooper-armor",
+   "name": "Snowtrooper Armor",
+   "category": "armor",
+   "group": "Stormtrooper/Clone Trooper Armor",
+   "page": 358,
+   "model": "Standard Cold Assault Trooper armor",
+   "type": "Military armor",
+   "scale": "Character",
+   "cost": "Not available for sale",
+   "availability": "3, X",
+   "game_notes": " Armor Protection: +1D physical, +1D energy. −1D penalty to all Dex terity attribute and skill checks. Comlink: Helmet contains tongue-activated comlink. MFTAS: Multi-Frequency Targeting and Acquisition System (MFTAS), +2D to Perception checks in low-visibility situations, +2D to ranged weapon skill uses against targets that move more than 10 meters per round; polarized lenses prevent flashblinding. Body Glove: Climate controlled body glove (allows operation in extremely cold climates and toxic-air environments). Utility Belt: High-tension wire, grappling hooks, spare blaster power packs, ion flares, concentrated rations, spare comlink, water packs, 2 medpacs, a thermal tent and attachment for snowboot slippers.",
+   "cost_credits": null,
+   "protection": {
+    "physical": "+1D",
+    "energy": "+1D"
+   }
+  },
+  {
+   "id": "vonduun-crabshell-armor",
+   "name": "Vonduun Crabshell Armor",
+   "category": "armor",
+   "group": "Vonduun Crabshell Armor",
+   "page": 358,
+   "model": "Warrior’s Vonduun Crab Armor",
+   "type": "Yuuzhan Vong personal armor",
+   "scale": "Character",
+   "cost": "Not available for sale",
+   "availability": "4, X",
+   "game_notes": "Grants a +1D+1 bonus to Strength rolls to resist all forms of damage, but reduces the wearer’s Dexterity score by −1D.",
+   "cost_credits": null,
+   "protection": {
+    "physical": "+1D+1",
+    "energy": "+1D+1",
+    "dexterity_penalty": "-1D"
+   }
+  }
+ ]
+}

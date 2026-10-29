@@ -1,0 +1,1004 @@
+CHAPTER 8: SPACE TRAVEL & COMBAT
+(Páginas impressas 119-139 | PDF 121-141)
+
+[Página impressa 119 | PDF 121]
+
+8
+
+# SPACE TRAVEL & COMBAT
+
+“If you want to get from planet to planet, you’re gonna need a starship. You probably think any old ship will do. Maybe a stock light freighter is what you have in mind? I mean, you don’t plan on getting attacked, right?
+
+“Guess again, people. These days, pirate ships — or Imperial TIE fighters — can be lurking any where. After your first close call, you’ll learn to appreciate the benefits of quad laser cannons, boosted shields and reinforced hull plating. Just ask someone like Han Solo or Platt Okeefe... something a little sturdier than a ‘stock’ freighter can come in pretty handy.
+
+“Okay, so now you know that you need a good ship. Where do you begin? Relax. I’ll walk you through it, from the basics of buying a ship right down to the finer points of sending Imperial TIE fighter pilots scurrying home with their tails tucked between their legs.
+
+“We’ll go over the issues in order. What’s a starship? How do I get a ship? How do I get from one system to another? What can I run into once I get there? And finally, what happens when the shooting starts?
+
+“Now, hang on and learn.”
+
+CHAPTER EIGHT
+
+[Página impressa 120 | PDF 122]
+
+# WHAT’S A STARSHIP?
+
+A “starship” is any space vessel capable of traveling between stars. (Any ship that cannot travel between systems is a “spaceship.”) Most “modern” starships use a hyperdrive to journey from one star to another. The miracle of hyperdrive technology allows people to travel to distant worlds, trade goods, and maintain a stable government that spans the galaxy.
+
+There are many different types of starships, but they’re grouped into three general categories:
+
+• Capital Ships. Also known as “capital combat starships,” a capital ship is any large vessel designed for deep space combat. They are typically over 100 meters long, require large crews and are armed with combat shields and a lot of various weapon emplacements. Many capital ships carry starfighters, shuttles or landing craft. Imperial Star Destroyers, Trade Federation Battleships and Corellian Corvettes are a few of the more famous designs. Capital ships use the capital ship piloting skill (or Technical attribute).
+
+• Starfighters. These small space fighters are designed for combat; they’re virtually useless for any other task. Starfighters typically have a crew of one or two, with almost no cargo space. While fragile, they’re equipped with powerful weapons and are blindingly fast at sublight speeds; most starfighters also perform well in atmospheric combat. X-wings, Y-wings and Imperial TIE fighters are well-known examples of this category of ship. Starfighters use the starfighter piloting skill (or Technical attribute).
+
+• Space Transports. This broad category covers any starship not specifically designed for combat. (However, many transports — such as the famed Millennium Falcon — have been refitted with added weapons, tougher shields and faster engines to make them combat-worthy.) Space transports include small scout
+
+ships and light freighters (the Falcon is a Corellian YT-1300 light freighter), military and civilian shuttles, expensive space yachts, and even immense bulk freighters and passenger cruise liners; they all use the space transports skill (or Technical attribute).
+
+The availability of cheap and easily-maintained hyperdrives means that ships are “relatively” affordable. Entrepreneurs willing to mortgage their futures on the ability to make a profit hauling cargoes — legal or otherwise — may be able to purchase an old freighter. Small businesses and independent traders with more resources can purchase newer, more reliable vessels, and often pour most of the profits into maintaining and upgrading their ships. The wealthy can afford luxurious, customized space yachts.
+
+Many corporations own entire fleets of bulk haulers for cargo shipping, while squadrons of aging starfighters protect the haulers from pirate and Rebel attacks.
+
+On the upper end of the scale, the governments of the Old Republic and the Empire built vast fleets consisting of tens of thousands of military vessels.
+
+# HOW TO GET A SHIP
+
+Starships aren’t cheap. There is the basic cost of the ship itself, and then the bank loans, and maintenance and repairs — it looks so romantic in the holovids; it’s murder in the space lanes. Some templates begin the game with a freighter, but odds are that the character also inherits a mountain of debt.
+
+New ships tend to be beyond the reach of the average person and even used ships are expensive. Probably the best ship most characters are going to be able to afford is an aging freighter that has more than a few quirks hidden beneath the battered hull plating. (Ship owners can upgrade their vessels over time — see the “Using Repair Skills” and “Improving Vehicles, Vessels and Weapons” sections of Chapter Two, “Attributes and Skills”).
+
+[Página impressa 121 | PDF 123]
+
+Military-quality vessels — such as starfighters and capital combat ships — are expensive in the best of times and governmental regulations are supposed to make sure that they don’t fall into “Rebel hands.” Normally, only planetary governments and the largest corporations have the opportunity to legally acquire such vessels. (Those with the money and the connections can purchase such ships through the black market.)
+
+Characters working for the Rebel Alliance/New Republic, large companies, or wealthy individuals may borrow cargo haulers and freighters to complete their missions.
+
+Characters may also be able to lease a ship from a sponsor. Often, they’ll be under exclusive contract and have to take cargoes at the sponsor’s convenience. They’ll have to make regular payments and probably have to pay for all expenses and repairs out of their own pockets... but at least it’s a way to buy a ship, especially for those people who can’t get loans from financial institutions.
+
+Of course, there’s always the “easy” way to get a ship: borrow money from a crime lord. With the Empire’s repressive policies, even the most honest spacers are sometimes forced to turn to the underworld for a few credits. Most crime lords are more than happy to help a freighter captain through a tough time in exchange for a few “favors” and a hefty profit. This route is only for the most desperate individuals, but for some it’s the only way to get a ship.
+
+### Booking Passage
+
+Characters who need to find a way from one system to another, but who don’t own a ship, still have a few options.
+
+The most common choice is to book passage on a passenger liner or transport. Liners travel regular routes between worlds; most major systems are regularly serviced by one or more such ships. Accommodations range from spartan (a seat and perhaps a meal for short journeys) to staterooms with all the luxuries one could possibly imagine. Naturally, costs match the “style” one travels in, from a few hundred credits for a short trip on a cheap transport, to many thousands of credits for luxury cruises.
+
+For such trips, the characters simply have to purchase their tickets and let the crew do its job. Of course, things can get a little more complicated. Pirate attacks are a continuing problem, and overzealous customs officers have an annoying tendency to search liners, looking for undercover Rebel operatives, contraband cargo, or Clone Trooper deserters.
+
+Characters can save a few credits by booking passage on an independent freighter that already has a cargo destined for the planet they want to visit. Many freighters have a spare bunk or two — but not many other amenities — for just such an occasion.
+
+### Charter
+
+Characters can also charter a ship, hiring an independent freighter captain to take them to a planet. While more expensive than commercial liners — some chartered ships charge 10,000 credits or more — they generally offer more privacy, and the characters can often pick the departure and arrival timetable. There are many reasons to charter a ship — perhaps it’s the only way to avoid customs searches, maybe the characters have a sensitive cargo that they want to keep hidden from prying eyes... and some worlds are so remote that the only way to get there is to charter a ship.
+
+# HOW TO GET FROM ONE SYSTEM TO ANOTHER
+
+Starships have two major drive systems: hyperdrives and sublight drives.
+
+## SUBLIGHT DRIVES
+
+All starships have sublight drives to propel them through space. (They’re also known colloquially as realspace drives, since our dimension is known as “realspace.”)
+
+Sublight drives are used whenever a ship blasts off from a planet’s surface to make a safe jump to hyperspace — such as when the Millennium Falcon blasted out of Mos Eisley Spaceport — and for trips between planets or moons within a system. All starship combat takes place in realspace at sublight speeds. Some ships can also use their sublight drives for atmospheric flight.
+
+The most common type of sublight drive is the Hoersch- Kessel ion drive. This powerful drive type can be adapted for any type of ship, from starfighters to capital starships, and it’s manufactured under many different brand names. H-K drives can be configured to run on a wide variety of energy sources, the most common being rechargeable power cells or fusion generators.
+
+(Most starships capable of planetary landings also have repulsorlift drives — similar to the ones used on vehicles — for maneuvers during landings.)
+
+Sublight Benchmarks. While starships move at relatively slow speeds in orbit, they can achieve incredible velocities in open space. Here are some very rough guidelines for sublight travel times.
+
+• Five minutes to fly from orbit to a safe hyperspace jump point.
+
+• Half an hour to fly from a planet to one of its moons.
+
+• Two to six hours to fly from one planet to the nearest planet in the system. (Two hours for relatively close terrestrial worlds; the upper limit is for flying between distant gas giants.)
+
+• Anywhere from 10 to 48 hours to fly from a star to the outer limits of the system, depending upon distance and the presence of any hazards such as asteroid belts or gas clouds. (It takes about 15 hours to reach the outer limits of a “representative” system composed of a single yellow star and less than a dozen significant planetary bodies.)
+
+Often, pilots find that it’s quicker to travel between planets by making a “micro jump” in hyperspace. While very precise navigation coordinates are necessary for this type of jump, such trips can be completed within an hour, compared to sublight “intersystem” trips taking many hours.
+
+## HYPERDRIVES
+
+Hyperdrives propel starships into an alternate dimension known as hyperspace, where it’s possible to travel at many times the speed of light. Ships in hyperspace can cross the incredible distances between stars in a few weeks, days or even hours.
+
+[Página impressa 122 | PDF 124]
+
+When a ship jumps to lightspeed, the hyperdrive motivator engages the hyperdrive. The ship rapidly accelerates to and beyond the speed of light while the ship crosses into hyperspace. (When a hyperdrive is deactivated, the ship automatically returns to realspace at the speed it had before the jump to lightspeed.)
+
+Hyperspace is coterminous with realspace — if you head north in hyperspace, you are also heading north in realspace. Objects in realspace have a hyperspace shadow — a presence in hyperspace at the same location.
+
+This means that there’s an inherent danger in traveling through hyperspace. Contact with an object’s hyperspace shadow results in the instant destruction of the ship. (The object in realspace remains undisturbed.) Starships have “mass shadow sensors” to detect hyperspace shadows and shut down the hyperdrive to avoid collision, although these systems are not entirely reliable. While deep space collisions are very rare, they also tend to be quite deadly.
+
+Astrogators must plot safe paths around interstellar debris. Due to the incredible speeds achieved in hyperspace, the margin between safe passage and a collision is often only microseconds.
+
+### Nav Computers
+
+To handle the overwhelming complexities of calculating hyperspace trips, most ships are equipped with navigation computers (“navicomputers” or “nav computers” for short). A ship’s astrogator uses the nav computer to plot a safe trip along known hyperspace routes. Nav computers hold a tremendous amount of data, storing the coordinates for hyperspace routes and the locations of stars, planets, debris, gravity wells, asteroid fields, gas clouds and other hazards. Ships without nav computers often use astromech droids — such as R2 units — to store astrogation coordinates. (Pilots can try to make hyperspace jumps without navigation coordinates, but this is an incredibly risky proposition.)
+
+Hyperspace Routes. “Hyperspace routes” are established paths through hyperspace linking major planets, just as roads link major settlements on planets. These routes are known to be safe, allowing ships to reach exceptional speeds.
+
+As a route becomes well-known and its hazards are better understood, hyperspace journeys can be plotted with more precision at faster speeds; eventually, travel times between specific planets may actually decrease. Travel times can increase, as well, if obstacles drift into the hyperspace route.
+
+In general, the greater the physical distance between planets, the longer the journey in hyperspace takes. However, even systems that are in close proximity to one another may require roundabout hyperspace routes because of debris and other hazards.
+
+(Caution is always called for: the positions of over 90 percent of the objects in realspace are unknown. The hyperspace shadow of anything larger than a boulder can destroy a ship, and there are countless such things drifting undiscovered in deep space. There is always a slim chance that something has drifted into a hyperspace route.)
+
+Brave pilots may plot new routes in hyperspace, but this can be extremely dangerous. Scouts often use a series of very short micro-jumps, scanning ahead prior to each jump, eventually reaching a system after dozens of such jumps. This is a time-consuming, painstaking process, but it is much safer than “blind jumping” into unexplored space.
+
+Due to the complexity of astrogation coordinates, it’s virtually suicidal to try to change course while in hyperspace. It’s much safer for a ship to drop back to realspace to calculate a new hyperspace course.
+
+### Hyperdrive Multipliers
+
+A hyperdrive is ranked by a “class,” or hyperdrive multiplier. The lower the multiplier, the faster the drive. Most civilian ships have a Class Two (×2) or higher hyperdrive. Many military vessels and starfighters have a Class One (×1) hyperdrive, which is twice as fast as a Class Two drive. The Millennium Falcon has a Class 0.5 (×½) hyperdrive, making it one of the fastest ships in the galaxy.
+
+Each hyperspace route or journey has a duration. Multiply the duration by the ship’s hyperdrive multiplier to find out how long it takes the ship to reach the destination.
+
+Example: The freighter Thannik’s Thunder has a hyperdrive multiplier of ×2. A trip from Tatooine to Bespin has a duration of 16 hours; it would take Thannik’s Thunder 32 hours to reach Bespin. A ship with a hyperdrive modifier of ×1 would only need 16 hours to reach Bespin. If the Millennium Falcon was making the same trip, its ×½ hyperdrive means that it could reach Bespin in eight hours.
+
+Hyperdrive Backup. Many ships have a backup hyperdrive. While very slow — some backup drives are ×10, ×15 or even higher — they can be used to limp to the nearest spaceport if the main hyperdrive is disabled.
+
+[Página impressa 123 | PDF 125]
+
+## HYPERDRIVES IN THE GAME
+
+Three things happen when a character wants to travel to a different system:
+
+• Pick the astrogation difficulty number.
+
+• Make calculations for the jump to hyperspace.
+
+• Determine the trip’s duration.
+
+Pick the Astrogation Difficulty Number. The astrogation difficulty can range from Very Easy to Heroic. Most trips have a base difficulty of Moderate, but difficulties can be much lower for easy trips (such as an Easy difficulty for a trip from Coruscant to Chandrila) or much higher for particularly perilous routes. For example, the Kessel Run requires at least five Very Difficult astrogation rolls due to the presence of the Maw Cluster, a conglomeration of black holes and gas clouds.
+
+Here are some astrogation modifiers:
+
+Modifier: | Situation:
++30 | No nav computer or astromech droid
+×2 | Hasty entry (see “Make Calculations for the Jump to Hyperspace”)
++5 | Lightly damaged ship
++10 | Heavily damaged ship
+−1 | Each extra hour taken on journey*
+1 | Each hour saved on journey**
+
++1-30 or more
+Obstacles
+
+* Characters can lower their astrogation difficulties: reduce the difficulty number by one for each extra hour added to the trip. ** Characters can also plot faster routes — making the trip shorter — by adding one to the difficulty number for each hour saved.
+
+Example: Rhen is astrogating for a trip from Tatooine to Bespin. The trip will take 32 hours (Thannik’s Thunder has a ×2 hyperdrive) and the difficulty number is 12 (a Moderate Difficulty).
+
+Rhen decides she wants to reduce the difficulty number. She’s willing to add five hours to the trip — now the trip takes 37 hours — but the difficulty number is only a 7.
+
+Later, Thannik’s Thunder is racing back to Tatooine from Bespin. This time, Rhen’s in a hurry: she wants to save 10 hours from the trip’s duration, so Thannik’s Thunder gets to Tatooine in 22 hours. Unfortunately, Rhen’s astrogation difficulty increases by 10: her new difficulty number is 22.
+
+If the character’s astrogation roll is equal to or greater than the difficulty number, the hyperspace trip goes off without a hitch. If the character misses the difficulty number by 10 or more points, the ship cannot enter hyperspace and a new astrogation roll must be made. If the roll misses the difficulty number by 1-9 points, the ship suffers an “astrogation mishap.”
+
+Make Calculations for the Jump to Hyperspace. A character making an astrogation roll needs to make calculations for the jump to hyperspace.
+
+Calculating a route takes one minute if the character is using a well-traveled route or is using precalculated coordinates. (In emergencies, a character can try to jump into hyperspace in one round instead of one minute. The astrogation difficulty is doubled and the character rolls each round until he either beats the difficulty number or suffers an “astrogation mishap”).
+
+Calculating a route between known systems takes about half an hour: Most starship captains calculate coordinates while still at the spaceport so they can make a jump quickly if they’re attacked by pirates.
+
+These calculations take a few hours if the ship has never jumped to the destination system before. If the character doesn’t know where he is (if the ship misjumps), it takes one day to determine his ship’s current position and then compute hyperspace coordinates.
+
+Determine the Trip’s Duration. Trips between systems have “standard durations”: this is how long it takes a ship with a ×1 hyperdrive to travel from one system to the other.
+
+If the characters are visiting other systems, you must pick a standard duration. Tell the players the duration, since they can try to speed up their trip (with a higher astrogation difficulty), or they may decide to take longer to reduce the astrogation difficulty.
+
+You’ll probably find it helpful to keep notes so you can use consistent durations when the characters travel between systems. These numbers can change during the game: the duration decreases as a route is more heavily traveled, and it can increase if a rogue planet or other hazard drifts into the route.
+
+Sample Durations. Travel times are dependent upon how far apart the systems are, whether the route must go around any obstacles, and how often the route is used. Well-traveled routes are much faster, while barely-used routes take much longer even if they don’t cover much distance.
+
+Travel between major inhabited worlds, even if they are sectors apart, might take only a few hours, while travel between minor planets, even if they are in close proximity, might take weeks — sometimes it’s quicker to plot a hyperspace journey from an isolated planet to a major planet (using a quick trade route) and then travel from the major planet to the isolated planet that is your goal — the ship is physically traveling farther, but it can save time by moving at higher speeds on well-established routes.
+
+Here are some rough guidelines you can use:
+
+• Systems are within the same sector: A few hours to a few days (1D).
+
+• Systems are within the same region but different sectors: Several hours to several days (2D).
+
+[Página impressa 124 | PDF 126]
+
+• Systems are in neighboring regions: Several days to weeks (2D).
+
+• Systems are in regions distant from each other: Several weeks to months (2D).
+
+• Route is well-traveled: Reduce the time by half.
+
+• Route is known to have many random hazards: Add 1D of the base time unit (days, weeks, or months) to the time it takes to travel it.
+
+(There is no known route that travels straight across the galaxy. Even the fastest of ships, such as the Millennium Falcon, would take months to cross the entire galaxy, if such a route did exist.)
+
+Hyperdrive Start-Up Sequence (Option). A ship’s hyperdrive needs some time to start-up and push the ship into hyperspace. To determine the time needed, find the ship’s scale in the table below and multiply the “base time” by the ship’s hyperdrive multiplier. The total is the time required for a ship’s hyperdrive to make the jump. For calculations made already in space, consider this time to be included in the time it takes to plot the jump.
+
+Class | Base Time
+Starfighter | 2 rounds (1 minute)
+Space Transport | 4 rounds (2 minutes)
+Capital (under 500m) | 10 rounds (5 minutes)
+Capital (500m-1km) | 20 rounds (10 minutes)
+Capital (over 1km) | 30 rounds (15 minutes)
+
+Start-Up
+
+Using Astrogation in the Game. The astrogation rules can be interpreted as needed for interesting game play — the possibility of hazards drifting into routes allows you to set difficulties and durations as high or low as you want. Acquiring astrogation coordinates can be a major part of the game — or getting coordinates can be as simple as running down to the local freighter pilots’ guildhouse and plunking down a few hard-earned credits for the data.
+
+Hyperdrive mishaps are best used as a plot device. If you don’t have anything special planned, it’s normally enough to just cut to the arrival in the destination system and get on with the game.
+
+## ASTROGATION MISHAP TABLE
+
+When an astrogation roll misses the difficulty number by 1-9 points, a mishap occurs. Roll 2D to find out what happens:
+
+2. Hyperdrive Cut-out and Damaged. The ship’s hyperdrive cuts-out, avoiding a collision with a stellar body. Unfortunately, the cut-out damaged the hyperdrive engines. A Moderate repair total (capital ship repair, space transports repair or starfighter repair) is necessary to repair the main hyperdrive; otherwise the ship will have to use its backup hyperdrive to limp to a nearby system. This can be a good excuse to introduce the characters to a new system, ship, alien species, or other adventure.
+
+3-4. Radiation Fluctuations. Radiation surges affect the hyperdrive’s performance, randomly increasing or decreasing the journey’s duration. Suggested change of +1D or −1D in hours for each point the roll was missed by — if the astrogator missed by 3, the journey might be increased by 3D hours.
+
+5-6. Hyperdrive Cut-out. The ship’s navigation computers detected a mass shadow (a rogue planet, for example), throwing the ship into realspace. The pilot must now calculate a new hyperspace route from wherever they are in realspace. This is also a good excuse to introduce an adventure.
+
+7-8. Off Course. The ship is completely off-course. The ship emerges in the wrong system and an entirely new trip must be plotted. The system they have arrived in may be settled or unsettled. Yet another good excuse to introduce an adventure.
+
+9. Mynocks. Mynocks somehow attached themselves to the ship’s power cables prior to jumping into hyperspace. The duration of the journey is increased by 1D days.
+
+10. Close Call. Some other ship’s system, such as the sublight drives, nav computer, escape pods or weapons are damaged due to any number of factors. The ship completes its journey, but the system will have to be fixed upon arrival at their destination.
+
+11-12. Collision, Heavy Damage. The ship actually collides with an object. The ship drops to realspace, heavily damaged (see “Starship Damage” later in this chapter) and with a ruptured hull. The ship is no longer space-worthy and must be abandoned.
+
+All characters in a ruptured area of the ship must make a Moderate survival total to get into survival suits in one round. If the character doesn’t, he must make a new stamina check each round to avoid passing out from lack of air — in the first round, the difficulty is Easy, then Moderate, then Difficult, then Very Difficult, then Heroic, then Heroic +10 and so on.
+
+[Página impressa 125 | PDF 127]
+
+## STOPPING HYPERSPACE JUMPS
+
+It can be very frustrating to a pirate to have a prize jump out from under attack (or for the gamemaster if he wants to have his players’ ship boarded). Remember, though, that to jump safely, a ship must take some time to calculate the jump — one minute for well-known, well-traveled routes, up to half and hour for most known systems, and several hours to calculate a jump to an obscure system. Hasty jumps can be reduced to a single round, but this doubles the difficulty.
+
+If a ship is lightly damaged, the gamemaster can add +5 to the base astrogation difficulty; if a ship has suffered heavy damage, the base astrogation difficulty increases by +10. In addition, ion cannon hits affect hyperspace jumps by adding +5 to base astrogation difficulty for every controls ionized result. Tractor beams add their damage roll to the difficulty.
+
+All of these penalties are cumulative, and normal scale/ damage guidelines are applicable.
+
+For example, a pirate corvette (capital scale) is jumping a light freighter (starfighter scale). The corvette hits the freighter with an ion charge, ionizing its controls (two controls ionized results), while hitting it with a tractor beam, capturing it with a damage roll (plus 6D for the scale difference) of 33. The freighter captain decides to flee into hyperspace.
+
+The gamemaster decides that the jump has a difficulty of 10 – doubled for a hasty entry – with an additional +10 for the ionization results, plus an additional +33 for the tractor beam (the scale bonus), for a total of 63! The captain, with 5D in astrogation, rolls a fairly average 18. Obviously, the freighter is now in real trouble.
+
+Emergency jumps still work fairly often against similarly scaled ships, since a good astrogator can probably roll within 10 of the difficulty and simply suffer a hyperspace mishap.
+
+These guidelines work well to keep an adventure heading on the gamemaster’s predetermined course; if the adventure hinges on the prize vessel being neutralized and boarded, these options can help skew the encounter towards the gamemaster’s desired ends.
+
+# WHAT CAN I RUN INTO ONCE I GET THERE?
+
+Passing Time on Trips. Interstellar journeys can take hours, days... even weeks. Since the ship’s computers handle everything, crew members and passengers have few responsibilities.
+
+Luxury liners provide a wide variety of entertainment. Gourmet meals, music, dancing, holo shows and even theatrical entertainment are common. Ship personnel often spend time studying up on astrogation and other vital skills. Other people pursue hobbies, such as model building, playing games, reading and gambling.
+
+Smaller ships are another story. Being cooped up in a cramped freighter for days at a time takes its toll even on the closest of friends. The autochefs food may be nutritious, but there’s only so long people can take three square meals a day of white, pasty, flavorless “autochef surprise.” Ships’ computers may carry holonovels, games and other pre-recorded entertainments, but these libraries are normally limited to what the cap
+
+[Página impressa 126 | PDF 128]
+
+tain and crew are personally interested in. During the game, you can often skip over the trip and cut to when the ship emerges into realspace and closes in on its destination.
+
+Of course, trips can be used to good effect. The characters might meet some interesting people aboard a cruise liner — “You run into this fellow, Dram Parkins, at a sabacc game”; “One night you are invited to dine at the Captain’s table and strike up a conversation with a kindly-looking old alien.” You can plant rumors or news the players will find useful — “Shipboard scuttlebutt says there are pirates out towards Alderaan system.” You can even stage a major encounter aboard the ship. Maybe there’s an Imperial spy aboard. Maybe the ship is attacked by pirates. Or maybe the player characters accidentally stumble on an illicit cargo...
+
+## ARRIVING INSYSTEM
+
+When a ship arrives insystem, it relies on two key systems: sensors and communications.
+
+Sensors. Starships have a wide array of sensors to detect other ships, planets and any potential hazards; the sensor operator uses his sensors skill.
+
+Sensors difficulty numbers are based on the range to the target, and modified by any objects or situations which affect the sensors’ readings. For example, it’s much easier to detect a ship in open space than to find a ship hiding in an asteroid belt. (See the sensors description in Chapter Two, “Attributes and Skills” for complete information.)
+
+Starship sensors have four possible modes: passive, scan, search and focus. All sensor modes have two numbers, such as 6/0D. The first number is the range of the sensor in “space units” (used in starship battles); the second number is the number of dice added to the operator’s sensors skill.
+
+Here’s a typical sensors listing:
+
+Passive: | 15/0D
+Scan: | 25/1D
+Search: | 40/2D
+Focus: | 1/3D
+
+Sensors in passive mode are merely receiving information about the immediate vicinity of the ship.
+
+Sensors in scan mode are sending out pulses in all directions at once to gather information about the environment. (Scan mode ranges tend to be much greater than passive mode ranges and the die code bonuses are higher.)
+
+Sensors in search mode are searching for information in one specific fire arc (front, left, right or back). Search mode ranges are greater than scan mode ranges and die code bonuses are higher, but the sensors get no information about the three fire arcs not being scanned.
+
+Sensors in focus mode are focusing upon a very small portion of a specific area. The number is the radius (in units) of the focus area. The maximum focus range is the search mode’s maximum range. (Sensors in focus mode gather lots of information about a very small area, but they get no information about the areas not being scanned.)
+
+Sensor Countermeasures. Ships may use a number of “countermeasures” to make themselves harder to detect.
+
+• Since sensors are essentially “line of sight,” any ship can “hide” behind a planet or any other sufficiently large body. By placing the planet between itself and the scanning ship, the target vessel can remain undetected. (Of course, the sensors may be able to detect a ship’s energy emissions if they are too large.)
+
+• Any ship that sets its sensors to passive mode is less likely to be detected than a ship using sensors in scan, search or focus mode.
+
+• Any ship can also run silent — the ship powers down all of its major systems, including engines, weapons and shields. The ship is adrift in space, with its life support systems running on power generators only. Ships can seldom run silent for longer than five minutes before life support systems must be shut down for lack of power. A ship running silent has a much higher chance of remaining undetected at long distances.
+
+• Any ship can use its sensors to jam, flooding an area with “static.” While the static will almost certainly be detected by any nearby vessels — they’ll know that a ship is causing the jamming — they’ll have a tough time determining if the jamming is being caused by a freighter... or a Star Destroyer... or a whole fleet of Star Destroyers.
+
+Starships may also have devices specifically designed to hide from or confuse other ship’s sensors. Such devices are normally listed with the ship’s sensor statistics.
+
+• Sensor decoys are small pods or shuttles which duplicate the “sensor image” of the launching ship. When a decoy is used, an enemy sensor operator now detects two identical ships where before there was only one.
+
+• A ship’s sensor masks conceal its emissions. When activated, sensor masks add a certain number of dice to the difficulty to detect the ship.
+
+[Página impressa 127 | PDF 129]
+
+• False transponder codes give a ship a false registry. All ships are required to register with BoSS (Bureau of Ships and Services), which assigns a unique transponder code to each ship’s engines. Clever captains can alter the transponder code to identify the ship as another vessel — for example, with a false transponder code, the Millennium Falcon might be identified as the Cool Shot, another YT-1300 transport registered to a completely different captain. While false transponder codes are difficult to create — and expensive if you pay someone else to install the code — they make it much easier for a ship to slip through a system’s customs patrols.
+
+Communications. Starships normally have several communications systems; these systems are fully explained in the chapter on “The Galaxy.” Communications systems can only be used in realspace; none of them operate while a ship is in hyperspace.
+
+HoloNet Transceivers: A few ships — normally high-level military vessels — have HoloNet transceivers. They’re very expensive and consume a tremendous amount of power.
+
+Hypertransceivers: These units are normally reserved for military vessels and large private starships; hypertransceivers are too expensive for most private freighter owners. They also consume a great deal of power.
+
+Subspace Transceivers: Most ships are equipped with a subspace transceiver for real-time communication. Most vessels have a short-range unit — for example, an X-wing’s subspace transceiver has a maximum range of 25 light years. With sufficient power, subspace transceivers may boost signals to a range of 100 light years or more. These devices are also used to send out distress signals if a ship is damaged in open space.
+
+Comms: Most Starships have speed-of-light comms for ship- to-ship and ship-to-planet communications. Starports use a pre-set comm channel to broadcast a METOSP (“Message to Spacers”) providing landing protocols, traffic patterns, conditions at the starport and any other information incoming pilots need to know.
+
+Intercomms are onboard systems used for communications between different sections of a starship.
+
+Communication Frequencies. It’s very difficult to find a communication signal without knowing its frequency — there are literally billions of different frequencies for comms and subspace communications. There are established military and government bands for the Old Republic, Empire and New Republic, as well as “secret” frequencies for secured messages, which are often electronically scrambled.
+
+Local governments regulate the use of frequencies for civilian, business, emergency services and military communications. Groups may also use unauthorized frequencies for covert communications.
+
+## ENCOUNTERS IN SPACE
+
+While every ship captain hopes for a smooth trip to his destination system, it’s not always that simple. There are many hostile forces and most starships must mount at least a laser cannon or two for protection. A hyperdrive misjump can send a ship careening into an unexplored system. Here are some possible encounters starship crews may face:
+
+• Pirates. Despite the the best efforts of the authorities, pirates are a threat for freighter captains. Pirates are known to lurk in the remote regions of populated systems, or they may operate in deep space by “blocking” hyperspace routes with asteroids and other large masses — as soon as a ship reverts to realspace, the pirates swoop in to strip it of all valuables.
+
+Although pirates are ruthless with those who resist, atrocities are actually rare. Ghoulish stories of innocents forced to “walk the airlock” have little basis in fact, and serve primarily as a propaganda tool to frighten civilian spacers. Despite what’s shown in the holos, pirates are businesslike — they prefer to keep things orderly as they transfer the loot into their cargo holds. Sometimes, pirates will kidnap well-known or important passengers and hold them for ransom.
+
+During the time of the Empire piracy is treated with the utmost severity. Pirate ships are destroyed whenever encountered and the penalty for piracy is death.
+
+The Rebellion and some alien governments issue “letters of marque and reprisal.” They authorize ships to prey on Imperial shipping (or the enemies of alien governments), but not on Rebels or neutrals (or friends of the aliens). Some privateers are little better than pirates, but most take their orders seriously.
+
+Needless to say, the Empire makes no distinction between pirates and privateers.
+
+• Slavers. Slavers are perhaps the cruelest, most despicable of criminals: they deal in sentient beings, selling their “wares” to the highest bidder. While slavers dare not practice their vile trade everywhere, there is still a profitable market in the galactic underworld and on some remote alien worlds. During the time of the Empire slaving in some circumstances was even encouraged — some species, such as Wookiees and Mon Calamari, were openly bought and sold.
+
+• Imperial Patrols. The Imperial Navy is immense. Its ships garrison many planets, especially ones where Rebel activity is suspected. Customs enforcers wander the Empire freely, and can arrive at a star system without warning. The Imperial Navy uses Interdictor cruisers to create artificial gravity wells to force ships from hyperspace into realspace for customs inspections.
+
+The Imperial Navy claims the right to halt, board and search any ship upon demand. It demands to do so frequently. It’s usually a good idea to comply: there aren’t many merchant ships that outgun or can outrun an Imperial Customs frigate. Especially tricky (or lucky) pirates sometimes try to dodge Imperial pursuit long enough to enter hyperspace. Once in hyperspace, the ship is safe from attack — although the Imperials can sometimes make a good guess about its intended destination from its last known trajectory.
+
+Search by the Imperial Navy is never pleasant. There’s no court to hear protests against the acts of Customs officials. The Navy reserves the right — and often exercises it — to seize cargo and valuables without explanation, to gun down those who object, and plant contraband to justify seizure of a ship.
+
+There’s only one thing which prevents Naval officers from abusing their authority too greatly: the penalty for corruption is death. Officers who get a reputation for abusing their powers for personal gain have very short careers. On the other hand, as far as the Navy is concerned, anything which injures the Rebel Alliance or its sympathizers is fine.
+
+[Página impressa 128 | PDF 130]
+
+• Republic/Rebel/New Republic Patrols. The Republic’s Navy routinely conducted patrols to search out illegal cargoes and Separatist activities. Republic officials often expect bribes or favors before granting clear passage to freighters.
+
+During the civil war, Rebel Alliance fighters conducted extensive patrols and engaged in “hit-and-fade” attacks to disable and capture Imperial freighters. While independent ships have little to fear, those vessels employed by the Empire may face a Rebel raid.
+
+After the fall of the Empire, the New Republic’s Navy conducted customs patrols. While considerably more honest than their Imperial counterparts, some New Republic officials — particularly those from provincial worlds nominally allied to the new government — will expect bribes.
+
+• Aliens. During the reigns of the Empire, Republic, and New Republic many alien governments maintain local patrol fleets (although Imperial-held worlds are carefully watched). There are also unknown alien civilizations beyond the boundaries of the Empire, Republic, and New Republic. A ship which misjumps into unexplored space may soon find itself accosted by ships from unknown civilizations.
+
+• Traders and Smugglers. Trading ships fill the spacelanes, from owner-operated light freighters to immense civilian and military bulk haulers. A small number of ships are actually smuggling vessels. An encounter with a freighter allows the characters to receive information — or misinformation — about hostile forces, possible cargo runs and even a good place to grab a meal at their destination.
+
+• Natural Hazards. The galaxy is filled with hazards to space flight: strange gas clouds, rogue planetoids, immense asteroid fields and unusual “energy storms.” There are also several life-forms which can survive in the vacuum of space, including mynocks and space slugs. All of these things can hamper a ship’s hyperspace journey, either forcing the ship to drop to realspace or possibly causing a hyperdrive mishap. A mishap revolving around one of these phenomena can be an adventure hook leading into a larger story.
+
+• Unexplored Systems. Unexplored systems may offer much to a curious visitor: alien civilizations, rich metal and mineral deposits, lost caches of technology and artifacts, and long-forgotten colonies are but a few of the possibilities.
+
+# SPACERS’ INFORMATION
+
+Every spacer is required to carry certain data documents at all times These are most often kept on a secure datapad issued by the Bureau of Ships and Services (BoSS) at the time of ship registry and captain’s accreditation.
+
+Port officials or those inspecting a ship in person request these data pads for their personal inspection, and can read the information and verify it through their own computers.
+
+Ship’s Operating License. Every starship must have an operating license detailing the ship’s specifications, port of origin, manufacturer and registration code with the Bureau of Ships and Services (BoSS). The license also identifies the current owner and gives a sample of the transponder codes. Transponder codes are the fingerprints of starships — if a transponder code doesn’t match up with datafile information for a starship registry number, it’s a sure sign of illegal operation (and in most cases, a bad license forgery or data implantation on the part of the starship owner). Operating licenses are available for 1,000 credits and require a background check on the owner, a brief inspection of the ship, and a transponder code verification reading.
+
+Captain’s Accredited License. Every starship captain, is required have a license to pilot the particular starship class they’re flying. Some licenses cover several kinds of starships, depending on the captain’s training and experience. Obtaining a captain’s license requires several oral, written and flight tests, as well as verifiable documented time in space, an extensive background check, and a 300 credit fee. However, BoSS often overlooks the flight time and most of the testing for a 200 credit “expediter fee” — bringing the total for a pilot’s license to 500 credits.
+
+[Página impressa 129 | PDF 131]
+
+Arms Load-Out Permit. Non-military starships with weapons or unusually high shield ratings require an arms loadout permit acknowledging that the additional weapons and shields are authorized by the Bureau of Ships and Services. These permits are issued quite often and easily in the regions past the Colonies, as piracy and other attacks are much more common. Ships with weapons emplacements or boosted shields without one of these permits can be impounded on the grounds that it is a vessel in the service of a pirate group or the Rebel Alliance. Because boosted arms and shields are part of a starship’s spec profile, BoSS assumes authority in keeping track of augmented ordnance and tags the permit onto the ship’s operating license. Each weapon or boosted shield system aboard a ship requires a separate permit. An arms load-out permit requires a brief inspection, verification of starship and captain’s licenses, a background check, and a minimum 250 credit fee (the fee depends on the specific shielding and weapons to be carried). Existing weapons that are upgraded in power require new, upgraded permits.
+
+# STARPORTS
+
+Most planets have a small starport; major worlds may have dozens. Each starport’s information is broken down into 10 categories for easy reference (examples are given in parentheses):
+
+Starport Name: The name of the starport.
+System: The name of the system where the starport is located, followed by the planet — if applicable.
+Starport Type: The type of starport as described according to standard classification codes. (Imperial/Republic class, stellar class, standard class, limited services or landing field)
+Traffic: The intensity of starship traffic at this facility. (rare, slow, moderate, busy or high)
+Control: The form of traffic control used to monitor stars hips landing and taking off. (droid, ship controller or none)
+Landing: The form of landing assistance used to bring ships from the landing traffic pattern to the landing site. (landing team, directional beacon, tractor beam, none)
+Docking Areas: The form of docking facilities available, (docking bays, landing pads, field, starport gate)
+Docking Fee: The fee charged daily for occupying a docking area, listed as a certain number of credits per local day.
+Customs: Defines the authority (either Imperial, Republic, Separatist, New Republic, or local) conducting customs inspections, and whether those inspections are by a patrol visiting the vessel or at a starport cargo checkpoint.
+Services: Services offered and located within and near the starport district. Includes food, lodging, repair facilities, entertainment, storage bays, and vehicle rentals.
+Capsule: A short description of the starport.
+
+This information can provide new ideas for adventures, encounters or problems when arriving or departing from a starport (lots of things can go wrong when the crew doesn’t perform a pre-flight check, and you’d be surprised how nasty some Imperial traffic controllers get when you don’t follow proper approach protocol). Gamemasters should use as much of this information as they want. It presents an abbreviated picture of how starports work, and as always, local conditions will vary.
+
+## STARPORT TYPES
+
+Landing Field. A landing field is a flat, level area cleared on the ground. These fields are generally little more than cheap duracrete strips or tightly packed dirt. There is no flight control tower to direct incoming and outgoing ships to and from the port, and there is rarely a starport beacon guiding ships to port. There is no guarantee that there are any refueling or repair services available, and the few services which exist are of low quality. While available services are usually affordable, good repair facilities, technicians and equipment is often rare and expensive.
+
+Limited Services. These starports usually have a small command tower with a signal beacon to help guide incoming ships. There are often maintenance sheds for rent, where starship crews can effect basic repairs. This port has limited storage and docking capacity, and in many cases ships must land nearby and crews must walk to the port if all docking areas are filled. Most major supplies must be purchased elsewhere.
+
+Standard Class. The standard class starport has a fully staffed and equipped flight command center, and offers restocking services and a small shipyard capable of minor repairs and modifications. Starship work can cost up to double normal prices and take more than twice as long to accomplish, though the quality of the work often varies from mediocre to very good.
+
+Stellar Class. The stellar class starport has facilities for landing and docking nearly any classification of vessel. There are sometimes a number of different shipyards surrounding the port — these facilities are capable of performing nearly any sort of ship repair and customization the owners wish (and are willing to pay for). Repairs and modifications are often of advanced quality and are moderately affordable. There is nearly always a customs office on site and a sizable Imperial or Republic Navy presence in system.
+
+Imperial/Republic Class. The Imperial/Republic class starport is quite luxurious and modern. It has an impressive array of docking facilities and ship storage and maintenance areas. All the most lavish amenities are available for ships’ crews and passengers. Many of the system’s merchants maintain offices at the port, and it may not be necessary for the starship captains to even leave the port to conduct their business. The starship maintenance facilities are capable of rapid and high-quality repairs and modifications, though the services may not come cheap or quickly. The customs office for this quality port is probably staffed by highly competent officers. The Empire or Republic will usually maintain a formidable military presence in Imperial/Republic class starports. Minor infractions are dealt with to the full extent of the law, especially under Imperial law. Starport control and the Imperial or Republic Navy conduct thorough ship and captain identification checks to weed out smugglers and other unwelcome spacers.
+
+## STARPORT FEES
+
+Docking Fees. These vary from spaceport to spaceport, but most spaceports of standard class size or larger charge 50 credits per standard day. A particularly busy Imperial/Republic class starport might charge up to 150 credits per day.
+
+[Página impressa 130 | PDF 132]
+
+Standard Maintenance and Restocking. Every spaceport of standard class or better will automatically perform standard restock and maintenance on any ship that has landed, typically within one planetary day of the ship’s arrival. Spaceports also automatically charge the fees for these services — to avoid this extra charge, ship captains must specify that they are declining these services.
+
+Standard restock includes replenishment of all necessary fluids — water, lubricating fluids, and coolants — oxygen and other life support gasses, and basic proteins for food converter systems (though it does not cover luxury items such as fresh food and liquor). Waste removal, decontamination and landing gear stress checks are also performed automatically, and are covered by the docking fees.
+
+The standard maintenance package covers replacement of air filters, gravitational disks and ablative heat shields. A mechanic droid will also re-calibrate the intake and firing cells of the ion engine, and do basic maintenance on the hyperdrive.
+
+Some poverty-stricken tramp freighters avoid restocking their ship until their stock of consumables runs out, but this is quite dangerous. If the ship is stranded for any reason, the crew could die of starvation before rescuers arrive.
+
+The cost for restocking is based on what is called a “base fee.” Most starports on fairly well traveled routes charge around 10 credits as a base fee, while isolated starports (such as some in the Outer Rim Territories) may charge as high as 35 credits (since food and supplies are expensive to ship to such out of the way locales). The formula for determining the total restocking fee is:
+
+Base fee
+× total crew and passenger capacity
+× number of days worth of consumables to be renewed = restocking fee
+
+Maintenance Overhaul. After every 20 hyperspace jumps, a ship should have a complete overhaul and certain components of the engines should be replaced. It’s up to the gamemaster to decide what happens to ships that don’t get the overhaul — a complication on the Wild Die might mean the hyperdrive misjumps, or even blows out.
+
+The cost of a maintenance overhaul is around 1,000 credits on the average, but vessels that have been heavily modified or see an inordinately high amount of usage can cost as much as 5,000 credits.
+
+## STARPORT FLIGHT PROTOCOLS
+
+### METOSP
+
+METOSP (pronounced “Me-tosp”) stands for “Message to Spacers,” a comm channel most starports reserve for general notices regarding traffic patterns, conditions at the starport or other factors spacers should be aware of when heading in or out of a port.
+
+METOSPs exist to inform spacers — they’re one-way broadcasts usually sending prerecorded messages updated daily or as conditions change. Don’t bother transmitting any information or questions back — it’s all automated. Spacers with questions
+
+often wait until they contact starport control before obtaining more specific information. Most Imperial/Republic, stellar and standard class starports broadcast METOSPs on a standard comm channel. Few limited service starports have METOSPs, so spacers need to rely on their sensors and visual scanning to assess whether there are any traffic problems.
+
+Spacers are advised to tune in to a METOSP channel as soon as they enter a system; a METOSP may contain information regarding Imperial Naval activity, starport traffic tie-ups, a continuous piracy threat, or an astrographical problem like meteor showers. METOSPs also provide general information on the starport, including an abbreviated starport profile and often a planetary profile, as well as important landing information and the comm channel where starport control can be reached.
+
+### Arrival Procedures
+
+After arriving in the destination system and checking for any METOSPs, switch over to the starport control comm channel — usually given in the system’s METOSP, planetary profile or starport profile in a starship computers. Spacers can also scan the comm channels for starport control, although most remote ports don’t have a control signal.
+
+Standard practice when you contact starport control is to verbally identify the incoming ship and captain’s name. Controllers may ask for last port of call, contents of cargo bay or number of passengers and crew aboard, although this varies wildly from port to port. During this short interrogation, starport officials are often double checking the verbal identification information against their BoSS databank records and the incoming ship’s transponder code — a process known among starport controllers as “transponder verification,” or TransVere.
+
+Once they’ve verified the ship’s identification, they’ll provide clearance to enter the traffic pattern for landing, and assign a docking area. Controllers often provide specific approach and traffic vector course information, which captains are expected to follow — deviating from a course within a starport’s traffic pattern sometimes incurs fines between 50 and 200 credits. Penalties are a little more severe if a ship causes major problems and the fines will be the least of the captain’s worries.
+
+### Departure Procedures
+
+According to standard regulations, the first thing a ship does — even before warming up the ion drive — is give starport control a call to request departure clearance. As with arrivals, obtaining clearance to take off involves a TransVere,
+
+Once a ship’s been cleared to lift off, control usually likes spacers to log in some kind of flight plan, usually the name of the next system they’re jumping to. This is more for safety verification than anything else. If a ship is reported missing, rescue and retrieval teams check with the last port of call to find the flight plan, then begin looking along realspace travel corridors which mirror the probable hyperspace vector taken.
+
+After take-off, starport controllers, droids or tractor beams may help the starship into the outbound traffic pattern. Outbound beacons or verbal instructions from controllers guide spacers through the complex traffic patterns and departure vectors away from the starport before spacers begin setting up for their hyperspace jumps.
+
+[Página impressa 131 | PDF 133]
+
+“It’s called ‘the Show’ and with good reason. Pure adrenaline, pure instinct... you’ll never forget your first starship battle.
+
+“Now, here’s the key. The pilot who spots his target first wins. If you’ve sighted the enemy — and they don’t know you’re there — you can set your ambush, move in and strike before they know what hit them. “After the first shot, all bets are off. It’s maneuver and counter, fire and dodge... think quick or die.”
+
+# STARSHIP MOVEMENT
+
+Starship movement works just like vehicle movement. Every ship has a Space score: it’s how many “Space units” it moves at cruising speed.
+
+A slow ship might have a Space of two or three, while an average freighter would have a Space of about five or six. The galaxy’s fastest starfighters — like A-wings and TIE interceptors — have Space movements as high as 11 and 12.
+
+Moving is an action, just like firing a blaster or dodging. A ship can move once per round.
+
+When a ship moves, you describe the terrain and then pick a difficulty level and a difficulty number: Very Easy (1-5), Easy (6-10), Moderate (11-15), Difficult (16-20), Very Difficult (21-30) or Heroic (31+).
+
+The player decides how fast he wants to pilot the ship and then rolls the ship’s piloting skill (either capital ship piloting, space transports or starfighter piloting.) If the ship has a “maneuverability” code, add it to the pilot’s skill roll.
+
+If the roll is equal to or greater than the difficulty number, the ship moves through space with no problems; if the roll is lower, the ship has a “movement failure.”
+
+## MOVEMENT SPEEDS
+
+The pilot can pick one of four speeds.
+
+• Cautious Movement. This is a very slow movement: the ship goes up to half its Space. Round up. (A ship with a Space of nine would move up to five units.)
+
+In Very Easy, Easy, and Moderate space, cautious movement is a “free action” and the pilot doesn’t have to roll his space transports (or other skill).
+
+In Difficult, Very Difficult and Heroic space, roll the character’s piloting skill, but reduce the difficulty one level. (Very Difficult space is Difficult to cross; Moderate space is Easy to cross.)
+
+Example: Rhen, the brash pilot, jumps behind the controls of Thannik’s Thunder, a stock Ghtroc class 720 freighter. The ship has a Space of three and a maneuverability of 1D. Rhen’s space transports skill is 5D.
+
+### RUNNING SPACE COMBAT
+
+Your players expect exciting space battles with flying turbolaser blasts and exploding TIE fighters. Give them those kinds of scenes.
+
+Your starship battles should follow the same guidelines as those covering vehicle combat. It’s a lot more important to create an exciting battle scene with good storytelling than to measure out every movement round-by-round.
+
+“As you dive into the asteroid belt, your sensors tell you the TIE fighters are closing in fast. Make your space transports roll — a 15. Good! Your ship maneuvers around the asteroids just as the pair of TIE fighters turn to follow you. Let me make their starfighter piloting rolls — one fighter threads the needle, but the second pilot is a hair too late. He careens off one of the small rocks and goes spinning out of control until his ship smashes into a large asteroid, exploding in a ball of flame. Still, that first TIE fighter is closing in and it looks like he’s trying to line you up in his sights! What are you going to do?”
+
+That narration gives the players a good idea of what’s going on and moves quickly; there’s a minimum of number crunching. The gamemaster knows the TIE fighters are a lot faster than the freighter. He estimated that as long as the pilots rolled halfway decently, they’d be able to close in on the much slower freighter: of course, one TIE pilot rolled really poorly and ended up colliding with the asteroids.
+
+The players can picture the scene in their minds and know that their characters have to do something or else their ship will get blasted to atoms.
+
+When gamemastering space battles, use a combination of scenes, rounds and encounters to maintain a lively pace and simulate the action shown in the movies. Fudge the rules when they slow things down: set a difficulty number, have the players roll their skills and use your judgment to determine what happens.
+
+Sublight Speeds: Starships cover thousands of kilometers per second in open space. While they are moving much more slowly when orbiting planets and maneuvering through asteroid fields, their speeds are still incredible.
+
+Rather than these use huge numbers for movement, the game uses “Space units” to represent ship speeds and weapon ranges. The ships always move at the same proportional speeds.
+
+Starship Simulations: For most games, it’s enough to describe the situation and let the players visualize what’s going on in their minds.
+
+If you want to provide something a little more visual, you can use counters, licensed figures and model kits to show the relative location of each ship, so the players can picture the battle.
+
+If you want to run a very detailed game, you can map out each movement. Place each ship miniature on the table, with a scale of “1 inch = 1 Space unit,” using rulers to measure out exact movements and weapon ranges.
+
+[Página impressa 132 | PDF 134]
+
+She’s piloting in open space (Easy space) at cautious speed. She doesn’t have to roll — the Ghtroc freighter automatically moves two Space units. If she were also firing Thannik’s Thunder’s double laser cannon, she’d get to roll her full starship gunnery skill of 5D because piloting in Easy space is a “free action.”
+
+Later, Rhen is flying through the heart of a dense asteroid field — it’s
+Very Difficult space. Since she decides to fly at cautious speed, the space is considered one difficulty level easier: it’s only Difficult (the gamemaster picks a difficulty number of 17). Rhen rolls her space transports of 5D and the Ghtroc’s maneuverability of 1D and gets a
+19. Thannik’s Thunder maneuvers through the field with ease.
+
+• Cruising Movement. “Cruising movement” is the normal movement speed for a starship: it moves at its Space speed.
+
+Moving at cruising speed counts as an action, but the pilot can automatically make the move for Very Easy, Easy and Moderate space.
+
+The pilot must roll his piloting skill for Difficult, Very Difficult and Heroic terrains.
+
+Example: Rhen is flying Thannik’s Thunder through open space (Easy terrain), with two Imperial TIE fighters closing in fast. She can automatically fly the ship at cruising speed (it goes its Space of three), but it’s an action. Firing the double laser cannon is a second action, so she rolls 4D (subtract the −1D penalty from her starship gunnery of 5D) to hit one of the TIEs.
+
+Later, Rhen’s racing through a thick asteroid belt (Difficult terrain; difficulty number of 19) at cruising speed. She rolls her space transports of 5D and ship’s maneuverability of 1D and gets a 19 — she just barely swings around a large asteroid as two smaller pieces of rock go tumbling by a little too close for comfort.
+
+• High Speed. High speed movement is pushing a starship for added speed: the ship moves at twice its Space speed.
+
+The pilot must roll for Very Easy, Easy or Moderate space.
+
+When moving at high speed, the difficulty for Difficult, Very Difficult and Heroic space increases one level: Difficult space becomes Very Difficult to fly through, Very Difficult space becomes Heroic, Heroic space becomes Heroic +10.
+
+Example: Rhen is flying Thannik’s Thunder through open space (Easy terrain; difficulty number 8) while trying to avoid space pirates in Z-95 Headhunters. She decides to go at high speed to outrace them. Her
+
+space transports and maneuverability rolls total 11 — a success. The ship’s Space is three, so it moves six Space units.
+ Later, Rhen is still trying to avoid the pirates, this time by maneuvering through the girders of a partially completed space station — it’s Difficult terrain. Because she’s moving at high speed, the terrain is considered Very Difficult (difficulty number 24). Rhen rolls her space transports and maneuverability, getting a 23: she fails. To find out what happens, see “Starship Movement Failures.”
+
+• All-Out. A ship going at all-out speed moves at four times its Space.
+
+Characters piloting a ship at “all-out” speed may not do anything else in the round, including starship dodges or firing the ship’s weapons.
+
+Increase the difficulty one level for Very Easy, Easy and Moderate space. Increase the difficulty two levels for Difficult, Very Difficult or Heroic space.
+
+Example: Rhen knows Imperial TIE fighters are closing in on her, but if she’s quick enough she may be able to make the jump to lightspeed and escape.
+
+She decides to move Thannik’s Thunder all-out. The space is Easy terrain; since Rhen is moving all-out, the difficulty increases to Moderate (difficulty 12). Rhen rolls her space transports and maneuverability, getting a 15 — success! Thannik’s Thunder has a Space of three, so it pulls ahead 12 units!
+
+Later, Rhen decides to fly all-out while moving through a thick bunch of starships orbiting a planet. It’s Difficult space, but because she’s moving all-out, the difficulty increases two levels to Heroic (difficulty number 38). Rhen rolls her space transports of 5D and her ship’s maneuverability of 1D and gets a 27. Rhen realizes that she’s pushed Thannik’s Thunder too hard and that the ship is about to go spinning out of control! See “Starship Movement Failures.”
+
+[Página impressa 133 | PDF 135]
+
+Acceleration and Deceleration. Starships may increase or decrease their speed one level per round.
+
+Example: Rhen is piloting Thannik’s Thunder at high speed one round. The next round, she may maintain high speed, decrease to cruising speed or increase to all-out speed. She may not slow down to cautious speed or come to a stop.
+
+Partial Moves. Starships can move anywhere between half their “move speed” and the full move speed.
+
+Example: A starship with a Space of 6 is going at high speed (moving up to 12 units). The ship can move anywhere between 6 and 12 units.
+
+Long-Distance Movement. All-out movement takes its toll on starships: a starship continuously going all-out must make a hull code roll every 10 minutes.
+
+The first hull code difficulty is Very Easy; increase the difficulty one level for each additional roll. If the ship fails the roll by 1-10 points, it’s suffering strain (experiences severe power fluctuations and so forth) and must “rest” for twice as long as it moved all-out. If the roll fails by 11 or more points, the ship has suffered a mechanical failure and requires a Moderate repair roll and at least one hour of work.
+
+High speed movement also requires hull code rolls: roll once every hour. The first roll is at Very Easy difficulty and increases one difficulty level for each additional roll.
+
+## STARSHIP MOVEMENT “TERRAIN DIFFICULTIES”
+
+Very Easy 1-5. Flying a starship in clear space with no navigational hazards.
+
+Easy 6-10. Flying a starship in the vicinity of other starships, such as orbiting a space station. Flying around minor obstacles in space, such as a small, dispersed asteroid belt.
+
+Moderate 11-15. Flying a starship in crowded space — a busy spacedock staging area. Flying in an area littered with a moderate amount of debris or down the Death Star’s artificial canyon.
+
+Difficult 16-20. Starfighter combat with many ships in the immediate area. Flying through an area clogged with debris or asteroids.
+
+Very Difficult 21-30. Flying a starship in an area of space densely packed with other ships or debris.
+
+Heroic 31+. Flying through Heroic terrain is almost impossible. Flying the Millennium Falcon inside the Death Star to reach its reactor core. Flying through the Hoth system’s asteroid field.
+
+Maneuvers. The difficulty number covers basic starship maneuvers: straight-line flight, a couple of turns and other simple movements. If the pilot wants to make a more difficult maneuver — a series of spins that bring several enemy fighters into the ship’s gun sights, for example — add modifiers as needed:
+
++1-5 | Maneuver is fairly easy.
++6-10 | Maneuver is somewhat difficult and requires a certain amount of skill.
++11-15 | Maneuver is very difficult and requires a very talented (or lucky) pilot.
++16+ | Maneuver appears to be almost impossible. Only the very best pilots can pull off a
+
+maneuver of this difficulty.
+
+## STARSHIP MOVEMENT FAILURES
+
+A starship that fails a movement roll may slow down, go spinning out of control or suffer a collision. (Of course, collisions are fairly rare in space.)
+
+Find the number of points by which the movement roll failed:
+
+1-3. Slight slip. The ships “slips,” nearly spinning out of control. While the ship completes the movement, the pilot suffers a penalty of −1D to all actions for the rest of the round (in addition to normal multiple action penalties).
+
+4-6. Slip. The ship “bobbles,” nearly spinning out of control. It only completes half of its Space move. The pilot suffers a penalty of −3D to all actions for the rest of the round, and −1D to all actions for the next round (in addition to normal multiple action penalties).
+
+7-10. Spin. The ship completes one-quarter of its Space move and then goes spinning out of control. The pilot cannot control the ship for the rest of the round and the next round.
+
+11-15. Minor collision. If there’s anything to hit, the ship has a minor collision (subtract −3D from normal collision damage; see “Collisions”). Otherwise, the ship goes spinning wildly out of control. The pilot cannot control the ship for the rest of the round and the next round.
+
+16-20. Collision. If there’s anything to hit, the ship has a collision, suffering normal damage. Otherwise, the ship goes spinning wildly out of control. The pilot cannot control the ship for the rest of the round and the next round.
+
+21+. Major collision. If there’s anything to hit, the ship smashes into an obstacle at such a poor angle as to increase collision damage by +4D. (See “Collisions.”) Otherwise, the ship goes spinning out of control. The pilot cannot control the ship for the rest of the round and the next round.
+
+[Página impressa 134 | PDF 136]
+
+Collisions. The amount of collision damage depends on how fast the starship was moving. (Don’t forget to take into account scale differences where pertinent.)
+
+Speed | Collision Damage
+Cautious | 2D
+Cruise | 4D
+High Speed | 6D
+All-Out | 10D
+
+Roll the collision damage and compare it to the starship’s hull code roll. “Starship Damage” explains what happens.
+
+If the ship runs into another ship, the damage may vary based on the angle of the collision. (Most collisions will be “T-bone” crashes, but a very few qualify as “head-on,” “rear-ender” or “sideswipe” crashes.)
+
+Head-on crash
++3D
+Rear-ender/sideswipe
+−3D
+T-bone
+0D
+
+You may want to adjust collision damage to reflect what the starship runs into. If a ship hits something that’s very light — for example, a primitive ship with a weak hull — you may want to reduce collision damage by −1D, −2D or more.
+
+# STARSHIP COMBAT
+
+Starship combat works just like regular combat and is fought in five second rounds.
+
+To attack a starship:
+
+• Determine the difficulty number to hit the target (based on the starship weapon’s range, which is listed in Space units).
+
+• The attacker rolls attack skill: starship gunnery for starfighter-scale weapons, capital ship gunnery for capital-scale weapons; add the weapon’s fire control dice.
+
+• If the roll is equal to or higher than the difficulty number, the attack hits. Roll damage. (See “Starship Damage.”)
+
+Example: Rhen is using the double laser cannon aboard Thannik’s Thunder to shoot at an Imperial TIE fighter. The TIE fighter is eight Space units away — that’s medium range for the laser cannons. (Moderate difficulty; difficulty number of 12.) Rhen’s starship gunnery skill is 5D and the laser cannon’s fire control is 1D+2: she rolls and gets a 17. The laser cannon shot smashes into the TIE fighter!
+
+## REACTION SKILLS
+
+Starships may make “starship dodges” to avoid enemy fire, just as vehicles can perform “vehicle dodges.” This is a “reaction skill.”
+
+The pilot making the starship dodge rolls his piloting skill (capital ship piloting, space transports or starfighter piloting, depending upon the ship) and adds his ship’s maneuverability. This is the new difficulty number to hit the ship.
+
+Example: Rhen’s shooting at another TIE fighter. It’s at medium range for a Moderate difficulty (difficulty number of 14). The TIE pilot decides to make a starship dodge, rolling his starfighter piloting skill of 4D and his TIE fighter’s maneuverability of 2D — he gets a 20. Rhen’s new difficulty number to blast the TIE fighter is a 20.
+
+Full Reaction. A pilot can make a “full reaction,” but it can be the only action in the entire round.
+
+The character rolls his piloting skill and the ship’s maneuverability code and adds it to the difficulties of all attacks made against the ship that round.
+
+Example: Later on, Rhen fires again at the TIE fighter: she’s still at medium range, for a Moderate difficulty and a difficulty number of 15. The TIE pilot decides to make a full starship dodge. He rolls and gets a 15. Because this is a full starship dodge, Rhen’s new difficulty number is a 30! However, the TIE pilot can’t do anything else in the round.
+
+## SHIELDS
+
+Starship shields are electronic energy dampers which help absorb some of the damage from enemy attacks. Shields come in two main varieties: particle and energy/ray shields.
+
+Particle shields deflect all sorts of physical objects, including asteroids, missiles and proton torpedoes. They are used at all times, except when a ship launches fighters, missiles or torpedoes (the shields must be dropped to allow physical objects to pass through them). When a ship lowers its particle shields, reduce its hull code by −2D. (A ship which loses its main power generator also loses its particle shields.)
+
+Shields are normally activated only in combat, and must cover specific fire arcs to be effective in combat.
+
+Using shields is a “reaction skill.” Each starship has a certain number of dice in shields. When a pilot uses shields, the shield dice must be split up among the four fire arcs: front, back, left and right.
+
+The difficulty to deploy shields depends upon how many fire arcs are being covered:
+
+• One fire arc: Easy
+
+• Two fire arcs: Moderate
+
+• Three fire arcs: Difficult
+
+• Four fire arcs: Very Difficult
+
+If the ship takes any hits from that side in combat, the ship gets to add those shield dice to its hull code to resist damage.
+
+[Página impressa 135 | PDF 137]
+
+Example: Rhen is behind the controls of a modified YT-1300 transport with a hull code of 4D and 2D in shields. She is being attacked by three TIE fighters, which are closing in from the back.
+
+She decides to activate the ship’s shields, placing all 2D to cover the back fire arc. She makes her Easy starship shields roll — if any shots come in from the back of the YT-1300 and hit the ship, she rolls 6D to defend against damage.
+
+A few rounds later, the TIE fighters have maneuvered around her. Rhen is being attacked from both the front and back. She decides to split the shields, placing 1D in the front and 1D in the back. Because she is trying to cover two fire arcs, her starship shields difficulty is Moderate. If she makes the roll, any attack that hits the front or the back is resisted by 5D (4D for hull code and 1D for the shield), but any attacks from the side are resisted by just the ship’s hull code of 4D.
+
+Capital Ship (Option). Capital ship shield operators are not generally paid much attention in the basic rules. The following rules may make this critical position more interesting.
+
+If shield dice are lost due to a “shields blown” result on the starship damage table, the shields may overload; the shield operators must compensate or risk further damage. Roll 1D per shield lost to determine how difficult it is to shunt the shield overload into the static power buffer (the attempt uses the capital ship shields skill).
+
+If successful the energy is transferred to the static buffer and discharged, resulting in nothing more serious than ionization of controls. The controls ionized result is serious, but recoverable.
+
+If unsuccessful, the shields overload; roll the number of shield dice lost against the ship’s hull dice. The result is taken as normal damage as the energy surges through other various connected systems.
+
+If a complication occurs (a 1 on the Wild Die) or if the starship damage table result indicates “shields lost” the shield module itself explodes.
+
+## STARSHIP WEAPONS
+
+Most starships have at least one weapon system; some capital ships have dozens of weapon emplacements.
+
+Starship weapons work just like normal character and vehicle weapons. They use the rules for fire control, ammo, fire rate, blast radius and scale from the chapter on “Combat and Injuries.” They also use the rules for ranges, crew and fire arcs from “Movement & Chases.”
+
+All starships provide full cover.
+
+Fire-linked: Some weapons are fire-linked: several weapons are linked together to fire as one group. The game statistics are for the weapons when fire-linked. (For example, an X-wing has four fire-linked laser cannons. When the cannons are fired, all four laser cannons go off and hits do 6D damage.)
+
+Fire-linked weapons can be rigged to fire separately, but subtract damage, using the rules on combined fire. (Let’s use the X-wing example. The four fire-linked laser cannons do 6D damage. The pilot decides to fire each cannon separately. Using the “combined actions” rule, four characters working together get a bonus of +1D+2. That means subtract −1D+2 from each cannon’s damage: the cannons individually do 4D+1 damage.)
+
+Ranges: Most starship weapons have “Range” and “Atmosphere Range” listings. “Range” is used for space combat and represents ranges in Space units. The “Atmosphere Range” listing is used whenever a ship is flying in an atmosphere (see “Ships in an Atmosphere” later in this chapter) or whenever a ship fires into an atmosphere from orbit.
+
+Laser Cannons and Turbolasers. Laser cannons are the standard weapons aboard starfighter-scale ships, such as freighters, TIE fighters and X-wings. Turbolasers are immense capital-scale weapons (capital ships may also feature laser cannon emplacements to counter starfighter attacks).
+
+Ion Cannons. Ion cannons are designed to interfere with a ship’s electrical and computer systems but do not cause physical damage. Shields cannot protect a ship from ion cannon damage.
+
+Example: Rhen has placed the modified 2D shields of the YT-1300 transport (hull code 4D) to the back fire arc.
+
+Any laser cannon attacks that hit the freighter roll against the YT-1300’s combined 6D hull code and shields.
+
+However, ion cannon blasts slice right through the shields. Rhen only rolls the YT- 1300’s 4D hull code to resist damage from ion cannons.
+
+[Página impressa 136 | PDF 138]
+
+If the damage roll is lower than the ship’s hull code roll, it takes no damage. If the damage roll is equal to or higher than the hull code roll, find the results below:
+
+Ion cannon damage roll ≥
+
+0-3 | controls ionized
+4-8 | 2 controls ionized
+9-12 | 3 controls ionized
+13-15 | 4 controls ionized
+16+ | controls dead
+
+hull code roll by:
+Effect:
+
+Missiles, Bombs and Proton Torpedoes. Missiles, bombs and proton torpedoes are physical weapons which deliver awesome firepower. However, they’re difficult to target. Their difficulty numbers are modified by how fast the target is moving:
+
+Increase to |  | Move
++5 | 3 | 100-150
++10 | 4 | 151-200
++15 | 5 | 201-250
++20 | 6+ | 251+
+
+Difficulty
+Space
+
+(Atmosphere)
+
+Tractor Beams. Military-grade tractor beams are used to capture starships so they may be boarded and searched. (Many starships have small tractor beams for moving cargo, but they have no combat applications.)
+
+When a tractor beam attempts to “hit” a target ship it’s resolved as a normal attack: if the attack roll is higher than the difficulty number, the tractor beam hits the target ship.
+
+Roll the tractor beam’s “damage” against the ship’s hull code. If the target ship’s hull code roll is higher, the ship breaks free. If the tractor beam damage roll is equal to or higher than the hull code roll, the target ship is captured. A captured ship which doesn’t resist a tractor can automatically be reeled in towards the attacker, moving five Space units each round.
+
+If the target ship resists, roll the tractor beam’s damage against the target ship’s hull code. If the target ship’s hull code roll is higher, it breaks free of the tractor beam. If the tractor beam rolls equal to or higher than the target ship, the target ship is reeled in and its drives may be damaged. Find the results on the chart below.
+
+damage roll ≥ | Space units | Target ship’s
+damage roll by: | reeled in: | damage:
+0-3 | No change | No damage
+4-8 | 1 | −1 Move
+9-12 | 2 | −2 Moves
+13-15 | 3 | −3 Moves
+16+ | 4 | −4 Moves
+
+Tractor beam
+
+Example: An Imperial Star Destroyer is holding Thannik’s Thunder in the grip of a tractor beam. The freighter is nine Space units away.
+
+Rhen decides not to resist and her ship is pulled in five Space units this round. It’s only four Space units from the Star Destroyer.
+
+The next round, Rhen decides to resist. She rolls Thannik’s Thunder’s hull code of 4D and gets an 11.
+
+The Star Destroyer rolls its tractor beam damage of 6D and adds the scale’s “adjusted modifier” of 6D, getting a 35. That’s a difference of 24 points!
+
+Rhen groans as Thannik’s Thunder’s sublight drives blow out. The ship is now dead in space as the Star Destroyer reels it in the final four Space units. Rhen mutters, “What would Leia do?” as her ship is hauled up into the Star Destroyer’s cavernous hangar bay.
+
+# STARSHIP COMBAT OPTIONS
+
+### Ship Location Targeting
+
+Ships attempting to disable another vessel occasionally have to use full-power energy weapons against a target (if they don’t have ion cannons, for example). This is quite dangerous, since these weapons might accidentally destroy the prize. To avoid this, gunners may choose to “call” a shot – target a particular location on a ship. This is harder than just hammering away at the enemy ship. Also a higher-scale weapon cannot target a location on a lower scale target – for example, a capital scale ship can target a capital ship’s engine’s, but not a starfighter’s engines. In the same way, a starfighter can target another starfighter’s engines or a capital ship’s bridge, but not a walker’s legs or head.
+
+Targeting a primary section of a ship (the conning tower of a Star Destroyer, the engines, the landing bay, the main body) adds +2D to the difficulty to hit. Targeting a subsection of a ship (a gun battery, a particular engine, the shield generators, the command section.) adds +4D to the difficulty to hit. Targeting a specific location of a ship (a specific gun, the bridge, a maneuvering thruster, an engines thermal exhaust port) adds +8D to the difficulty to hit.
+
+Location | Modifier
+Primary section | +2D
+Subsection | +4D
+Specific location | +8D
+
+Damage should be worked out normally. The specific results should be determined by the gamemaster using the normal starship damage results guidelines.
+
+In general, a lightly damaged location loses −1D or −1 Move, a heavily damaged location loses −2D or −2 Move, a severely damaged location is disabled and unable to perform its function, and a destroyed result indicates that a section has suffered catastrophic damage (this may mean that the engines have overloaded, or that a gun explodes, setting off a chain reaction of explosions). Targeting locations doesn’t guarantee that a ship will be simply disabled, but it does increase the odds of capturing a ship with minimal damage.
+
+[Página impressa 137 | PDF 139]
+
+Damage | Penalty
+Light damage | −1D or −1 Move
+Heavy Damage | −2D or −2 Move
+Severe Damage | System disabled
+Destroyed | Catastrophic damage; threatens ship
+
+### Power Control
+
+Although the Star Wars films refer to power switching and rerouting available power, the Star Wars Roleplaying Game intentionally has downplayed this mechanic in order to maintain simplicity. A gamemaster interested in increasing the level of technical detail can use the following rules.
+
+A ship has enough power available to run all of its systems simultaneously, and has enough carrying capacity to channel up to an additional +2D to any system, rerouted from any other system. This power is in raw form, and has no benefit to computer systems, like the navigational computer or targeting systems. It might be able to boost communications range or active sensor scans.
+
+In addition, power is commonly routed from an inactive system to an active one, and from non-firing weapons to firing weapons.
+
+For example, the Spirit of Alderaan Nebulon-B escort frigate is in an exchange with another escort frigate. The captain orders extra power routed to the main weapons and shields. Power Control takes this power from the ship’s two tractor beams with 4D of power each; 8D of additional power to be divided among the 12 main turbolasers. Power Control allocates 1D to each forward turbolaser and 1D+2 to the forward shields, leaving +1 left over and of no benefit to any system.
+
+As the enemy ship passes the Spirit of Alderaan on the right in the exchange, power control switches the extra power from the forward turbolasers to the right arc weapons and shields. The 8D are distributed differently this time, with 1D+2 going to each of the three right turbolasers, for a total of 5D (3D straight over with 2D getting split into 6 pips) and 1D+2 going to the shields. The remaining 1D+1 goes either to waste in the power buffer or gets routed to some other system.
+
+The power controller might have routed power from the left arc shields or weapons, but that would have meant that the left arc would be with little or no defenses to fend off surprises from that side of the ship. Starfighters with shields do this occasionally, switching shield power to a particular side the pilot expects to come under heavy fire.
+
+Please note that ships moving All-Out (at the highest rate of speed) cannot fire or maneuver, and may not be able to use shields, at the gamemaster’s discretion; this can be “chalked up” to routing all available power to the engines.
+
+Transferring power is a demanding task, and carries some built-in difficulties. Use the benchmark difficulty numbers in the opposite columns as references.
+
+Condition | Base Difficulty
+Simple power rerouting (single system to single recipient) | Moderate
+Rerouting multiple systems to a single recipient | Difficult
+Rerouting multiple systems to multiple recipients | Very Difficult
+
+Power switching time: When the shield operator rolls as indicated above, compare the result to the table below:
+
+Operator’s | Time
+Roll | Taken
+1-5 | 2D rounds
+6-10 | 1D round
+11-15 | 2 rounds
+16-20 | 1 round
+21+ | 1 second
+
+# STARSHIP DAMAGE
+
+Starships suffer damage in combat just like vehicles. Roll the attack or collision damage and compare it to the starship’s hull code roll. If the damage roll is lower than the hull code roll, the ship takes no damage. If the damage roll is equal to or higher than the hull code roll, find the result on the “Starship Damage Chart.”
+
+### STARSHIP DAMAGE CHART
+
+Hull Code Roll by: | Effect
+0-3 | Shields blown/controls ionized
+4-8 | Lightly damaged
+9-12 | Heavily damaged
+13-15 | Severely damaged
+16+ | Destroyed
+
+Damage Roll ≥
+
+[Página impressa 138 | PDF 140]
+
+Shields blown. A shields blown result means that the ship loses −1D from its shields total. This loss lasts until the shields are repaired. If the ship has no dice remaining in shields (or had no shields to begin with), the ship suffers the controls ionized result.
+
+Controls ionized. A controls ionized result means that the ship’s controls are temporarily overwhelmed by power surges. The ship loses −1D from its maneuverability, shields and weapon fire control and damage for the rest of that round and the next round.
+
+If a ship is suffering from as many controls ionized results as the ship has maneuverability dice, the ship’s controls are frozen for the next two rounds. The ship must maintain the same speed and direction for the next two rounds; it may not turn, fire weapons, make shield attempts or take any other actions, making the ship an easy target for enemy gunners.
+
+The pilot must still make the piloting rolls or the ship automatically crashes (if there’s anything to run into) or goes spinning out of control.
+
+When controls are frozen, blue lightning plays across all of the controls of the vehicle, as seen when Luke Skywalker’s snowspeeder was destroyed in The Empire Strikes Back.
+
+Lightly damaged. Starships can be lightly damaged any number of times. Each time a ship is lightly damaged, roll 1D to see which system is damaged.
+
+1. Ship loses −1D from its maneuverability. (If the ship’s maneuverability has already been reduced to 0D, it suffers a −1 Move.)
+
+2. One on-board weapon emplacement was hit and destroyed; the gunners take damage. (See “passenger damage.”) Randomly determine which weapon is hit.
+
+3. One on-board weapon emplacement was rendered inoperative by a major power surge or system failure; it’s lightly damaged. Randomly determine which weapon is affected.
+
+4. Hyperdrive damaged. Double the time to calculate any astrogation courses; if the pilot wants to try to jump to hyperspace in one round, add an extra +10 to the astrogation difficulty.
+
+The hyperdrive may be fixed with one hour of work and a Moderate repair roll: capital ship repair, space transports repair or starfighter repair.
+
+5. The ship loses −1D from its shield code. If the ship has no dice remaining in shields, it suffers the controls ionized result.
+
+6. Ship suffers a −1 Move.
+
+Heavily damaged. Heavily damaged ships have taken a much more serious amount of damage. If a heavily damaged ship is lightly damaged or heavily damaged again, it becomes severely damaged. Roll 1D to see which system is affected.
+
+1. Ship loses −2D from its maneuverability. (If the ship’s maneuverability has already been reduced to OD, the ship suffers a −2 Move.)
+
+2. Ship loses a weapons’ system in one fire arc. Randomly determine which one. All weapons of that type and in that fire arc are rendered inoperative due to a major power surge or system failure.
+
+Example: A Star Destroyer has 60 turbolaser batteries: 20 to the front, 20 to the left fire arc and 20 to the right fire arc. A lucky shot takes out the front fire arc turbolasers, although the left fire arc turbolasers and the right fire arc turbolasers are still fully operational.
+
+3. Weapons system destroyed. All of the weapons of one type in the same fire arc are destroyed by a series of power overloads. The gunners take damage. (See “passenger damage.”)
+
+4. Hyperdrive damaged. Increase all astrogation difficulties by +10 until the drive is fixed with a Moderate repair roll and one hour of work.
+
+5. Ship loses −2D from its shields. If the ship has no dice remaining in shields (or had no shields to begin with), the ship suffers 2 controls ionized.
+
+6. Ship suffers a −2 Move.
+
+[Página impressa 139 | PDF 141]
+
+Severely damaged. Severely damaged ships have taken major amounts of damage and are rendered almost useless. A severely damaged ship which is lightly damaged, heavily damaged or severely damaged again is destroyed. Roll 1D to determine which system is affected:
+
+1. Dead in space. All drives and maneuvering systems are destroyed. The vehicle is adrift in space.
+
+2. Overloaded generator. The ship’s generator is overloading; unless it’s shut down, the generator will explode in 1D rounds and destroy the ship.
+
+3. Disabled hyperdrives. The ship’s hyperdrives — main and backup — are damaged. The ship cannot enter hyperspace until they are fixed with a Moderate repair roll and one hour of work.
+
+4. Disabled weapons. All weapons systems lose power. Roll 1D:
+
+1-4: Weapons are severely damaged but may be repaired.
+
+5-6: All weapons aboard the ship are destroyed.
+
+5. Structural damage. The ship is so badly damaged that it begins to disintegrate. The crew has 1D rounds to evacuate.
+
+6. Destroyed. This ship disintegrates or explodes in a ball of flame.
+
+Destroyed. The ship is instantly destroyed and explodes in a ball of flame. Everyone aboard is killed.
+
+### Lost Moves
+
+Lost Moves add together. For example, a starship that suffers a −1 Move result, then a −2 Move result is at “−3 Moves.”
+
+−1 Move: The ship can no longer move at all-out speed; it’s limited to high speed.
+
+−2 Moves: The ship is limited to its cruising speed.
+
+−3 Moves: The ship can only move at its cautious speed.
+
+−4 Moves: The ship’s sublight drives are disabled; it’s dead in space.
+
+−5 Moves: The ship is destroyed.
+
+### Passenger Damage
+
+Passengers may be injured when a ship suffers damage or crashes. Use your judgment to decide whether a character takes damage.
+
+Determine character damage based on how badly the ship is damaged. (Damage is character-scale.)
+
+Vehicle is: | Passenger suffers:
+Lightly damaged | 1D
+Heavily damaged | 3D
+Severely damaged | 6D
+Destroyed | 12D
+
+## SHIPS IN AN ATMOSPHERE
+
+The “Atmosphere” listing is how fast the ship moves in an atmosphere. The first number is its Move, while the second number is its all-out speed in kilometers per hour.
+
+A ship without an “Atmosphere” listing (such as an Imperial Star Destroyer) cannot enter planetary atmospheres.
+
+Starships in an atmosphere use the vehicle movement and combat rules, although they still use the “Starship Damage” rules.
+
+If you need to determine a ship’s atmosphere speeds, use the chart below:
+
+Space
+
+Move
+(Atmosphere)
+
+Kilometers
+
+1 | 210 | 600
+2 | 225 | 650
+3 | 260 | 750
+4 | 280 | 800
+5 | 295 | 850
+6 | 330 | 950
+7 | 350 | 1,000
+8 | 365 | 1,050
+9 | 400 | 1,150
+10 | 415 | 1,200
+11 | 435 | 1,250
+12 | 450 | 1,300
+
+per Hour (All-Out speed)
+
+“That’s everything you need to know for starship battles. Sure, there’s nothing like experience and practice to learn the maneuvers that it takes to be a top pilot, but you’re ready to take your first few training runs.
+
+“I’m going to turn things over to Alliance
+General Jan Dodonna. Let me tell you something about this guy. He didn’t get his rank by pushing datacards and routing supplies. He earned it in the trenches, my friends. He knows what he’s talking about.
+
+“He’s going to tell you how to handle big battles. What to do, what not to do and how to keep your skin intact. Remember to watch your back and I’ll see you in the space lanes.”

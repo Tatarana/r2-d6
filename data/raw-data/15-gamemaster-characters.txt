@@ -1,0 +1,619 @@
+CHAPTER 15: GAMEMASTER CHARACTERS
+(Páginas impressas 263-276 | PDF 265-278)
+
+[Página impressa 263 | PDF 265]
+
+15
+
+# GAMEMASTER CHARACTERS
+
+“I’ve met countless beings in my journeys across the galaxy and always have I found a uniqueness in the personalities of each of them, from Mandalorian warriors to the Emperor himself. Those of you who choose to wander the galaxy had better pay attention, for things and people are not always what they at first may seem. You’ve no idea how often rogues become heroes, and heroes become villains. And for this reason I warn you not to rely on an initial impression of anyone you meet.
+
+“I’ve visited exotic locales and seen awe-inspiring natural and artificial sights, but the most enthralling and exciting of all have been the individuals I have come across. Truly, the greatest variety in nature is to be found in the heart, whether that of a human or an alien.
+
+“Good luck in your explorations, and by all means, be careful.”
+
+As a gamemaster, the most enjoyable and challenging of responsibilities is populating your adventures. Each adventure will have its own flavor and its own original cast of characters — all of them created by you.
+
+For the players, giving life to their character is reasonably simple. With only one or two characters to flesh out and give life to, the players will have their character conceptions well charted rather early. The gamemaster, on the other hand, has the task of filling out the rest of the universe. At first, this would seem to be a difficult task, but with the proper techniques this challenge becomes quite easy to handle and very rewarding.
+
+The driving force behind many adventures and most campaigns are the gamemaster characters. These characters can range from the simple Rebel soldier intent on doing his duty, to the master villain plotting the overthrow of the Republic and dogging the player characters’ heels from adventure to adventure.
+
+To give life to these characters and make them memorable is one of the most enjoyable parts of gamemastering and roleplaying. When designing characters, the first issue is how important the character will be to the adventure.
+
+CHAPTER FIFTEEN
+
+[Página impressa 264 | PDF 266]
+
+## RECORD-KEEPING
+
+After a few gaming sessions, the number of gamemaster characters you have created will make it difficult to keep their individual personalities and abilities straight. Their personalities and attitudes will probably start to blur in your memory. This is where record-keeping comes in — if you have a log of each important gamemaster character and continually update it as the character is used in an adventure, then you’ll find it easy to make sure that you are properly playing the characters.
+
+For characters that are relatively unimportant, you can use a smaller log. Most of the time, you will only have to note significant skills and a couple of personality traits that allow you to quickly get into character.
+
+For more important characters, you can use an expanded log. This expanded log should give you a lot more room to make notes about the character’s background, personality and other factors, and you also should leave plenty of room to add more details as the character is used in your adventures.
+
+If the character is just going to be an “extra” (someone who is present for atmosphere or scenery, as opposed to an important personality), the character creation process is very quick. Often, it is enough to determine the character’s appearance, what the character will do in the scene and what his most important skills are.
+
+If the character is going to be important, such as a major villain, someone that the player characters will interact with throughout an adventure, or someone who drives the plot “behind the scenes,” then the character requires more work.
+
+When you walk into the cantina, the first thing you notice is the Wookiee. Lurking near the door, he is tall, shaggy and smells of a few too many Dentarian Ripples. You’re probably better off giving the hulking brute a wide berth. A few steps deeper into the bar and you finally spot the man you are here to see, D’Voras Brin, smuggler extraordinaire.
+
+Brin’s demeanor gives you chills. The bearded, black-clad trader was definitely ready for any hint of trouble. The specially modified holster on Brin’s hip is designed to allow for a fast draw of what looks like a pared-down repeating blaster unit that was somehow crammed into the frame of a blaster pistol. It looks like it makes big holes in things. Maybe this wasn’t such a good idea.
+
+With that small read-aloud, two gamemaster characters have already been introduced. The Wookiee at the bar, only barely mentioned, is a gamemaster character that at this point only needs a small amount of work. D’Voras Brin, on the other hand, will prove to be a much more important character and require more preparation and attention from the gamemaster.
+
+The development of D’Voras Brin and the unknown Wookiee will help to illustrate some of the ways to give gamemaster characters more depth and meaning.
+
+# CHARACTER CONCEPTION
+
+One of the best starting points for gamemaster character creation is in the development of a history and background for the character. There are some important questions that should be answered in order to more readily define a character and start the creation process.
+
+The first of these is the character’s conception and role in the campaign. When you first devise a character, whether it be a minor character to help the players and advance the storyline or a major villain, it is important to define what the basic conception of the character is and leave enough room to allow the character to grow in future adventures.
+
+Will this character be a minor villain showing up occasionally to make life difficult for the heroes, or will he be the major villain, driving the storyline ever forward in the manner of Darth Vader and Emperor Palpatine?
+
+The gamemaster characters could be set up to aid the players on a short term basis, much like Lando Calrissian or Yoda.
+
+In the cases of Lando and Darth Vader, the characters grow and mature as the storyline progresses. In The Empire Strikes Back, Lando is a shadowy scoundrel and a friend from Han’s past who can’t be trusted. Lando then is forced to turn over Han to the Empire, and after helping with Han’s rescue, vows revenge on the Empire and actively leads the space assault on the second Death Star.
+
+Of course, Darth Vader goes from being a menacing, irredeemably evil villain to a truly tragic figure — the fallen Jedi, turned to evil, who at the moment of truth returns to the light side of the Force, redeeming himself and saving his son and the Rebel Alliance.
+
+These easiest way to think of the characters are in movie terms:
+
+• Extras are simply gamemaster characters with only a little development. They range from cannon-fodder villains like stormtroopers, to most of the aliens in the cantina scene, to the Rebel soldiers at the Battle of Hoth.
+
+• Supporting characters are those minor characters who contribute to an adventure, and thus need more development, but don’t require complete details to be used in an adventure. Sample supporting characters include Grand Moff Tarkin, Lobot and Bib Fortuna.
+
+• Lead characters are those characters who are major contributors to the story, and are almost as or as important as the player characters. These characters need complete game stars, fully fleshed out personalities and objectives and they probably will also need highly detailed backgrounds. Good examples of lead characters include Darth Vader, Obi-Wan Kenobi, Yoda, Lando Calrissian and Jabba the Hutt.
+
+## EXTRAS
+
+For extras, development simply requires the use of a character template or the creation of the base attribute and skills and species for the character. One or two lines on behavior and appearance are enough for roleplaying the character.
+
+[Página impressa 265 | PDF 267]
+
+An Imperial stormtrooper need not be more than a notation of the appropriate attributes, skills and equipment, and notes of what the character’s actions and objectives will be in the adventure. Since these characters are “extras,” their motives will be straightforward: capturing the Rebel spies, keeping order in Jabba’s palace, getting the best price when buying Luke’s landspeeder and so forth are likely objectives.
+
+## SUPPORTING CHARACTERS
+
+For supporting characters, a more detailed conception is necessary. These characters are more individualized and have more personalized objectives. These characters will probably take a minor role in an adventure — they might be very important to a single scene or they might show up throughout an adventure but don’t do anything too significant.
+
+When devising a supporting character, consider what impact and role this character is going to play in the adventure. Does the character have Force skills? Is he a mercenary for hire, or a pilot desperate for someone to fund his way off planet? These characters are frequently used in adventures to provide information or equipment or limited assistance to the characters. These types of characters can also be an intermediary foe, somewhere between standard army troops and the major villains who will be the focus of an adventure — a good example might be a Moff’s assistant who sets a trap for the characters.
+
+## LEAD CHARACTERS
+
+Lead characters are those who will take an active part in an adventure, either making a major difference in several scenes, or participating throughout the adventure and taking at least one vital action during the adventure. A lead character might be a trusty retainer of another character who sacrifices himself to save his friends or a slicer who figures out how to circumvent a security code to get the characters into a top secret Imperial base. Of course, major villains are also lead characters, but so can neutral characters be “leads.” For example, a smuggler might be a lead character if he keeps on showing up in an adventure and makes a major difference in how the story is resolved — he might not help the characters, but he might hinder the Imperials for his own reasons.
+
+# THE CAPSULE
+
+Now that you’ve thought about how important a character is likely to be in an adventure, it is time to conceptualize the character and put down the basic information on paper. The easiest way to do this is the “capsule” — a verbal snapshot of the character that allows you as gamemaster to instantly understand and be able to play this character.
+
+The capsule provides whatever information is necessary to understand the character — their motives, objectives, personalities, history, appearance and distinct mannerisms can all be described in the capsule.
+
+Here are some examples:
+
+• Lennar is a small-time con man and hired gun. This mangy, scarred Human considers himself a ladies’ man but the truth is that he is repulsive, overbearing and generally incompetent.
+
+• Cross a Sullustan smuggler with someone with the scavenging instincts of a Jawa and you’ll get Byun Tenab. While he is a skilled pilot and knows his way around most spaceports, venturing onto his rubbish filled ship will test the tolerance of anyone, except maybe a Squib. His advice not to go “exploring” on his ship shouldn’t be taken lightly.
+
+• Imperial Governor Defaris Muslo is a cunning and cruel manipulator. He hates the Rebel Alliance, blaming the Rebels for the death of his beautiful daughter Marna. What Defaris doesn’t know is that she was a Rebel operative who died at the hands of an Imperial torture droid. Defaris has been known to construct elaborate traps to corner Rebel operatives. He is unaware that Imperial Intelligence suspects him of being a Rebel operative because of his daughter’s actions; he is targeted for assassination.
+
+### Building the Capsule
+
+Now that you’re familiar with the idea of capsule descriptions of your characters, the details and information that can be used in this area will be explained in greater detail.
+
+## BACKGROUND
+
+Where a character came from and what he has experienced gives insight into what the character thinks and feels. Was she originally from a small farming planet or from some populous world at the forefront of technology, with all of the state-of-the-art conveniences? Did the character have an easy time growing up or was it filled with crisis upon crisis? These aspects add depth to the experience and personality of a character.
+
+Also very important is the character’s family. A strong family life and the character’s experiences as a youth have a strong impact on forming the values and beliefs of the character — someone who has had a close-knit and very honorable family will probably see life differently than someone who was orphaned as a child and raised in the company of pirates.
+
+A character’s motivations can often be understood if the character’s background is known. Someone who’s family was killed by the Empire is likely to have revenge as a motive. Someone who has made a living as a smuggler and is currently stuck in a job as a desk clerk at a spaceship yard will probably do just about anything to get back into space.
+
+[Página impressa 266 | PDF 268]
+
+While background can be a very useful tool, it isn’t necessary to completely detail the history of every character; it is simply a useful tool for insight. Of course, the background can be painted in very broad strokes and added to as the need arises.
+
+Anyone of these developments helps add detail and depth to the characters. With this issue in mind, let’s take a look back at D’Voras Brin and the unknown Wookiee...
+
+The gamemaster has set up the current plot so that the player character hero, Stannik Nhaa, a young Rebel trooper, needs to get off planet quickly and quietly. Stannik has heard that the smuggler D’Voras Brin can get anything or anyone anywhere in the sector for a price.
+
+The gamemaster decides that Brin is a Human, approximately two meters tall, with long dark hair, an unkempt mustache and beard. He dresses in blacks and deep reds and keeps his face hidden from view most of the time with a hooded cloak. The most apparent thing about Brin is his heavily modified blaster and holster, both specially modified to provide a quick draw and a nasty punch — a warning to those who would cross him. The gamemaster also decides that Brin is a smuggler with connections on both sides; he’ll work for either the Empire or the Rebellion, and it doesn’t matter to him as long as the money’s good. He is slow to anger but also never forgets a slight.
+
+The Wookiee, named Gaartatha, is currently looking for help since his last partner was hauled away by an Imperial press gang looking for more slaves for a distant work colony. Gaartatha barely escaped. Now he is mourning the loss of his companion and looking for some possible lead in rescuing his old companion, while indulging in a lot of drink. He knows he can’t do anything on his own, but is looking for the opportunity to find some aid in rescuing his friend.
+
+## PHYSICAL DESCRIPTION
+
+The easiest way to distinguish a new gamemaster character is to give him or her an unusual and distinctive appearance. When trying to create or describe gamemaster characters, you should try to use detailed adjectives to get across certain qualities. A character who has “smooth, shiny blackish-brown skin with sparkling brown eyes” seems more interesting than a character who is described in very plain terms. Putting details into these descriptions helps the players get a good mental image of the character.
+
+Some qualities that you need to consider include species (Human or otherwise); skin, hair and eye color; weight and build; and, body language. You should also mention prominent distinguishing marks (like scars or tattoos), and any other readily apparent physical qualities.
+
+Another important factor in appearance is dress. People you meet on the street today have their own distinctive style of dress. This also holds true for many of the characters in the Star Wars universe.
+
+Obi-Wan with his Jedi robes, Han with his loose vest and casually worn blaster holster, and Luke with his loose sleeved
+
+tunics all give additional flavor and insight to the character. Let your gamemaster characters also have a variety of dress and style.
+
+Every culture might have its basic elements of dress but each person will customize them to suit her personality and personal sense of style. Weather-beaten, greasy coveralls show a fighter mechanic’s devotion to his work, while a career military man will show his dedication to order through his neat and tidy clothing with not a stitch out of line.
+
+Another personal expression can be effected with jewelry. Necklaces, earrings and bracelets of unique or exotic materials can point out a lot about a character’s travels.
+
+Along with dress, equipment and personal possessions reflect a character’s personality. Every person in their travels will encounter some item or possession that appeals to them and this item becomes a constant prop for the character. This goes far beyond standard weapons — some characters might have a “lucky charm,” like a glazed rock that they keep strapped to their wrist. Other characters, like Boba Fett, might choose to display gruesome Wookiee scalps as a means of intimidating others and proving their fearlessness and skill.
+
+For a Jedi, the lightsaber gives a clue to the character’s profession and background. Han Solo, a man of action, let his blaster be a keen insight into his character and motivations. The outer trappings of a character show a lot more depth than just being useful tools and gimmicks.
+
+## PERSONALITY
+
+At this point, having given the characters a bit of history and a distinct “look,” it becomes necessary to decide how they act. As gamemaster, you should decide how the character acts “in general”: does he have a keen wit, is he a flirt, does he seem dour and withdrawn or does he seem preoccupied with other things? Giving a character distinct personality traits, like telling bad jokes, or having the character be self-centered and complain about every slight, is a great way of distinguishing one gamemaster character from another.
+
+Then, you might want to consider how the character acts in certain conditions. Does he respond well to pressure or does he panic? Does he get into a fight easily or is he calm? Does he blame others when things don’t go well?
+
+When deciding upon a personality for a character, look to people you know, real world personalities and characters from fiction. Well-formed characters have detailed and complex personalities, and most people are never entirely predictable. You should strive to make your characters interesting enough to hold the players’ attention.
+
+One easy way of making a character memorable to the players is to add a notable speech mannerism. A character with a slight lisp, a high squeaky voice or peculiar accent will stick more than a character with ordinary vocal mannerisms.
+
+Each planet is unique and should breed its own native accent and vocal characteristics. Imperial soldiers seem to have a crisp, British accent, indicative of their training in the Core Worlds. Han Solo, a cocky Corellian, seems to have a very “All-American” accent, so we can assume that this is the standard Corellian accent. Aliens have unique accents as well as unusual speech patterns — for example, Yoda’s way of speaking makes him instantly recognizable to players.
+
+[Página impressa 267 | PDF 269]
+
+Of course, accurately portraying these speech patterns takes practice and if you intend on using this technique, make sure that you have mastered the character’s voice so that you can stay “in character.”
+
+## CONTACTS AND RESOURCES
+
+Few characters are isolated individuals. Most have friends, family, associates and others who can come into play during an adventure. Darth Vader had the resources of the Empire at his command, seemingly answering only to the Emperor himself. He could call upon whole fleets for his quest to turn Luke Skywalker to the dark side of the Force. The hardware Lord Vader used ranged from specially modified prototype TIE fighters to Imperial Star Destroyers and two Death Stars.
+
+Some major villains will be able to draw on a vast quantity of resources from any number of sources. A much overlooked tool of major villains are other gamemaster characters, who can distract or injure the player characters while the major villains sets his plot into motion.
+
+To parallel this concept, Vader had stormtroopers, army and navy soldiers and bounty hunters to do his bidding. An effective major villain will not reveal his hand or become directly involved until the time is ripe or he is forced into confrontation because of the failure of lackeys. A good manager knows how to use his employees and resources effectively.
+
+This is not to say that all major villains should have whole starfleets at their command, but a shrewd major villain will not confront the characters until he is convinced he has final victory or he has no choice (such as the characters having eliminated all of his other resources).
+
+Many beginning gamemasters forget this in their early adventures. They devise a great villain and then send him directly into battle against the characters. Instead, the characters should be whittled down by lackeys, traps and less important villains so that the major villain has a chance against a group of well armed and resourceful characters.
+
+## GROWTH
+
+As the players encounter gamemaster characters over the course of adventures, they should learn that the gamemaster characters grow and change just as their characters do.
+
+Gamemaster characters should never stagnate; instead, their personalities, ideals, objectives and attitudes grow and change as much as the player characters’ personalities and objectives change. This is easy with sketchy characters — if the gamemaster has a clean slate to begin with when using a gamemaster character, he can compose the personality over time to fit the adventures.
+
+The characters’ long term and current goals help to properly delineate how this previously unknown character will fit in with the storyline and interact with the characters.
+
+Is the Rebel trooper fighting for the Rebellion for the purpose of defending his home, personal glory, or perhaps making some money on the side? Is this character volunteering for a dangerous assignment just to get away from her unit and make contact with some black marketeers?
+
+Perhaps a gamemaster character seemed to be an ally when the player characters first encountered her. However, she is, in fact, an Imperial spy and is gathering information on the characters before turning them over to the Empire. Perhaps a character has incurred a huge debt between meetings with the player characters and is willing to do anything, including selling his friends out, to get the money to eliminate that debt. Perhaps the gamemaster character has heard that the player characters somehow betrayed him and thus, he is avoiding the player characters.
+
+# GAME STATISTICS
+
+This final step in character creation is very important, but the gamemaster must remember that game statistics must be balanced by the character’s background and the abilities of the player characters. Game statistics are important to the gamemaster, but the players want to interact with an interesting person. Having figured out the character’s background, personality and physical description, the final piece of the character creation puzzle is determining the appropriate game statistics.
+
+When designing a character, you must keep in mind both the skills of the player characters and the “averages” of the Star Wars universe. Villains should have sufficient combat skills (and, of course, others skills as well) to give the characters a challenge; if a character is going to repair a starship, he must have appropriate repair skills for the task.
+
+A character’s skills should reflect the character’s background and experiences. Just because a skill seems attractive to you as gamemaster does not mean that a character should have it. Look critically and objectively at the character to determine if the skill is appropriate and viable.
+
+One or two minor out of the ordinary skills can also add a touch a flavor to the character. Luke Skywalker, young Jedi, is also familiar with moisture farming and droid repair, as well as those skills that make him a Jedi and an excellent pilot. His roots add flavor to the character and his skills should reflect those roots.
+
+Giving characters high levels in skills that directly oppose the player characters’ skills creates an opponent that is a true challenge. The players must react differently than if they were confronting a group of poorly skilled individuals and perhaps be forced to use other skills they normally don’t depend on.
+
+[Página impressa 268 | PDF 270]
+
+In the case of D’Voras Brin, the gamemaster has obviously decided that this sly and shady character will be good with blaster and will perhaps even be specialized in heavy blaster pistol. Other good skills for Brin would include bargain, con, search, persuasion and sneak, along the lines of Perception-based skills, and astrogation and space transports in regards to Mechanical-based skills. Other good skills include streetwise, languages and possibly value.
+
+Gaartatha, the Wookiee Scout, on the other hand would be more suited to Knowledge, Technical and Mechanical skills, including alien species, survival, planetary systems and astrogation, but the gamemaster has decided that a few more physical skills including brawling, melee combat, blaster or bowcaster add depth and flavor to the character. Also taken into consideration is that Gaartatha is intended to function as an ally for the player’s character for an extended period of time. The gamemaster will also take into account the characters’ skills and tailor the Wookiee’s skills to complement them.
+
+### Using Templates
+
+Using character templates can be a great short-cut for creating gamemaster characters. If you need to create a group of bounty hunters or smugglers from scratch, the templates can save a lot of time.
+
+If using a “player character” level individual, use the same attributes and apply as many skill dice as you feel are necessary for the adventure (see below). If you are using an “average level” character, you can simply subtract one die from each attribute and assign skill dice as necessary. This system is for “quick” characters — with aliens, subtracting one die may reduce a character below his species’ minimum attribute; for quick gaming, this shouldn’t be that much of a problem. However, for more important characters, you will want to use the more detailed approach below.
+
+Often, you will find that a template doesn’t quite get you the character you want for a given adventure. Write a new template. Take the number of attribute dice for the species and allocate them as you see fit as long as they equal to or higher than the species’ minimum levels.
+
+Given time, you might even want to write up this new template as a player character type for the use of your players.
+
+## ASSIGNING DICE
+
+When distributing skills, pay attention to what the character is supposed to be. If the character is supposed to be a pilot, he should have well developed piloting skills for the ship he flies. The level of skills should also match the character’s level (see section below).
+
+Don’t fall into the trap of having every character type being the same in regards to skills and attributes. Just as every person you meet is different in one way or another, so should every gamemaster character be different, whether they’re pirates, Rebels, smugglers or Imperial Star Destroyer captains.
+
+When assigning attributes and skills, there are two types of standards that can be applied. The first, the “universe” standard, is based on how characters are supposed to stack up against everyone else in the Star Wars universe. The second, the “character” standard, is designed to allow you to assign skill levels based on how much of a challenge the gamemaster characters are supposed to be to the player characters.
+
+### Balancing
+
+Because of the flexibility of the Star Wars skill system and the number of different special abilities that are available to characters, no “balancing” system is going to be perfect. Characters skills, attributes, special abilities, Force powers and Character Points can vary wildly, so this system is only an approximation.
+
+Here are some hints:
+
+• Remember that skills must be comparable to each other to really make a difference. For example, if a character has computer programming/repair 10D, he is really talented at computer operations, but this skill is useless in a combat scene. If you are planning on characters being used only for combat, you might want to just check skills that apply in combat; if you are having characters compete against each other (for example, both are bargaining over the price of a blaster), then only compare their bargain and other related skills (like con, streetwise or intimidation if you think these skills will come into play).
+
+• First, count up the attribute dice. For example, a character that had Dexterity 2D, Knowledge 3D, Mechanical 2D, Perception 4D, Strength 3D and Technical 3D would have 17 dice in attributes.
+
+• Then, count the skill dice. Only count skill dice above the attribute. For example, if a character had Dexterity 3D and blaster 5D, you would only count 2D for the blaster skill.
+
+• When adding up “+” pips, remember that a “+3” counts as one die. For example, a character has Dexterity 3D, blaster 4D+1, dodge 3D+2 and melee combat 3D+2. This would equal 3D attribute dice and 1D+5 skill dice, which by changing each +3 into 1D of skill, becomes 2D+2
+
+• Only count skill specializations above the basic skill. For example, if a character has blaster 5D and the blaster pistol specialization at 8D, the blaster pistol specialization would only count as three dice.
+
+• If a character gets dice or loses dice because of special abilities, count these dice as dice for purposes of play balance. For example, if a character has a special ability that gives him +2D to search, count this as two extra dice when balancing characters.
+
+• Count Force skill dice as double the number of comparable skill dice. This is because characters have access to so many different Force powers. For example, a Jedi character has control 2D, sense 1D+1 and alter 1D+2. This would normally add up to 5D in dice, but because they are Force skill dice, this should count as 10D.
+
+• Count every 5 Character Points as one die. This is because while a character will be able to temporarily boost a skill, the boost only lasts for one round.
+
+• Count each Force Point as one die.
+
+• Counting equipment dice as optional: as equipment can be a deciding factor in an encounter, you may wish to do so. If the equipment is relatively permanent (a blaster rifle, which can be fired multiple times), count the damage as normal dice. If the equipment is expendable (like grenades), count 5D worth of damage as 1D of dice.
+
+• Starships and vehicles should not be figured in this system.
+
+[Página impressa 269 | PDF 271]
+
+• Player characters get Character Points and Force Points for going on adventures. Gamemaster characters receive the same points as player characters for the same types of actions. Please note that characters do get Character Points for “doing what they are supposed to do,” although if these actions aren’t dangerous, the point totals are correspondingly lower. Therefore, while a starship engineer isn’t going off on adventures too often, he does earn Character Points to increase his skills just by doing his job.
+
+## THE UNIVERSE STANDARD
+
+With the universe standard, you can rate characters based on how they compare to other characters in the Star Wars universe and how experienced they are.
+
+This is a comparison of skill levels as based on the die system in the Star Wars Roleplaying Game. Use the chart below:
+
+Code | Description
+1D | Below human average for an attribute.
+2D | Human average for an attribute and many skills.
+3D | Average level of training for a Human.
+4D | Professional level of training for a Human.
+5D | Above average expertise.
+6D | Considered about the best in a city or
+
+Die geographic area. About 1 in 100,000 people will have training to this skill level.
+7D
+Among the best on a continent. About 1 in 10,000,000 people will have training to this skill level.
+8D
+Among the best on a planet. About 1 in
+100,000,000 people will have training to this skill level.
+9D
+One of the best for several systems in the immediate area. About 1 in a billion people have a skill at this level.
+
+### Character Levels
+
+By using the “Universe Standard,” and the die ranges below, you can rate characters on relative levels of experience. Please note that the die values listed here are supposed to include all attribute dice, skill dice, and dice equivalents of Force Points, Character Points and Special Abilities.
+
+Average: This character is truly average, and has probably only had one or two “adventures” in his lifetime, if any. The character has up to 20 dice.
+
+Novice: This character is a little bit better than average, and is about the maximum reasonable skill level for characters with average attributes (12D attribute range). Beginning player characters, at 18 attribute dice, 7 skill dice and 1 die for the one Force Point, for a total of 26 dice, are in this range. These characters have up to 35 dice.
+
+Veteran: This character is more experienced than a novice. The character is likely to be very good at a few key skills, but is weak in others. This character has 36 to 75 dice.
+
+### CHARACTER LEVELS AND TYPES
+
+Are the character types (extras, supporting characters and lead characters) directly related to the number of dice they get? Sometimes.
+
+For example, most extras will qualify as “average” or “novice” level characters. However, there are always those times that a character is an extra — just a walk-on in an adventure — but the character has a lot of experience and a high number of dice. The character is important, but isn’t important in the adventure being run.
+
+The paradox comes because the die system is a way of ranking experience and abilities relative to everyone else in the Star Wars universe. It’s entirely possible that the characters will come across a really dangerous bounty hunter in an adventure, and thus he would have skills to match, but he isn’t central to the plot.
+
+Therefore, these guidelines are just that — guidelines. They can be altered and tinkered with as you see fit for your games.
+
+Superior: This type of character has had a great deal of experience in his lifetime and will probably present a formidable challenge to the characters. This type of character has 76 to 150 dice.
+
+Master: These characters have achieved an almost unbelievable level of mastery and experience. This kind of ranking is reserved for characters with the capabilities of Luke Skywalker, Han Solo and Darth Vader. These characters have more than 150 dice.
+
+10D | One of the best in a sector.
+11D | One of the best in a region.
+12D+ | Among the best in the galaxy.
+
+[Página impressa 270 | PDF 272]
+
+## THE CHARACTER STANDARD
+
+This system is more geared to balancing gamemaster characters versus the abilities of the player characters. For best results, the relevant skills in a particular scene, whether they are combat, interaction, knowledge, piloting or technical skills, should be compared directly against each other to get the most balanced situation.
+
+If you want to compare the characters as a whole, use the “Total Dice” column. If you want to compare the characters on a skill-for-skill basis, use the “Specific Skill” column. All numbers are relative to the player characters.
+
+Challenge | Total | Specific
+Level | Dice | Skill
+None | −15D or more | −3D or more
+Minor | (−5D) to (−14D) | −2D
+Moderate | (−4D) to (+4D) | (−1D) to (+1D)
+Serious | (+5D) to (+14D) | +2D
+Major | +15D or more | +3D or more
+
+## ADVANCING SKILLS
+
+As a gamemaster character goes through various adventures, he should receive Character Points and Force Points in the same way that player characters do. This way, the character can add new skills and improve existing ones in a fair and equal manner.
+
+Of course, it is important to point out that most player characters will be involved with more dangerous situations than gamemaster characters, and thus gain more Character Points.
+
+# ROLEPLAYING CHARACTERS
+
+Now that the characters have been prepared, it is time to breathe life into these individuals. The gamemaster is responsible for dozens and perhaps, over the span of a lengthy campaign, even hundreds of personalities, so it is important to keep notes on the characters you portray.
+
+The gamemaster must take the capsule summary and put those attitudes, behaviors and beliefs into action. While some of this information may be contained in the summary, it is up to the gamemaster to portray it accurately.
+
+First, determine a character’s general outlook and attitude. Is the character grim and silent, cheerful and talkative, generous to a fault, determined yet good-hearted, or hateful and vindictive?
+
+Han Solo as first seen in the Mos Eisley cantina seemed to be a slick smuggler out to make a credit. By the end of Return of the Jedi, he becomes a crusader for good. Darth Vader is determined and relentless, not letting any obstacle get in the way of his goals.
+
+Take the opportunity to act out a character fully. Using different voices and accents adds more flavor to character and makes them much more memorable. Use body language, actions, specific phrases and facial expressions to get the character across to your players.
+
+Vary the attitudes of characters in the same profession, since not every bartender is going to agreeable and jolly, especially if he lives in a more sinister part of the city. Likewise for any other character, there are a variety of backgrounds and attitudes dependent on the surroundings and atmosphere.
+
+[Página impressa 271 | PDF 273]
+
+Take the opportunity as gamemaster to take all the roles you’ve seen on the big screen and act them out yourself. This is your big chance to shine and show your friends the depth of your acting talent. And don’t worry about being embarrassed by any critiques of your performance.
+
+At some point in the future your players will make a comment on some scenario that was memorable because of a character that you created and “hammed up.” This character would not have been memorable without your performance.
+
+To add to your performance, add a variety of vocal characterizations. Give the characters distinctive accents, a noticeable stutter, a lisp or some other odd speech pattern. Remember that every region and every planet will have its own particular accents and speech patterns.
+
+Other usable devices include a lack of contractions. For example, “isn’t” becomes “is not”, “weren’t” becomes “were not.” This speech style lends a more formal feel to a character’s persona. Also, inverting words and dropping words from sentences can lead to memorable speech styles.
+
+Another way to make your characters have more reality and depth is to add mannerisms and repetitive actions. A character might blink excessively, wring his hands, walk with a limp or have some other odd physical abnormality.
+
+Some of these can be acted out, others will have to rely on your description of the noticeable problems. Other physical differences that can be noted are scars, cyber-replacement parts and missing limbs. These add a bit of flavor to a character that may give more insight to the character’s background and personality.
+
+# RECORD-KEEPING AND EXPERIENCE
+
+As a character is used more and more in your adventures, you will want to add more information to a gamemaster character's notes. While you are running that character, the notes should be in front of you for easy reference. You may want to have a piece of scratch paper attached to each character’s notes. While you are gaming, note on the scratch paper important events, typical sayings (“I’ve got a bad feeling about this,” for example), new personality traits and other things that influence your portrayal of the character. After the adventure, look at the scratch paper and decide what traits and notes should be transferred to the character’s permanent character notes.
+
+For example, you will want to keep track of how the character interacts with the different player characters (Han Solo just doesn’t get along with C-3P0 and treats Luke like a kid brother). Is the character friendly with a certain player character or have they been involved in a memorable encounter? A shared history with your player’s characters will keep these characters fresh and real. Take the time to reminisce with your players in character. It also gives you insight into what characters your players liked and disliked.
+
+Note what actions the character took part in, and how well the succeeded or how badly they failed. With villains, it’s very important to note as to whom they might have a grudge against and how their plans were foiled. A smart villain will remember who it was that foiled their plans and how they did it — and probably seek revenge. Never commit the same mistake twice.
+
+### USING ALLIES
+
+Giving the characters allies in an adventure is a double-edged sword. On the one hand, the character can lend aid or extra firepower to the group of characters, or provide them with a vital contact. On the other hand, the gamemaster characters can’t be too good. The players should never feel that they are competing with or inferior to these characters. You should give these characters skills that complement the player characters’ skills and don’t come into direct competition. Gamemaster allies have the capacity to be a great source of entertainment for the players and also a bottomless well of possible adventure ideas.
+
+One of the easiest ways to introduce a new adventure hook is through information discovered or related by a gamemaster character. If this character is a familiar and repeating character, the players tend not to feel as forced into a plot-line as when a nameless, faceless high ranking Rebel official walks up to them and tells them they’re now on their way to some remote sector of space. If the same idea is put forth by a familiar character overhearing a rumor and relaying it to the characters or having discovered the information himself, the players are more likely to go along without bristling at the idea.
+
+You can also make notes of “non-gaming adventures.” While the player characters were off saving the galaxy, odds are the gamemaster characters were doing something too. A gamemaster character log sheet provides a perfect place to note these kinds of adventures and decide how they affect the character in terms of game statistics and how they will behave in the future (for example, a character on the run from bounty hunters will probably be much more secretive than he was before the bounty was levied — these kinds of happenings should be integrated into your game).
+
+Also, note whatever special equipment or resources the character might have at his or her disposal, whether it’s a specially modified heavy blaster pistol or an Imperial Star Destroyer. No detail is too small to be overlooked and you’ll also be surprised how much you can forget with the passage of time.
+
+Another use for this detailed character log is that after the character has been out of a play for a while, it might be useful to reintroduce the character in order to introduce a new plot idea. Simply by browsing through your archives of old characters, plot-lines and adventures will start to spontaneously generate
+
+For example, you might not have a good idea for an adventure, but you then come across the character log of a smuggler who got the player characters off the planet “fast, with no questions asked.” What happened to him? Did the Empire finally catch up with him and throw him in prison? Did he finally set up that little shipping company he was working on and go legit? Is he still in the smuggling business, and will he be willing to help the characters out of another bind? Is he in a bind and will he ask the characters for help? A lot of possibilities will spring to mind as you review those old characters and let your mind wander as to the possibilities.
+
+[Página impressa 272 | PDF 274]
+
+From any of those ideas listed above, whole new adventures could be generated, whether it is a daring raid of an Imperial prison planet or coming to the aid of the new shipping company now troubled by the claws of the Empire.
+
+Also, this log can give you a ready cast of characters that can be dropped in at a moments notice, already prepared for play. With the simple change of a name and a later write-up, gamemaster character generation is a snap.
+
+As gamemaster, your characters should receive the depth and consideration that your players give their characters. Take the time to develop a feasible and playable background for all your characters. And let your player’s insights help mold and shape future characters. They are the ones who struggle against and fight with your creations. Your players can give you ideas as to character development that you may not have thought of.
+
+## THE EXTRA:
+
+GAMORREAN GUARD
+
+This is the character that shows up in only one encounter and has a very limited range of actions.
+
+Gamorrean Guard: All stats are 2D except: Dexterity 3D, melee combat vibroaxe 4D+1, melee parry 3D, Strength 4D. Move: 8. Vibroaxe (damage STR+3D+1).
+
+## THE SUPPORTING CHARACTER:
+
+SULLUSTAN MECHANIC
+
+This character may appear in more than one encounter and will interact with the player characters more than once.
+
+#### SULAHB
+
+Type: Sullustan Mechanic DEXTERITY 1D
+
+Blaster 2D, dodge 3D KNOWLEDGE 2D
+
+Value 3D
+MECHANICAL 2D
+
+Space transports 2D+2 PERCEPTION 2D
+
+Bargain 3D+1
+STRENGTH 1D+1
+TECHNICAL 3D+2
+
+Droid repair 4D, space transports repair 6D Special Abilities:
+
+Enhanced Senses: Sullustans have advanced hearing and vision. Whenever they make Perception or search checks involving vision in low-light conditions or hearing, they receive a +2D bonus
+Location Sense: Once a Sullustan has visited an area, she always remembers how to return to the area — she cannot get lost in a place that she has visited before. This is automatic and requires no die roll. When using the astrogation skill to jump to a place a Sullustan has been, the astrogator receives a of +1D bonus to her die roll.
+Character Points: 3
+Move: 10
+Capsule: Sulahb is a Sullustan mechanic who repairs the starship of the player characters. She is a quiet, hard-working person who is very meticulous in her work.
+
+Sulahb is the kind of character who can be used at the beginning or end of every adventure. As she crawls out from under that leaking landing strut, she can tell the characters what she repaired, hold up the old worn parts she came across
+
+while fixing something else, and she can always caution the characters about how they should treat their ship, and themselves, with a little more care.
+
+## THE MAJOR CHARACTER:
+
+REPUBLIC SENATOR
+
+The player characters may interact with this gamemaster character extensively in roleplaying encounters or they may become familiar with the personality of this gamemaster character in other ways (such as through rumors and secondhand information).
+
+#### KARE FONTIN
+
+Type: Old Senatorial
+DEXTERITY 1D
+KNOWLEDGE 4D
+
+Alien species 9D, bureaucracy 12D, cultures 8D, languages 10D, willpower 10D
+MECHANICAL 3D
+
+Astrogation 4D+2 PERCEPTION 4D
+
+Bargain 10D, command 10D, con 12D, hide 7D, persuasion 8D, search 7D
+STRENGTH 1D
+TECHNICAL 1D
+
+Droid programming 3D, security 4D
+Force Points: 3
+Character Points: 16
+Move: 8
+Capsule: Kare Fontin is a very old former senator who served during the days of the Republic. He is well over 100 years old, and while his body has become quite frail over the years and he is a little hard of hearing, his mind and his wit are as keen as ever.
+
+This character can be used in a variety of ways. When first introduced to the players, their characters are charged with escorting him from Coruscant to Beta Olikark. Assuming that Fontin gets along with the characters, he may call upon him for escorts on future diplomatic missions. Likewise, the characters now have a powerful friend in the Republic government who may be able to grant them special favors.
+
+# TYPICAL CHARACTERS
+
+The following are representative gamemaster characters that players may encounter. Some individuals will have higher or lower scores, scaled to meet the demands of the players’ characters and the situation.
+
+If you need another type of character, whether a bounty hunter, a scout, a trader, a Jedi, or one of thousands of other character types, you may want to model the character after one of the character templates. When you do create a new character type, keep the stats handy — you may want to reuse the character’s stats for a new character even if the “personalities” of the characters are completely different.
+
+The “Standard Specialist” below is a basic template for any kind of quick character. The specialist may be a mechanic, slicer, or even just a custodian. This makes it very easy to assign skills quickly.
+
+Standard Specialist: All stats are 2D; any three skills at 4D. Move 10.
+
+[Página impressa 273 | PDF 275]
+
+## THE GALACTIC EMPIRE
+
+The Galactic Empire is a vast and highly organized government ruled over by Emperor Palpatine. The Galactic Empire seized power at the end of the Clone Wars following an unprecedented military build-up and the destruction of the Jedi order.
+
+The Empire is divided into sectors, each of which is governed by a Moff and guarded by military forces. The Empire’s authority on any given world can range from a single garrison (found mostly on backwater planets like Tatooine) to an intense presence with a stormtrooper on every street corner (as in the Deep Core and important Core worlds) .
+
+### Stormtroopers
+
+Stormtroopers are the elite troops of the Empire, trained to fight and die without fear or question. Squads of stormtroopers strike terror into the hearts of civilians throughout the galaxy, enforcing the Emperor’s will with ruthless zeal and efficiency.
+
+Stormtroopers are a separate force from the troops of Imperial Forces and do not answer directly to Imperial military officers. They are obedient and devoted to the Emperor. They cannot be bribed, blackmailed, or seduced. Any such attempt automatically fails.
+
+After recognizing the need for troopers with special equipment and training, the Emperor ordered the development of additional types of stormtroopers, including (but not limited to) snowtroopers, sandtroopers, and scout troopers.
+
+Imperial Stormtrooper: All stats are 2D except: Dexterity 3D, blaster 4D, brawling parry 4D, dodge 4D, brawling 3D. Move: 10. Stormtrooper armor (+2D physical, +1D energy, −1D to Dexterity and related skills), blaster rifle (5D), blaster pistol (4D).
+
+Aquatic Assault Stormtrooper: All stats are 3D except: blaster 4D, brawling parry 4D, Mechanical 3D, aquatic vehicle
+
+operation 3D+2, Strength 2D+2, brawling 3D+2, swimming 4D+2, Move 10, 12 (swimming). Blaster speargun (blaster: 5D, 0- 10/50/100 [air], 0-5, 25/35 [underwater], speargun: 4D, 0- 5/15/25 [underwater]), concussion grenades (5D/4D/3D/2D), seatrooper armor (+1D physical and energy, increases swimming by +2D).
+
+Scout Trooper: All stats are 2D except: blaster 4D, brawling parry 4D, dodge 4D, Mechanical 3D, repulsorlift operation: speeder bike 3D+2, brawling 3D, Move: 10. Holdout blaster (3D+2), scout armor (+2 physical, +2 energy), blaster pistol (4D), blaster rifle (5D), concussion grenades (5D/4D/3D/2D), survival gear.
+
+Cold Assault Stormtrooper (Snowtrooper): All stats are 2D except: blaster 5D, blaster artillery 4D, brawling parry 4D, dodge 3D, survival: arctic 4D, search 3D+1, brawling 4D. Move: 10. Blaster Pistol (4D), Blaster Rifle (5D), concussion grenades (5D/4D/3D/2D), food and water packs, ion flares, snowtrooper armor (+1D physical and energy, −1D Dexterity and related skill rolls), terrain grip boots (+1D to climbing), survival kit.
+
+Zero-G Assault Stormtrooper: All stats are 2D except: Dexterity 3D, blaster 4D, brawling parry 5D, dodge 4D, grenade 5D, missile weapons 5D, survival 5D+1, Mechanical 3D, astrogation 4D+2, powersuit operation: spacetrooper armor 6D, repulsorlift operation 5D+2, space transports 5D+2, starship gunnery 4D, starship gunnery: proton torpedo launcher 5D+2, Perception 2D+2, search 5D+2, brawling 3D, stamina 4D, demolitions 3D+1, security 4D+1, powersuit repair 4D+1, Move 11. Space trooper armor (+4D physical, +3D energy, −1D Dexterity and related skill rolls, Space 1, Move 8, grenade launcher (missile weapons skill. 5-50/100/200 [in space: 0/1/2], concussion grenades (ammo: 30, 5D/4D/3D/2D, blast radius 0-2/4/6/10), gas/stun grenades (ammo:30, 5D/4D/3D/2D [stun], blast radius 0-2/4/6/8), mini-proton torpedo launcher (starship gunnery skill, 6D, ammo 6, 25-100/300/700, [in space: 1/3/7]), blaster cannon (6D, 10-50/100/150), laser cutters (3D starfighter-scale).
+
+### Imperial Officers
+
+Admired, respected, and teared, the officers of the Imperial Army and Imperial Navy are drawn from prestigious families with long histories of military service. Few are promoted up from the lower ranks. Most are inducted straight into officer training academies, instructed in doctrine, leadership, and tactics, and then awarded commissions. There, if they distinguish themselves, they finally get a chance to rise through the upper echelons — but rarely do they find occasion to dirty their hands.
+
+Typical Imperial Naval Officer: Dexterity 2D+2, blaster 4D+2, blaster 4D+2, dodge 4D, Knowledge 3D, bureaucracy 4D, planetary systems 3D+1, tactics: capital ships 5D, tactics: fleets 4D, Mechanical 3D+2, capital ship piloting, 4D, Perception 3D+1, bargain 5D+1, command 4D+1, hide 4D, Strength 2D+1, brawling 3D+2, stamina 3D+1, Technical 3D, capital ship repair 4D+1. Move 10. Blaster pistol (4D), comlink.
+
+[Página impressa 274 | PDF 276]
+
+Typical Imperial Army Officer: Dexterity 2D+2, blaster 4D+2, blaster 4D+2, dodge 4D, Knowledge 3D, bureaucracy 4D, planetary systems 3D+1, tactics: ground combat 5D, Mechanical 3D+2, repulsorlift operation, 4D, walker operation, 4D, Perception 3D+1, bargain 5D+1, command 4D+1, hide 4D, Strength 2D+1, brawling 3D+2, stamina 3D+1, Technical 3D, walker repair 4D+1. Move 10. Blaster pistol (4D), comlink.
+
+### Imperial Army Troopers
+
+The standard trooper of the Imperial Army, these individuals are the most visible symbol of the Empire on most worlds. They are confident, arrogant and eager to fight, and hate the Rebel Alliance/New Republic with amazing ferocity.
+
+Imperial Army Trooper: Dexterity 3D, blaster 4D+1, dodge 4D+1, grenade 3D+2, vehicle blasters 3D+2, Knowledge 1D+1, survival 2D+1, Mechanical 1D+1, repulsorlift operation 2D+1, Perception 2D, Strength 3D+1, brawling 4D+1, Technical 1D. Move: 10. Blaster rifle (5D), field armor and helmet (+1D physical, +2 energy), grenades (5D), helmet comlink, survival gear, utility belt with supplies.
+
+Veteran Imperial Army Trooper: Dexterity 3D, blaster 4D+1, blaster: heavy blaster pistol 5D+1, blaster artillery 3D+2, brawling parry 3D+1, dodge 4D+1, grenade 3D+2, melee combat 4D, melee parry 3D+2, missile weapons 4D, vehicle blasters 3D+2, Knowledge 1D+1, intimidation 2D+2, law enforcement 2D+2, law enforcement: Imperial law, streetwise 2D+1, survival 2D+1, Mechanical 1D+1, ground vehicle operation 2D+1, hover vehicle operation 2D+1, repulsorlift operation 2D+1, Perception 2D, command 3D, hide, 2D+2, search 3D, sneak 2D+2, Strength 3D+1, brawling 4D+1, Technical 1D, blaster repair 2D, first aid 2D. Move: 10. Blaster rifle (5D), field armor and helmet (+1D physical, +2 energy), grenades (5D), helmet comlink, survival gear, utility belt with supplies.
+
+### Typical Imperial Pilot
+
+Imperial pilots receive top-level training at the Imperial Academies and must endure countless hours of pre-commissioning flight exercises before transferring to combat units. Like most members of the Empire’s military organization, pilots consider themselves the most-skilled in the galaxy, second to none. Their arrogance often dominates their personalities, and the Rebel Alliance has learned to exploit this weakness. Few Imperial pilots have enough to skill to become TIE pilots. The Empire’s main starfighter requires expert handling and pinpoint firing accuracy to make up for its lack of hyperdrive and shields.
+
+Imperial Pilot: All stats are 2D except: Dexterity 2D+1, blaster 3D+1, dodge 3D+1, Knowledge 1D+1, planetary systems 2D+1, survival 2D+1, value 2D+1, Mechanical 3D, astrogation 4D, capital ship gunnery 4D, capital ship piloting 5D, capital ship shields 4D, communications 3D+1, sensors 3D+1, space transports 4D, hide 3D, investigation 3D, sneak 3D, climbing/jumping 3D, stamina 3D+1, Technical 1D+1, capital ship repair 3D+1, capital ship weapons repair 2D+1, computer programming/repair 2D+1. Move: 10. Blaster pistol (4D), flight suit, navigational computer linkup helmet (internal comlink, +1D to sensors), survival gear.
+
+TIE Fighter Pilot: All stats are 2D except: Dexterity 3D+1, blaster 4D+1, dodge 4D+1, planetary systems 3D, Mechanical 4D, sensors 4D+2, starfighter piloting 6D, starship gunnery 5D, Perception 3D, command 4D, search 4D, Strength 3D, stamina 4D, computer programming/repair 3D+1, starfighter repair 5D. Move: 10. Navigation computer linkup helmet (internal comlink, +1D to sensors), high gravity stress flight suit with life support equipment, one week emergency rations, blaster pistol (4D), survival gear).
+
+### Typical Imperial Naval Trooper
+
+To protect its vast number of capital ships without relying on help from the Army, the Navy has created a corps of troopers to act as soldiers. These troops handle security, control hangar traffic, and monitor sensor arrays when their combat skills are not required.
+
+Imperial Naval Trooper: Dexterity 2D+1, blaster 3D+1, blaster: blaster rifle 4D+2, brawling parry 3D+1, dodge 3D+1, grenade 3D+1, melee combat 3D+1, melee parry 3D+1, running 3D+2, Knowledge 1D+1, intimidation 2D+1, streetwise 2D+1, Mechanical 1D+2, repulsorlift operation 2D+2, capital ship shields 2D+2, Perception 3D, command 4D, search 4D, Strength 2D+2, brawling 4D+2, stamina 3D+2, Technical 1D, security 2D. Move: 10. Blast helmet (+1D to physical, +1 energy), blaster pistol (4D), comlink.
+
+[Página impressa 275 | PDF 277]
+
+## REBEL FORCES
+
+The Rebel Alliance fights against the tyranny of the Empire in order to restore justice and freedom to the galaxy. Formed by loyalists such as Mon Mothma and Senator Bail Organa, the Rebel Alliance struggles against the Empire at every turn. It uses guerrilla warfare and undercover violence to weaken the Imperial machine and help free the oppressed people of the galaxy. Though the Alliance sometimes engages in direct military action against the Empire, as seen at the Battle of Yavin or the Battle of Endor, most of the efforts of the Alliance take place under the guise of legitimate activity. For this reason, the Alliance has attracted not only freedom fighters but also outlaws, smugglers, and even pirates.
+
+The Rebel Alliance is loosely organized into cells that can operate relatively independently of Alliance command. Each cell operates on Imperial worlds or out of hidden bases, such as the base on Hoth. Any worlds that sympathize with the Alliance find themselves the targets of Imperial wrath. Alliance agents are always on the run from the Empire, and Rebels that are captured are dealt with swiftly and harshly.
+
+### Typical Rebel Alliance Soldier
+
+The standard infantry trooper of the Rebel Alliance/New Republic is a dedicated volunteer who believes in the cause. Many do not conform to the “mold,” as they left their former (non-military) lives to become soldiers in the battle against the Empire.
+
+Rebel Alliance Soldier: All stats are 1D+2 except: Dexterity 3D+2, blaster 5D+2, grenade 4D+2, Knowledge 1D, Strength 3D, brawling 4D, Technical 1D+2, demolitions 2D+2. Move: 10. Blaster pistol (4D), grenades (5D), macrobinoculars (+1D to search greater than 50 meters), comlink, blast vest (+1D physical, +1 energy).
+
+### Typical Rebel Pilot
+
+Like Rebel soldiers, most Alliance pilots gave up their former careers to fight the Empire on the front lines of the Galactic Civil War. These brave individuals receive little combat training before entering battle, so most have to rely on skills they learned before joining the Alliance.
+
+Rebel Pilot: All stats are 2D except: blaster 4D, dodge 3D, Knowledge 1D, planetary systems 2D+2, Mechanical 3D, starfighter piloting: X-wing 6D, starship gunnery 4D, Perception 1D+2, Strength 2D+2, computer programming/repair 3D. Move: 10. Blaster pistol(4D), comlink, sealed flight suit.
+
+## GALACTIC REPUBLIC
+
+Consisting of thousands of civilized worlds, the Galactic Republic is the oldest governing body in history. Senators from its constituent worlds determine policy and enact laws, ensuring that peace and prosperity reign throughout the galaxy.
+
+The greatest threat to the Galactic Republic is the Confederacy of Independent Systems, a coalition of worlds that believes the Republic has become corrupt. The Senate authorizes the deployment of a vast clone army to quell the Separatist threat, leading to the Clone Wars and ending with the destruction of the Separatist leadership and the dissolution of the Republic in favor of a new Empire.
+
+### Clone Trooper
+
+To counter the threat of the Trade Federation’s droid armies, the Republic deploys an army of cloned warriors. The clones’ creators, the Kaminoans, conceive the clones from a single genetic blueprint (that of the bounty hunter Jango Fett), making a few alterations to ensure the troopers’ rapid maturation and unwavering obedience. The true loyalty of the clone troopers is revealed at the end of the Clone Wars, when Darth Sidious issues Order 66 and turns the clones against the Jedi order.
+
+Although identical in appearance, clone troopers have different levels of training, which accounts for their varying levels of ability. Clone troopers can’t be bribed, blackmailed, or seduced. Any such attempt automatically fails.
+
+Clone Trooper: Dexterity 3D+1, blaster 4D+1, blaster artillery 3D+2, brawling parry 4D, dodge 4D+1, grenade 4D, Knowledge 2D, survival 3D, Mechanical 2D+1, Perception 3D, Strength 3D+1, brawling 4D, stamina 4D+2, Technical 2D. Move: 10. DC-15s Blaster Pistol (3D), DC-15 Blaster Rifle (5D+1), Clone Trooper Armor (+2D physical and +1D energy, increases Dexterity and related skills by +1D).
+
+### ARC Trooper
+
+The ARC Troopers are elite clone units that were personally trained by Jango Fett. Whereas most clone troopers are trained to work as a unit, ARC Troopers function well as individuals, making them even more formidable as foes.
+
+ARC Trooper: Dexterity 3D+2, blaster 8D+2, blaster (repeating blaster) 9D+1, brawling parry 5D+1, dodge 6D+1, grenade 5D+1, melee combat 5D+1, melee parry 5D+1, missile weapons 5D+1, Knowledge 2D+2, intimidation 4D+1, survival 5D+1, tactics 5D+2, Mechanical 3D+1, Perception 2D+1, command 5D, search 7D, search (tracking) 7D+1, Strength 3D+2, brawling 4D, climbing/jumping 5D+2, swimming 5D+1, Technical 2D+1, armor repair 3D, blaster repair 4D, computer programming/ repair 3D+2, demolition 4D+1, security 4D. Move: 10. Light repeating blaster (5D), comlink, 5 frag grenades (5D), ARC Trooper Armor (+1D physical and +2 energy, increases Dexterity and related skills by +1D).
+
+## THE FRINGE
+
+Fringers live at the edges of society. Criminals, independents, traders, and mercenaries of all kinds consider themselves fringers. While not all members of the fringe are criminals (certainly, many are hard-working and honest folk), anyone who operates far from the seat of galactic power or outside the bounds of the law can be considered part of the fringe.
+
+### Assassin
+
+An assassin usually maintains a cover that enables him to travel freely, yet also explains why he’s in a given location at a given time. Many assassins hold jobs as merchants, sales representatives for interstellar corporations, or diplomats. A truly villainous assassin has a “signature” consisting of a particular approach or some memento left with his victims.
+
+Assassin: Dexterity 3D, blaster 5D, dodge 5D, firearms 5D, Knowledge 2D, languages 3D, law enforcement 3D, streetwise 3D+2, survival 3D, willpower 3D+1, Mechanical 2D, repulsorlift operation 3D, Perception 3D, search 4D, sneak 4D+1, Strength
+
+[Página impressa 276 | PDF 278]
+
+2D, brawling 4D, climbing/jumping 4D, stamina 3D+2, Technical 2D. Move 10. Equipment varies widely.
+
+### Bounty Hunter
+
+Bounty hunters track and recover sentient beings to bring them to “justice” even if that’s little more than a Hutt’s personal vendetta. Before the Empire, most bounty hunters were members of a galaxy-wide guild that worked openly, taking contracts to hunt down criminals for various authorities. During the Emperor’s reign, the guild fragmented, leaving a large number of independent operatives. Though they occasionally band together to tackle particularly difficult targets, most of the time they work alone, vying against each other to collect the largest rewards. Bounty hunters differ from assassins in that they usually seek to capture their targets, not kill them.
+
+Bounty Hunter, Novice: All stats are 2D except: blaster 3D+2, dodge 3D+1, melee combat 3D+1, survival 2D+1, investigation 3D, sneak 3D, brawling 3D+2. Move: 10. Protective vest (+2 physical, +1 energy), heavy blaster pistol (5D), knife (STR+1D).
+
+Bounty Hunter, Veteran: All stats are 2D except: blaster 4D+2, dodge 4D+1, grenade 4D, melee combat 4D+2, melee parry 3D+1, streetwise 3D, survival 2D+2, investigation 3D+1, sneak 3D+2, brawling 3D+2, blaster repair 1D+2. Move: 10. Blast vest (+1D physical, +1 energy), heavy blaster pistol (5D), blaster rifle (5D), hold out blaster (3D), grenade (5D), knife (STR+1D).
+
+Bounty Hunter, Master: All stats are 2D except: blaster 6D, dodge 5D, grenade 4D, melee combat 4D+2, melee parry 3D+1, intimidation 3D, streetwise 3D, survival 2D+1, astrogation 4D, beast riding 2D, space transports 5D, starship gunnery 5D, starship shields 5D, investigation 4D, sneak 4D+2, brawling 5D+2, stamina 3D+2, armor repair 2D+1, blaster repair 2D+1. Move: 10. Bounty hunter armor (+2D physical, +1D energy, −1D Dexterity), 2 heavy blaster pistols (5D), blaster rifle (5D), hold out blaster (3D), thermal detonator (10D), vibroknife (STR+3D).
+
+### Enforcers
+
+Enforcers often began their careers as streetwise thugs, crawling up from the darkest, filthiest pits of the galaxy, to positions within the criminal underworld.
+
+Enforcer: Dexterity 2D+2, blaster 4D+2, brawling parry 4D+2, dodge 4D+1, melee combat 4D, melee parry 3D+2,
+
+Knowledge 1D+2, Mechanical 1D+2, Perception 1D+1, Strength 2D+2, brawling 4D+2, Technical 2D. Move 10. Blaster pistol (4D), vibroblade (STR+2D).
+
+### Haughty Smuggler
+
+Smugglers sneak their contraband past the watchful eyes of the authorities. They are often brash, very arrogant, largely due to the risky world that they live in.
+
+Smuggler: Dexterity 2D+1, blaster 4D, dodge 4D+1, Knowledge 1D+1, streetwise 4D+2, Mechanical 2D+2, astrogation 4D+2, space transports 5D+2, starship gunnery 4D+2, Perception 2D, bargain 2D+2, con 4D+1, Strength 2D, Technical 1D+1. Move 10. Heavy blaster pistol (5D).
+
+### Typical Merchant
+
+Merchants either maintain a shop in a spaceport or planet-side city, or else travel the galaxy plying their wares wherever there is demand. Most practice their business fairly, although some take every opportunity to exploit unwary buyers.
+
+Merchant: All stats are 2D except: streetwise 2D+2, repulsorlift operation 2D+1, bargain 4D, con 3D+2, persuasion 2D+2. Move: 10. Clothing, datapad (holding transaction records), 200 credits, various wares for sale.
+
+### Slick Gambler
+
+Gamblers are common sights at the local spaceport cantinas. They may be down-on-their-luck lowlifes, high-rollers, or even cheats. Gamblers are always after the next big score, which usually involves the player character’s pockets.
+
+Gambler: Dexterity 2D+2, Knowledge 2D, languages 2D+2, Mechanical 1D+1, Perception 3D, bargain 4D, con 4D+2, gambling 5D, hide 4D, Strength 1D+2, Technical 1D+1. Move: 10. Hold-out blaster (3D).
+
+### Thugs
+
+Thugs are street toughs aspiring to become swoop champions, grunts working for a local crime lord, security guards, or law enforcers prone to breaking heads and taking bribes.
+
+Thug: All stats are 2D except: blaster 2D+1, brawling parry 3D+2, dodge 2D+2, melee combat 3D, melee parry 2D+2, intimidation 3D+2, streetwise 3D+2, brawling 4D, lifting 3D, stamina 2D+2. Move: 10. Comlink, vibroblade (STR+1D), blast vest (+1D physical, +1 energy).

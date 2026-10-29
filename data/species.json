@@ -1,0 +1,4831 @@
+{
+ "id": "species",
+ "source": {
+  "chapter": 16,
+  "pages": [
+   278,
+   316
+  ],
+  "file": "raw-data/16-aliens.txt"
+ },
+ "notes": "Attribute ranges are minimum/maximum die codes. Player characters get 6D more attribute dice than the species value (rules/characters.md). Move is \"start/maximum\". special_skills / special_abilities / story_factors keep the book paragraphs verbatim. Nonhuman availability depends on the campaign era (see era notes in the chapter, p.280).",
+ "species": [
+  {
+   "id": "humans",
+   "name": "Humans",
+   "page": 278,
+   "homeworlds": "Various, including Coruscant, Corellia, Naboo, Tatooine, and Alderaan.",
+   "languages": "Humans speak, read, and write Basic. They often learn other languages as well, including obscure ones.",
+   "stat_blocks": [
+    {
+     "stat_block": "Humans",
+     "page": 279,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.5-2.0 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "republic-clone",
+   "name": "Republic Clone",
+   "page": 279,
+   "stat_blocks": [
+    {
+     "stat_block": "Republic Clone",
+     "page": 279,
+     "attribute_dice": "Add 2D to the stats below, without adding more than 2 pips to any single attribute.",
+     "move": "10/12",
+     "size": "1.83 meters tall",
+     "attributes": {
+      "dexterity": {
+       "fixed": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "fixed": {
+        "text": "2D+1",
+        "dice": 2,
+        "pips": 1
+       }
+      },
+      "mechanical": {
+       "fixed": {
+        "text": "2D+2",
+        "dice": 2,
+        "pips": 2
+       }
+      },
+      "perception": {
+       "fixed": {
+        "text": "2D+1",
+        "dice": 2,
+        "pips": 1
+       }
+      },
+      "strength": {
+       "fixed": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "fixed": {
+        "text": "2D+1",
+        "dice": 2,
+        "pips": 1
+       }
+      }
+     },
+     "special_abilities": [
+      "Military Training: All clones go through intensive military training throughout their formative years. At character creation only, clone characters receive an extra 2D to spend on military-related skills."
+     ],
+     "story_factors": [
+      "Obedient: Clones are conditioned to obey their superior’s orders without question, loyally following the chain of command.",
+      "Accelerated Growth: Clones age twice as fast as normal humans."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anzat",
+   "name": "Anzat",
+   "page": 280,
+   "homeworlds": "Anzati are native to Anzat, a mountainous world located in the Mid Rim.",
+   "languages": "Anzati speak Anzat, an ancient language known only to them.",
+   "stat_blocks": [
+    {
+     "stat_block": "Anzat",
+     "page": 280,
+     "attribute_dice": "14D",
+     "attribute_dice_value": {
+      "text": "14D",
+      "dice": 14,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.6-1.8 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "5D",
+        "dice": 5,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "5D",
+        "dice": 5,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Anzati Tracking: Anzati are able to sense the Force in others, and each is automatically considered Force-sensitive and possessing of the Sense Force skill. When tracking prey, Anzati oftentimes use Force powers such as Life Detection, Life Sense, Receptive Telepathy, Sense Force, and Sense Force Potential.",
+      "Long-lived: Anzati are practically immortal, and can live for eons.",
+      "Stealthy: Because they must secretly hunt sentient beings, Anzati have grown adept at maintaining their stealth and secrecy. This is reflected in a +1D bonus to their hide and sneak skills.",
+      "Vampires: The Anzati feed from living beings: for every turn spent feeding, 2 pips are subtracted from the victim’s Knowledge, Mechanical, Perception, and Technical attributes. If any one attribute is reduced to 0 or less, the victim dies. The damage to the attributes is permanent, and reduces skills accordingly."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aqualish",
+   "name": "Aqualish",
+   "page": 280,
+   "homeworlds": "Aqualish are native to Ando, a mountainous world located in the Mid Rim. The planet’s sky is covered in an aurora that has deep religious significance for the Anzati.",
+   "languages": "All three Aqualish subspecies speak mutually intelligible dialects of the same language, Aqualish.",
+   "stat_blocks": [
+    {
+     "stat_block": "Aqualish",
+     "page": 281,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "9/12 (walking), 5/7 (swimming, Aquala only)",
+     "size": "1.8-2 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Fins: Aqualish are born with the natural ability to swim. They receive a +2D bonus for all movement attempted in liquids. However, the lack of fingers on their hands decreases their Dexterity, and the Aqualish suffer a −2D penalty when using equipment that has not been specially designed for its fins.",
+      "Hands: The Quara and Ualaq do not receive the swimming bonus, but they are just as “at home” in the water. They also receive no penalties for Dexterity actions. The Ualaq are most likely to be encountered off-world."
+     ],
+     "story_factors": [
+      "Belligerence: Aqualish tend to be pushy and obnoxious, always looking for the opportunity to bully weaker beings. More intelligent Aqualish turn this belligerence into cunning and become manipulators."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "barabel",
+   "name": "Barabel",
+   "page": 281,
+   "homeworlds": "Barab I.",
+   "languages": "Barabel and those who have spent time off-world are likely to speak Basic.",
+   "stat_blocks": [
+    {
+     "stat_block": "Barabel",
+     "page": 281,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "11/14",
+     "size": "1.9-2.2 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "2D+1",
+        "dice": 2,
+        "pips": 1
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       },
+       "max": {
+        "text": "5D",
+        "dice": 5,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "2D+1",
+        "dice": 2,
+        "pips": 1
+       }
+      }
+     },
+     "special_abilities": [
+      "Natural Body Armor: The black scales of the Barabel act as armor, providing a +2D bonus against physical attacks, and a +1D bonus against energy attacks.",
+      "Radiation Resistance: Because of the proximity of their homeworld to its sun, the Barabel have evolved a natural resistance to most forms of radiation. They receive a +2D bonus when defending against the effects of radiation.",
+      "Vision: Barabels can see infrared radiation, giving them the ability to see in compete darkness, provided there are heat differentials in the environment."
+     ],
+     "story_factors": [
+      "Jedi Respect: Barabels have a deep respect for Jedi Knights, even though they have little aptitude for sensing the Force. They will almost always yield to the commands of a Jedi Knight (or a being that represents itself believably as a Jedi). Naturally, they are enemies of the enemies of Jedi (or those who impersonate Jedi).",
+      "Reputation: Barabels are reputed to be fierce warriors and great hunters, and they are often feared. Those who know of them almost always steer clear of them."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bith",
+   "name": "Bith",
+   "page": 282,
+   "homeworlds": "Bith originate from Clak’dor VII, a small planet in the Outer Rim that suffered heavily from the effects of biological warfare during a brief civil conflict. The inhabitants now reside in domed cities and rarely venture out of them onto the surface of the planet.",
+   "languages": "Bith speak and read Bith. Those who leave the confines of their cities learn Basic as well.",
+   "stat_blocks": [
+    {
+     "stat_block": "Bith",
+     "page": 282,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "5/8",
+     "size": "1.6-1.9 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "6D",
+        "dice": 6,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "5D",
+        "dice": 5,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "5D",
+        "dice": 5,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "5D",
+        "dice": 5,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Vision: Bith have the ability to focus on microscopic objects, giving them a +1D to Perception skills involving objects less than 30 centimeters away. However, as a consequence of this, the Bith have become extremely myopic. The suffer a penalty of −1D for any visual-based action more than 20 meters away and cannot see more than 40 meters under any circumstances.",
+      "Scent: Bith have well-developed senses of smell, giving them +1D to Perception skills when pertaining to actions and people within three meters.",
+      "Manual Dexterity: Although the Bith have low overall Dexterity scores, they do gain +1D to the performance of fine motor skills — picking pockets, surgery, fine tool operation, etc. — but not to gross motor skills such as blaster and dodge."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bothan",
+   "name": "Bothan",
+   "page": 282,
+   "homeworlds": "The industrial world of Bothawui, with various colony worlds throughout the Mid Rim Territories.",
+   "languages": "Bothans speak, read, and write Bothese and Basic.",
+   "stat_blocks": [
+    {
+     "stat_block": "Bothan",
+     "page": 283,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.3-1.8 meters",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       },
+       "max": {
+        "text": "5D",
+        "dice": 5,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "caamasi",
+   "name": "Caamasi",
+   "page": 283,
+   "homeworlds": "The Core World of Caamas, prior to its devastation. The few survivors, along with Caamasi who were off-world at the time, migrated to Kerilt in the Algara system and also",
+   "languages": "Caamasi speak, read, and write Caamasi and Basic.",
+   "stat_blocks": [
+    {
+     "stat_block": "Caamasi",
+     "page": 283,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.6-2.0 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Memory Sharing: Caamasi can store and share memories with others of their species. Force-users can also share memories with Caamasi, though this requires a successful use of either receptive telepathy (to receive a memory) or projective telepathy (to share a memory).",
+      "Wise and Tranquil: Due to their reputation for being peaceful and wise, Caamasi gain a +2 pip bonus to all bargain and persuasion rolls."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cathar",
+   "name": "Cathar",
+   "page": 283,
+   "homeworlds": "Prior to the Battle of Cathar, most hail from their Cathar itself. After the battle, Cathar find refuge on most any Republic world.",
+   "languages": "Cathar speak Catharese and Basic, using low growls and similar sounds to emphasize their point.",
+   "stat_blocks": [
+    {
+     "stat_block": "Cathar",
+     "page": 284,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "12/14",
+     "size": "1.6-1.8 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      }
+     },
+     "special_abilities": [
+      "Claws: Cathar have claws that do STR+1D damage."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cereans",
+   "name": "Cereans",
+   "page": 284,
+   "homeworlds": "The blissful planet Cerea.",
+   "languages": "Cereans speak, read, and write Cerean & Basic.",
+   "stat_blocks": [
+    {
+     "stat_block": "Cerean",
+     "page": 284,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "11/12",
+     "size": "1.8-.2.2 m",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+1",
+        "dice": 3,
+        "pips": 1
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Initiative Bonus: Due to outstanding cognitive speed, Cereans gain a +1D bonus to all initiative rolls.",
+      "Dual Hearts: Cereans can function with only one of these hearts, but the demands placed on their circulatory system by their binary brains are no laughing matter. A Cerean reduced to functioning on only one heart must sleep 2/3 of a given day to maintain his mental performance."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "chadra-fan",
+   "name": "Chadra-Fan",
+   "page": 284,
+   "homeworlds": "The Chadra-Fan are native to Chad, a world located in the region of the Outer Rim known as the Slice. Covered with extensive marshes and bayous, the planet has nine moons, which give the world a complex tidal cycle.",
+   "languages": "The Chadra-Fan language sounds substantially different from Basic, so those Chadra-Fan who speak Basic do so with a very squeaky tone.",
+   "stat_blocks": [
+    {
+     "stat_block": "Chadra-Fan",
+     "page": 285,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "5/7",
+     "size": "1 meter tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "2D+1",
+        "dice": 2,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "5D",
+        "dice": 5,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "2D+1",
+        "dice": 2,
+        "pips": 1
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Sight: The Chadra-Fan have the ability to see in the infrared and ultraviolet ranges, allowing them to see in all conditions short of absolute darkness.",
+      "Smell: The Chadra-Fan have extremely sensitive smelling which gives them a +2D bonus to their search skill."
+     ],
+     "story_factors": [
+      "Tinkerers: Any mechanical device left within reach of a Chadra-Fan has the potential to be disassembled and then reconstructed. However, it is not likely that the reconstructed device will have the same function as the original. Most droids will develop a pathological fear of Chadra-Fan."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "chiss",
+   "name": "Chiss",
+   "page": 285,
+   "homeworlds": "The frigid world of Csilla, in the Unknown Regions.",
+   "languages": "Cheunh is the complex and nuance-laden language of the Chiss. Most non-Chiss have difficulty learning the intricacies of Cheunh. Chiss, on the other hand, have little difficulty mastering Basic, but most of them are unfamiliar with it.",
+   "stat_blocks": [
+    {
+     "stat_block": "Chiss",
+     "page": 286,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.6 to 2.1 meters tall.",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Low Light Vision: Chiss can see twice as far as a normal human in poor lighting conditions. The gamemaster should allow Chiss characters to make the appropriate Perception-based skill checks at a lower difficulty than normal human characters.",
+      "Skill Bonuses: At the time of character creation only, Chiss characters gain 2D for every one die they assign to the tactics, command, and scholar: art skills.",
+      "Tactics: Chiss characters receive a permanent +1D bonus to all tactics skill rolls."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "defel",
+   "name": "Defel",
+   "page": 286,
+   "homeworlds": "Defel come from the planet Af’EI, which orbits the super-giant Ka’Dedus in the Outer Rim. The world receives few visitors because of its high gravity and its unusual atmosphere that blocks all but ultraviolet light.",
+   "languages": "Defel speak and read Defel. Adventurous Defel that leave the homeworld learn Basic.",
+   "stat_blocks": [
+    {
+     "stat_block": "Defel",
+     "page": 286,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/13",
+     "size": "1.1-1.5 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      }
+     },
+     "special_skills": [
+      "Dexterity Skills:",
+      "Blind Fighting: Time to use: one round. Defel can use this skill instead of their brawling or melee combat skills when deprived of their sight visors or otherwise rendered blind. Blind fighting teaches the Defel to use its senses of smell and hearing to overcome any blindness penalties."
+     ],
+     "special_abilities": [
+      "Invisibility: Defel receive a +3D bonus when using the sneak skill. Claws: The claws of the Defel can inflict STR+2D damage.",
+      "Light Blind: Defel eyes can only detect ultraviolet light, and the presence of any other light effectively blinds the Defel. Defel can wear special sight visors which block out all other light waves, allowing them to see, but if a Defel loses its visor, the difficulty of any task involving sight is increased by one level."
+     ],
+     "story_factors": [
+      "Reputation: Defel are considered to be a myth by most of the galaxy — therefore, when they are encountered, they are often thought to be supernatural beings. Most Defel in the galaxy enjoy taking advantage of this perception.",
+      "Overconfidence: Most Defel are comfortable knowing that, if they wish to hide, no one will be able to spot them. They often ignore surveillance equipment and characters who might have special perception abilities when they should not."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "devaronian",
+   "name": "Devaronian",
+   "page": 287,
+   "homeworlds": "Devaron, a world of low mountains and deep valleys linked by thousands of rivers.",
+   "languages": "Devaronians speak and read Devaronese and Basic. Their speech is guttural, and full of snarling consonants.",
+   "stat_blocks": [
+    {
+     "stat_block": "Devaronian",
+     "page": 287,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "8/10",
+     "size": "1.7-1.9 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      }
+     },
+     "story_factors": [
+      "Wanderlust: Devaronian males do not like to stay in one place for any extended period of time. Usually, the first opportunity that they get to move on, they take."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dug",
+   "name": "Dug",
+   "page": 287,
+   "homeworlds": "Malastare.",
+   "languages": "Dug and sometimes Basic.",
+   "stat_blocks": [
+    {
+     "stat_block": "Dug",
+     "page": 288,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "6/8",
+     "size": "1.2 m",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      }
+     },
+     "special_abilities": [
+      "Climbing/Jumping Bonus: Due to their physiology, Dugs gain a +1D bonus to their climbing/jumping skill.",
+      "Shout: Dugs can issue forth a deep bellow which can be heard up to 3 kilometers away."
+     ],
+     "story_factors": [
+      "Reputation: Dugs are known as bullies and thugs by most other sentient species’, and are almost universally disliked by non-Dugs. Many crimelords, however, employ them as assassins and henchmen."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "duros",
+   "name": "Duros",
+   "page": 288,
+   "homeworlds": "The orbiting cities of the Duro system.",
+   "languages": "Duros speak and are literate in Durese and Basic.",
+   "stat_blocks": [
+    {
+     "stat_block": "Duros",
+     "page": 288,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.8-2.2 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "2D+2",
+        "dice": 2,
+        "pips": 2
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Starship Intuition: Duros are, by their nature, extremely skilled starship pilots and navigators. When a Duros character is generated, 1D (no more) may be placed in the following skills, for which the character receives 2D of ability: archaic starship piloting, astrogation, capital ship gunnery, capital ship shields, sensors, space transports, starfighter piloting, starship gunnery, and starship shields. This bonus also applies to any specializations. If the character wishes to have more than 2D in the skill listed, then the skill costs are normal from there on."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ewok",
+   "name": "Ewok",
+   "page": 288,
+   "homeworlds": "The forest moon of Endor.",
+   "languages": "Ewoks speak Ewokese. They have no written form of their language. They can learn to speak Basic.",
+   "stat_blocks": [
+    {
+     "stat_block": "Ewok",
+     "page": 289,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "7/9",
+     "size": "1 meter tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "2D+2",
+        "dice": 2,
+        "pips": 2
+       }
+      }
+     },
+     "special_skills": [
+      "Dexterity skills:",
+      "Thrown weapons: bow, rocks, sling, spear: Time to use: one round. The character may take the base skill and/or any of the specializations.",
+      "Mechanical skills:",
+      "Glider: Time to use: one round. The ability to pilot gliders.",
+      "Technical skills:",
+      "Primitive construction: Time to use: one hour for gliders and rope bridges; several hours for small structures, catapults and similar constructs. This is the ability to build structures out of wood, vines and other natural materials with only primitive tools. This skill is good for building study houses, vine bridges and rock-hurling catapults (2D, speeder-scale damage)."
+     ],
+     "special_abilities": [
+      "Skill bonus: At the time the character is created only, the character gets 2D for every 1D placed in the hide, search and sneak skills. Skill limits: Beginning characters may not place any skill dice in any vehicle (other than glider) or starship operations or repair skills. Smell: Ewoks have a highly developed sense of smell, getting a +1D to their search skill when tracking by scent. This ability may not be improved."
+     ],
+     "story_factors": [
+      "Protectiveness: Most human adults will feel unusually protective of Ewoks, wanting to defend them like young children. Because of this, humans can also be very condescending to Ewoks. Ewoks, however, are mature and inquisitive — and unusually tolerant of the human attitude."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "falleen",
+   "name": "Falleen",
+   "page": 289,
+   "homeworlds": "The Falleen hail from a world of the same name in the Mid Rim.",
+   "languages": "Base and Falleen.",
+   "stat_blocks": [
+    {
+     "stat_block": "Falleen",
+     "page": 289,
+     "attribute_dice": "13D",
+     "attribute_dice_value": {
+      "text": "13D",
+      "dice": 13,
+      "pips": 0
+     },
+     "move": "9/12",
+     "size": "1.7-2.4 meters",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D+1",
+        "dice": 2,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "2D+1",
+        "dice": 2,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Attraction Pheromones: Exuding special pheromones and changing skin color to affect others gives Falleen a +1D to their persuasion skill, with an additional +1D for each hour of continuous preparation and meditation to enhance efforts — the bonus may total no more than +3D for any one skill attempt, and the attempt must be made within one hour of completing meditation.",
+      "Amphibious: Falleen can “breathe” water for up to 12 hours. They receive a +1D to any swimming skill rolls."
+     ],
+     "story_factors": [
+      "Rare: Falleen are rarely seen throughout the galaxy since the Imperial blockade in their system severely limited travel to and from their homeworld."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gamorrean",
+   "name": "Gamorrean",
+   "page": 290,
+   "homeworlds": "The pre-industrial world of Gamorr.",
+   "languages": "Gamorreans speak Gamorrean. They have no written version of the language. They can learn to understand but not speak other languages.",
+   "stat_blocks": [
+    {
+     "stat_block": "Gamorrean",
+     "page": 290,
+     "attribute_dice": "11D",
+     "attribute_dice_value": {
+      "text": "11D",
+      "dice": 11,
+      "pips": 0
+     },
+     "move": "7/10",
+     "size": "1.3-1.8 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       },
+       "max": {
+        "text": "5D",
+        "dice": 5,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       }
+      }
+     },
+     "special_abilities": [
+      "Voice Box: Due to their unusual voice apparatus, Gamorreans are unable to pronounce Basic, although they can understand it perfectly well.",
+      "Stamina: Gamorreans have great stamina — whenever asked to make a stamina check, if they fail the first check, they may immediately make a second check to succeed.",
+      "Skill Bonus: At the time the character is created only, the character gets 2D for every 1D placed in the melee weapons, brawling and thrown weapons skills."
+     ],
+     "story_factors": [
+      "Droid Hate: Most Gamorreans hate droids and other mechanical beings. During each scene in which a Gamorrean player character needlessly demolishes a droid (provided the gamemaster and other players consider the scene amusing), the character should receive an extra Character Point.",
+      "Reputation: Gamorreans are widely regarded as primitive, brutal and mindless. Gamorreans who attempt to show intelligent thought and manners will often be disregarded and ridiculed by fellow Gamorreans.",
+      "Slavery: Most Gamorreans who left Gamorr did so by being sold into slavery by their clans."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gand",
+   "name": "Gand",
+   "page": 290,
+   "homeworlds": "Gand come come from the poisonous world of Gand.",
+   "languages": "Geed lack the organs to speak any language other than Gand and, therefore, rely on transliterators to communicate in other tongues.",
+   "stat_blocks": [
+    {
+     "stat_block": "Gand",
+     "page": 291,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.6-1.9 meters",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "5D",
+        "dice": 5,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      }
+     },
+     "special_abilities": [
+      "Ammonia Breathers: Most Gand do not respire. However, there is a small number of Gand that are of older evolutionary stock and do respire in the traditional sense. These Gand are ammonia breathers and find other gases toxic to their respiratory system — including oxygen.",
+      "Exoskeleton: The ceremonial chemical baths of some findsmen initiations promote the growth of pronounced knobby bits on a Gand’s exoskeleton. The bits on a Gand’s arms or legs can be used as rough, serrated weapons in close-quarter combat and will do STR+1 damage when brawling.",
+      "Eye Shielding: Most Gand have a double layer of eye shielding. The first layer is composed of a transparent keratin-like substance: the Gand suffers no adverse effects from sandstorms or conditions with other airborne debris. The Gand’s second layer of eye protection is an exceptionally durable chitin that can endure substantial punishment. For calculating damage, this outer layer has the same Strength as the character.",
+      "Findsman Ceremonies: Gand use elaborate and arcane rituals to find",
+      "prey. Whenever a Gand uses a ritual (which takes at least three hours) he gains a +2D to track a target.",
+      "Mist Vision: Having evolved on a mist-enshrouded world, Gand receive a +2D advantage to Perception and relevant skills in environments obscured by smoke, fog, or other gases.",
+      "Natural Armor: Gand have limited clavicle armor about their shoulders and neck, which provides +2 physical protection to that region (they are immune to nerve or pressure point strikes to the neck or shoulders.)",
+      "Regeneration: Many Gand — particularly those who have remained on their homeworld or are of one of the very traditional sects — can regenerate lost limbs. Once a day, a Gand must make a Strength or stamina roll: a Very Difficult roll results in 20 percent regeneration; a Difficult roll will result in 10 percent regeneration, a Moderate roll will not assist a Gand’s accelerated healing process, and the character must wait until the next day to roll. Reserve Sleep: Most Gand need only a fraction of the sleep most living beings require. They can “store” sleep for times when being unconscious is not desirable. As such, the Gand need not make",
+      "stamina rolls with the same frequency as most characters for purposes of determining the effects of sleep-deprivation. Unless otherwise stated, this is an assumed trait in a Gand.",
+      "Ultraviolet Vision: Gand can see in the ultraviolet color spectrum."
+     ],
+     "story_factors": [
+      "Martial Arts: Some Gand are trained in a specialized form of combat",
+      "developed by a band of findsman centuries ago. The tenets of the art are complex and misunderstood, but the few that have been described. Two techniques are described below. There are believed to be many more.",
+      "“Piercing Touch” Description: The findsman can use his chitinous fist",
+      "to puncture highly durable substances and materials. Difficulty: Very Difficult Effect: If the character rolls successfully (and is not parried or dodged), the strike does STR+2D damage and can penetrate bone, chitin, and assorted armors.",
+      "“Striking Mist” Description: The findsman can sneak close enough to",
+      "an opponent to prevent the victim from dodging or parrying the blow. Difficulty: Difficult Effect: If the character rolls successfully, and rolls a successful sneak versus his opponent’s Perception, the findsman’s strike cannot be dodged or parried. The Gand must declare whether they are striking to injure or immobilize the victim prior to making the attempt."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geonosian",
+   "name": "Geonosian",
+   "page": 291,
+   "homeworlds": "The world of Geonosis.",
+   "languages": "Geonosians speak Geonosian, a strange clicking language. Aristocrat Geonosians often understand Basic Fluently, some even speak it.",
+   "stat_blocks": [
+    {
+     "stat_block": "Geonosian Worker",
+     "page": 292,
+     "attribute_dice": "11D",
+     "attribute_dice_value": {
+      "text": "11D",
+      "dice": 11,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.6 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      }
+     }
+    },
+    {
+     "stat_block": "Geonosian Aristocrat",
+     "page": 292,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12 (walk), 16 (flight)",
+     "size": "1.7 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+1",
+        "dice": 3,
+        "pips": 1
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Flight: Geonosian aristocrats have wings, and are able to fly.",
+      "Natural Armor: Due to their thick chitinous shells, Geonosian aristocrats gain a +2 pip bonus to Strength rolls made to resist any form of damage.",
+      "Radiation Resistance: Geonosians gain a +2 pip bonus to Strength rolls made to resist the effects of harmful radiation."
+     ],
+     "story_factors": [
+      "Caste-Driven Society: Geonosians are born into a caste-dominated society. Any Geonosian worker who wishes to leave the toils of his caste may do so by participating in gladiatorial combat, but at the very real risk of death. Geonosian aristocrats hold the power within their society, while the workers are considered more or less expendable."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "givin",
+   "name": "Givin",
+   "page": 292,
+   "homeworlds": "Givin are from the planet Yag’Duhl, located in the Inner Rim. Massive tidal forces constantly tug at the water and atmosphere of the planet, exposing areas to hard vacuum. The Givin reside inside sealed cities that are able to withstand the massive crush of tidal energy.",
+   "languages": "The Givin language is thick with mathematical terms, and the written language conveys information using hundreds of mathematical symbols. Individuals without a grounding in advanced mathematics find the species’ language almost incomprehensible.",
+   "stat_blocks": [
+    {
+     "stat_block": "Givin",
+     "page": 293,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "8/10",
+     "size": "1.7-2 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "2D+2",
+        "dice": 2,
+        "pips": 2
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       },
+       "max": {
+        "text": "5D",
+        "dice": 5,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Mathematical Aptitude: Givin receive a bonus of +2D when using skills involving mathematics, including astrogation. They can automatically solve most “Very Easy to Moderate” equations (gamemaster’s option.)",
+      "Vacuum Protection: Every Givin has built-in vacuum suit which will protect it from a vacuum or harsh elements. Add +2D to a Givin’s Strength or stamina rolls when resisting such extremes. For a Givin to survive for 24 standard hours in a complete vacuum, it must make an Easy roll, with the difficulty level increasing by one every hour thereafter.",
+      "Increased Consumption: Givin must eat at least three times the food a normal Human would consume or they lose the above protection. Roughly, a Givin must consume about nine kilograms of food over a 24 hour period to remain healthy."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gotal",
+   "name": "Gotal",
+   "page": 293,
+   "homeworlds": "Gotals come from the moon Antar IV, located in orbit around Antar in the Inner Rim.",
+   "languages": "Gotals speak Basic and Gotal. However, the form of Basic they speak is devoid of emotional context. The Gotal language is impossible for other species to learn, because so much of it relies on feedback relayed through their head cones.",
+   "stat_blocks": [
+    {
+     "stat_block": "Gotal",
+     "page": 293,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/15",
+     "size": "1.8-2.1 meters",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "5D",
+        "dice": 5,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "2D+1",
+        "dice": 2,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Energy Sensitivity: Because Gotals are unusually sensitive to radiation emissions, they receive a +3D to their search skill when hunting targets in wide open areas of up to 10 kilometers around them. In crowded areas, such as towns and cities, the bonus drops to +1D, and the range drops to less than one kilometer. In areas with intense radiation, they suffer a −1D penalty to search because their senses are overwhelmed by radiation static.",
+      "Mood Detection: By reading the auras and moods of others, Gotals receive a positive or negative bonus when engaging in interactive skills with other characters. The Gotals makes a moderate Perception check and adds the following bonus to his Perception skills when making opposed rolls for the rest of that encounter:",
+      "Rolls Misses Difficulty By/Penalty: 6+/−3D; 2-5/−2D; 1/−1D Roll Beats Difficulty By/Bonus: 0-7/1D; 8-14/2D; 15+/3D",
+      "Fast Initiative: Gotals who are not suffering from radiation static receive a +1D when rolling initiative against non-Gotal opponents. This is due to their ability to read the emotions and intentions of others."
+     ],
+     "story_factors": [
+      "Droid Hate: Gotals dislike droids because the emissions produced by droids overwhelm their special senses. They receive a −1D to all Perception-based skill rolls when within three meters of a droid. Reputation: Because of the Gotal’s reputation as being overly sensitive to moods and feelings, other species are uncomfortable dealing with them. Assign modifiers as appropriate."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gran",
+   "name": "Gran",
+   "page": 294,
+   "homeworlds": "Kinyen, with colonies on many other worlds, including Hok and Malastare.",
+   "languages": "Gran speak, read, and write Basic and Gran.",
+   "stat_blocks": [
+    {
+     "stat_block": "Gran",
+     "page": 294,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.1-1.8 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+1",
+        "dice": 3,
+        "pips": 1
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Vision: Grans’ unique combination of eyestalks gives them a larger spectrum of vision than other species. They can see well into the infrared range (no penalties in darkness), and gain a bonus of +1D to notice sudden movements."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gungan",
+   "name": "Gungan",
+   "page": 294,
+   "homeworlds": "Naboo.",
+   "languages": "Gungans speak, read, and write Gunganese and Basic.",
+   "stat_blocks": [
+    {
+     "stat_block": "Gungan",
+     "page": 294,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.6-2.0 meters",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      }
+     },
+     "special_abilities": [
+      "Swimming: Gungans receive a permanent +1D bonus to all swimming skill checks.",
+      "Good Hearing: Gungans receive a +2 pip bonus to all Perception, and search checks involving their sense of hearing."
+     ],
+     "story_factors": [
+      "No Respect: Gungans are not well respected in the galaxy. Most other species consider them the bad punch-line of a galactic joke, some species even project intense hate for this ridiculous species."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "herglic",
+   "name": "Herglic",
+   "page": 295,
+   "homeworlds": "Herglics originate on the Colonies Region world of Giju, a planet known for its deep oceans and lush islands.",
+   "languages": "All Herglics know Basic and Herglic. Widely traveled Herglics often learn up to a dozen different languages.",
+   "stat_blocks": [
+    {
+     "stat_block": "Herglic",
+     "page": 295,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "6/8",
+     "size": "1.7-2.2 meters",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       },
+       "max": {
+        "text": "5D",
+        "dice": 5,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      }
+     },
+     "special_abilities": [
+      "Natural Body Armor: The thick layer of blubber beneath the outer skin of a Herglic provides +1D resistance against physical attacks. It gives no bonus to energy attacks."
+     ],
+     "story_factors": [
+      "Gambling Frenzy: Herglics, when exposed to games of chance, find themselves irresistibly drawn to them. A Herglic who passes by a gambling game must make a Moderate willpower check to resist the powerful urge to play. They may be granted a bonus to their roll if it is critical or life-threatening for them to play."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hutt",
+   "name": "Hutt",
+   "page": 296,
+   "homeworlds": "Nal Hutta.",
+   "languages": "Huttese.",
+   "stat_blocks": [
+    {
+     "stat_block": "Hutt",
+     "page": 296,
+     "attribute_dice": "14D",
+     "attribute_dice_value": {
+      "text": "14D",
+      "dice": 14,
+      "pips": 0
+     },
+     "move": "0/4",
+     "size": "3 to 5 meters long",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "0D+1",
+        "dice": 0,
+        "pips": 1
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "5D",
+        "dice": 5,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "5D",
+        "dice": 5,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "5D",
+        "dice": 5,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Force Resistance: Hutts have an innate defense against Force-based",
+      "mind manipulation techniques and roll double their Perception dice to resist such attacks. However, because of this, Hutts are not believed to be able to learn Force skills."
+     ],
+     "story_factors": [
+      "Reputation: Hutts are almost universally despised, even by those who",
+      "find themselves benefiting from the Hutt’s activities. Were it not for the ring of protection with which the Hutts surround themselves, they would surely be exterminated within a few years.",
+      "Self-centered: Hutts cannot look “beyond themselves” (or their off",
+      "spring or parents) in their considerations. However, because they are master manipulators, they can compromise — “I’ll give him what he wants to get what I want.” They cannot be philanthropic without ulterior motives."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "iktotchi",
+   "name": "Iktotchi",
+   "page": 296,
+   "homeworlds": "Iktotchon.",
+   "languages": "Iktotchese.",
+   "stat_blocks": [
+    {
+     "stat_block": "Iktotchi",
+     "page": 296,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.6 to 2 meters tall.",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+1",
+        "dice": 3,
+        "pips": 1
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Piloting Bonus: At the time of character creation, Iktotchi characters gain a +1D bonus to archaic starship piloting, capital ship piloting, space transports, or starfighter piloting (choose one). In addition, they gain a +1D bonus to a related repair skill (archaic",
+      "starship repair, capital ship repair, space transports repair, or starfighter repair, depending on which piloting skill was chosen). Story Factors:",
+      "Precognition: All Iktotchi have a limited form of precognition. Most Iktotchi are unable to control when these visions manifest, and generally receive them as vivid dreams or daydreams. Force-sensitive Iktotchi who possess the farseeing force power gain a +3D bonus on both control and sense rolls when using that power."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ithorians",
+   "name": "Ithorians",
+   "page": 297,
+   "homeworlds": "Ithor, or a specific herd ship.",
+   "languages": "Ithorians speak stereophonic Ithorese and Basic.",
+   "stat_blocks": [
+    {
+     "stat_block": "Ithorian",
+     "page": 297,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.8-2.3 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "2D+2",
+        "dice": 2,
+        "pips": 2
+       },
+       "max": {
+        "text": "5D",
+        "dice": 5,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "2D+1",
+        "dice": 2,
+        "pips": 1
+       }
+      }
+     },
+     "special_skills": [
+      "Knowledge Skills:",
+      "Agriculture: Time to use: at least one standard week. The character has a good working knowledge of crops and animal herds, and can suggest appropriate crops for a type of soil, or explain why crop yields have been affected.",
+      "Ecology: Time to use: at least one standard month. The character has a good working knowledge of the interdependent nature of ecoshperes, and can determine how proposed changes will affect the sphere. This skill can be used in one minute to determine the probable role of a life form within it biosphere: predator, prey, symbiote, parasite or some other quick description of its ecological niche."
+     ],
+     "story_factors": [
+      "Herd Ships: Many Ithorians come from herd ships, which fly from planet to planet trading goods. Any character from one of these worlds is likely to meet someone that they have met before if adventuring in a civilized portion of the galaxy."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jawa",
+   "name": "Jawa",
+   "page": 297,
+   "homeworlds": "Jason are found almost exclusively on Tatooine.",
+   "languages": "The Jawa tongue is a complex language that involves as much gesture and smells as it does sounds. Lacking the organ to form words in Basic, and confronted with the fact that other races cannot speak Jawa, they developed a shorthand speech called Jawa Trade language. It essentially simplifies their tongue to aid trading between themselves and non-Jawas.",
+   "stat_blocks": [
+    {
+     "stat_block": "Jawa",
+     "page": 298,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "8/10",
+     "size": "0.8-1.2 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+1",
+        "dice": 3,
+        "pips": 1
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "2D+2",
+        "dice": 2,
+        "pips": 2
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      }
+     },
+     "special_abilities": [
+      "Technical Aptitude: At the time of character creation only, Jawa characters receive 2D for every 1D they place in repair-oriented Technical skills."
+     ],
+     "story_factors": [
+      "Trade Language: Jawas have developed a very flexible trade language which is more intelligible to other species — when Jawas want it to be intelligible."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kaminoan",
+   "name": "Kaminoan",
+   "page": 298,
+   "homeworlds": "Kamino.",
+   "languages": "Kaminoan and Basic.",
+   "stat_blocks": [
+    {
+     "stat_block": "Kaminoan",
+     "page": 298,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "2.3-2.6 meters",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+1",
+        "dice": 3,
+        "pips": 1
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      }
+     },
+     "special_abilities": [
+      "Hardy: Due to their innate hardiness, Kaminoans gain a permanent +2 pip bonus to survival and stamina skill checks."
+     ],
+     "story_factors": [
+      "Cloners: Kaminoans are known as clone technicians. Kaminoans turned to cloning early in their history, to better assist in the survival of their species."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kel-dor",
+   "name": "Kel Dor",
+   "page": 298,
+   "homeworlds": "The technological planet of Dorin.",
+   "languages": "The Kel Dor speak, read, and write Kel Dor and Basic.",
+   "stat_blocks": [
+    {
+     "stat_block": "Kel Dor",
+     "page": 299,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.6 to 2 meters tall.",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Low Light Vision: Kel Dor can see twice as far as a normal human in poor lighting conditions. The gamemaster should allow Kel Dor characters to make the appropriate Perception-based skill checks at a lower difficulty than normal human characters."
+     ],
+     "story_factors": [
+      "Atmospheric Dependence: Kel Dor cannot survive without their native atmosphere, and must wear breath masks and protective eye wear. Without a breath mask and protective goggles, a Kel Dor will be blind within 5 rounds and must make a Moderate Strength or stamina check to remain conscious. Each round thereafter, the difficulty increases by +3. Once unconscious, the Kel Dor will take one level of damage per round unless returned to his native atmosphere."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mon-calamari",
+   "name": "Mon Calamari",
+   "page": 299,
+   "homeworlds": "The watery world of Mon Calamari.",
+   "languages": "The Mon Calamari speak, read, and write Mon Calamarian and Basic. They tend to learn Quarrenese as well.",
+   "stat_blocks": [
+    {
+     "stat_block": "Mon Calamari",
+     "page": 299,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "9/12 (walking); 8/10 (swimming)",
+     "size": "1.3-1.8 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+1",
+        "dice": 3,
+        "pips": 1
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "3D+1",
+        "dice": 3,
+        "pips": 1
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Moist Environments: When in moist environments, Mon Calamari receive a +1D bonus for all Dexterity, Perception, and Strength attribute and skill checks. This is only a psychological advantage. Dry Environments: When in very dry environments, Mon Calamari seem depressed and withdrawn. They suffer a −1D penalty for all Dexterity, Perception, and Strength attribute and skill checks. Again, this is psychological only.",
+      "Aquatic: Mon Calamari can breathe both air and water and can withstand the extreme pressures found in ocean depths."
+     ],
+     "story_factors": [
+      "Enslaved: Prior to the Battle of Endor, most Mon Calamari not directly allied with the Rebel Alliance were enslaved by the Empire and in labor camps. Imperial officials have placed a high priority on the capture of any “free” Mon Calamari due to their resistance against the Empire. Theirs was one of the first systems to declare their support for the Rebellion."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nautolans",
+   "name": "Nautolans",
+   "page": 299,
+   "homeworlds": "Glee Anselm.",
+   "languages": "Nautila.",
+   "stat_blocks": [
+    {
+     "stat_block": "Nautolan",
+     "page": 300,
+     "attribute_dice": "11D",
+     "attribute_dice_value": {
+      "text": "11D",
+      "dice": 11,
+      "pips": 0
+     },
+     "move": "10/12 (swimming and walking)",
+     "size": "1.8-2 meters",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+1",
+        "dice": 3,
+        "pips": 1
+       }
+      }
+     },
+     "special_abilities": [
+      "Good Swimmers: Nautolans, being amphibious, gain a permanent +1D bonus to all swimming skill rolls.",
+      "Low-light Vision: A Nautolan can see twice as far as a normal human in poor lighting conditions. The gamemaster should allow Nautolan characters to make the appropriate Perception-based skill checks at a lower difficulty than normal human characters.",
+      "Pheromone Detection: Nautolans possess tendrils which act as their major sensory organs, and they barely function outside of water. The tendrils are so sensitive that they can sense odors and pheromones, which can allow an observant Nautolan some idea of a target’s emotional state. Because of this, Nautolans gain a +1D bonus to all skills rolls involving interpersonal relations (ie, bargain, command, con, intimidation, investigation, or persuasion) when in water. When outside of water, this bonus is reduced to a mere +1 pip."
+     ],
+     "story_factors": [
+      "Language: The Nautolan language is only fully pronounceable when the speaker is under water."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "quarren",
+   "name": "Quarren",
+   "page": 300,
+   "homeworlds": "The watery planet Mon Calamari.",
+   "languages": "Quarren speak, read, and write Quarrenese and Basic. They tend to learn Mon Calamarian as well.",
+   "stat_blocks": [
+    {
+     "stat_block": "Quarren",
+     "page": 300,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "9/12",
+     "size": "1.4-1.9 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "5D",
+        "dice": 5,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Aquatic Survival: At character creation only, characters may place 1D of skill dice in swimming and survival: aquatic and receive +2D in the skill.",
+      "Aquatic: Quarren can breathe both air and water and can withstand extreme pressures found in ocean depths."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rodians",
+   "name": "Rodians",
+   "page": 300,
+   "homeworlds": "The industrial world of Rodia.",
+   "languages": "Rodians speak, read, and write Rodese and Basic, but many learn to speak Huttese as well.",
+   "stat_blocks": [
+    {
+     "stat_block": "Rodian",
+     "page": 301,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.5-1.7 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "2D+2",
+        "dice": 2,
+        "pips": 2
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "2D+1",
+        "dice": 2,
+        "pips": 1
+       }
+      }
+     },
+     "story_factors": [
+      "Reputation: Rodians are notorious for their tenacity and their eagerness to kill intelligent beings for the sake of a few credits. Certain factions of galactic civilization (most notably criminal organizations, authoritarian/dictatorial planetary governments and the Empire) find Rodians to be indispensable employees, despite the fact that they are almost universally distrusted by other species. Whenever an unfamiliar Rodian is encountered, most other beings assume that it is involved in a hunt, and give the alien a wide berth."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sullustans",
+   "name": "Sullustans",
+   "page": 301,
+   "homeworlds": "The volcanic, technological world Sullust.",
+   "languages": "Sullustans speak, read, and write Sullustese and Basic.",
+   "stat_blocks": [
+    {
+     "stat_block": "Sullustan",
+     "page": 301,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1-1.8 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "2D+2",
+        "dice": 2,
+        "pips": 2
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+1",
+        "dice": 3,
+        "pips": 1
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "2D+2",
+        "dice": 2,
+        "pips": 2
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      }
+     },
+     "special_abilities": [
+      "Enhanced Senses: Sullustans have advanced hearing and vision. Whenever they make Perception or search checks involving vision in low-light conditions or hearing, they receive a +2D bonus.",
+      "Location Sense: Once a Sullustan has visited an area, he always remembers how to return to the area — he cannot get lost in a place that he has visited before. This is automatic and requires no die roll. When using the astrogation skill to jump to a place a Sullustan has been, the astrogator receives a bonus of +1D to his (or her) die roll."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "talz",
+   "name": "Talz",
+   "page": 301,
+   "homeworlds": "Alzoc Ill, a frozen world in the Outer Rim system of Alzoc.",
+   "languages": "Talz speak their own language of buzzing and chirping sounds.",
+   "stat_blocks": [
+    {
+     "stat_block": "Talz",
+     "page": 302,
+     "attribute_dice": "11D",
+     "attribute_dice_value": {
+      "text": "11D",
+      "dice": 11,
+      "pips": 0
+     },
+     "move": "8/10",
+     "size": "2-2.2 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D+1",
+        "dice": 2,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "2D+2",
+        "dice": 2,
+        "pips": 2
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      }
+     },
+     "story_factors": [
+      "Enslavement: One of the few subjects which will drive a Talz to anger is that of the enslavement of their people. If a Talz has a cause that drives its personality, that cause is most likely the emancipation of its people."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "togruta",
+   "name": "Togruta",
+   "page": 302,
+   "homeworlds": "Shill in the Expansion Region, a planet featuring small communities within dense forests and hidden valleys.",
+   "languages": "Togruta speak Basic and Togruti",
+   "stat_blocks": [
+    {
+     "stat_block": "Togruta",
+     "page": 302,
+     "attribute_dice": "13D",
+     "attribute_dice_value": {
+      "text": "13D",
+      "dice": 13,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.7-1.9 meters",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Camouflage: Togruta characters possess colorful skin patterns which help them blend in with natural surroundings (much like the stripes of a tiger). This provides them with a +2 pip bonus to sneak skill checks.",
+      "Spatial Awareness: Using a form of passive echolocation, Togruta can sense their surroundings. If unable to see, a Togruta character can attempt a Moderate search skill check. Success allows the Togruta to perceive incoming attacks and react accordingly by making defensive rolls."
+     ],
+     "story_factors": [
+      "Believed to be Venomous: Although they are not poisonous, it is a common misconception by other species that Togruta are venomous.",
+      "Group Oriented: Togruta work well in large groups, and individualism is seen as abnormal within their culture. When working as part of a team to accomplish a goal, Togruta characters are twice as effective as normal characters (i.e., they contribute a +2 pip bonus instead of a +1 pip bonus when aiding in a combined action; see the rules for Combined Actions."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trandoshans",
+   "name": "Trandoshans",
+   "page": 302,
+   "homeworlds": "Trandosha.",
+   "languages": "Trandoshans speak Dosh and often Basic.",
+   "stat_blocks": [
+    {
+     "stat_block": "Trandoshan",
+     "page": 303,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "8-10",
+     "size": "1.9-2.4 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+1",
+        "dice": 3,
+        "pips": 1
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "2D+2",
+        "dice": 2,
+        "pips": 2
+       }
+      }
+     },
+     "special_abilities": [
+      "Vision: Trandoshans’ vision includes the ability to see in the infrared spectrum. They can see in darkness with no penalty, provided there are heat sources.",
+      "Clumsy: Trandoshans have poor manual dexterity. They have considerable difficulty performing actions which require precise finger movement and they suffer a penalty of −2D whenever they attempt an action of this kind. In addition, they also have some difficulty using weaponry that requires a substantially smaller finger such as blasters and blaster rifles; most weapons used by Trandoshans have had their finger guards removed or redesigned to allow for the Trandoshan’s use.",
+      "Regeneration: Younger Trandoshans can regenerate lost limbs (fingers, arms, legs and feet). This ability disappears as the Trandoshan ages. Once per day, the Trandoshan must make a Moderate Strength or stamina roll. Success means that the limb regenerates by ten percent. Failure indicates that the regeneration does not occur."
+     ],
+     "story_factors": [
+      "Wookiee Hate: The long-standing feud between the Wookiees of Kashyyyk and the Trandoshans is deeply ingrained in both species. When encountering Wookiees or known Wookiee associates, Trandoshans must make a Moderate willpower check to keep from attacking.",
+      "Hostility: The Trandoshans are known as a belligerent species. They gain +1D to all intimidation rolls against non-Trandoshans."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "twi-leks",
+   "name": "Twi’Leks",
+   "page": 303,
+   "homeworlds": "Ryloth.",
+   "languages": "Twi’leks speak, read, and write Ryl and Basic. They can also communicate with one another using their lekku. Some also learn Huttese.",
+   "stat_blocks": [
+    {
+     "stat_block": "Twi’Lek",
+     "page": 303,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.6-2.0 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+2",
+        "dice": 4,
+        "pips": 2
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Tentacles: Twi’leks can use their tentacles to communicate in secret with each other, even if in a room full of individuals. The complex movement of the tentacles is, in a sense, a “secret” language that all Twi’leks are fluent in.",
+      "Skill Bonus: At the time the character is generated only, the character receives 2D for every 1D placed in the persuasion skill. Story Factors:",
+      "Slavery: Slavery is so ingrained as the main trade of Ryloth, that most Twi'leks are generally thought to be either a slave or consort of some kind, and often treated as second class citizens, this is especially true in Hutt space."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "umbaran",
+   "name": "Umbaran",
+   "page": 303,
+   "homeworlds": "Umbarans originate from the isolated, dark world of Umbara on the Outer Rim.",
+   "languages": "Basic and Umbarese.",
+   "stat_blocks": [
+    {
+     "stat_block": "Umbaran",
+     "page": 304,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.5-2 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D+1",
+        "dice": 4,
+        "pips": 1
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Darkvision: Umbarans can see in the dark up to 20 meters. Darkvision is black and white only but otherwise functions as normal light. Low-Light Vision: Umbarans gain 1D in low lighting conditions (exact conditions at gamemaster discretion), and retain the ability to distinguish color and detail under these conditions.",
+      "Light Sensitivity: Abrupt exposure to bright light (sunlight) blinds Umbarans for 1 round. In addition, they suffer a −1 pip penalty while operating in bright light without protective eye wear.",
+      "Perceptive: Umbaran gain a +2 bonus to Perception against con and bargain rolls."
+     ],
+     "story_factors": [
+      "Influence: In situations where a character’s reputation can be a factor, Umbarans gain a +2 pip bonus to con, bargain, persuasion, investigation and intimidation rolls."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "verpine",
+   "name": "Verpine",
+   "page": 304,
+   "homeworlds": "The Verpine’s largest settlement is the Roche asteroid field, located in the Mid Rim. Verpine rely extensively on technology to make the asteroids habitable.",
+   "languages": "Verpine read, speak, and write Verpine, which they transmit to each other through organically generated radio waves.",
+   "stat_blocks": [
+    {
+     "stat_block": "Verpine",
+     "page": 305,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/13",
+     "size": "1.7-2.2 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D+2",
+        "dice": 1,
+        "pips": 2
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D",
+        "dice": 3,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Microscopic Sight: +1D to search for small objects, due to their highly evolved eyes.",
+      "Body Armor: The Verpine’s natural chitinous plate armor gives them a +1D bonus against physical attacks.",
+      "Organic Telecommunication: Because Verpine can send and receive radio waves through their antenna, they have the ability to communicate with other members of their species with specially-tuned comlinks. The range is very limited when they are activating individually (1 km) but greatly increases when in the hive (covers the entire Roche asteroid field).",
+      "Technical Bonus: All Verpine receive a +2D bonus when using their Technical skills."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "weequay",
+   "name": "Weequay",
+   "page": 305,
+   "homeworlds": "The arid planet of Sriluur in the Outer Rim.",
+   "languages": "A Weequay relies on pheromones to communicate with other members of his or her tribe. Communication between tribes involves the spoken language of Sriluurian, which consists of whispers, hisses, and throaty mumbles. Written Sriluurian involves a multitude of complex hiero-glyphics and pictograms.",
+   "stat_blocks": [
+    {
+     "stat_block": "Weequay",
+     "page": 305,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.6-1.9 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+1",
+        "dice": 3,
+        "pips": 1
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "2D",
+        "dice": 2,
+        "pips": 0
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      }
+     },
+     "special_abilities": [
+      "Short-Range Communication: Weequays of the same clan are capable of communicating with one another through complex pheromones. Aside from Jedi sensing abilities, no other species are known to be able to sense this form of communication. This form is as complex and clear to them as speech is to other species."
+     ],
+     "story_factors": [
+      "Houk Rivalry: Though the recent Houk-Weequay conflicts have been officially resolved, there still exists a high degree of animosity between the two species."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wookiees",
+   "name": "Wookiees",
+   "page": 306,
+   "homeworlds": "The forest world of Kashyyyk.",
+   "languages": "Wookiees speak Shyriiwook, consisting of complex grunts and growls. They understand Basic but lack the ability to speak it.",
+   "stat_blocks": [
+    {
+     "stat_block": "Wookiee",
+     "page": 306,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "11/15",
+     "size": "2-2.3 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "2D+1",
+        "dice": 2,
+        "pips": 1
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "2D+1",
+        "dice": 2,
+        "pips": 1
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "2D+2",
+        "dice": 2,
+        "pips": 2
+       },
+       "max": {
+        "text": "6D",
+        "dice": 6,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+1",
+        "dice": 3,
+        "pips": 1
+       }
+      }
+     },
+     "special_abilities": [
+      "Berserker Rage: If a Wookiee becomes enraged (the character must believe himself of those to whom he has pledged a life debt to be in immediate, deadly danger) the character gets a +2D bonus to Strength for purposes of causing damage while brawling (the character’s brawling skill is not increased). The character also suffers a −2D penalty to all non-Strength attribute and skill checks.",
+      "When trying to calm down from a berserker rage while enemies are still present, the Wookiee must make a Moderate Perception total. The Wookiee suffers a −1D penalty to Perception and rolls a minimum of 1D for the check (therefore, while most Wookiees are enraged, the will normally have to roll a “6” with their Wild Die to be able to calm down). Please note that this applies to enemies. Close friends of the Wookiee can coordinate with the Wookiee to make this easier.",
+      "After all enemies have been eliminated (knocked unconscious, captured, killed or somehow otherwise restrained or stopped), the character must only make an Easy Perception total (with no penalties) to calm down.",
+      "Wookiee player characters must be careful when using Force points while in a berserker rage. Since the rage is clearly based on anger and aggression, using Force Points will almost always lead to the character getting a Dark Side Point. The use of the Force Point must be wholly justified not to incur a Dark Side Point.",
+      "Climbing Claws: Wookiees have retractable climbing claws which are used for climbing only. They add +2D to their climbing skill while using the claws. Any Wookiee who intentionally uses his claws in",
+      "hand-to-hand combat is automatically considered dishonorable by other members of his species, possibly to be hunted down — regardless of the circumstances."
+     ],
+     "story_factors": [
+      "Reputation: Wookiees are widely regarded as fierce savages with short tempers. Most people will go out of their way not to enrage a Wookiee.",
+      "Enslaved: Prior to the defeat of the Empire, almost all Wookiees were enslaved by the Empire, and there was a substantial bounty for the capture of “free” Wookiees.",
+      "Language: Wookiees cannot speak Basic, but they all understand it. Nearly always, they have a close friend who they travel with who can interpret for them... though a Wookiee’s intent is seldom misunderstood.",
+      "Honor: Wookiees are honor-bound. They are fierce warriors with a great deal of pride and they can be rage-driven, cruel and unfair — but they have a code of honor. They do not betray their species or desert a friend. They may break the “law”, but never their code. The Wookiee Code of Honor is as stringent as it is ancient. Atonement for a crime against Honor is nearly impossible — it is usually only achieved posthumously. But Wookiees falsely accused can be freed of their dishonor, and there are legends of dishonored Wookiees “coming back”. But those are legends..."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "yuuzhan-vong",
+   "name": "Yuuzhan Vong",
+   "page": 306,
+   "homeworlds": "Unknown. The Yuuzhan Vong trace their origins to a place far beyond the known galaxy. At the end of the New Jedi Order era, the surviving Yuuzhan Vong are exiled to Zonama Sekot, a living planet rumored to be the seed of the original Yuuzhan Vong homeworld. Zonama Sekot retreats into the Unknown Regions at the beginning of the Sith-Imperial War, leaving a number of Yuuzhan Vong stranded in other remote corners of the galaxy.",
+   "languages": "The language of the Yuuzhan Vong is a halting, chilling tongue. Yuuzhan Vong rarely learn other languages, relying on bioengineered translators known as tizowyrms to translate for them.",
+   "stat_blocks": [
+    {
+     "stat_block": "Yuuzhan Vong",
+     "page": 307,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.9-2.2 meters",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "2D+2",
+        "dice": 2,
+        "pips": 2
+       },
+       "max": {
+        "text": "5D+1",
+        "dice": 5,
+        "pips": 1
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D",
+        "dice": 1,
+        "pips": 0
+       },
+       "max": {
+        "text": "3D+2",
+        "dice": 3,
+        "pips": 2
+       }
+      }
+     },
+     "special_abilities": [
+      "Force Immunity: Yuuzhan Vong are immune to all Force powers that involve sense or alter."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "zabrak",
+   "name": "Zabrak",
+   "page": 307,
+   "homeworlds": "Iridonia or one of eight colonies in the Mid Rim region of space.",
+   "languages": "Zabrak speak, read, and write Zabrak and Basic.",
+   "stat_blocks": [
+    {
+     "stat_block": "Zabrak",
+     "page": 307,
+     "attribute_dice": "12D",
+     "attribute_dice_value": {
+      "text": "12D",
+      "dice": 12,
+      "pips": 0
+     },
+     "move": "10/12",
+     "size": "1.6 to 2.1 meters tall",
+     "attributes": {
+      "dexterity": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "knowledge": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "mechanical": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "perception": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "strength": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      },
+      "technical": {
+       "min": {
+        "text": "1D+1",
+        "dice": 1,
+        "pips": 1
+       },
+       "max": {
+        "text": "4D",
+        "dice": 4,
+        "pips": 0
+       }
+      }
+     },
+     "special_abilities": [
+      "Hardiness: Zabrak characters who are from the harsh would of Iridonia gain a +1D bonus to willpower and stamina skill checks."
+     ]
+    }
+   ]
+  }
+ ]
+}

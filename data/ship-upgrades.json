@@ -1,0 +1,414 @@
+{
+ "id": "ship-upgrades",
+ "source": {
+  "chapter": 21,
+  "file": "raw-data/21-starships.txt",
+  "pages": [
+   447,
+   452
+  ]
+ },
+ "notes": "Replacement systems for freighters and space transports (capital ships and starfighters are rarely modified). Every system weighs something, subtracted from cargo capacity. Costs exclude installation. Linking up to three identical weapons: computer link about 100 credits per weapon, +1D damage for two, +2D for three. Weapons need a fee (about 30% of price) and an Imperial or Republic permit; turbolasers are illegal on private vessels.",
+ "systems": [
+  {
+   "id": "starscream-9-ion-drive",
+   "name": "STARSCREAM-9 ION DRIVE",
+   "section": "Replacement Drives",
+   "page": 447,
+   "model": "Sienar Fleet Systems’ Starscream-9 Ion Drive",
+   "type": "Military ion engine",
+   "cost": "500,000 credits plus installation costs",
+   "weight": "24 metric tons",
+   "availability": "X",
+   "game_notes": "The Starscream-9 is a military ion drive, originally designed for use in starfighters. They are available (for monstrous costs) on the black market. They have a Space rating of 12 (atmosphere of 450; 1,300 kmh). Possession of such a drive is a serious infraction in Imperial space. Because of the cutting edge technology in this drive, double all difficulties for modifying this drive and double all modifiers when rolling for mishaps.",
+   "cost_credits": 500000
+  },
+  {
+   "id": "sorosuub-boav-ion-drive",
+   "name": "SOROSUUB BOAV ION DRIVE",
+   "section": "Replacement Drives",
+   "page": 447,
+   "model": "SoroSuub Boav Ion Drive",
+   "type": "Commercial propulsion system",
+   "cost": "10,000 plus installation costs",
+   "weight": "10 metric tons",
+   "availability": "2",
+   "game_notes": "Space rating of 4. Technicians installing a Boav unit will face an increase of one difficulty level in their space transports repair roll.",
+   "cost_credits": 10000
+  },
+  {
+   "id": "incom-starslinger-ion-drive",
+   "name": "INCOM STARSLINGER ION DRIVE",
+   "section": "Replacement Drives",
+   "page": 447,
+   "model": "Incom Starslinger Ion Drive",
+   "type": "Commercial propulsion system",
+   "cost": "20,000 plus installation costs",
+   "weight": "12 metric tons",
+   "availability": "F",
+   "game_notes": "Space rating of 6. Requires a 500 credits Imperial permit. Double all difficulties for modifying this drive and double all modifiers when rolling for mishaps beyond a +1 modification.",
+   "cost_credits": 20000
+  },
+  {
+   "id": "corellian-evader-gt-ion-drive",
+   "name": "CORELLIAN EVADER-GT ION DRIVE",
+   "section": "Replacement Drives",
+   "page": 447,
+   "model": "Corellian Evader-GT Ion Drive",
+   "type": "Commercial propulsion system",
+   "cost": "50,000 plus installation costs",
+   "weight": "16 metric tons",
+   "availability": "F",
+   "game_notes": "The Evader-GT Ion Drive is a scaled-down version of a military ion drive. They are available on the open market, but require a 5,000 credit Imperial permit to legally possess. They give a vessel a Space rating of 8. Double all difficulties for modifying this drive and double ail modifiers when rolling for mishaps beyond a +1 modification.",
+   "cost_credits": 50000
+  },
+  {
+   "id": "boshaa-c-hi-ion-drive",
+   "name": "BOSHAA-C’HI ION DRIVE",
+   "section": "Replacement Drives",
+   "page": 447,
+   "model": "Kuat Drive Yards’ Boshaa-C’hi Ion Drive",
+   "type": "Military ion engine",
+   "cost": "100,000 plus installation costs",
+   "weight": "18 metric tons",
+   "availability": "X",
+   "game_notes": "The Boshaa is an older model of a military ion drive. originally designed for use in starfighters. They are available on the black market. They give a vessel a Space rating of 10. Possession of such a drive is a serious infraction in Imperial space. Double ail difficulties for modifying this drive and double all modifiers when rolling for mishaps.",
+   "cost_credits": 100000
+  },
+  {
+   "id": "baffled-drive",
+   "name": "BAFFLED DRIVE",
+   "section": "Our Worries Are Over...",
+   "page": 449,
+   "model": "Rendili StarDrive WhisperThrust",
+   "type": "Baffled realspace drive",
+   "scale": "Starfighter",
+   "cost": "100,000 minimum on the black market",
+   "weight": "20 metric tons; extra tank: 2 metric tons",
+   "availability": "4, X",
+   "game_notes": "The Whisper is a highly illegal baffled realspace drive used on stealthy military starships. The Whisper allows a ship to move in space while running silent at a base speed of 2. Cautious movement is no more detectable than drifting; Cruise movement adds +5 to the sensor operator’s roll; High Speed adds +10; All-Out movement adds +15. A WhisperThrust engine has a limited storage capacity for the necessary gases to move: enough to move 100 spacial units. An extra or replacement tank costs 7,000 credits. Synthesizing the necessary fuel requires 120 liters of spin-sealed tibanna gas and 2 kilos of high-grade hyperbarides and a standard power generator. The fuel refining process takes roughly three standard days.",
+   "cost_credits": 100000
+  },
+  {
+   "id": "1-hyperdrive",
+   "name": "×1 HYPERDRIVE",
+   "section": "Replacement Hyperdrives",
+   "page": 449,
+   "model": "SoroSuub Griffyn-XTG Lightspeed Unit",
+   "type": "Commercial hyperdrive",
+   "cost": "15,000 plus installation costs",
+   "weight": "18 metric tons",
+   "availability": "F",
+   "game_notes": "Any non-SoroSuub vessels attempting to install this type of drive suffer an increase of one difficulty level during the attempt.",
+   "cost_credits": 15000
+  },
+  {
+   "id": "2-hyperdrive",
+   "name": "×2 HYPERDRIVE",
+   "section": "Replacement Hyperdrives",
+   "page": 449,
+   "model": "Corellian Avatar-10",
+   "type": "Commercial propulsion system",
+   "cost": "10,000 plus installation costs",
+   "weight": "15 metric tons",
+   "availability": "2",
+   "game_notes": "Space transports repair rolls to install an Avatar-10 receive a +1D bonus.",
+   "cost_credits": 10000
+  },
+  {
+   "id": "3-hyperdrive",
+   "name": "×3 HYPERDRIVE",
+   "section": "Replacement Hyperdrives",
+   "page": 450,
+   "model": "Incom Horizon-Hopper Light Stardrive",
+   "type": "Commercial propulsion system",
+   "cost": "7,000 plus installation costs",
+   "weight": "12 metric tons",
+   "availability": "2",
+   "cost_credits": 7000
+  },
+  {
+   "id": "4-hyperdrive",
+   "name": "×4 HYPERDRIVE",
+   "section": "Replacement Hyperdrives",
+   "page": 450,
+   "model": "Rendili StarDrive’s ATX-5",
+   "type": "Commercial propulsion system",
+   "cost": "4,000 plus installation costs",
+   "weight": "10 metric tons",
+   "availability": "1",
+   "cost_credits": 4000
+  },
+  {
+   "id": "5-hyperdrive",
+   "name": "×5 HYPERDRIVE",
+   "section": "Replacement Hyperdrives",
+   "page": 450,
+   "model": "Sienar Fleet Systems Lifesaver 1000 Reserve Hyperdrive",
+   "type": "Commercial propulsion system",
+   "cost": "2,500 plus installation costs",
+   "weight": "8 metric tons",
+   "availability": "1",
+   "game_notes": "The Lifesaver 100 is only recommended as a backup hyperdrive and must be overhauled after each use.",
+   "cost_credits": 2500
+  },
+  {
+   "id": "deflector-shields",
+   "name": "DEFLECTOR SHIELDS",
+   "section": "Shields",
+   "page": 450,
+   "model": "Standard Deflector Shields",
+   "type": "Particle & ray/energy shields",
+   "scale": "Starfighter",
+   "table_rows": [
+    [
+     "Shield Code",
+     "Cost",
+     "Weight (in tons)"
+    ],
+    [
+     "1D",
+     "4,000",
+     "6"
+    ],
+    [
+     "2D",
+     "10,000",
+     "8"
+    ],
+    [
+     "3D",
+     "20,000",
+     "10"
+    ]
+   ]
+  },
+  {
+   "id": "sensor-jamming-hardware",
+   "name": "SENSOR JAMMING HARDWARE",
+   "section": "Computers And Sensors",
+   "page": 451,
+   "model": "Fabritech NightBlind 472",
+   "type": "Sensor jamming device",
+   "cost": "4,000 credits plus installation costs",
+   "weight": "I metric ton",
+   "availability": "X",
+   "game_notes": "+1D to identify, but −2D to detect.",
+   "cost_credits": 4000
+  },
+  {
+   "id": "sensor-decoys",
+   "name": "SENSOR DECOYS",
+   "section": "Computers And Sensors",
+   "page": 451,
+   "model": "Corellian Trickster Decoys",
+   "type": "Starship countermeasures system",
+   "cost": "2,000 credits plus installation costs",
+   "weight": "2 metric tons",
+   "availability": "F",
+   "game_notes": "Trickster Drones add +2D to the difficulty to determine which sensor reading is the ship and which is the decoy. Possession of this type of countermeasure requires official certification.",
+   "cost_credits": 2000
+  }
+ ],
+ "deflector_shields": [
+  {
+   "code": "1D",
+   "cost": 4000,
+   "weight_tons": 6
+  },
+  {
+   "code": "2D",
+   "cost": 10000,
+   "weight_tons": 8
+  },
+  {
+   "code": "3D",
+   "cost": 20000,
+   "weight_tons": 10
+  }
+ ],
+ "weapon_summary": {
+  "verified_against": "PDF page 452",
+  "note": "Damage is starfighter-scale. Fire control and damage as dice codes.",
+  "rows": [
+   {
+    "weapon": "Taim & Bak Kd-3 Light Blaster Cannon",
+    "fire_control": "1D",
+    "damage": "1D",
+    "cost": 1000,
+    "weight_tons": 1
+   },
+   {
+    "weapon": "Kuat Vonak Light Laser Cannon",
+    "fire_control": "2D",
+    "damage": "2D",
+    "cost": 1500,
+    "weight_tons": 2
+   },
+   {
+    "weapon": "Arakyd Tomral Heavy Laser Cannon",
+    "fire_control": "2D",
+    "damage": "5D",
+    "cost": 3000,
+    "weight_tons": 4
+   },
+   {
+    "weapon": "Incom W-34t Turbolaser (illegal)",
+    "fire_control": "3D",
+    "damage": "7D",
+    "cost": 9000,
+    "weight_tons": 5
+   },
+   {
+    "weapon": "Comar f-2 Light Ion Cannon",
+    "fire_control": "1D",
+    "damage": "2D",
+    "cost": 1000,
+    "weight_tons": 0.5
+   },
+   {
+    "weapon": "Comar f-4 Medium Ion Cannon",
+    "fire_control": "2D",
+    "damage": "3D",
+    "cost": 1500,
+    "weight_tons": 1
+   },
+   {
+    "weapon": "Comar f-9 Heavy Ion Cannon",
+    "fire_control": "4D",
+    "damage": "4D",
+    "cost": 3000,
+    "weight_tons": 2
+   },
+   {
+    "weapon": "Arakyd Hi-fex Proton Torpedo Launcher (includes 12-torpedo rack)",
+    "fire_control": "2D",
+    "damage": "9D",
+    "cost": 2500,
+    "weight_tons": 2
+   },
+   {
+    "weapon": "Replacement Torpedo",
+    "fire_control": null,
+    "damage": null,
+    "cost": 800,
+    "weight_tons": null
+   },
+   {
+    "weapon": "Arakyd Morne-3 Concussion Missile Launcher (includes 10-missile rack)",
+    "fire_control": "1D",
+    "damage": "8D",
+    "cost": 3500,
+    "weight_tons": 3
+   },
+   {
+    "weapon": "Replacement Missile",
+    "fire_control": null,
+    "damage": null,
+    "cost": 500,
+    "weight_tons": null
+   }
+  ]
+ },
+ "sensor_equipment_costs": {
+  "Electro-Photo Receptors (EPR)": 300,
+  "Full Spectrum Transceivers (FST)": 500,
+  "Dedicated Energy Receptors (DER)": 600,
+  "Life-Form Indicators (LFI)": 800
+ },
+ "miscellaneous": [
+  {
+   "id": "fuel-converters",
+   "name": "Fuel Converters",
+   "page": 451,
+   "text": "Fuel converters allow the captain to avoid the expense of paying refueling or power cell replacement fees. Instead, the captain can buy certain materials (normally waste material) in bulk and put it into the fuel converter."
+  },
+  {
+   "id": "solid-fuel-converter",
+   "name": "Solid Fuel Converter",
+   "page": 452,
+   "text": "Converts virtually any matter into fuel cell power. A ship can refuel on bulky, low energy materials — oxygen, water, plastics, cellulose (wood), waste — or heavy metals and other high energy materials. The ship will be able to halve its “restocking” fee at starports, but the captain will have to personally arrange for fuel supplies elsewhere. Cost: 8,000 credits. Weight: 5 tons.",
+   "cost": "8,000 credits",
+   "weight": "5 tons"
+  },
+  {
+   "id": "scoops",
+   "name": "Scoops",
+   "page": 452,
+   "text": "Some ships (scouts, especially) are equipped with scoops, allowing them to dip into a planet’s atmosphere or seas to steal natural resources with which to recharge their power cells. Cost: 15,000 credits. Weight: 15 tons.",
+   "cost": "15,000 credits",
+   "weight": "15 tons"
+  },
+  {
+   "id": "solar-converters",
+   "name": "Solar Converters",
+   "page": 452,
+   "text": "Ships may also be equipped with solar converters: huge, molecule-thick solar-absorbent sails. In-system, these will recharge a ship’s systems in about 15 days, while out-system it takes about 60 days to fully recharge the ship’s power cells. Cost: 12,000 credits. Weight: 10 tons.",
+   "cost": "12,000 credits",
+   "weight": "10 tons"
+  },
+  {
+   "id": "tractor-beam",
+   "name": "Tractor Beam",
+   "page": 452,
+   "text": "A beam capable of pulling a smaller vessel closer to the freighter (if the freighter is smaller, it is drawn toward the other ship instead). See page Space Travel & Combat for details. Fire control is 2D, damage is 2D. Cost: 8,000 credits. Weight: 15 tons.",
+   "cost": "8,000 credits",
+   "weight": "15 tons"
+  },
+  {
+   "id": "secret-cargo-compartments",
+   "name": "Secret Cargo Compartments",
+   "page": 452,
+   "text": "Up to three people can fit in each ton of space in a secret compartment (secret compartments require a lot of space to even attempt to conceal). If more than 20 percent of a ship’s cargo space is taken up by secret compartments, customs officials are likely to become suspicious merely on grounds of simple mathematics: “You’re trying to tell me that a ship this size has capacity for only 60 tons of cargo? What kind of fool do you take me for, smuggler?” The cost for secret compartments depends upon how secret they are. There are three grades of compartments: Concealed. Requires a Difficult Perception/search roll to locate; a scanner will detect it immediately. Cost: 200 credits per ton of cargo to be hidden. Weight: 5 tons from cargo capacity for 1 ton of cargo space. Hidden. Requires a Very Difficult Perception/search roll to locate with the naked eye; a scanner will find it on a Moderate Perception/search roll. Cost: 400credits per ton of cargo to be hidden. Weight: 5 tons of cargo capacity for 1 ton of cargo space. Scanner Resistant. Requires a Very Difficult Perception/ search roll to locate, does not show up on scanners at all. Cost: 1,000 credits per ton of cargo to be hidden. Weight: 5 tons of cargo capacity for 1 ton of cargo space.",
+   "cost": "200 credits per ton of cargo to be hidden",
+   "weight": "5 tons from cargo capacity for 1 ton of cargo space"
+  },
+  {
+   "id": "automatic-cargo-jettisoning",
+   "name": "Automatic Cargo Jettisoning",
+   "page": 452,
+   "text": "A wonderful way to avoid an official fine, as well as a quick way to get in trouble with your loan shark. This device will jettison whatever portion of your cargo you wish, whether it be in the secret compartment or in the main bay. Can be triggered by either a dead-man switch or by command from the ship’s computer. Cost: 1,000 credits. Weight: 1 ton.",
+   "cost": "1,000 credits",
+   "weight": "1 ton"
+  },
+  {
+   "id": "passenger-conversion",
+   "name": "Passenger Conversion",
+   "page": 452,
+   "text": "To carry additional passengers, cargo hold space must be converted to passenger space. Cost: 400 credits per additional passenger capacity. Weight: 10 tons per person. A cheaper way to go is to put in a primitive life support system and have the passengers sleep on the floor. This costs 30 credits per person and weighs only one ton per person. It is, however, quite illegal.",
+   "cost": "400 credits per additional passenger capacity",
+   "weight": "10 tons per person"
+  },
+  {
+   "id": "refrigeration-equipment",
+   "name": "Refrigeration Equipment",
+   "page": 452,
+   "text": "Certain special cargoes require precise temperature control. Cost: 100 credits per ton converted. Weight: 1 ton per 20 tons converted.",
+   "cost": "100 credits per ton converted",
+   "weight": "1 ton per 20 tons converted"
+  },
+  {
+   "id": "replacement-navigation-computer",
+   "name": "Replacement Navigation Computer",
+   "page": 452,
+   "text": "Cost: 2,000 credits.",
+   "cost": "2,000 credits"
+  },
+  {
+   "id": "escape-equipment",
+   "name": "Escape Equipment",
+   "page": 452,
+   "text": "Enough escape pods for each crewmember and passenger on board a ship is required by Imperial law (military vessels are, of course, exempt from this rule). A standard freighter-sized escape pod seats eight passengers and has food and oxygen for two weeks. Cost: 1,200 credits. Weight: 5 tons.",
+   "cost": "1,200 credits",
+   "weight": "5 tons"
+  },
+  {
+   "id": "environmental-converters",
+   "name": "Environmental Converters",
+   "page": 452,
+   "text": "With this device installed, the captain is able to provide comfortable environs for many different species throughout the ship, or in one cabin or the cargo hold. Cost: 4,000 credits. Weight: 4 tons.",
+   "cost": "4,000 credits",
+   "weight": "4 tons"
+  }
+ ]
+}

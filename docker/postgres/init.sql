@@ -1,0 +1,1 @@
+CREATE DATABASE r2d6_test;

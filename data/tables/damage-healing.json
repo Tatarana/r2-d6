@@ -1,0 +1,136 @@
+{
+  "id": "damage-healing",
+  "source": { "chapter": 6, "pages": [100, 101, 102, 103, 104, 105], "file": "raw-data/06-combat-injuries.txt" },
+  "resolution": {
+    "attacker": "Roll weapon damage. Ranged weapons have a fixed code (blaster rifle 5D). Melee codes like STR+1D mean roll the user's Strength plus the extra dice; a 'maximum' caps the weapon regardless of Strength. Brawling uses Strength; natural weapons may add dice (STR+1D, STR+1D+2).",
+    "defender": "Roll Strength (plus armor) to resist damage. If the Strength roll is higher than the damage roll, no effect; otherwise use the Character Damage Chart. Always the full Strength dice, even when wounded; Character Points and Force Points can increase it.",
+    "source_page": 100
+  },
+  "character_damage_chart": [
+    { "damage_minus_strength": "1-3",  "result": "Stunned" },
+    { "damage_minus_strength": "4-8",  "result": "Wounded" },
+    { "damage_minus_strength": "9-12", "result": "Incapacitated" },
+    { "damage_minus_strength": "13-15","result": "Mortally Wounded" },
+    { "damage_minus_strength": "16+",  "result": "Killed" }
+  ],
+  "wound_levels": [
+    { "level": "Stunned", "effects": [
+        "-1D to all skill and attribute rolls for the rest of the round and the next round.",
+        "Still 'affecting' the character for half an hour unless they rest for one minute.",
+        "If the number of stuns affecting the character equals the number before the 'D' in their Strength, they are unconscious for 2D minutes; an Easy first aid total revives them."
+      ], "page": 100 },
+    { "level": "Wounded", "effects": [
+        "Falls prone and takes no actions for the rest of the round.",
+        "-1D to all skill and attribute rolls until healed.",
+        "A second Wounded result makes the character Wounded twice."
+      ], "page": 100 },
+    { "level": "Wounded twice", "effects": [
+        "Falls prone and takes no actions for the rest of the round.",
+        "-2D to all skill and attribute rolls until healed.",
+        "Wounded again: Incapacitated."
+      ], "page": 100 },
+    { "level": "Incapacitated", "effects": [
+        "Falls prone and is unconscious for 10D minutes; can do nothing until healed.",
+        "Wounded or Incapacitated again: Mortally Wounded.",
+        "A Moderate first aid total revives them: awake but groggy, cannot use skills, moves at half the cautious rate."
+      ], "page": 100 },
+    { "level": "Mortally wounded", "effects": [
+        "Falls prone, unconscious, can do nothing until healed.",
+        "At the end of each round roll 2D: if the roll is less than the number of rounds the character has been mortally wounded, the character dies.",
+        "Incapacitated or Mortally Wounded again: Killed.",
+        "A Moderate first aid total stabilizes them: they survive if a medpac or bacta tank is used within one hour (Moderate first aid total), otherwise they die."
+      ], "page": 101 },
+    { "level": "Killed", "effects": ["The character is dead."], "page": 101 }
+  ],
+  "stun_damage": "Weapons set to stun roll damage normally; any result worse than Stunned becomes unconscious for 2D minutes. All character-scale blasters can be set for stun unless stated otherwise. Changing the setting is an action.",
+  "stun_damage_page": 101,
+  "damage_options": {
+    "severe_injuries": "Optional: a character who would kill may instead cause a serious permanent injury; the target is also Wounded, Wounded twice or Incapacitated (gamemaster's choice). Not necessarily evil.",
+    "massive_damage": "Optional: two Wound levels in one round apply the greatest level's modifiers and the character can only defend or run for the next two rounds; each of those rounds an Easy stamina or willpower roll (as an action) may shake it off.",
+    "page": 101
+  },
+  "miscellaneous_damage": {
+    "verified_against": "PDF page 104 (the text export misaligns this table)",
+    "rule": "Generally no attack roll needed; damage is per round of close contact, except falling. The gamemaster decides what protection armor gives.",
+    "rows": [
+      { "type": "Food poisoning (very severe case)", "damage": "4D" },
+      { "type": "Cold (extreme)",                    "damage": "1D" },
+      { "type": "General poison (fatal dose)",       "damage": "8D+2", "note": "see optional poison rules" },
+      { "type": "Electricity (standard wall outlet)","damage": "1D" },
+      { "type": "Electricity (major power line)",    "damage": "9D" },
+      { "type": "Falling 3-6 m",                     "damage": "2D" },
+      { "type": "Falling 7-12 m",                    "damage": "3D" },
+      { "type": "Falling 13-18 m",                   "damage": "4D" },
+      { "type": "Falling 19-30 m",                   "damage": "5D" },
+      { "type": "Falling 31-50 m",                   "damage": "7D" },
+      { "type": "Falling 51+ m",                     "damage": "9D" },
+      { "type": "Fire (torch-size)",                 "damage": "1D" },
+      { "type": "Industrial acid (undiluted)",       "damage": "2D+1" },
+      { "type": "Radiation (intense)",               "damage": "3D" }
+    ],
+    "page": 102
+  },
+  "healing": {
+    "natural": {
+      "rule": "Rest the required time, then roll full Strength on the chart for the current Wound level. Working, exercising or adventuring: -1D to the roll. Doing virtually nothing for twice the time: +1D.",
+      "charts": [
+        { "level": "Wounded", "rest": "3 standard days",
+          "rolls": [ { "strength_roll": "2-4", "result": "worsens to wounded twice" }, { "strength_roll": "5-6", "result": "remains wounded" }, { "strength_roll": "7+", "result": "fully healed" } ] },
+        { "level": "Wounded twice", "rest": "3 days",
+          "rolls": [ { "strength_roll": "2-4", "result": "worsens to incapacitated" }, { "strength_roll": "5-6", "result": "remains wounded twice" }, { "strength_roll": "7+", "result": "improves to wounded" } ] },
+        { "level": "Incapacitated", "rest": "2 weeks",
+          "rolls": [ { "strength_roll": "2-6", "result": "worsens to mortally wounded" }, { "strength_roll": "7-8", "result": "remains incapacitated" }, { "strength_roll": "9+", "result": "improves to wounded twice" } ] },
+        { "level": "Mortally wounded", "rest": "1 month (35 standard days)",
+          "rolls": [ { "strength_roll": "2-6", "result": "dies" }, { "strength_roll": "7-8", "result": "remains mortally wounded" }, { "strength_roll": "9+", "result": "improves to incapacitated" } ] }
+      ],
+      "page": 102
+    },
+    "medpac": {
+      "skill": "first aid (or Technical)",
+      "difficulty_by_injury": [
+        { "injury": "Stunned, unconscious",      "difficulty": "Very Easy" },
+        { "injury": "Wounded, wounded twice",    "difficulty": "Easy" },
+        { "injury": "Incapacitated",             "difficulty": "Moderate" },
+        { "injury": "Mortally wounded",          "difficulty": "Difficult" }
+      ],
+      "success": "Heals one level: stunned and wounded fully healed; unconscious revived; wounded twice -> wounded; incapacitated -> wounded twice; mortally wounded -> incapacitated.",
+      "failure": "No change; if the roll misses by more than 10, no more medpacs can be used on that character for a standard day (24 hours).",
+      "multiple_uses": "Each additional use within a day raises the difficulty one level.",
+      "consumed": "A medpac is expended when used.",
+      "self_use": "-1D extra penalty on top of other penalties (wound penalties included).",
+      "pages": [102, 103]
+    },
+    "bacta_tank": {
+      "requirement": "(A) medicine; Very Easy roll regardless of wound level, after which healing is a matter of time. Without (A) medicine: Heroic first aid or Technical roll; failure worsens the injury two levels (wounded -> incapacitated, wounded twice -> mortally wounded, incapacitated or mortally wounded -> killed).",
+      "treatment_time": [
+        { "condition": "Wounded",          "time": "1D hours" },
+        { "condition": "Incapacitated",    "time": "4D hours" },
+        { "condition": "Mortally wounded", "time": "1D days" }
+      ],
+      "page": 103
+    },
+    "surgery": {
+      "requirement": "(A) medicine, a surgery kit and a medical facility; only when the gamemaster deems it required or no bacta tank is available.",
+      "difficulty": "Easy base, raised for complexity and field conditions.",
+      "success": "Fully heals.",
+      "healing_time": [
+        { "condition": "Wounded", "time": "1D days" },
+        { "condition": "Incapacitated", "time": "3D days" },
+        { "condition": "Mortally wounded", "time": "6D days" }
+      ],
+      "failure": "Injury worsens two levels.",
+      "page": 103
+    }
+  },
+  "illness_and_poison": {
+    "status": "Optional gamemaster-facing systems: Phase 2. Source: pages 103-105 of raw-data/06-combat-injuries.txt. The illness chart (mild to extreme, damage per interval) and the six result tables by wound level are not distilled yet.",
+    "illness_levels": [
+      { "level": "Mild",        "damage": "2D every 12 hours",     "duration": "1D days" },
+      { "level": "Moderate",    "damage": "2D every 6 hours",      "duration": "1D days" },
+      { "level": "Severe",      "damage": "3D every 3 hours",      "duration": "1D days" },
+      { "level": "Very Severe", "damage": "4D every half hour",    "duration": "3D days" },
+      { "level": "Extreme",     "damage": "5D every 10 minutes",   "duration": "5D days" }
+    ],
+    "illness_note": "Armor bonuses do not apply to Strength rolls to resist damage from contaminated water. Counteracting an illness: Difficult (A) medicine or Very Difficult first aid, one attempt per day."
+  }
+}

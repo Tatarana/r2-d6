@@ -1,0 +1,22 @@
+{
+  "id": "difficulty-numbers",
+  "source": { "chapter": 5, "pages": [75, 76], "file": "raw-data/05-the-rules.txt" },
+  "rule": "Roll equal to or higher than the difficulty number to succeed. In an opposed roll the higher roll wins; ties go to the character who initiated the action.",
+  "levels": [
+    { "id": "very-easy",      "name": "Very Easy",      "min": 1,  "max": 5,    "random_dice": "1D" },
+    { "id": "easy",           "name": "Easy",           "min": 6,  "max": 10,   "random_dice": "2D" },
+    { "id": "moderate",       "name": "Moderate",       "min": 11, "max": 15,   "random_dice": "3D-4D" },
+    { "id": "difficult",      "name": "Difficult",      "min": 16, "max": 20,   "random_dice": "5D-6D" },
+    { "id": "very-difficult", "name": "Very Difficult", "min": 21, "max": 30,   "random_dice": "7D-8D" },
+    { "id": "heroic",         "name": "Heroic",         "min": 31, "max": null, "random_dice": "9D+" }
+  ],
+  "heroic_steps": "Heroic +10 = 40-49, Heroic +20 = 50-59, and so on; numbers can reach 100 or more.",
+  "random_difficulty_notes": "Optional rule: roll the listed dice (including the wild die) to set the number instead of choosing it.",
+  "modifier_guidelines": [
+    { "min": 1,  "max": 5,    "meaning": "slight advantage" },
+    { "min": 6,  "max": 10,   "meaning": "good advantage" },
+    { "min": 11, "max": 15,   "meaning": "decisive advantage" },
+    { "min": 16, "max": null, "meaning": "overpowering advantage" }
+  ],
+  "modifier_guidelines_source": { "page": 77 }
+}

@@ -1,0 +1,960 @@
+CHAPTER 20: VEHICLES
+(Páginas impressas 401-414 | PDF 403-416)
+
+[Página impressa 401 | PDF 403]
+
+20
+
+# VEHICLES
+
+Before I give you the lowdown on starfighters and space transports, I’m gonna show you the basics: subatmospheric craft. (You gotta crawl before you walk, right?)
+
+There are vehicles everywhere, from the glittering airspeeders of the Core Worlds to the greel wood-covered groundcoaches of the Tion Hegemony. If there’s a job that needs doing, there’s
+
+probably a crate that’s designed for the job. Hey, even a fighter jock like me still likes to tinker with an old airspeeder now and again.
+
+Chances are you’ll be flying a cloud car or zippin’ around in a landspeeder long before the Rebel Alliance gives you clearance in an X-wing, so we’ll start there.
+
+# VEHICLE STATISTICS
+
+Each vehicle in this section has a variety of statistics that are useful in gameplay. Most of these vehicle codes are not necessary all of the time, but they provide valuable background data on the vehicle. Most of the time, it is sufficient to know the vehicle’s scale, skill, move, maneuverability, body strength and relevant weapon codes. The stats are presented in the following order:
+
+#### (VEHICLE’S MODEL OR NICKNAME)
+
+Craft: The vehicle’s manufacturer, model name and number; also indicates whether vehicle is “stock” or “modified.”
+Type: The vehicle’s general classification.
+Scale: The vehicle’s scale (used for the “scale” rules in the “Combat and Injuries” chapter).
+Skill: The skill that is used to pilot the vehicle, followed by specialization. Example: Repulsorlift operation: airspeeder.
+Unskilled: Some very specialized vehicles will have an “unskilled penalty” indicated: anyone piloting the vehicle without the correct specialization suffers the penalty indicated. Example: Repulsorlift operations: heavy equipment (unskilled: −2D)
+Crew: The standard crew complement of the vehicle, followed by the gunners (in addition to the crew). The “skeleton” lists the minimum number needed to fly the vehicle, as well as the penalty added to all piloting difficulty numbers because of the skeleton crew. Crew Skill: Typical die codes for crew members.
+Passengers: The number of passengers the vehicle can carry.
+
+CHAPTER TWENTY
+
+[Página impressa 402 | PDF 404]
+
+Cargo Capacity: The maximum mass of cargo that can be carried.
+Cover: The amount of cover provided by the vehicle for passengers. This is listed as Full, 3/4, 1/2, 1/4 or none — relevant modifiers are discussed in the “Combat And Injuries” chapter.
+Altitude Range: For repulsorlift and flying vehicles only. The minimum and maximum operating altitude for the vehicle (Standard gravity and Standard atmosphere density worlds).
+Cost: The cost for a new vehicle of this type. Used vehicle prices will vary, depending upon the vehicle’s condition and equipment.
+Maneuverability: This die code is added to the pilot’s roll whenever he makes an operation total, including for movement and vehicle dodges.
+Move: The distance, in meters, covered by each move; the vehicle’s maximum speed in kilometers per standard hour.
+Body Strength: The vehicle rolls this die code to resist damage in combat.
+Shields: Some vehicles have shields. See the rules for shields in the “Space Travel & Combat” chapter.
+Weapons:
+Weapon Type: This list the number and type of weapon the vehicle has mounted. If a vehicle is listed as “fire-linked” it means that the stats given below are for all of the weapons linked to fire simultaneously.
+Fire Arc: Front, back, left, or right. Turret-mounted weapons can fire in all arcs.
+Crew: The number of crew necessary to operate the weapon. If there is no crew listing, the weapon can be fired by the pilot.
+Scale: The weapon’s scale (if different than that of the vehicle).
+Skill: The skill used when operating the weapon.
+Fire Control: This die code is added to the gunner’s skill total when firing the weapon.
+Range: The weapon’s short, medium and long ranges. If a weapon has four listings, it is for point-blank, short, medium and long ranges; for these weapons, anything shorter than pointblank range requires a Very Difficult weapon total to hit in combat.
+Damage: The weapon’s damage.
+
+# WALKERS
+
+Most walkers are used as armored assault vehicles. Their sheer size and strength enable them to carry more armor and weapons than a similarly sized repulsorlift vehicle, and they can step over smaller obstacles.
+
+### AT-AT (All Terrain Armored Transport)
+
+Created as a ground-assault vehicle and troop transport, the Imperial AT-AT, or walker, is a formidable weapon of war. Over 15 meters tall, a walker moves quickly on its four massive legs. A pilot, gunner, and combat coordinator (commander) operate the vehicle. AT-ATs are heavily armed quadrupedal armored vehicles with articulated control cabins at the anterior. To beings from worlds with quadrupedal native life, AT-ATs often appear to be giant beasts of war; their control cabins like lolling heads; their chin-mounted lasers suggest fanged monsters of legend. These associations are intentional, an attempt by the AT-AT’s designers to inspire fear.
+
+Many companies contribute components to construction of AT-ATs, but the entire vehicle is assembled at the Kuat Drive Yards under strict Imperial supervision. Kuat designers and developers worked from the original Imperial design concepts to create the all-terrain weapon that the Empire uses today.
+
+Walkers can operate in many different terrain types. Varying gravitational fields, climates, and land types do little to hamper its performance. It makes an effective urban assault vehicle since its height gives its crew a good line of sight over small buildings and low-lying structures. Anything it can’t see over, a
+
+walker can knock down or crash through without much trouble. Its thick armor can absorb heavy blaster fire with little or no damage, and is virtually impervious to harm from close-quarter fighting. Rugged hills and mountainous terrain, including cliffs and sheer slopes of up to eight meters in height, are easily navigated by the giant AT-ATs. Uneven ground such as that found in marshes and jungles slow them somewhat, but they are still more effective than many other ground transports over similar terrain.
+
+The “head” houses the command crew in a compact, crowded cockpit. The walker’s weapon emplacements are also located in this section, presenting the crew with a wide field of vision through a viewport of armored transparisteel. The head can elevate and depress up to 30 degrees and turn as much as 90 degrees. Two forward firing heavy laser cannons — mounted under the chin — and two medium blasters — one to each side of the head — constitute the walker’s personal arsenal. Electro-rangefinders, targeting computers, sensor arrays, and holographic projectors give the crew a 360 degree computer-painted line of sight whenever necessary. The head is connected to the passenger compartment by a semi-flexible and less-armored “neck/tunnel.” Attacks on a walker usually concentrate on this weak point, making it necessary to regularly overhaul or replace these sections.
+
+A walker’s body section can carry 40 fully-armed and battle-ready stormtroopers. To load and disembark troops, the AT- AT kneels by bending its tri-jointed legs and lowering its body to within three meters of the ground. A landing ramp drops from the rear of the vehicle to deploy passengers. In addition, hatches on the flanks are used when docked at Imperial boarding platforms.
+
+AT-ATs are dropped into a combat zone from huge, specially-designed shuttle barges or drop ships which transport walkers from Star Destroyers or nearby garrisons for deployment in a battle area.
+
+Walkers were designed for blatant “shock” attacks: they are visible from great distances as they methodically plod toward the enemy, and the ground actually trembles as these monsters approach. Anything in their way is casually crushed beneath massive metal hooves.
+
+[Página impressa 403 | PDF 405]
+
+Their approach, however, is deceptively fast; they only appear to be plodding forward. Actually, a great distance is covered by each stride, and Rebels who have faced them report that they are on you before you know it.
+
+Walkers are front-line assault vehicles without equal. Only carefully prepared defenses, a direct attack to knock out the gun emplacements, or concentrated fire on the neck have even the slightest chance of success.
+
+#### AT-AT
+
+Craft: All Terrain Armored Transport
+Type: Assault walker
+Scale: Walker
+Length: 20.6 meters long, 15.5 meters tall
+Skill: Walker operation: AT-AT
+Crew: 5, skeleton: 3/+10
+Crew Skill: vehicle blasters 5D, walker operation 5D Passengers: 40 (troops) or 2 AT-STs
+Cargo Capacity: 1 metric ton
+Cover: Full
+Cost: Not available for sale
+Move: 21; 60 kmh
+Body Strength: 6D
+Weapons:
+
+2 Heavy Laser Cannons (fire-linked)
+
+Fire Arc: Front
+Crew: 1 (co-pilot or commander) Skill: Vehicle blasters
+Fire Control: 2D
+Range: 50-500/1.5/3 Km
+Damage: 6D
+2 Medium Blasters (fire-linked)
+
+Fire Arc: Front
+Crew: 1 (co-pilot or commander)
+Skill: Vehicle blasters
+Fire Control: 2D
+Range: 50-200/500/1 Km
+Damage: 3D
+Note: The AT-AT walker’s head is mounted on a pivoting neck, which can turn to face left, front and right fire arcs. An AT-AT may move its head one fire arc per turn (from left to front, right to front, front to right, or front to left).
+
+### AT-PT (All Terrain Personal Transport)
+
+The forerunner of the AT-ST, the All Terrain Personal Transport (AT-PT) was a light anti-infantry walker used by the Galactic Republic and, later, the Galactic Empire. It was manufactured by Rothana Heavy
+Engineering, a subsidiary of Kuat
+Drive Yards.
+
+AT-PTs were made to take single troopers into intense combat situations on their own, with the firepower of a squad.
+They stood only three meters tall, and were driven by AT-PT pilots.
+
+The walkers were capable of speeds of up to 60 kilometers per hour and climb a 45- degree angle, with hydraulic adjusters keeping the unit ba-
+
+lanced. The vehicles carried a long-range comm antenna for patrols. The main drive unit provided power and hydraulic pressure for the two legs, and featured cooling vents. The cockpit entry hatch was on the side, while the emergency flare launcher was just above the viewport.
+
+The AT-PT was — compared to its intended threat, enemy soldiers — heavily armored, enough so that most small-arms fire could not penetrate the craft’s armor. The walker was armed with twin blaster cannons and one concussion grenade launcher, which were only effective against infantry. The walker’s superior agility made up for its light armor (in comparison to most other cavalry units).
+
+The units often traveled in packs for increased firepower.
+
+#### AT-PT
+
+Craft: All-Terrain Personal Transport
+Type: Light walker
+Scale: Walker
+Length: 2.1 meters long, 3.1 meters tall
+Skill: Walker operation: AT-PT
+Crew: 1
+Crew Skill: Missile weapons 4D, vehicle blasters 4D, walker operation 4D
+Cargo Capacity: 25 kilograms
+Cover: Full
+Cost: 15,000 (used)
+Maneuverability: 2D
+Move: 21; 60 kmh
+Body Strength: 2D
+Weapons:
+
+Twin Blaster Cannon
+
+Fire Arc: Front
+Skill: Vehicle blasters
+Fire Control: 1D
+Range: 10-50/200/500
+Damage: 4D
+Concussion Grenade Launcher
+
+Fire Arc: Front
+Skill: Missile weapons: grenade launcher Fire Control: 1D
+Range: 10-50/100/200
+Damage: 2D
+
+### AT-ST (All Terrain Scout Transport)
+
+Imperial AT-STs, or scout walkers. were designed for reconnaissance and support for front line forces. Slightly more than six meters tall, these two-legged scouts can travel fast across open terrain. They are faster and more maneuverable than AT- ATs, but less heavily armed and armored.
+
+In combat, they are used primarily to provide covering fire when escorting Imperial stormtroopers on foot. When accompanying AT-ATs, they cover the flanks and mop up foot soldiers who evade the larger walker’s weapons or attempt to attack from underneath. They are often dropped from shuttle barges or drop ships, or sent directly from Imperial garrisons. Because of their speed and maneuverability on open ground, scouts can be deadly in combat against infantry. Twin swivel-mounted blaster cannons protrude from an AT-AT’s chin section. Twin light blaster cannons are swivel-mounted on its port-side sensor pod, and a concussion grenade launcher juts from the starboard pod. In addition, each metal foot is equipped with steel claws that can cut through trip wires or slice the ground troops that close to engage. Only heavy blaster cannon or laser cannon fire can pierce a scout’s thick hide, but even then many direct hits are required to cause substantial damage.
+
+[Página impressa 404 | PDF 406]
+
+However, the lighter scout walkers are susceptible to fixed defenses such as trip wires, deadfalls, pits, and explosive charges. Balance is a serious problem for these bipedal vehicles. After several unsuccessful actions in which unsupported AT-STs were easily foiled, imperial tacticians dictated that scout actions were to be preceded by infantry to detect, clear, or mark such traps; in addition, the crew now uses sensors to locate defensive traps in an area, and advanced targeting scopes give them firepower superiority against most ground targets. The fact remains that in open, relatively level terrain, scout walkers can be very potent light-assault vehicles.
+
+#### AT-ST
+
+Craft: All Terrain Scout Transport
+Type: Medium walker
+Scale: Walker
+Length: 6.4 meters long, 8.6 meters tall
+Skill: Walker operation: AT-ST
+Crew: 2, skeleton: 1/+15
+Crew Skill: Missile weapons 4D, vehicle blasters 4D+2, walker operation 5D
+Cargo Capacity: 200 kilograms
+Cover: Full
+Cost: Not available for sale
+Maneuverability: 1D
+Move: 30; 90 kmh
+Body Strength: 3D
+Weapons:
+
+Twin Blaster Cannon
+
+Fire Arc: Front
+Crew: 1 (pilot)
+Skill: Vehicle blasters
+Fire Control: 1D
+
+Range: 50-200/1/2 Km
+Damage: 4D
+Twin Light Blaster Cannon
+
+Fire Arc: Front
+Crew: 1 (co-pilot)
+Skill: Vehicle blasters
+Fire Control: 1D
+Range: 50-300/500/1 Km
+Damage: 2D
+Concussion Grenade Launcher
+
+Fire Arc: Front
+Crew: 1 (co-pilot)
+Skill: Missile weapons: grenade launcher Fire Control: 1D
+Range: 10-50/100/200
+Damage: 3D
+
+### AT-TE (All Terrain Tactical Enforcer)
+
+Adapted from industrial security vehicles built by Rothana Heavy Engineering. the All-Terrain Tactical Enforcer, or AT-TE, is a formidable weapons platform capable of delivering an entire platoon of clone troopers to strategic points on the battlefield, then prov ding them with covering fire while they take up positions. A dorsal projectile cannon enables the AT-TE to serve as mobile artillery, and an array of missile payloads allow it to be custom-armed to fit whatever purpose is necessary on the battlefield.
+
+The AT-TE’s six massive walker legs and low profile provide great stability, but this design also makes the vehicle vulnerable to land mines and infantry equipped with explosives, as none of the AT-TE’s seven weapons covers the vehicle’s underside.
+
+An unusual feature of the AT-TE is its magnetic grapplers, which enable it to scale even sheer cliffs. The rear passenger compartment is also equipped with a medical droid for stabilizing wounded troopers until they can be safely transported to the nearest Republic Mobile Surgical Unit.
+
+#### AT-TE
+
+Craft: Rothana Heavy Engineering All-Terrain Tactical Enforcer Type: Walker
+Scale: Walker
+Length: 12.4 meters long
+Skill: Walker operation: AT-TE
+Crew: 1, gunners 6
+Crew Skill: All skills typically at 8D
+Passengers: 20 (troops) or cargo
+Cargo Capacity: 60 tons
+Cover: Full
+Cost: Not available for sale
+Maneuverability: 0D+2
+Move: 21; 60 kmh
+Body Strength: 4D+1
+
+[Página impressa 405 | PDF 407]
+
+Weapons:
+
+Heavy Projectile Cannon
+
+Fire Arc: Front
+Skill: Vehicle blasters
+Fire Control: 2D
+Range: 50-300/1/3 Km
+Damage: 5D
+6 Light Blaster Cannons (fire separately)
+
+Fire Arc: 4 front, 2 rear
+Scale: Speeder
+Crew: 1
+Skill: Vehicle blasters
+Fire Control: 3D
+Range: 10-250/500/1 Km
+Damage: 4D
+
+# REPULSORLIFT TECHNOLOGY
+
+The predominant vehicle technology is called repulsorlift. Repulsorlift is preferred over more primitive thrust methods because it is quieter, cleaner and more efficient than other propulsion systems. By producing antigravity repulsor fields, these drives allow exacting control and high speeds or incredible cargo hauling capacity. The versatile repulsor power plant can be adjusted to run on a variety of easily found power sources, such as minerals, solar power and fusion, although power cells and energy generators are preferred because they produce the most power for the least mass.
+
+Repulsorlift vehicles are also popular because they are not restricted to roads and other smooth pathways — a boon to frontier and poor planets that can’t afford funding for highway construction. Almost all atmospheric vehicles, and a majority of “ground” vehicles in the Known Galaxy, rely upon repulsor technology; primitive wheeled, hover and hydrocarbon burning engines are normally found only on the most primitive worlds, or on planets where repulsorlift isn’t feasible due to random gravity and radiation fluctuations.
+
+Many high speed repulsorcraft, such as airspeeders and cloud cars, use ion engine afterburners to boost performance and speed, making them superior to many spacecraft in atmospheric performance.
+
+## LANDSPEEDERS
+
+Landspeeders are ground-based repulsorlift vehicles, common on planets around the galaxy. Most families and individuals own their own landspeeder, especially on non-urban worlds where there is very little public transportation.
+
+Landspeeders are normally dependent only upon repulsorlift, although some competition and military models use ion engines for greater top-end speed. An average speeder flies around 200 kilometers per hour, although the fastest models can reach speeds in excess of 350 kilometers per hour. Speeders normally have a flight ceiling of less than five meters, so they are dependent upon smooth, well-groomed surfaces for smooth flight, such as natural flats, calm water or roads.
+
+Landspeeders are built for many uses, including personal sport speeders, which are normally two-seater affairs, family speeders, with room for up to six passengers, and massive cargo or public transport speeders, which can carry hundreds of individuals and move several tons of cargo. They retain a significant sales edge over airspeeders due to their affordability.
+
+### Ubrikkian 9000 Z004
+
+The Ubrikkian Industries 9000 Z004 landspeeder is an all-species adaptation of its Z001 model, which was designed for Ugors. It has the same spherical design and small frame of the Z001 but features greater interior comfort and more powerful engines, appealing to a much larger audience. Among young joyriders and fans of speed, the model has become known simply as the “Zeefour,” and it sometimes appears in racing competitions that normally host only swoops and speeder bikes. The Zeefour focuses on speed and stability over altitude or carrying capacity. It has a maximum ceiling of 1.5 meters off the ground and can manage speeds of up to 300 kilometers per hour with little chance of tipping. Not only is its design compact and stable, but its computer-enhanced navigational and steering systems also aid the pilot in making difficult maneuvers.
+
+Although the Zeefour is a major departure from traditional speeder design, it has proven successful enough to be imitated, and some scratch-modified Z001 speeders have been created to match its capabilities. All official models of the
+Zeefour-type speeder are civilian, but the enclosed capsule and high-powered engine lend themselves to paramilitary modifications, which typically include a layer of armor plating and a heavy blaster rifle.
+
+UBRIKKIAN 9000 Z004
+
+Craft: Ubrikkian 9000 Z004
+Type: Sport speeder
+Scale: Speeder
+Length: 2.46 meters
+Skill: Repulsorlift operation: landspeeder Crew: 1
+Crew Skill: Varies widely
+Passengers: 1
+Cargo Capacity: 30 kilograms
+Cover: Full
+Altitude Range: Ground level-1.5 meters Cost: 8,000 (new), 2,500 (used)
+Maneuverability: 2D+1
+Move: 105; 300 kmh
+Body Strength: 1D+2
+
+### V-36 Courier
+
+The V-35 courier is an extremely common, cheap, durable landspeeder designed for families and small businesses. Built by SoroSuub decades before the Clone Wars, the V-35 is a top seller until midway through the Galactic Civil War, when newer models finally end its long and successful run. Even then, the V-35 turns up regularly on fringe worlds (Luke Skywalker’s Uncle Owen kept a V-35 for family business on his Tatooine moisture farm).
+
+In addition to being durable and having a good cargo capacity for a private speeder, the courier is popular because it offers total cover to those inside. Although it lacks the armor for this feature to be of much military value, it does allow those who would rather not be seen coming and going an excuse to travel
+
+[Página impressa 406 | PDF 408]
+
+incognito. Though no one normally bothers, it is possible to mount a small weapon turret on the vehicle’s roof, tied to its scanner scope.
+
+#### V-35 COURIER
+
+Craft: SoroSuub V-35 Courier
+Type: Landspeeder
+Scale: Speeder
+Length: 3.8 meters
+Skill: Repulsorlift operation: landspeeder Crew: 1
+Passengers: 2
+Cargo Capacity: 120 kilograms
+Cover: 1/4 (top pilot), 3/4 (passengers) Altitude Range: Ground level-1.5 meters Cost: 8,500 (new), 1,500 (used)
+Maneuverability: 1D+2
+Move: 40; 120 kmh
+Body Strength: 2D
+
+### X-34 Landspeeder
+
+One of the most popular models of civilian speeders is the SoroSuub X-series, which can attain a maximum altitude of 1.5 meters. It is a durable two-person craft that features holographic displays, computer-assisted navigation, and counterbalances for a stable ride over rough terrain. (Luke Skywalker used an X- 34 landspeeder on Tatooine in Episode IV.)
+
+#### X-34 LANDSPEEDER
+
+Craft: SoroSuub X-34 Landspeeder Ground Vehicle Type: Landspeeder
+Scale: Speeder
+Length: 3.4 meters
+Skill: Repulsorlift operation: landspeeder
+Crew: 1
+Passengers: 1
+Cargo Capacity: 10 kilograms
+Cover: 1/2
+Altitude Range: Ground level-2 meters
+Cost: 10,550 (new), 2,500 (used)
+Maneuverability: 2D
+Move: 115; 330 kmh
+Body Strength: 2D
+
+## SPEEDER BIKES
+
+These vehicles fill the need for small, fast personal transportation, and appeal both to youngsters around the galaxy and the military. They are normally single or two person craft, emphasizing speed and maneuverability over safety and protection.
+
+### Aratech 74-Z Speeder Bike
+
+The 74-Z is a basic speeder bike designed for military scouting and urban patrol missions. It consists of a powerful repulsorlift engine with two small thrust engines, a long forward control vane, and a small blaster cannon in a rotating forward mount. It is designed for a single pilot but has room for a passenger as well-both straddling the engine block of the vehicle.
+
+#### ARATECH 74-Z MILITARY SPEEDER BIKE
+
+Craft: Aratech 74-Z Military Speeder Bike Type: Speeder bike
+Scale: Speeder
+Length: 3 meters
+Skill: Repulsorlift operation: speeder bike Crew: 1
+Cargo Capacity: 3 kilograms
+Cover: 1/4
+Altitude Range: Ground level-25 meters Cost: 6,750 (new), 1,200 (used)
+Maneuverability: 3D+2
+Move: 175; 500 kmh
+Body Strength: 2D
+Weapons:
+
+Laser Cannon
+
+Fire Arc: Front
+Skill: Vehicle blasters
+Fire Control: 2D
+Range: 3-50/100/200
+Damage: 3D
+
+### Nightfalcon Speeder Bike
+
+Appealing to civilians, racers, and the military, one of Ikas- Adno’s most popular vehicles is the 22-B Nightfalcon speeder bike. Marketed as a fast and sturdy bike, the Nightfalcon can be seen throughout the galaxy in a wide variety of roles, including personal transport, racing bike, and scouting speeder. Although not faster or stronger than Aratech’s 74-Y or 74-Z speeder bikes, the 22-B Nightfalcon offers a combination of speed and strength that attracts the attention of both civilians and the military.
+
+#### IKAS-ADNO NIGHTFALCON
+
+Craft: Ikas-Adno 22-B Nightfalcon
+Type: Speeder bike
+Scale: Speeder
+Length: 4.87 meters
+Skill: Repulsorlift operation: speeder bike
+
+[Página impressa 407 | PDF 409]
+
+Crew: 1
+Passengers: 1
+Cargo Capacity: 4 kilograms
+Cover: 1/4
+Altitude Range: Ground level-10 meters Cost: 6,250 (new), 1,000 (used)
+Maneuverability: 3D+1
+Move: 160; 400 kmh
+Body Strength: 1D+2
+Weapons:
+
+Laser Cannon
+
+Fire Arc: Front
+Skill: Vehicle blasters
+Fire Control: 2D
+Range: 30-50/100/200
+Damage: 4D
+
+### Razalon FC-20
+
+One device the Sith apprentice Darth Maul relied on was a Razalon Speeder Bike, a small, lightweight vehicle noted for its quiet operation. Its distinctive U-shape design made the vehicle a comfortable ride and easy to operate.
+
+#### RAZALON FC-20
+
+Craft: Razalon FC-20 Speeder Bike
+Type: Speeder bike
+Scale: Speeder
+Length: 1.5 meters
+Skill: Repulsorlift operation: speeder bike
+Crew: 1
+Cargo Capacity: 2 kilograms
+Cover: 1/4
+Altitude Range: Ground level-0.8 meters
+Cost: 4,000 (new), 1,000 (used)
+Maneuverability: 2D+2
+Move: 60; 180 kmh
+Body Strength: 2D
+Note: Passive sound dampers dramatically reduce noise, adding +2D to the difficulty to detect the speeder bike by sound.
+
+### Single Trooper Aerial Platform (STAP)
+
+Designed specifically for 00M-Series and B1-Series battle droids by Baktoid Armor Workshop, the Single Trooper Aerial Platform (or STAP) s a swift, agile weapons platform held aloft on repulsorlifts. The STAP is really little more than a variant of the speeder bike, built to accommodate a battle droid rider. The Trade Federation employs entire squadrons of
+STAPs for scouting, patrols, and light anti-personnel support, though several of them working in concert can wreak havoc on entrenched opponents or deliver battle droid troops behind enemy lines, where they can dismount and attack enemies from the rear.
+
+#### STAP
+
+Craft: Baktoid Armor Workshop STAP-1
+Type: Single trooper aerial platform
+Scale: Speeder
+Length: 1.9 meters
+Skill: Repulsorlift operation: STAP
+Crew: 1
+Crew Skill: Repulsorlift operation 4D; vehicle blasters 4D Passengers: None
+Cargo Capacity: None
+Cover: 1/4
+Altitude Range: Ground level-20 meters
+Cost: Not available for sale
+Maneuverability: 3D
+Move: 140; 400 kmh
+Body Strength: 1D
+Weapons:
+
+2 Blaster Cannons (fire-linked)
+
+Fire Arc: Front
+Skill: Vehicle blasters
+Fire Control: 1D
+Range: 50-400/900/3 Km
+Damage: 4D
+
+## SWOOPS
+
+Swoops are a very advanced development in repulsorlift vehicles — they achieve incredibly high speeds through a combination of repulsorlift and ion engine power, while completely sacrificing any protection.
+
+They are much more difficult to pilot than speeder bikes, but in the hands of an expert, are much more effective, especially in high speed chase situations. Swoop racing is popular in the Core systems, where they are viewed as more refined than the extremely dangerous Podraces.
+
+### Air-2 Racing Swoop
+
+A design of swoop first introduced by TaggeCo during the Clone Wars, the Air-2 racing swoop saw huge sales in its first few decades of production because Podracing had recently been outlawed, replaced on many worlds by swoop racing. Balanced to have just enough power and mass for sport flying, the Air-2 has an impressive top speed of 700 kilometers per hour and a
+
+[Página impressa 408 | PDF 410]
+
+1-kilometer flight ceiling. The swoop quickly became popular with racers, joyriders, and gang members, but it suffered from an image problem due to its relatively short frame and stubby appearance. When longer, sleeker swoops were introduced as competition, sales of the Air-2 declined. The Air-2 requires skilled piloting. It has controls for both hands and both feet, and the pilot must shift his weight to perform many maneuvers. This coordination can be difficult for an unskilled pilot. However, the lack of complex computer controls or droid ports simplifies repairs, making the swoop popular on harsh planets where more delicate speeders suffer regular breakdowns.
+
+The basic design of the Air-2 racing swoop has been copied and modified by dozen of companies; SoroSuub even has a model also called the Air-2. As a result, it’s not unusual to find similar swoops with minor differences, such as a second seat for passengers, slightly decreased speed coupled with extra cargo capacity, or heavier armor and a lower flight ceiling. Unlike many other swoop and speeder designs, the Air-2 is almost never armed. Its small size, tricky handling, and lack of spare power make it impossible to mount weapons heavier than pilots can carry on their persons.
+
+#### AIR-2 RACING SWOOP
+
+Craft: TaggeCo Air-2 Racing Swoop Type: Swoop
+Scale: Speeder
+Length: 2.35 meters
+Skill: Swoop operation
+Crew: 1
+Crew Skill: Varies
+Passengers: None
+Cargo Capacity: 1.75 kilograms Cover: 1/4
+Altitude Range: Ground level-1 km Cost: 7,000 (new), 2,500 (used) Maneuverability: 2D+1
+Move: 242; 700 kmh
+Body Strength: 1D+1
+
+### Flare-S Swoop
+
+The Mobquet Flare-S is considered by many to be the perfect swoop bike. After the New Order outlawed Podracing, those who wanted to engage in high-speed, high-risk sports turned to swoop racing, and the Flare-S quickly became the most common swoop bike on the race circuit. The Flare-S is extremely powerful, has a maximum altitude of 350 meters (it can be modified with a Moderate to Difficult repulsorlift repair check to reach an altitude of several kilometers), and is much faster than standard speeder bikes. It is also extremely dangerous to fly, with few safety systems. Professional swoop racers sometimes add deflectors to their bikes, but doing so is an expensive modification, running 20,000 credits, and rarely saves lives.
+
+The Flare-S is also popular with gangs, mercenaries and bounty hunters. A “swoop culture” of high-risk, stunt-oriented behavior exists on many worlds, and the dividing line between
+
+amateur swoop racers and criminally minded swoop gangs is often fuzzy. The Flare-S has sufficient power to mount heavy weapons (though not in addition to deflectors) and is sturdy enough that many survive longer than their riders.
+
+#### FLARE-S
+
+Craft: Mobquet Flare-S Swoop
+Type: Swoop
+Scale: Speeder
+Length: 2.5 meters
+Skill: Swoop operation
+Crew: 1
+Cargo Capacity: 2 kilograms
+Cover: 1/4
+Altitude Range: Ground level-350 meters Cost: 5,750 (new), 1,500 (used)
+Maneuverability: 4D+2
+Move: 225; 650 kmh
+Body Strength: 1D+1
+
+## ARMORED ASSAULT VEHICLES
+
+These heavily armored vehicles use repulsorlifts to move about the battlefield. Although not maneuverable, they pack incredible firepower and can safely transport teams of troops into hostile territory.
+
+### AAT-1
+
+The Trade Federation uses AAT-1s propelled by heavy repulsorlifts on the front lines of a battlefield to soften up the enemy before deploying waves of battle droids.
+
+#### AAT-1
+
+Craft: Baktoid Armor Workshop Armored Assault Tank-1
+Type: Armored assault tank
+Scale: Walker
+Length: 9.75 meters
+Skill: Repulsorlift operation: AAT-1
+Crew: 1 pilot droid, 2 gunner droids, 1 commander droid
+Crew Skill: 4D in all applicable skills
+Passengers: 6 battle droids (using handholds on the exterior of the tank)
+Cargo Capacity: 500 kilograms
+
+[Página impressa 409 | PDF 411]
+
+Cover: Full (None for exterior passengers) Altitude Range: Ground level-4 meters Maneuverability: 1D
+Move: 21; 60 kmh
+Body Strength: 6D
+Weapons:
+
+Heavy Laser Cannon
+
+Fire Arc: Front
+Skill: Vehicle blasters
+Fire Control: 2D
+Range: 50-500/1/2 Km
+Damage: 5D
+8 Light Repeating Laser Cannons (fire separately)
+
+Fire Arc: Front
+Scale: Speeder
+Skill: Vehicle blasters
+Fire Control: 1D
+Range: 3-50/120/300
+Damage: 4D
+6 Shell Launchers
+
+Fire Arc: Front
+Skill: Missile weapons
+Fire Control: 0D
+Range: 100/200/400
+Damage: 3D (2-meter radius)
+Game Notes: If attacked from the rear, the AAT only has an effective Body Strength of 2D due to the thinness of the rear armor (to allow for ventilation of the power plant). If the AAT suffers a damage result of Heavy or higher from a rear attack, the power plant will explode within 2D turns.
+
+Secondly, the AAT’s electrical systems are poorly shielded. If damage from ion weapons (or Gungan energy balls) exceeds the AAT’s Body roll by more than 9 points, the electrical system shorts out. As a result, the AAT shuts down and will not function again until the electrical system is completely replaced.
+
+### Multi-Troop Transport
+
+Baktoid Armor Workshop designs and manufactures the Multi-Troop Transport (MTT) for the Trade Federation’s battle droid security forces long before the Clone Wars.
+Although equipped with only minimal weaponry, the MTT is heavily armored, allowing it to plow through troops or light vehicles to reach its
+
+deployment point. To facilitate rapid deployment, the engineers at Baktoid Armor Workshop developed a hydraulic storage rack that could not only stack 112 B1-Series battle droids (compressed into a convenient boxlike shape) in the MTT’s cargo bay, but also deploy them directly onto the battlefield in less than one minute. A variant of the MTT. the Multi-Utility Transport, lacks the Mr’s weaponry and has a top speed of only 25 km/h, but carries up to 20 tons of cargo.
+
+#### MULTI-TROOP TRANSPORT
+
+Craft: Baktoid Armor Workshop Multi Troop Transport
+Type: Heavy armored troop transport
+Scale: Walker
+Length: 31 meters
+Skill: Repulsorlift operation: MTT
+Crew: 1 pilot droid, 1 gunner droid
+Crew Skill: 4D in all applicable skills
+Passengers: 100 Infantry Battle Droids, 10 Security Battle Droids, 2 Commander Battle Droids
+Cargo Capacity: 10 kilograms
+Cover: Full (None for exterior passengers)
+Altitude Range: Ground level-4 meters
+Maneuverability: 0D
+Move: 12; 35 kmh
+Body Strength: 4D
+Weapons:
+
+2 Dual Blaster cannons (fire-linked)
+
+Fire Arc: Front
+Skill: Vehicle blasters
+Fire Control: 2D
+Range: 50-400/900/3 Km
+Damage: 3D+2
+Game Notes: If attacked from the rear, the MTT only has an effective Body Strength of 1D due to the thinness of the rear armor (to allow for ventilation of the power plant). If the MTT suffers a damage result of Heavy or higher from a rear attack, the power plant will explode within 2D turns. The explosion will destroy any droids and/or characters on board and completely gut the MTT.
+
+## AIRSPEEDERS
+
+Airspeeders are personal transport vehicles designed for speed and maneuverability. While specific models have different capabilities, airspeeders as a general class range from low-level vehicles to high-altitude vehicles that can travel up to 25 kilometers above ground level; most airspeeders have a flight ceiling of less than 250 meters, deriving maximum lift from the atmosphere and without the need for pressurized pilot’s compartments.
+
+Airspeeders are superb “hit-and-run” combat vehicles, with top-end speeds exceeding 900 kilometers per hour. Airspeeders are sleek and aerodynamic, and use mechanical control flaps for high-speed turns without loss of speed. Because of these capabilities, they are fairly difficult to track with targeting computers, and while not as sturdy as cloud cars, they are far more difficult to hit, especially with slow-response artillery weapons.
+
+Airspeeders are considered sport and speed vehicles, and so have a notoriously low cargo capacity, and are only capable of carrying one to two people. Civilian airspeeders are often carefully regulated, except on frontier worlds, simply because these vehicles are very dangerous in the hands of untrained novices (there are many horror stories of these vehicles getting away from a new pilot and plunging into a crowd of spectators or houses). Local governments, law enforcement agencies, and even the Rebel Alliance/New Republic forces use many modified varieties of airspeeders, because they are cheap and reliable
+
+[Página impressa 410 | PDF 412]
+
+defense craft, and can easily carry a number of powerful weapons. Although the conversion process for demanding environments can be tricky, once the vehicles are flight-worthy, they require much less maintenance than cloud cars.
+
+### Incom T-47I Airspeeder
+
+The T-47I is an old, but popular, model of airspeeder based on Incom’s popular basic T-47 model. It’s noted for both speed and maneuverability. While it has been out of production for nearly a decade at the time of the rebellion, it remains a favorite of adolescents and young adults because it is easy to maintain, spare parts are readily available and it can easily be modified for greater speed.
+
+#### INCOM T-47I AIRSPEEDER
+
+Craft: Incom T-47I Airspeeder (civilian) Type: Airspeeder
+Scale: Speeder
+Length: 4.5 meters
+Skill: Repulsorlift operation: airspeeder Crew: 1
+Crew Skill: Varies widely
+Cargo Capacity: 10 kilograms
+Cover: Full
+Altitude Range: Ground level-250 meters Cost: 38,000 (new), 10,000 (used)
+Maneuverability: 3D
+Move: 225; 650 kmh
+Body Strength: 2D
+
+### LAAT/i Gunship
+
+The LAAT/i was a repulsorlift infantry transport capable of carrying up to thirty troopers. Secondary functions included reconnaissance, direct fire support, search-and-recovery, and low-altitude air-to-ground and air-to-air strikes against vehicles ranging from airspeeders to starfighters.
+
+In addition to its trooper complement, housed on a deckplate protected by drooping wings and a sliding side door, the LAAT/i could carry four military speeder bikes in an aft-deploy-
+
+able rack. The crew complement comprised a clone trooper pilot and co-pilot/forward gunner in the hunchbacked cockpit, and two auxiliary gunners stationed in pinpoint composite-beam turrets extending on articulated arms from the troop cabin. An IM-6 medical droid was commonly carried aboard in an emergency locker. In the event of emergencies, the cockpit capsule could separate from the main craft to act as an escape pod.
+
+The LAAT/i was a fully armed gun platform, with a complete arsenal of weaponry that consisted of three anti-personnel laser turrets, two forward-facing, one covering the stern hatch; two top-mounted mass-driver missile launchers fed by rear-mounted ordnance belts and commonly loaded with short-range homing missiles, HE (high explosive), HEAP (high explosive armor-piercing), and APF (anti-personnel fragmentation) rounds; four composite-beam, pin-point laser turrets, (on some models, the slot for these Balls were inter-changeable with floodlights) two of which were automated bubble-turrets located on either wing; and eight light air-to-air rockets stowed on the underside of each wing.
+
+Infantry gunships were equipped with atmospheric containment shielding and could be deployed from space, yet could not reach orbit altitude without a carrier vessel. The LAAT/i’s optimal fighting range was in the lower atmosphere, where they could reach speeds in excess of six hundred kilometers per hour. A single Acclamator-class assault ship could carry up to eighty LAAT-series gunships, while a Venator-class Star Destroyer had space for half that complement. The LAAT/i was highly effective but lacked large amounts of armor making it a vulnerable target.
+
+#### LAAT/I GUNSHIP
+
+Craft: Rothana Heavy Engineering LAAT/i Attack Gunship Type: Airspeeder
+Scale: Speeder
+Length: 17.4 meters
+Skill: Repulsorlift operation: LAAT/i Attack Gunship
+Crew: 6
+Crew Skill: All skills typically at 6D
+Passengers: 30 (troops)
+Cargo Capacity: 2 tons
+Cover: Full
+Altitude Range: Up to near orbit
+Cost: 65,000 (new), 40,000 (used)
+Maneuverability: 2D+1
+Move: 216; 620 kmh
+Body Strength: 4D
+Weapons:
+
+2 Mass Driver Missile Launchers (fire-linked)
+
+Fire Arc: Front
+Skill: Vehicle blasters
+Fire Control: 1D
+Range: 50-250/1/3 Km
+Damage: 6D
+
+[Página impressa 411 | PDF 413]
+
+3 Anti-Personnel Laser Cannons (fire separately)
+
+Fire Arc: Partial Turret (1 front/right/left, 1 front / right / rear, 1 front / left / rear)
+
+Skill: Vehicle blasters
+Scale: Character
+Fire Control: 0D
+Range: 3-50/200/400 m
+Damage: 8D
+4 Composite Beam Pinpoint Laser Turrets (fire separately)
+
+Fire Arc: Turret
+Skill: Vehicle blasters
+Fire Control: 2D
+Range: 10-75/150/300 m
+Damage: 4D
+2 Rocket Launchers (4 missiles each)
+
+Fire Arc: Front
+Skill: Missile weapons
+Fire Control: 1D
+Range: 2 Km
+Damage: 5D
+
+### Rebel Alliance Combat Airspeeder
+
+The Rebel Alliance combat airspeeder has seen extensive use throughout the military forces of the Alliance — they were cheap to manufacture, reliable and sturdy, and produced excellent speed and firepower. The Alliance often modified their speeders for specific terrain — speeders for cold environments were “snowspeeders,” those for hot, dry planets were “sandspeeders,” and those for jungle and other moist worlds are called “swampspeeders.”
+
+The infamous Battle of Hoth pitted Alliance snowspeeders against Imperial AT-AT walkers, and amazingly enough, a crafty tactic devised by Commander Luke Skywalker allowed the speeders to topple several of the fearsome Imperial battle vehicles, despite not having blasters powerful enough to penetrate the walkers’ armor.
+
+The two person cockpit has the pilot facing forward, while the co-pilot faces backward and is responsible for the operation of the power harpoon, in addition to normal co-piloting responsibilities.
+
+#### REBEL ALLIANCE COMBAT SNOWSPEEDER
+
+Craft: Rebel Alliance Combat Snowspeeder (custom-designed frame and powerplant)
+Type: Modified combat airspeeder
+Scale: Speeder
+Length: 5.5 meters
+Skill: Repulsorlift operation: airspeeder
+Crew: 1, gunners: 1 (can coordinate)
+Crew Skill: Varies widely
+
+Cargo Capacity: 10 kilograms
+Cover: Full
+Altitude Range: Ground level-250 meters Cost: 50,000 (used only; black market only) Maneuverability: 3D
+Move: 350; 1,000 kmh
+Body Strength: 3D
+Weapons:
+
+Double Laser Cannon (fire-linked)
+
+Fire Arc: Front
+Skill: Vehicle blasters
+Fire Control: 2D
+Range: 50-300/800/1.5 km
+Damage: 4D+2
+Power Harpoon
+
+Fire Arc: Rear
+Crew: 1 (co-pilot)
+Skill: Missile weapons
+Fire Control: 2D
+Range: 25-50/100/200
+Damage: 3D (none if tow cable and fusion disk are used)
+
+## CLOUD CARS
+
+Cloud cars are medium and high-atmosphere vehicles which utilize a combination of repulsorlift and ion engine propulsion for speed. They are capable of achieving speeds in excess of 1,500 kilometers per hour, with cruising heights ranging from a few kilometers up to near-space heights of over 100 kilometers.
+
+On standard worlds, they are used as high-altitude patrol and defense craft, keeping incoming ships and super-atmospheric transports in appropriate landing corridors. There are few private owners of cloud cars because of their expense and limited utility.
+
+The major manufacturer of cloud cars is Bespin Motors. Due to Cloud City’s unusual location, in the heart of a gas giant, cloud cars are common transportation there, since standard repulsor vehicles don’t have the appropriate altitude range to be of use on the planet. Bespin Motors has designed a large number of pleasure craft, air taxis, and other personal vehicles for use on Bespin, although they are of very limited popularity on other worlds.
+
+### Storm IV Twin-Pod Cloud Car
+
+The Storm IV twin-pod cloud car is typical of the capabilities of most cloud cars, though its double-cockpit arrangement is unusual. Bespin Motors first developed the model as a patrol vehicle for Cloud City security forces. When the Storm IV proved successful, the company began producing models for export, and others have since designed their own versions of cloud cars.
+
+#### BESPIN MOTORS STORM IV
+
+Craft: Bespin Motors Storm IV
+Type: Twin-Pod Cloud Car
+Scale: Speeder
+Length: 7 meters
+Skill: Repulsorlift operation: cloud car Crew: 1, gunners: 1 (can combine) Crew Skill: Varies widely
+Cargo Capacity: 10 kilograms
+Cover: Full
+Altitude Range: 50-100 km
+
+[Página impressa 412 | PDF 414]
+
+Cost: 75,000 (new), 28,000 (used) Maneuverability: 2D+2
+Move: 520; 1,500 kmh
+Body Strength: 4D
+Weapons:
+
+Double Blaster Cannon (fire-linked)
+
+Fire Arc: Front
+Crew: 1 (co-pilot)
+Skill: Vehicle blasters
+Fire Control: 1D
+Range: 50-400/900/3 km
+Damage: 5D
+
+## PODRACERS
+
+A Podracer, or “pod,” is essentially a one-pilot cockpit attached to two racing engines via strong cables. The special engines for these craft traditionally come in one of two varieties of mechanical action: internal combustion engine types or rocket motor types. At a distance, one can differentiate engines from motors by noting if there are rotating fan/turbines at the front of the craft (engines had large rotating fans, motors lacked them). Energy binders projected from each engine connected both turbines together, forming a loose triangular configuration with the pod itself, dragged behind the engines, at the highest point. A racer can commonly achieve speeds in excess of eight hundred kilometers per hour.
+
+#### RADON-ULZER PODRACER
+
+Craft: Radon-Ulzer 620C
+Type: Pod racer
+Scale: Speeder
+Length: 7 meters
+Skill: (A) Podracer operation
+Crew: 1
+Passengers: None
+Cargo Capacity: 5 kilograms
+Cover: 1/2
+Altitude Range: Ground level-105 meters
+
+Cost: 8,000 (new), 6,000 (used) Maneuverability: 1D
+Move: 325; 945 kmh
+Body Strength: 2D
+
+## SAIL BARGES
+
+Sail barges are massive vehicles that are long on luxury and short on practicality. They feature massive sails, as a throwback to the legendary days of early planetary explorers, and are covered with gaudy ornamentation. They are normally used as pleasure craft, vacation vessels and touring vehicles, able to cross any smooth, rolling, or flat surface. They are slow (they seldom travel faster than 100 kilometers per hour, and most have to struggle to reach that speed), and have a low flight ceiling (normally less than 10 meters).
+
+### Ubrikkian Luxury Sail Barge
+
+The Ubrikkian sail barge is a luxury vessel primarily used as a touring craft, for entertaining, or as vacation complexes. They regularly traverse sand, water, and ice seas, providing passengers with the comforts of an expensive hotel while moving across exotic terrain. One company known for its sail barge vacation packages is Galaxy Tours (a subsidiary of Star Tours). Sail barge cruises are expensive, usually undertaken only by wealthy businessmen, planetary royalty, or high-ranking officials. Of course, Jabba the Hutt owned a Ubrikkian Sail Barge, which he used has his personal pleasure craft.
+
+#### SAIL BARGE
+
+Craft: Ubrikkian Luxury Sail Barge
+Type: Sail barge
+Scale: Walker
+Length: 30 meters
+Skill: Repulsorlift operation: sail barge Crew: 26, gunners: 1, skeleton: 10/+10 Crew Skill: Varies widely
+Passengers: 500
+Cargo Capacity: 2,000 metric tons
+Cover: Full
+Altitude Range: Ground level-10 meters Cost: 285,000 (new), 150,000 (used) Move: 35; 100 kmh
+Body Strength: 2D
+Weapons:
+
+Heavy Blaster Cannon
+
+Fire Arc: Turret
+Crew: 1
+Scale: Speeder
+Skill: Vehicle blasters
+Fire Control: 1D
+Range: 50-100/500/1 Km
+Damage: 3D
+
+[Página impressa 413 | PDF 415]
+
+## SKIFFS
+
+Skiffs are used for any large cargo and relatively low-speed and low-altitude transportation. They tend to be slow and clumsy, and can be easily operated, even by low intelligence labor droids.
+
+### Bantha-II Cargo Skiff
+
+The Bantha-II is a typical heavy cargo speeder, little more than a platform with a railing around it. Though slow by the standards of most speeders, its simple controls and heavy lifting capacity make it effective as a cargo carrier and mid-range transport. The skiff’s open deck makes it easy to load, and its long, lean frame allows it to move into tight spaces and close to loading docks. However, the skiff’s large maneuvering vanes, which are easy to damage, make the Bantha-II unpopular for use in crowded cities and on industrialized planets.
+
+Although the skiffs lack the armor and durability to serve as true military vehicles, they can be used as troop carriers, moving infantry close to a battle without coming directly under fire. Some crime lords and gangs mount defensive plates and heavy weapons on skiffs for intimidation purposes (reducing the top speed to 200 kilometers per hour), but these modified skiffs are effective only in nonmilitary conflicts, such as providing cover for smuggler operations or threatening lightly armed civilians. More creative crime lords sometimes add theatrical enhancements, such as extending planks for executions and imposing mastheads of mythological creatures.
+
+Modified versions of the Bantha-II adapt the skiff to the environments of specific worlds. On planets with toxic fumes or dangerous plant life, the skiffs might have enclosed pilothouses and decks to grant life support to passengers. Aquatic skiffs can float on the surface of a lake or river even when unpowered and feature spray-screens to keep passengers dry in a downpour or in whitewater rapids. Skiffs used on desert worlds are equipped with screens and cooling vents to keep them operational during sandstorms.
+
+#### CARGO SKIFF
+
+Craft: Ubrikkian Bantha II Cargo SKiff Type: Cargo skiff
+Scale: Speeder
+Length: 9 meters
+Skill: Repulsorlift operation: cargo skiff Crew: 1
+Passengers: 16
+Cargo Capacity: 120 metric tons
+Cover: 1/2
+Altitude Range: Ground level-50 meters Cost: 8,000 (new), 3,000 (used)
+Move: 70; 200 kmh
+Body Strength: 1D
+
+# GROUND VEHICLES
+
+The Republic found walkers to be more useful than repulsor vehicles in many engagements, and the Empire took to them as their primary heavy land units. As the New Order first started transitioning from the Grand Army of the Republic to the Imperial Army, numerous new walker designs were tried, many of which proved too expensive for long-term use. In order to fill the need for heavy assault ground vehicles, the Empire often used wheeled and tracked (relics of the Clone Wars) to supplement their forces.
+
+### A5 Juggernaut
+
+Smaller and older than the A6 Juggernaut that dominated the battlefields of closing days of the Clone Wars, the A5 Juggernaut is a 10-wheeled, heavily armored assault vehicle that continues to see use in many Imperial forces despite its age. Wherever an AT-AT or similar heavy walker isn’t available, an A5 is used as a replacement. Though faster than an AT-AT, the A5 is less maneuverable (especially in rough terrain), slightly less resistant to damage, and requires a larger crew. It also mounts slightly lighter weapons, and it lacks the power generation to upgrade to lasers as powerful as those on an AT-AT. Despite these shortcomings, an A5 is a dangerous and versatile combat vehicle. It can effectively spearhead a ground assault, act as a mobile command center, engage in hit-and-run raids, and even act as an antiaircraft battery when engaging airspeeders or low-flying starfighters.
+
+Though the Empire owns more A5s than anyone else, as the years pass and the Empire retires and replaces them, other groups begin picking them up. Many Imperial A5s are left as smoking wrecks on battlefields, and while it’s not worth the Empire’s time or money to recover and repair them, crime cartels, major corporations, and insurgent groups are willing to go to much greater lengths to acquire such a powerful ground unit.
+
+[Página impressa 414 | PDF 416]
+
+#### A5 JUGGERNAUT
+
+Craft: Kuat Drive Yards’ HAVw A5 Juggernaut
+Type: Heavy assault vehicle
+Scale: Walker
+Length: 21.8 meters
+Skill: Ground vehicle operation: Juggernaut
+Crew: 2; gunners: 6
+Crew Skill: Ground vehicle operation 4D+2, missile weapons 4D, vehicle blasters 4D+1
+Passengers: 50 (troops)
+Cargo Capacity: 1 metric ton
+Cover: Full
+Cost: Not available for sale
+Maneuverability: 0D
+Move: 70; 200 kmh, slows to 8; 25 kmh when turning
+Body Strength: 5D
+Weapons:
+
+3 Heavy Laser Cannons
+
+Fire Arc: 1 turret*, 1 left, 1 right
+Crew: 2
+Skill: Vehicle blasters
+Fire Control: 2D
+Range: 50-50/1/2 Km
+Damage: 6D
+* Note: The Juggernaut’s heavy laser cannon turret can turn to face the left, front and right fire arcs only. It may move the turret one fire arc per turn (from left to front, right to front, front to right or front to left).
+Medium Blaster Cannon
+
+Fire Arc: Turret
+Crew: 1
+Skill: Vehicle blasters
+Fire Control: 1D
+Range: 50-250/750/1.5 Km
+Damage: 4D
+1 Concussion Grenade Launchers
+
+Fire Arc: Turret
+Crew: 1
+Skill: Missile weapons
+Fire Control: 1D
+Range: 50-100/250/500
+Damage: 8D+1
+
+# HOVER VEHICLES
+
+Hover vehicles generate a cushion of air below the craft for travel over various types of terrain. Hovercraft are generally unwieldy, but they are used on many primitive worlds and are sometimes used for specific military applications. They are also used on planets with unusual gravitational fluctuations or other quirks which interfere with repulsorlift operation.
+
+### Waveskimmer
+
+The Waveskimmer is an effective dedicated aquatic combat hover vehicle. While not intended to replace the AT-
+AT swimmer, the Waveskimmer, or “Wave Walker”, is most useful for augmenting an existing Imperial presence. The Waveskimmer is a surface craft allowing great speed and mobility, The vehicle is based on an augmented AT-AT walker frame, although specially modified for water combat. The biggest difference is the propulsion system — the Waveskimmer is not a walker at all. The vehicle rests on two pontoon-like stabilizers on the ends of flattened booms. These booms are based on the same variable geometry servo-motors used in some snubfighters and the Lambda-class shuttle. The booms are equipped with micro-
+
+repulsorlift generators for stability, drive and maneuvering. In the flattened position, the whole body floats on the surface of the water and troops can either drop directly through the bottom hatch to evade notice, or depart or unload equipment through a back cargo door.
+
+When the Waveskimmer begins to move forward, the surface tension of the water creates a virtual solid surface, eliminating the instability suffered by traditional boats. The repulsor units keep it a few centimeters above the surface of the water. As it gains speed, the support booms lock into position, lifting the whole body out of the water until only the pontoons are near the surface. This allows a great rate of speed. The vehicle has proven remarkably effective in assault duty.
+
+#### WAVESKIMMER
+
+Craft: Waveskimmer
+Type: Attack hydrofoil
+Scale: Walker
+Length: 14 meters
+Skill: Hover vehicle operation: Waveskimmer
+Crew: 3, gunners: 2
+Crew Skill: Vehicle blasters 5D, hover vehicle operation 4D
+Passengers: 28 (troops)
+Cargo Capacity: 1 metric ton
+Cover: Full
+Cost: Not available for sale (285,000 credits on the invisible market) Maneuverability: 1D
+Move: 55; 160 kmh
+Body Strength: 3D
+Weapons:
+
+2 Medium Blaster Cannons
+
+Fire Arc: 1 front/left*, 1 front/right*
+ *The blaster cannon can only be turned to one facing per round. Crew: 1 (co-pilot)
+Skill: Vehicle blasters
+Fire Control: 1D+1
+Range: 50-350/1/1.5 Km
+Damage: 4D
+2 Light Blaster Cannons
+
+Fire Arc: 1 front, 1 back
+Crew: 1
+Skill: Vehicle blasters
+Fire Control: 1D
+Range: 50-300/500/1 Km
+Damage: 2D
+2 Concussion Torpedo Launchers (fire-linked)
+
+Fire Arc: Front
+Crew: 1 (co-pilot)
+Skill: Missile weapons
+Fire Control: 1D
+Range: 10-500/1/2 Km
+Damage: 3D

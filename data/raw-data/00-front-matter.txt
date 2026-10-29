@@ -1,0 +1,84 @@
+FRONT MATTER
+(Páginas impressas 1-4 | PDF 3-6)
+
+[Página impressa 1 | PDF 3]
+
+### THE STAR WARS ROLEPLAYING GAME : REVISED, EXPANDED AND UPDATED DESIGN:
+
+The “REUP Team”
+
+### PREVIOUS EDITION DESIGNERS
+
+Greg Costikayn, Steven Crane, Greg Farshtey, Greg Gorden, Bill Smith, Peter Schweighofer,
+
+Bill Slavicsek, Ed Stark, George R. Strayton, Paul Sudlow, Eris S. Trautmann.
+
+### PLAYTESTING
+
+Cliff Adams, Dennis F. Belanger, John Beyer, Kathy Burdette, Craig Robert Carey, Kevin M. Carroll, Chris Doyle, Tony Frederico,
+
+Richard Hawran, Gary Haynes, Harry Heckel, Sterling Hershey, Pablo Hildago, Robert Hodurski, Wayne Humfleet,
+Jason S. Kinzley, Michael Kogge, Tim Kogge, Stephen Marinaccio, Patrick M. McLaughlin, Tim O'Brian, John B. Owens,
+Daniel Scott Palter, Christopher John Parks, Jean Rabe, Kevin Schiman, Steven Schuman, Amy Thomas, Chuck Truett, Floyd C. Wesel.
+
+...and the thousands of fans who have played and commented upon the game over the past decades.
+
+Thank you all and may the Force be with you!
+
+SECOND PRINTING: FEBRUARY 2015
+
+All references to the Star Wars, Expanded Universe, or any of the Star Wars films, characters, creatures, vehicles, droids, or other related content are ®, TM & © Lucasfilm Ltd. (LFL) and Walt Disney Corporation respectively. All Rights Reserved, Trademarks of LFL and Disney are not used with any express permission of the holder. In no way does the Star Wars Roleplaying Game: Revised, Expanded, and Updated intend to represent itself (as an entity) as licensed propriety of the license holder or trademark owner. This document is a “fan work” and is provided as a free exchange of information under a Creative Commons license. Open D6 System is a copyright/license free, “open” system, no copyright is asserted on the system mechanics, text, graphic design, art, or any other aspect of this document. Reproduction of this document is at the user's discretion and in no way do the authors/designers of this work condone the distribution, sale, or promotion of this game. Any such distribution is done without the knowledge of any party who worked on this document, which is intended as a “private” and “personal” copy.
+
+[Página impressa 2 | PDF 4]
+
+# FOREWARD...
+
+Welcome to the fourth, and likely the final iteration of the D6 system Star Wars Roleplaying Game. For many decades this game has brought players and gamemasters many adventures and stories. The D6 system has a unique way of bringing the cinematic nature of the Star Wars movies to life in a roleplaying environment.
+
+The Second Edition was the second roleplaying game I ever owned, and the first I ever ventured to gamemaster. It was truly a small step into a larger world. The D6 system is so very simple and easy to learn, almost anyone can step up to run or play the game. However, one must not consider the system to be “basic” or a beginner game. It is so elegantly intertwined with expansiveness, that the game remains fresh and relevant for decades after one rolls his first D6.
+
+In short, that is why the team behind this fan project sacrificed thousands of hours of time to bring this “legacy game” back from oblivion. It is a game that is fantastically fun to play, even without the amazing Star Wars setting. It is a game that so many people cite as one of their favorites. But, before this book, the game was a relic, and often considered archaic in light of several other publishers attempting to mirror the brilliance of the D6 system.
+
+So what did we want to do about it? Well, the small group of designers, amateurs, writers, and gamers that eventually became the “REUP Team” (REUP meaning Revised, Expanded, and UPdated, the title of this edition) had a wish to bring the most celebrated version of the game (the Second Edition, Revised and Expanded) back into a digital format for easier distribution among those in their gaming groups. Since the material was going to be digitized anyway, it was a great opportunity to import many of the great expansion rules, gamemaster advice, and material from the prequel movies into the game.
+
+So what you are holding in your hands, or reading on your tablet, is the result of that project. A project that spanned over two years, and several talented individuals. A labor of love that we now present to you, the prospective player, gamemaster, or simply an intrigued Star Wars aficionado.
+
+We also want to make it clear, that we harbor no ill will toward other versions of Star Wars roleplaying games. Quite the opposite, we celebrate the fact that there is so much interest in gaming. We also have no desire to offend any license holder or copyright holder. We are merely keeping our favorite licensed Star Wars product alive forever, if possible.
+
+So did we change anything? Well honestly not much. The game — at its core — is Second Edition, Revised and Expanded. The Updated bit refers to the various “expansion rules” from West End Game sourcebooks and supplements, and the new statistics for various prequel vehicles, aliens, starships etc...
+
+You will not find every stat block in this book. We hope to write more books, revising fan statistics from many various Star Wars sources, both Canon and Legends. Time will only tell if we will be able to meet these lofty goals, but keep looking to the Rim, and one day you may see them.
+
+So as you begin your journey into the Star Wars universe, we wish you the best. We sincerely hope our fan project meets your expectations. There is a lot of “fluff” in this book about how to run a game. We included this information, not just to make a big thick book, but rather to give all of the tools necessairy to the beginner, and expert, to run a successful Star Wars game. It is you, the gamemaster and player, who will keep this game alive.
+
+Above all, keep fun at the center of your game... and the Force will be with you... always!
+
+— The REUP Team
+
+[Página impressa 3 | PDF 5]
+
+# TABLE OF CONTENTS
+
+## PLAYER SECTION
+
+Chapter 1: Introduction....................................5
+
+Escape Pod Down........................................8 Player Handout..........................................14 Chapter 2: Characters....................................18 Chapter 3: Attributes & Skills........................32
+
+## GAMEMASTER SECTION
+
+Chapter 4: How to Gamemaster....................67 Chapter 5: The Rules......................................72 Chapter 6: Combat & Injuries.........................88 Chapter 7: Movement & Chases..................106 Chapter 8: Space Travel & Combat..............119 Chapter 9: Running Battles.........................140 Chapter 10: The Force..................................146
+
+## ADVENTURE SECTION
+
+Chapter 11: Running Adventures................180 Chapter 12: Designing Adventures..............196 Chapter 13: The Pirates of Prexiar..............231
+
+## UNIVERSE SECTION
+
+Chapter 14: The Galaxy................................243 Chapter 15: Gamemaster Characters..........263 Chapter 16: Aliens........................................277 Chapter 17: Creatures..................................318 Chapter 18: Equipment & Weapons............333 Chapter 19: Droids.......................................367 Chapter 20: Vehicles....................................401 Chapter 21: Starships..................................415 Chapter 22: Planets.....................................453
+
+Templates.....................................................475 Character Sheet...........................................501 Index.............................................................503
+
+[Página impressa 4 | PDF 6]
+
+

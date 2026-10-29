@@ -1,0 +1,1058 @@
+CHAPTER 6: COMBAT & INJURIES
+(Páginas impressas 88-105 | PDF 90-107)
+
+[Página impressa 88 | PDF 90]
+
+6
+
+# COMBAT & INJURIES
+
+“Combat. You could say I’ve seen my fair share. If there’s anyone around here who knows how to fight, it’s me. And you’d best listen to me because when the blaster bolts start flying, you either do it right or you end up buried.
+
+“There’s no margin for error and no room for rookies or cowards. You’d better learn how to handle a blaster. In my line of work, your blaster is your best — your only — friend.
+
+“Before we go any further, here’s two tips.
+
+“One. Don’t get shot. Yeah, it’s an obvious one... but you’d be surprised how quickly people forget in the heat of combat. You’re better off dodging blaster bolts and parrying melee weapon attacks than getting hit. Not too many people can eat a blaster bolt and walk away from it...
+
+“Two. Be prepared in case you do get hurt. Always have a medpac or two... or three... so you don’t end up dying on the battlefield. Make sure you know the way to the nearest bacta tank. Make sure your friends know the way, too.
+
+“Sure, it sounds grim. That’s why they call it war, kid.”
+
+# COMBAT
+
+Stormtroopers and Rebel troops trade fire in a hail of blaster bolts, as explosions fill the corridors of Princess Leia’s Rebel blockade runner...
+
+Luke Skywalker, lightsaber held at the ready, charges into battle against Jabba the Hutt’s minions...
+
+These scenarios bring much of the enjoyment to watching the Star Wars movies, now you can create firefights and lightsaber battles to bring the same excitement to your players.
+
+CHAPTER SIX
+
+[Página impressa 89 | PDF 91]
+
+Combat is an important part of the Star Wars trilogy, and these rules help you run exciting battles in your game.
+
+Combat is normally fought in five second rounds (as outlined in “The Rules”). Each attack in an action uses the game’s basic rules:
+
+• Determine the difficulty number to hit the target.
+
+• The attacking character rolls his attack skill.
+
+• If the roll is higher than the difficulty number, the attack hits and causes damage (see “Damage”).
+
+Combat should be like the rest of the game: quick and exciting. The blaster bolts should fly fast and furious... and while the rules allow you to measure every attack’s range down to the nearest meter, don’t be afraid to “fudge” a little to keep things going quickly.
+
+Use your judgment to estimate ranges and difficulty numbers to hit targets. If you’re fair and consistent — and if the battles are exciting — your players will forgive minor errors and hesitations. (If a player argues with one of your decisions, listen, but your say is final: that’s why you’re the gamemaster.)
+
+There are two types of combat: ranged and melee.
+
+## RANGED COMBAT
+
+Ranged combat covers any weapon that can be used at a distance, including blasters, grenades and thermal detonators, Wookiee bowcasters, slugthrowers, bows... even throwing spears and knives.
+
+Every ranged weapon is covered by a specific skill. (Unless otherwise noted, use the Dexterity attribute if the skill hasn’t been improved.)
+
+• Blasters use blaster.
+
+• Bowcasters use bowcaster.
+
+• Primitive slug-throwing guns (submachine guns and such) use firearms.
+
+• Grenades and thermal detonators use grenades.
+
+• Thrown knives, spears, slings and similar weapons use thrown weapons.
+
+• Grenade launchers and similar weapons use missile weapons.
+
+• Heavier blasters mounted on vehicles use vehicle blasters
+
+• Large artillery pieces use blaster artillery.
+
+If in doubt, check the weapon’s description, which lists its skill (and specialization).
+
+Each ranged weapon’s description lists the damage die code and several ranges (in meters). Each weapon’s ranges are different, so check them when combat starts. Here’s a typical listing for a blaster pistol:
+
+Blaster Pistol: 4D, 3-10/30/120.
+
+(The pistol causes 4D damage; that’s explained under “Damage.”) The ranges listed are short, medium and long range.
+
+For this blaster pistol, anything that is 3 to 10 meters away is at short range. (Any target that’s closer than three meters is at point-blank range.) Any target that’s 11 to 30 meters away is at medium range. Any target that’s 31 to 120 meters away is at long range. (This particular blaster pistol can’t hit a target that is farther than 120 meters away.)
+
+• Shooting a target at point-blank range is a Very Easy task.
+
+• Shooting a target at short range is an Easy task.
+
+• Shooting a target at medium range is a Moderate task.
+
+• Shooting at a target at long range is a Difficult task.
+
+Just like in the regular rules, once you know the difficulty, you have to pick a difficulty number. If the attack roll is equal to or greater than the difficulty number, the shot hits; roll damage. (See “Damage.”)
+
+Example: Thannik is shooting a blaster pistol (4D damage) at a stormtrooper that’s 27 meters away. Thannik uses his blaster: blaster pistol specialization of 6D; since 27 meters is at medium range for a blaster pistol, his difficulty is Moderate. The gamemaster picks a difficulty number of 13. Thannik’s attack roll is 16 — the shot hits. Thannik now gets to roll damage against the trooper.
+
+Difficulty numbers can be affected by reaction skills and/or any number of modifiers (see “Combat Modifiers”).
+
+Estimating Ranges. Rather than measuring out ranges every round, you can use estimates:
+
+• Targets that are very close — within three meters of each other — are at point-blank range. (Very Easy difficulty.)
+
+• Most combat indoors is at short range. (Easy difficulty.) If the room is fairly large and the combatants are at opposite ends of it, blaster rifles will still be at short range (Easy difficulty), but blaster pistols will probably be at medium range (Moderate difficulty).
+
+• Most combat outdoors is at medium range (Moderate difficulty). Sometimes, blaster pistols are at long range (Difficult difficulty), while blaster rifles are still at medium range (Moderate difficulty).
+
+• Outdoor combat at great distances is generally at long range (Difficult difficulty).
+
+[Página impressa 90 | PDF 92]
+
+## MELEE COMBAT
+
+Melee combat covers any hand-to-hand combat weapon, including lightsabers, vibroblades, vibro-axes and similar weapons. Most melee attacks use the melee combat skill (or Dexterity attribute). Lightsabers use the lightsaber skill (or Dexterity attribute).
+
+Every melee weapon has a difficulty to use: Very Easy, Easy, Moderate, Difficulty, Very Difficult or Heroic. (Pick a specific difficulty number for the attack.)
+
+If the attack roll is equal to or greater than the difficulty number, the attack hits; roll damage.
+
+Example: Thannik is attacking a stormtrooper with a vibroblade. He hasn’t improved his melee combat skill, so he just uses his Dexterity attribute of 4D. The vibroblade has a Moderate difficulty to use; the gamemaster picks a difficulty number of 14. Thannik’s Dexterity roll is a 12 — his attack misses!
+
+Melee combat also includes brawling: any attack made with a character’s bare hands (or claws or whatever). If the character’s brawling skill hasn’t been improved, roll his Strength attribute.
+
+Brawling attacks have a difficulty of Very Easy. If the attack roll is equal to or greater than the difficulty number, the attack hits; roll damage.
+
+Example: Thannik doesn’t think he’s going to have much luck with the vibroblade because it’s too hard to use, so he drops it and takes a swing at the stormtrooper. The brawling difficulty is Very Easy; the gamemaster picks a difficulty number of five.
+
+Thannik hasn’t improved his brawling, so he rolls his Strength attribute of 3D+2 and gets a nine.
+
+Crack! Thannik’s fist goes smashing into the stormtrooper’s helmet. (Whether Thannik causes any damage is another story...)
+
+Difficulty numbers can be affected by reaction skills and/or any number of modifiers (see “Combat Modifiers”).
+
+## REACTION SKILLS
+
+Of course, when someone takes a shot at you or swings at you with a vibro-ax, you can try to get out of the way — that’s where reaction skills come in. (As explained in “The Rules,” you can use a reaction skill at any time.)
+
+Here are the reaction skills and what they’re used for:
+
+• Dodge. Your character dodges to get out of the way of any ranged attack: a blaster shot, a bullet, a missile, a grenade and any similar attack. (If your character doesn’t have dodge, you use Dexterity.)
+
+• Melee parry. If someone attacks your character (either with a brawling attack or when wielding a melee weapon) and your character has a melee weapon (knife, vibro-ax... even a chair or a mug will do in an emergency!), you use melee parry to get out of the way or block the attack. (If your character doesn’t have melee parry, you use Dexterity.) If your character is defending against someone who is unarmed and doesn’t have sharp natural weapons, he gets a +5 bonus modifier to his melee parry roll.
+
+• Brawling parry. If someone attacks your character (either with a brawling attack or when wielding a melee weapon) and your character’s unarmed, you use brawling parry to get out of the way or block the attack. (If your character doesn’t have brawling parry, you use Dexterity.) If your character is using brawling parry in defending against someone who is attacking with a weapon or sharp natural tools, the attacker gets a +10 bonus modifier to his attack roll.
+
+• Lightsaber. If someone attacks your character (either with a brawling attack or when wielding a melee weapon) and your character is wielding a lightsaber, you use the lightsaber skill (or Dexterity attribute) to get out of the way or block the attack.
+
+• Repulsorlift operation (or other vehicle skill). If your character is driving or piloting a vehicle, you can make a “vehicle dodge” to get out of the way of enemy fire. Roll the vehicle’s operation skill: most vehicles use repulsorlift operation, but there are some other vehicle skills. (If your character doesn’t have the vehicle’s operation skill, you use Mechanical.) Vehicle combat is explained in “Movement and Chases.”
+
+• Capital ship piloting, space transports or starfighter piloting. If your character is piloting a starship, you can make a “starship dodge” to get out of the way of enemy fire. Roll the starship’s skill: most starships use either capital ship piloting, space transports or starfighter piloting. (They’re all Mechanical skills.) Starship combat is explained in “Space Travel and Combat.”
+
+When using a reaction skill, the character makes the skill roll. (Don’t forget to add penalties for multiple actions.) The roll is the attacker’s new difficulty number. (This difficulty number is in effect for all attacks of that type made against the character for the rest of the round.)
+
+[Página impressa 91 | PDF 93]
+
+### COMBAT IS DANGEROUS!
+
+Combat in the Star Wars game is fairly lethal. The key to survival is not to get hit.
+
+If someone is shooting at your character, you should probably think about dodging. If someone comes after your character with a vibro-ax or lightsaber, it’s probably a good idea to parry the attack.
+
+Just like in the movies, most characters that get shot are seriously injured or killed. You’ve been warned!
+
+Note: A poor reaction skill can actually make it easier to hit a character — sometimes people accidentally leap in to the line of fire or move right into someone’s attack!
+
+Example: Thannik is being shot at by a storm-trooper, so he decides to dodge. The stormtrooper is at short range: Easy difficulty, with a difficulty number of 8. Thannik rolls his dodge of 6D and gets a 27. Now, the stormtrooper must roll a 27 or better to hit Thannik. Anyone else who shoots at Thannik in this round must also roll a 27 or better. However, if someone makes a brawling attack on Thannik, the difficulty is still Very Easy (difficulty number of 5); if Thannik wanted to block the attack, he’d also have to make a brawling parry roll.
+
+One round later, three stormtroopers are going to shoot at Thannik. Their difficulties are Easy (difficulty number 6), Easy (difficulty number 8) and Difficult (difficulty number 17). Thannik decides to dodge and gets a 14 — now all three troopers must roll a 14 or better to hit him.
+
+Full Reaction. A character can make a “full reaction.” A full reaction — dodge, melee parry, brawling parry, lightsaber, vehicle dodge or starship dodge — can be the only action the character makes in the entire round.
+
+The character rolls his dodge or other reaction skill and adds it to the difficulties of all attacks made against him that round.
+
+Example: Thannik is getting shot at by three stormtroopers: two are at medium range (Moderate difficulty, difficulty number 13), while one is at short range (Easy difficulty, difficulty number 8). Thannik decides to make a full dodge and rolls a 27. Now the troopers at medium range must roll a 40 to hit, while the trooper at short range must roll a 35 to hit him.
+
+Unfortunately, later in the round a thug attacks Thannik with a vibro-ax: a melee combat attack, at Moderate difficulty with a difficulty number of 12. Thannik can’t melee parry because he made a full dodge: he has to hope that the thug’s attack misses.
+
+# COMBAT MODIFIERS
+
+There are a number of special combat rules and modifiers that gamemasters can include in their games.
+
+Drawing Weapons. It takes one action per item to draw a blaster, unsheathe a knife, reload a rifle, or something similar. Although this generally does not require a skill roll, the gamemaster may require one related to the weapon in question for particularly stressful situations.
+
+[Página impressa 92 | PDF 94]
+
+Drawing and using the weapon in the same round incurs a multiple-action penalty (reduces all other actions in that round by −1D). The gamemaster may add further modifiers for attempting to retrieve an item from a restrictive location or ready an unwieldy weapon.
+
+Setting Weapons on Stun. Most blasters have two settings: normal and stun. A character can switch a weapon’s setting in a round, but it counts as an action (−1D to all other actions that round). See “Damage” for rules on normal and stun damage.
+
+Fire Control. Some large weapons — like blaster artillery, blasters on speeder and starship weapons — have fire control. When a character uses a weapon with fire control, he rolls it and adds it to his attack roll.
+
+Example: Thannik fires a speeder bike’s laser cannon. (The weapon normally uses the vehicle blasters skill, but since Thannik hasn’t improved the skill, he just uses his Dexterity attribute of 4D.) The laser cannon has a fire control of 2D, so Thannik gets to fire 6D to hit his target!
+
+Ammunition. Many ranged weapons have an ammunition rating (ammo). When the weapon has fired as many times as its ammo rating, it is out of ammunition and must be reloaded. Unless specified otherwise, reloading takes one action.
+
+Fire Rate. Some weapons have a fire rate. If there is no fire rate, the weapon can be fired as often in a round as the character wishes. If the fire rate is a simple whole number (like 2 or 4), that is the maximum number of times that the weapon can be fired in a single round. If the fire rate is listed as a fraction, it means that the weapon can only be fired in some rounds.
+
+Example: A repeating blaster with a fire rate of 3 can be fired three times per round. A laser cannon with a fire rate of 1/2 can be fired once every two rounds. A weapon with a fire rate of 1/5 can be fired once every five rounds.
+
+Blast Radius. Some weapons have a blast radius: everything within the blast radius is affected.
+
+Example: A blaster cannon that causes 4D damage with a blast radius of five meters is fired. Everything within five meters of where the blast hits suffers 4D damage.
+
+Some weapons have several ranges for blast radius — the further away from the center of the blast, the less damage the weapon does.
+
+Example: A standard fragmentation grenade has the following listings: damage: 5D/4D/3D/2D; blast radius: 0-2/4/6/10. When the grenade explodes, every
+
+one within two meters takes 5D damage; everyone three to four meters away takes 4D damage; everyone five to six meters away takes 3D damage; and everyone seven to 10 meters away takes 2D damage.
+
+Because blast radius weapons are so powerful, you may want to determine exactly where a shot hits if the attack roll misses: you can use the “grenade deviation” rules below.
+
+## GRENADES AND THERMAL DETONATORS
+
+When throwing a grenade, the thrower picks a target point; you determine the difficulty based on the range.
+
+Add a +5 to +10 modifier to the difficulty if the thrower cannot see where he is throwing the grenade (such as over a wall).
+
+If the roll is equal to or greater than the difficulty number, the grenade hits its target point. If the roll is lower it misses; see “Grenade Deviation.”
+
+Grenades have several activators: some are contact-based, some are time-based. If the grenade is contact-based, it will explode when it hits something. If it uses a timer, it will explode after a set amount of time. If the timer is set for less than five seconds, the grenade explodes at the end of the round in which it was thrown.
+
+Grenade Deviation. If the character misses with the grenade throw, the weapon lands somewhere else.
+
+First, roll 1D to determine in which direction it deviates from the target point (see “Grenade Deviation Diagram”).
+
+You must also determine how far the grenade goes. If the throw was at point-blank or short range, it deviates 1D meters. If the throw was at medium range, it deviates 2D meters. If the throw was at long range, it deviates 3D meters.
+
+## GRENADE DEVIATION DIAGRAM
+
+[Página impressa 93 | PDF 95]
+
+Example: There is a cluster of five stormtroopers 20 meters away; Thannik decides a grenade will fix this problem nicely. Twenty meters away is medium range (Moderate difficulty; difficulty number 14). Thannik rolls his Dexterity of 4D (since he hasn’t improved grenade) and gets an 11. He missed!
+
+Now, the gamemaster has to determine how far away the grenade lands. First, he rolls 1D to determine the deviation direction and gets a 4 — the grenade lands short of where Thannik was throwing it. The grenade was being thrown at medium range, which means it deviates 2D meters. The gamemaster rolls and gets a 7 — the grenade falls seven meters short: Thannik only threw it 13 meters.
+
+The grenade has a blast radius of 10 meters, though — the stormtroopers are between six and 10 meters away, so they each take 2D damage from the grenade. Fortunately for Thannik, he’s more than 10 meters away from the grenade, so he doesn’t take damage.
+
+Dodging Grenades. Characters can dodge grenades, but this only means they hit the deck and avoid damage.
+
+Example: Thannik decides to throw a grenade at two stormtroopers 16 meters away. That’s medium range (Moderate difficulty; difficulty number 13). Thannik rolls his Dexterity and gets a 17 — the grenade lands where Thannik was aiming.
+
+The stormtroopers decide to dodge — if they roll an 18 or higher, the grenade still hits where Thannik was aiming but they manage to hit the deck and take no damage. If one of the troopers rolls a 17 or less, he still takes damage... and since he’s less than three meters from the grenade, he takes 5D damage.
+
+Tossing Grenades Away. Brave characters can try to grab a grenade and throw it away if there’s time left. (Most people set the timer for five seconds so the grenade explodes immediately after it lands.)
+
+The character may pick a specific spot to throw the grenade (determine difficulty normally) or can throw it “as far away as possible” — have the character roll his grenade or Dexterity; the grenade goes as far as the roll will send it.
+
+Example: Thannik is cautiously moving across a battlefield when he sees a grenade coming in at him. He ducks behind a plasticrete wall and waits for the big boom!
+
+There’s no explosion after a second or two. Whoever threw it must have set the timer for too long. Peeking out over the wall, he sees the grenade one meter in front of him. He jumps up, grabs the grenade and hurls it as far as he can. Thannik’s Dexterity roll is a 13 — that’s a Moderate total, which is medium range for a grenade: 11-20 meters away. That’s good enough because it means Thannik isn’t in the blast radius. Of course, things could have been a lot uglier if the timer had run out before Thannik threw the grenade...
+
+## COVER
+
+Characters are harder to hit when they’ve got cover: something that hides them from attackers. In some situations, such as thick smoke and fog, these modifiers may also be added to search or Perception difficulties to spot a hidden character.
+
+Add the cover modifier (or modifiers if more than one applies) to the difficulty to hit the target.
+
+Cover | Modifier
+Light smoke | +1D
+Thick smoke | +2D
+Very thick smoke | +4D
+Poor light | +1D
+Moonlit night | +2D
+Complete darkness | +4D
+
+Example: Thannik is in a dark alley looking for his target. He spots movement in the back of the alley and sees that it’s the person he’s trying to track down. The target is at medium range (Moderate difficulty; difficulty number 13), but it’s a moonlit night, which adds +2D to the difficulty. The gamemaster rolls and gets a 5. Thannik’s new difficulty is an 18. He rolls a 15 — his shot misses.
+
+Characters can also hide behind objects — such as walls and parked speeders — which provide cover and protection (see “Protection”). Add the cover modifier based on how much of the target character is covered.
+
+Target is: | Modifier
+¼ covered | +1D
+½ covered | +2D
+¾ covered | +4D
+
+Fully covered
+The attacker cannot hit the target directly; attacker must eliminate the cover. Damage done to the cover, however, might exceed the Armor Value it provides, and indirectly, damage the target.
+
+[Página impressa 94 | PDF 96]
+
+Example: Thannik’s target ducks behind a couple of metal garbage bins and he’s now ½ covered. That’s an extra +2D to the difficulty to hit him.
+
+The target is still at medium range (Moderate difficulty, difficulty number 13). The gamemaster rolls 2D for the moonlit night (and gets a 10) and another 2D for the garbage bins (and gets a 7): Thannik’s blaster: blaster pistol difficulty is a 30!
+
+## PROTECTION
+
+Sturdy objects may provide protection. If the attacker rolled well enough to beat the basic difficulty, but not well enough to beat the added cover modifier, that means that the shot hit whatever the character was hiding behind. Roll the attack’s damage against the protection’s body strength.
+
+Sample Protection | Body Strength
+Flimsy wooden door | 1D
+Standard wooden door | 2D
+Standard metal door | 3D
+Reinforced door | 4D
+Blast door | 6D
+
+If the damage roll is lower than the body strength roll, the protection is not damaged at all and the target character suffers no damage. If the damage roll is equal to or greater than the protection’s body strength roll, find the difference on the chart below to see how badly the protection is damaged.
+
+Strength Roll by: | Protection is:
+0-3 | Not seriously damaged
+4-8 | Lightly damaged
+9-12 | Heavily damaged
+13-15 | Severely damaged
+16+ | Destroyed
+
+Damage Roll ≥ Body
+
+A character behind protection may suffer some damage depending upon how badly his protection is damaged. Subtract dice from the attack’s damage based on the chart below.
+
+Protection is: | damage by:
+Not seriously damaged | No damage
+Lightly damaged | −4D
+Heavily damaged | −2D
+Severely damaged | −1D
+Destroyed | Full weapon damage
+
+Reduce weapon
+
+Example: If Thannik rolls a 30 or higher, he hits his target directly and rolls full damage. If Thannik rolls a 22 or less, his shot misses completely. If he rolls between a 23 and a 29, that means his shot smashes into the garbage bins. He rolls a 26 — his shot hits the bins.
+
+The gamemaster decides the bins aren’t too tough — he gives them a body strength of 2D and rolls, getting a 7. Thannik rolls his heavy blaster pistol’s 5D damage and gets a 20: that’s a difference of 13 points. The bins are severely damaged.
+
+That means that Thannik’s blaster shot hits his target, but at −1D damage. Thannik rolls 4D damage against his target’s Strength...
+
+### Armor
+
+Armor protects the wearer from damage. In game terms, armor simply adds to a character’s Strength roll when resisting damage. (It doesn’t add to any other Strength rolls, except in the case of armored powersuits which may assist in lifting skill checks, see the specific armor’s stat block)
+
+Example: Thannik’s Strength is 3D+2. He’s wearing blast armor that adds +1D. He rolls 4D+2 to resist damage. However, when he makes a Strength roll to try to lift a heavy object, he rolls only his Strength of 3D+2.
+
+Armor may provide different levels of protection for different attack types. For example, stormtrooper armor provides +2D against physical attacks (bullets, melee weapons, and rocks, for example) but only +1D against energy attacks (blaster bolts and lightsabers).
+
+Some types of armor are bulky and reduce a character’s Dexterity and all Dexterity skills: stormtrooper armor also fits this example, as it causes a −1D penalty to Dexterity and all related skills.
+
+Example: Thannik has gotten his hands on a set of stormtrooper armor: it’s +2D physical, +1D energy and −1D to Dexterity and related skills. Thannik’s Strength is 3D+2.
+
+If Thannik is hit by a blaster bolt — an energy attack — he rolls 4D+2 to resist damage. If he’s later clobbered by a vibroblade — a physical attack — he rolls 5D+2 to resist damage. However, if he tries to dodge an incoming blaster bolt, he only rolls 5D: his normal dodge is 6D but he suffers the −1D penalty to all Dexterity skills.
+
+Armor may not cover the wearer’s entire body; if you use the optional hit location rules, this is important since armor can’t protect an area that it’s not covering.
+
+Damaged Armor. When someone wearing armor suffers damage through a protected area, the armor is also damaged.
+
+by wearer | Damage to armor
+Wounded | Lightly damaged (−1 pip)
+Incapacitated | Heavily damaged (−1D)
+Mortally wounded | Severely damaged (Useless but may be repaired)
+Killed | Destroyed
+
+Injury suffered
+
+Armor repairs are discussed in the “Using Repair Skills” section in “Attributes and Skills.”
+
+[Página impressa 95 | PDF 97]
+
+## DAMAGED WEAPONS
+
+Weapons can suffer damage in combat, such as when a lightsaber slices through a blaster or vibroweapon, or a weapon gets dropped, or as a result of a “complication” that leads to a serious malfunction.
+
+If a weapon is damaged, roll its body strength to resist damage. Most hand weapons — such as blaster pistols, vibro-axes and so forth — have a body strength of 2D (regardless of how much damage they cause).
+
+Damage Roll ≥ Body
+
+Strength Roll by: | Weapon is:
+0-3 | Not seriously damaged
+4-8 | Lightly damaged
+9-12 | Heavily damaged
+13-15 | Severely damaged
+16+ | Destroyed
+
+Lightly damaged weapons lose −1D of their damage value. Heavily damaged weapons lose −2D off their damage and add +10 to all difficulties to use in combat.
+
+Severely damaged weapons cannot be used, but may be repaired.
+
+Destroyed weapons may not be repaired.
+
+Weapon repairs are discussed in the “Using Repair Skills” section in “Attributes and Skills.”
+
+Note: Damage to ordinary objects can also be covered using this rule. Pick the object’s body strength and compare the roll to the damage roll. Find the result on the chart above.
+
+## SCALE
+
+You may notice that a landspeeder may have a body strength of 2D, while a character can have a Strength of 4D. Does that mean that the character is tougher than the landspeeder? No!
+
+The game uses “scales” to show the differences between different sizes and types of objects. You add or subtract dice to attack rolls, dodge rolls and damage rolls to show these differences.
+
+The scales, from “lowest” to “highest,” are character (and creature), speeder, walker, starfighter, capital and Death Star.
+
+The scale modifiers reflect the differences between small, fragile targets (like characters) and large, tough targets (like Star Destroyers).
+
+Scale | Modifier*
+Character | —
+Speeder | 2D
+Walker | 4D
+Starfighter | 6D
+Capital | 12D
+Death Star | 24D
+
+* Apply the difference between the two scales: this is called the “adjusted modifier.”
+
+When targets of the same scale are shooting at each other, ignore the modifiers; just roll attack dice, dodges, and damage die codes normally.
+
+It’s when things of a different scale are affecting each other that you use these rules.
+
+Example: A landspeeder (speeder-scale) is firing at an AT-AT (walker-scale). The landspeeder has a modifier of 2D; the AT-AT has a modifier of 4D. The adjusted modifier is 2D.
+
+Lower Against Higher. When a “lower” scale character or vehicle is shooting at a “higher” scale character or vehicle:
+
+• The lower scale attacker gets to add the modifier to the attack roll. If the target makes a dodge (or vehicle dodge or starship dodge), it just rolls its maneuverability (and dodge skill).
+
+• The higher scale target adds the modifier to the roll to resist damage; the lower scale weapon rolls damage normally.
+
+Example: The landspeeder fires at the walker. The landspeeder’s blaster cannon has a fire control of 2D and a damage of 3D+1. The walker has no maneuverability (0D) and a body strength of 6D.
+
+The landspeeder gets to add the adjusted modifier of 2D to its roll to hit. If the landspeeder hits, the landspeeder rolls the cannon’s normal damage of 3D+1. However, because the walker is a higher scale, it gets to add the adjusted modifier of 2D to its body strength of 6D: it rolls 8D to resist damage.
+
+Higher Against Lower. When a “higher” scale character or vehicle is shooting at a “lower” scale character or vehicle:
+
+• The higher scale attacker rolls its normal attack roll; the lower scale target adds the “adjusted modifier” to its dodge roll.
+
+• The higher scale attacker adds the “adjusted modifier” to its damage roll.
+
+Example: Assuming the walker survived the blast (and that’s a pretty safe assumption), the walker’s commander decides to return fire.
+
+When the walker fires, it uses its fire control normally. The landspeeder, because it is a lower scale vehicle, adds the adjusted modifier of 2D to its maneuverability to dodge the attack.
+
+If the walker hits with its blast, the walker adds the adjusted modifier of 2D to its normal weapon damage. The landspeeder only rolls its normal body strength to resist damage.
+
+[Página impressa 96 | PDF 98]
+
+## SURPRISE
+
+When characters are surprised, their attackers can automatically take their first action before the “surprised” side can act. The “surprised” side cannot roll defensive skills to dodge or parry this first action.
+
+How Do You Figure Out if Someone is Surprised? When characters are laying an ambush, simply have each character make a sneak roll. When the targets of the ambush come within range (just a couple of seconds before the ambush is going to be sprung), roll search or Perception checks for each target character: if they roll equal to or higher than any of the attacker’s sneak rolls, they spot that attacker and will not be surprised by the attack. If none of the characters spot the attackers, the target characters are “surprised.” (Ambushes are a good place to use “Secret Checks” as discussed in “The Rules.”)
+
+# COMBAT OPTIONS
+
+Players sometimes want their characters to do some pretty fancy maneuvers during combat. This section offer guidance with several common ones.
+
+Acrobatic Tricks. Acrobatics can also enhance brawling and melee combat attacks. The character must perform the acrobatics trick and the attack on the same turn. The gamemaster determines the exact difficulty of the acrobatics attempt. The player may add one-half of the difference (rounded up) between the difficulty and the successful acrobatics roll to the amount of damage done (not to the combat skill roll). One acrobatics trick roll can affect one attack only.
+
+Breaking Things. Use the demolitions skill guidelines in the “Attributes & Skills” chapter for determining the effect of damage on items.
+
+Called Shots. Attackers can make a “called shot” against a small target, such as a specific part of a target’s body or shooting a weapon out of a target’s hand.
+
+Add +1D to the difficulty for a target 10 to 50 centimeters long. Add +4D to the difficulty for a target one to 10 centimeters long. Add +8D to the difficulty for a target less than a centimeter long.
+
+On a successful attack, he knocks the item out of the target’s hand, grabs the limb, pins the target to a wall, or does +1D (or more, at the gamemaster’s discretion) to the damage roll. The exact result depends on the situation and the player’s intent.
+
+Example: Thannik is using his blaster skill to shoot at a stormtrooper at medium range (Moderate difficulty, difficulty number 12).
+
+He decides to shoot the blaster out of the trooper’s hand: the weapon is about 30 centimeters long, so this called shot adds +1D to the difficulty. The gamemaster rolls 1D and gets a 4 — Thannik’s new blaster difficulty is 16.
+
+### MODIFIERS FOR ALL ATTACKS
+
+Attack Situation | Modifier
+Low gravity | −1D
+No gravity (zero-G) | −2D
+Heavy gravity | +3D
+The attacker is blind or blinded: | +4D
+The target is blind or blinded or attacked from behind: | −4D
+
+Difficulty
+
+Entangle. A character throws an entangling weapon at her opponent. On a successful firearms, missile weapons, or thrown weapons roll (as appropriate), the end of the weapon wraps itself around the target. Unless the weapon is spiked, electrified, or enhanced in some other way, it does no damage, but it prevents the target from doing any action except for trying to break free. The target may escape by snapping the bonds or slipping free, each of which counts as an action. To break the weapon, he must make a Strength or lifting roll that meets or beats the damage total of the weapon. To slip free, he needs to roll a Dexterity or acrobatics total equal to or higher than the weapon’s damage total.
+
+Escape. To break free from any hold, the character must make a successful opposed Strength or lifting roll versus the holder’s Strength or lifting. This counts as an action.
+
+Group Attack. See the description of the command skill in Chapter 3 “Attributes & Skills” for details.
+
+Hit Locations. Hit locations are a special kind of “called shot” that allows a character to shoot or strike a specific point on his target’s body. The table below is used to determine the modifiers for hitting a target of Human proportions in different areas of his body. Note that aiming at an arm or leg actually causes less damage — this is because the character took extra care to shoot an area that is “less vital.”
+
+ | Difficulty | Damage
+Hit Location | Modifier | Modifier
+Head | +1D | +12
+Heart | +4D | +12
+Chest, abdomen | 0 | 0
+Left or right arm | +1D | −2
+Left or right leg | +1D | −1
+Left or right hand | +4D | −2
+
+At the gamemaster’s discretion, sufficient damage to a particular hit location can affect the target’s ability to use that part. Except for blows to the chest, the modifier lasts until the character heals that portion (which typically takes a few days, as Wounds are recovered for the body as a whole, not just a specific part). When the first aid or (A) medicine skill or a healing effect is applied, it can be specified to repair one particular location.
+
+Hit location modifiers are in addition to Wound level modifiers.
+
+[Página impressa 97 | PDF 99]
+
+Chest: The character can do no more than passively defend in the next round.
+
+Foot or leg: −1 to all acrobatics, sneak, movement, and initiative totals.
+
+Hand or arm: −1 to all acrobatics, brawling, climbing/jumping, melee combat, missile weapons, pick pocket, thrown weapons, lifting, and other rolls involving the hand or arm.
+
+Head: −1 to all Knowledge, Perception, and initiative totals.
+
+Random Body Hit Location. To determine the precise location where a character was hit, roll 2D and consult the chart below. Of course, the gamemaster could narrow down the locations further if so desired.
+
+2D | Body Location
+1 | Right Arm
+2 | Left Arm
+3-4 | Right Leg
+5-6 | Left Leg
+7-11 | Body
+12 | Head
+
+Knockout. This option does half of the normal damage, but it can render the target immediately unconscious with a successful attack. It requires a successful “called shot” to the head using the brawling or melee combat skill. If, after the resistance total has been subtracted, the target sustains at least two Wound levels, then he falls unconscious for a number of hours equal to difference between the combat skill total and the combat difficulty or until he’s awoken by some external force, whichever comes first. The target, however, receives only half the Wound levels inflicted (round down).
+
+Multiple Weapons. Weapons that characters can use with one hand and in either hand, such as knives or most guns, may be employed at the same time in the same round. The character incurs a multiple-action penalty.
+
+Prone and Crouching. Attacking a target that is crouched on the ground adds 1D to the combat difficulty. If the target is moving while crouching, then the combat difficulty increases by +2D, but the defending character’s normal Move, or running roll is halved.
+
+For prone targets, subtract 2D from the combat difficulty when attacking at Point Blank or Short range, but add 2D to combat difficulty when attacking at Medium or Long range.
+
+Characters who willingly get low to the ground or make themselves small may get into and out of the position as a free action. However, character forced into that position, such as a result of being thrown, need to make an effort to stand, which counts as an action.
+
+Quick Draw. The character uses their blaster skill or appropriate specialization. The weapon to be used must be appropriate for making a “quick draw:” a blaster pistol, hold-out blaster, or heavy blaster pistol, or throwing knife for example.
+
+To quick draw, the character may not do anything else in the round, including dodge. In other words, characters using a “quick draw” are easy marks for anyone else. The character may make multiple quick draw shots in a round; characters may shoot at more than one target, but at an additional −1D penalty per target, in addition to all the other penalties. While most
+
+often used for dueling, characters may also use the “quick draw” rules in non-dueling situations.
+
+To quick draw, the character splits his or her blaster skill dice among two areas: speed draw dice and accuracy dice. To see who draws and who fires first, each character rolls their speed draw dice. The character who rolls highest fires first; the character who fires first then rolls his or her accuracy dice to see if the target is hit.
+
+Characters who want to make multiple shots suffer multiple action penalties for both their speed draw dice and accuracy dice (for example, for two shots, the character suffers a −1D penalty to speed draw dice, as well as both shots).
+
+Unlike normal rounds, quick draw duel actions are not simultaneous. The character who fires first, fires first in “game time:” the other character may only fire back if they haven’t been injured by the shots fired at them.
+
+Any character who is stunned by a quick draw shot loses −3D off all following shots in that round. Any character wounded (or worse) by a quick draw shot is in too much pain or too badly distracted to return fire.
+
+Example: Han Solo and Gallandro are going to have a “quick draw” duel. Han is using his heavy blaster pistol, and he has 8D in the skill. Gallandro is using his blaster pistol, and has 13D in the skill. The duel will be held at a distance of 10 meters, which is medium range (Moderate difficulty) for the heavy blaster pistol and short range (Easy difficultly) for the blaster pistol.
+
+The player playing Han decides he will allocate his 8D in the following way: 5D to his speed draw and 3D to his accuracy. The gamemaster, playing Gallandro, will use his 13D in the following manner: 10D to his speed draw and 3D to his accuracy.
+
+The player rolls for Han’s speed draw and gets a 14. The gamemaster rolls for Gallandro and gets a 24. Gallandro draws and fires first. He rolls a nine to hit Han — more than enough at short range. Han is wounded and drops his pistol: he won’t be able to fire. He has lost the duel, but is still lucky enough to be alive.
+
+Characters may “quick draw” against opponents that are trying to dodge or doing other actions. The character performing the “quick draw” simply rolls their speed draw dice against the target’s dodge. If the speed draw roll is higher than the dodge, the quick drawing character shoots at the target as if he or she did not dodge at all. As before, a character who is quick drawing may not do any other actions in that round.
+
+Example: Han Solo is to “quick draw” against a stormtrooper, who is trying to make a full dodge. Han splits his 8D in this way: 5D to his speed draw and 3D to accuracy. The stormtrooper has a dodge of 4D. The distance between Solo and the stormtrooper is 10 meters, or medium range (Moderate difficulty) for Han’s heavy blaster pistol.
+
+Han rolls his speed draw dice and, gets a 17. The stormtrooper rolls his dodge and gets a 12. Han gets to shoot at the stormtrooper at the Moderate range difficulty only, but he only gets to roll 3D to hit (his accuracy dice). If the stormtrooper’s dodge roll was
+
+[Página impressa 98 | PDF 100]
+
+higher than Han’s speed draw roll, the stormtrooper would have been able to add his dodge roll to the range difficulty (Moderate), making him much harder to hit.
+
+Ready a Weapon. It takes one action per item to draw a gun, unsheathe a knife, reload a rifle, or something similar. Although this generally does not require a skill roll, the gamemaster may require one related to the weapon in question for particularly stressful situations.
+
+Additionally, drawing and using the weapon in the same round incurs a multi-action penalty. The gamemaster may add further modifiers for attempting to get out an item from a restrictive location or ready an unwieldy weapon.
+
+Suppression Fire. Suppression fire is intended to force the enemy into cover, rather than to actually eliminate them — essentially to suppress the enemy’s ability to return fire. If a gamemaster wishes, suppression fire may be used to increase an opponent’s difficulty to hit. The difficulty to hit is increased by +1 for every shot fired.
+
+Repeating blasters (or firearms) are much better suited to this than single-fire weapons. Characters using repeating blasters for suppression fire add a full level to the opponent’s Difficulty for every burst fired.
+
+Unwieldy Weapon. Melee weapons which are very long (over 60cm is a good rule-of-thumb for gamemaster discretion), objects that are hard to throw or grasp, ones relying on technology with which the user is unfamiliar, or any weapons otherwise difficult to wield may incur a +5 or more modifier to the Difficulty Level. The gamemaster may decide that such factors as experience, strength, and features of the weapon (such as a well-balanced sword) lower this modifier.
+
+## MARTIAL ARTS
+
+The Star Wars Roleplaying Game has a martial arts skill specialization (specialization of brawling), and some gamemasters may like to keep this loosely defined. However, since some players may desire their characters to be trained in unarmed combat, a more detailed system of martial arts is provided for in this section.
+
+For every 1D that a character increases her martial arts skill, she may pick one of the hand-to-hand techniques described below. The character may only pick one hand-to-hand technique for every die of skill improvement; increasing a skill by one or two “pips” is not sufficient advancement to select a hand-to-hand technique. Characters whose martial arts skill is increased during character creation are eligible to select from the hand-to-hand techniques
+
+Example: A Twi’lek Spec, Nareel Dre’lara, has a brawling: martial arts die code of 3D+2. During character creation, she increases her brawling: martial arts skill to 5D+2. She may select two hand-to-hand techniques. After successfully surviving her first mission, she spends Character Points, increasing her martial arts die code to 6D. This is not sufficient to select a new hand-to-hand technique, as she has not increased the skill by 1D. She may not select a new hand-to-hand technique until her martial arts die code is increased to 6D+2. Characters must also declare which hand-to-hand technique they are using prior to making the required skill roll (unless otherwise indicated).
+
+Blindfighting. The character is trained to use senses other than sight to locate a target.
+
+Difficulty: Very Difficult
+Effect: If the character makes the required skill roll and is within striking distance of the target, she may ignore the effects of blindness. She cannot see, but can hear or smell a target well enough to strike. This may be used as a reaction skill.
+
+Disarm. The character is trained to force an opponent to drop a weapon or object.
+
+Difficulty: Moderate
+Effect: If the character’s attack is successful (and is not parried or dodged) and if the skill roll meets the required difficulty number, the target character is disarmed.
+
+Elbow Smash. The character is trained to deliver a powerful blow with her elbow.
+
+Difficulty: Very Easy
+Effect: The character can add +1D to her damage roll if the skill roll is successful.
+
+[Página impressa 99 | PDF 101]
+
+Flip. The character can throw a target who has grappled her from behind.
+
+Difficulty: Moderate
+Effect: A successful skill check indicates that the target is hurled to the ground (provided the attack is not parried or dodged). The target suffers 3D damage This technique may be used as a reaction skill.
+
+Flying Kick. The character is trained to leap in order to deliver a crushing kick.
+
+Difficulty: Difficult
+Effect: The character can add +2D to her damage roll if her skill roll exceeds the difficulty number. Failure to beat the difficulty number indicates the character is off-balance and her opponent may make an additional attack this round with no multiple action penalty.
+
+Foot Sweep. The character trips an opponent.
+Difficulty: Moderate
+Effect: A successful attempt indicates the target is tripped, falling to the ground. The character must remain prone for the remainder of the round.
+
+Head-Butt. The character can use her head to strike a target, even if she is held, pinned or bound.
+
+Difficulty: Easy
+Effect: If the character’s skill roll meets the difficulty number, she may use her head to strike the target (inflicting STR+1D damage). Head-butt can be used if the character is bound or held, and can be used as a reaction skill.
+
+Hold/Grapple. The character is trained to grapple and hold a target immobile.
+
+Difficulty: Moderate plus a Strength versus martial arts roll. Effect: The character attempting to grapple with a target must make a Moderate martial arts roll to hold her opponent. For every round the target is held, the character must make a Strength or lifting roll. If the target beats her martial arts roll (or Strength or lifting if she prefers), he breaks free of the hold.
+
+Instant Knockdown. The character knows how to maximize impact, knocking the target to the floor.
+
+Difficulty: Moderate
+Effect: If the characters attack is successful (and is not parried or dodged) and if the skill roll meets the required difficulty number, the target is knocked to the ground. The fallen character must either wait one round to stand or suffer multiple action penalties.
+
+Instant Stand. The character is trained to negate the effects of a fall, and return to a combat-ready position.
+
+Difficulty: Moderate
+Effect: If a character is tripped or knocked down, she may use this technique to return to a standing position. Successful use of this technique indicates that the character can stand without suffering a multiple action penalty.
+
+Instant Stun. The character is trained to strike at critical pressure points, stunning the target.
+
+Difficulty: Moderate
+Effect: If the character’s attack is successful (and is not parried or dodged) and the the skill roll meets the required difficulty number, the target is stunned for one round.
+
+Instant Wound. The character knows how to strike to maximum effect, inflicting severe damage on the target.
+
+Difficulty: Difficult
+Effect: If the character’s attack is successful (and is not parried or dodged) and if the skill roll meets the required difficulty number, the target character suffers a wound. (Effects of the wound are cumulative.)
+
+Multiple Strikes. The character can deliver multiple blows. Difficulty: Moderate
+Effect: The character can make a second attack with no multiple action penalties; the second attack inflicts 3D damage.
+
+Nerve Punch. The character knows the location of nerve clusters, striking in such a way as to render a target’s limb numb.
+
+Difficulty: Very Difficult
+Effect: If successful, the character’s attack renders an opponents limb (arm or leg, specified prior to making the attempt) unusable for 3D rounds. Any items held in the affected hand are dropped. If the character beats the difficulty number by 15 or more, the target character is rendered unconscious.
+
+Power Block. The character is trained to parry attacks in a manner which inflicts damage.
+
+Difficulty: Moderate
+Effect: A successful parry inflicts STR+1D on the target. This technique can be used as a reaction skill.
+
+Reversal. The character is trained to turn the tables on an opponent who is attempting to grapple.
+
+Difficulty: Opposed Strength or brawling: martial arts roll (whichever is higher).
+
+Effect: The character can employ this technique only when she is held. If she breaks the opponent’s grip, she may in turn hold the target immobile or employ another technique. This technique may be used as a reaction skill.
+
+Silent Strike. Provided the character can successfully sneak up on a target, she can instantly kill him or render him unconscious.
+
+Difficulty: Difficult
+Effect: The character must be within arm’s reach of the target. The character must declare if this is a killing or stunning attack prior to making the attempt. A successful skill roll indicates the target is neutralized.
+
+Spinning Kick. The character is trained to perform a powerful kick.
+
+Difficulty: Moderate
+Effect: The character can add +1D to her damage roll if her skill roll exceeds the difficulty number. Failure to beat the difficulty number indicates the character is off-balance and her opponent may make an additional attack this round with no multiple action penalty.
+
+Shoulder Throw. The character can throw a target.
+Difficulty: Moderate
+Effect: A successful skill check indicates that the target is hurled to the ground (provided the attack is not parried or dodged), suffering 3D damage.
+
+[Página impressa 100 | PDF 102]
+
+Weapon Block. The character is trained to parry melee attacks even when she does not possess a melee weapon.
+
+Difficulty: Opposed martial arts versus melee combat roll
+Effect: If the character makes the required difficulty roll she successfully blocks a melee attack.
+
+### Martial Arts Options
+
+Should gamemasters feel that martial arts are a destabilizing element in a campaign, the following are options to lessen the effects of this skill system.
+
+• Basic Moves: Gamemasters can limit characters to the following hand-to-hand techniques (which must be learned before any other techniques may be acquired): punch (inflicts Strength + 1D damage); kick inflicts Strength + 2D damage); weapon block (allows the character to block a melee attack, opposed martial arts versus melee combat roll).
+
+• Character Points: Character Points cannot be used during martial arts skill rolls (though, Force Points can).
+
+• Martial Arts Styles: Using the above system, it is unlikely that a character will ever possess all of the hand-to-hand techniques. (On the average, an extremely advanced character will likely only possess 10-12 of the hand-to-hand techniques.) However, gamemasters can limit the number of techniques a character can possess by developing martial arts “style packages.” The gamemaster may decide that only six of the techniques are available to “K’tara martial arts,” and players must select from that list. Learning a technique from outside a style costs 10 Character Points and takes three weeks of training.
+
+• Parrying: To speed the combat procedure (and to more accurately reflect the deadly nature of martial arts), trained combatants can use brawling: martial arts to both parry and attack. They may not however use brawling parry to make a brawling attack.
+
+• Using Martial Arts “Untrained”: Gamemasters may allow characters to conduct certain martial arts techniques “untrained”. For instance a character who wishes to “Grapple/Hold” a target, but does not have the brawling: martial arts specialty, may do so (at gamemaster discretion) at two Difficulty Levels higher. In this case as a Difficult maneuver. If the character has the martial arts specialty, but does not have the particular technique, then the roll may be made at one Difficulty Level higher.
+
+Some techniques, however, are highly specialized and a character would not be eligible to perform them due to the special training required (for example, Silent Strike). This is of course subject to gamemaster discretion, and should be discussed with players prior to using the martial arts system.
+
+# DAMAGE
+
+When an attack hits, the attacker rolls damage.
+
+Ranged weapons normally do a set amount of damage: for example, a blaster rifle does 5D damage.
+
+A melee weapon might have a damage code of STR+1D — that means, the attacker rolls his Strength and adds one extra die for damage. (If there’s a maximum listed — such as “maximum 6D” — that’s the maximum damage for the weapon regardless of the user’s Strength.)
+
+For brawling attacks, the attacker rolls his Strength. Some creatures have natural weapons, such as claws, which may cause “STR+1D” or “STR+1D+2” — roll the Strength and add the die code as indicated.
+
+The target character rolls Strength to resist damage. If the character’s Strength roll is higher than the damage roll, there’s no effect. If the damage roll is higher, find the difference on the “Character Damage Chart.”
+
+### CHARACTER DAMAGE CHART
+
+Strength Roll By: | Effect
+1-3 | Stunned
+4-8 | Wounded
+9-12 | Incapacitated
+13-15 | Mortally Wounded
+16+ | Killed
+
+Damage Roll ≥
+
+Example: Thannik fires his blaster pistol (which does 4D damage) and hits a bounty hunter with a Strength of 3D+2. Thannik’s damage roll is a 9, while the bounty hunter rolls an 11 — the bounty hunter shrugs off the blast with no injury.
+
+In the next round, Thannik hits again. This time his blaster damage roll is a 16. The bounty hunter’s Strength roll to resist damage is a 12; that’s a difference of four points. The bounty hunter is Wounded.
+
+Later on, Thannik is attacking a thug with a vibro-ax (STR+2D). If Thannik hits, he rolls his Strength of 3D+2 plus an extra 2D for a total of 5D+2 damage!
+
+Stunned characters suffer a penalty of −1D to skill and attribute rolls for the rest of the round and for the next round. A stun no longer penalizes a character after the second round, but it is still “affecting” him for half an hour unless the character rests for one minute.
+
+If a character is being “affected” from a number of stuns equal to the number before the “D” for the character’s Strength, the character is knocked unconscious for 2D minutes. A character making an Easy first aid total can revive an unconscious character.
+
+Wounded characters fall prone and can take no actions for the rest of the round. The character suffers a penalty of −1D to skill and attribute rolls until he heals (through medpacs or natural rest). A character who is wounded a second time is wounded twice.
+
+A character who’s wounded twice falls prone and can take no actions for the rest of the round. The character suffers a penalty of −2D to all skill and attribute rolls until he is healed. A wounded twice character who is wounded again is incapacitated.
+
+An incapacitated character falls prone and is knocked unconscious for 10D minutes. The character can’t do anything until healed. An incapacitated character who is wounded or incapacitated again becomes mortally wounded.
+
+[Página impressa 101 | PDF 103]
+
+A character making a Moderate first aid total can revive an incapacitated character. The incapacitated character is now awake, but is groggy, cannot use skills, and can only move at half his “cautious” rate. (See “Movement and Chases.”)
+
+A mortally wounded character falls prone and is unconscious. The character can’t do anything until healed. The character may die — at the end of each round, roll 2D. If the roll is less than the number of rounds that the character has been mortally wounded, the character dies. A mortally wounded character who is incapacitated or mortally wounded again is killed.
+
+A character making a Moderate first aid total can “stabilize” a mortally wounded character. The character is still mortally wounded but will survive if a medpac or bacta tank is used on him within one hour (Moderate first aid total); otherwise, he dies. (This is different from healing a character with a medpac; see “Healing.”)
+
+A killed character is... killed. Start rolling up a new character.
+
+Example: A stormtrooper is hit in combat. His Strength roll is an 11 and the damage roll is a 15 — he’s wounded. The trooper suffers a wound, falls prone, can’t act for the rest of the round and is at −1D to all actions until he’s healed. If he’s wounded again, he’s at −2D to all actions until he heals. If this trooper is wounded again, he becomes incapacitated.
+
+Another stormtrooper — he’s still uninjured — is hit in combat: his Strength roll is a 9, while the damage roll is a 19. This trooper is incapacitated and is knocked unconscious.
+
+Increasing Resistance. Character Points or Force Points can be used to increase a character’s Strength to resist damage.
+
+Stun Damage. Weapons set for stun roll damage normally, but treat any result more serious than “stunned” as “unconscious for 2D minutes.” (Unless specifically stated otherwise, all character-scale blasters can be set for stun damage.)
+
+Example: Thannik is hit by a “stun” bolt from a stormtrooper’s blaster rifle. The stormtrooper rolls a 22 for damage and Thannik’s Strength roll is an 11. That would normally be an incapacitated result, but since the weapon is set for stun, Thannik is knocked unconscious for 2D minutes.
+
+## DAMAGE OPTIONS
+
+Severe Injuries. As an optional rule, a character who causes enough damage to kill another character has the option of causing a serious, permanent injury instead. (For example, a limb could be severed or a body part injured so badly that it could never be used again.)
+
+This is not necessarily an evil action deserving a Dark Side Point — some would say this is more merciful than killing someone (although that’s up for debate). In addition to the severe injury, the target character is wounded, wounded twice or incapacitated (gamemaster’s option).
+
+Massive Damage Option. If a character incurs two Wound levels within a single round, not only do the normal modifiers for the greatest level apply, the character also can do nothing but defend or run away on the next two rounds. In either of these rounds, the character may make an Easy stamina or willpower attempt, as an action, to try to recover from the blow and shake off the penalty. If this is declared as a multi-action for the round, then the character takes the multi-action penalty. If not, and the stamina or willpower roll is successful, the character may act as normal in the next round.
+
+Descriptive Damage. So a character has a couple of Wound levels — so what? What does that mean in descriptive terms? It depends on what caused the harm. The following list supplies some general guidelines for describing what might have happened to the character’s body when he was hurt.
+
+Stunned: Moderate bruise or minor sprain; laceration; muscle tear; minor dislocation of joint.
+
+Wounded: Severe abrasion or sprain; deep laceration; torn ligaments; major dislocation or minor break.
+
+Wounded Twice: Broken bone; gaping wound; ripped cartilage and muscle; concussion.
+
+Incapacitated: Multiple fracture; laceration in vital area; heavy concussion.
+
+Mortally Wounded: Above options combined with multiple internal injuries.
+
+Dead: Broken neck; punctured lung; eviscerated.
+
+These are just a few examples. Really interested gamemasters can come up with charts, tables, or detailed descriptions of damage for those players who absolutely must know.
+
+[Página impressa 102 | PDF 104]
+
+## MISCELLANEOUS DAMAGE
+
+Here is a small selection of various other harmful things that players may encounter during their adventures. Generally, no attack roll is necessary for any of these to affect a character, though a such roll would be required if a person could somehow attack with it. The gamemaster determines what, if any, benefit armor and similar protection provides.
+
+Some equipment may even increase the damage! Damage is otherwise determined as per the combat rules.
+
+Except falling, all damage is done per round of close contact. The gamemaster may decide that certain types in certain situations also affect characters at a distance.
+
+### MISCELLANEOUS DAMAGE
+
+Type | Damage
+Food Poisoning (very severe case) | 4D
+Cold (extreme) | 1D
+General Poison (fatal dose)* | 8D+2
+Electricity (standard wall outlet) | 1D
+Electricity (major power line) | 9D
+Falling (3-6 meters ) | 2D
+Falling (7-12 meters ) | 3D
+Falling (13-18 meters ) | 4D
+Falling (19-30 meters ) | 5D
+Falling (31-50 meters ) | 7D
+Falling (51+ meters ) | 9D
+Fire (torch-size) | 1D
+Industrial Acid (undiluted) | 2D+1
+Radiation (intense) | 3D
+
+* See optional poison rules on page 103.
+
+# HEALING
+
+Characters can heal in many ways, but the three most common methods of healing are natural healing, medpacs and bacta tanks (also known as rejuvenation tanks).
+
+### Natural Healing
+
+A character can heal naturally, but this process is both slower and much riskier than bacta healing. The character must rest a specified amount of time and then can make a healing roll: roll the character’s full Strength and find the result on the chart related to the character’s current Wound Level to see if the character heals.
+
+Healing characters can do doing virtually nothing but rest. A character who tries to work, exercise or adventure must subtract −1D from his Strength when he makes his healing roll. Any character who opts to “take it easy” and do virtually nothing for twice the necessary time may add +1D to his Strength roll to heal.
+
+A wounded character must rest for three standard days before rolling to heal.
+
+Strength
+
+Roll | Result
+2-4 | Character worsens to wounded twice
+5-6 | Character remains wounded
+7+ | Character is fully healed
+
+A character who is wounded twice must rest for three days before rolling to heal.
+
+Strength
+
+Roll | Result
+2-4 | Character worsens to incapacitated
+5-6 | Character remains wounded twice
+7+ | Character improves to wounded
+
+Incapacitated characters must rest for two weeks before making a healing roll.
+
+Strength
+
+Roll | Result
+2-6 | Character worsens to mortally wounded
+7-8 | Character remains incapacitated
+9+ | Character improves to wounded twice
+
+Mortally wounded characters must rest for one month (35 standard days) before making a healing roll.
+
+Strength
+
+Roll | Result
+2-6 | Character dies
+7-8 | Character remains mortally wounded
+9+ | Character improves to incapacitated
+
+Example: Thannik is incapacitated and is healing naturally. After resting 2 weeks, he makes a Strength roll for a 10 — he improves to wounded twice. To heal from wounded twice to wounded, he must rest for another 3 days before making a healing roll.
+
+### Medpacs
+
+A standard medpac contains a combination of healing medicines, syntheflesh, coagulants, body chemistry boosters, adrenaline drugs, and computer diagnostic hardware to treat seriously injured individuals. Medpacs are very common around the galaxy and can be found aboard most starships, in most buildings and homes... and anyone who thinks he might get into a battle is advised to carry a couple, too.
+
+A first aid (or Technical) roll is needed to use a medpac. The difficulty depends upon the severity of the patient’s injury:
+
+Degree of Injury | Difficulty
+Stunned, unconscious | Very Easy
+Wounded, wounded twice | Easy
+Incapacitated | Moderate
+Mortally wounded | Difficult
+
+If the first aid roll is successful, the patient heals one level: stunned and wounded characters are fully healed; unconscious characters are revived; wounded twice characters improve to wounded; incapacitated characters improve to wounded twice; mortally wounded characters improve to incapacitated.
+
+If the first aid roll is unsuccessful, the character’s condition remains the same. If the first aid roll misses the
+
+[Página impressa 103 | PDF 105]
+
+difficulty by more than 10 points, the medpac has pushed the injured character’s body to its limit, and no more medpacs can be used on him for a full standard day (24 hour period).
+
+Multiple medpacs can be used on a character within a single day, but increase the first aid difficulty one level for each additional use.
+
+Example: Thannik has been wounded twice. The first time a medpac is used on him, the first aid difficulty is Easy. If a second medpac is used on him in the same day, the first aid difficulty increases to Moderate.
+
+A medpac is fully expended when it’s used — someone who expects to heal several people must carry multiple medpacs.
+
+A character can use a medpac on himself, but he suffers an extra −1D penalty (in addition to any other penalties, such as for being injured).
+
+Example: Thannik having been wounded twice (−2D to all actions) wants to use a medpac to heal himself (that’s an additional −1D penalty, for a total penalty of −3D). Unfortunately his Technical is only 2D — he can’t use the medpac on himself.
+
+### Bacta Tanks
+
+Bacta is a specially formulated treatment liquid which promotes rapid healing and acts as a disinfectant. The attending physician can use the bacta tank’s computers to add skin-contact medicines to the bacta fluid, inject medicines into the patient’s bloodstream, or dispense medicines orally. Characters must have the (A) medicine skill to use a bacta tank. On most planets, only licensed doctors can administer bacta treatments.
+
+A Very Easy (A) medicine skill is necessary to use a bacta tank — regardless of the wound level. If the roll is made, the character will heal — it’s just a matter of time.
+
+A character attempting to use a bacta tank without the (A) medicine skill must make a Heroic first aid or Technical roll. If the roll fails, the patient’s injury worsens two levels. (Wounded patients worsen to incapacitated; wounded twice patients worsen to mortally wounded; an incapacitated or mortally wounded patient is killed.)
+
+The character’s healing time depends on the severity of his injuries.
+
+Character is: | Treatment Time:
+Wounded | 1D hours
+Incapacitated | 4D hours
+Mortally wounded | 1D days
+
+Example: Thannik has been mortally wounded, but his friends quickly get him to a bacta tank. The doctor needs to make a Very Easy (A) medicine roll and succeeds. The gamemaster rolls 1D and gets a four. Four days later, Thannik emerges from the bacta tank fully healed.
+
+### Surgery
+
+Surgery is only required if the gamemaster deems the injury to require it (mangled appendage, internal bleeding, severe burns), and/or there is no access to a bacta tank. Most characters will only under go surgery in order to repair a major internal injury, removal of a foreign body (cancer, slug), or to attach a cybernetic body part. The surgeon must be trained in the (A) medicine skill to perform surgery. Additionally the surgeon must have access to a surgery kit and medical facility.
+
+Surgery fully heals a patient on a successful (A) medicine roll. The base difficulty is Easy modified at gamemaster discretion, based on the complexity and conditions of the surgery. Surgeries performed “in the field” without the appropriate sterile environment, surgical rooms or staff should significantly increase the Difficulty Level. Healing time is 1D days for Wounded patients, 3D days for Incapacitated and 6D days for Mortally Wounded. If the roll fails, the patient’s injury worsens two levels.
+
+### Medicines
+
+There are many different medicines in the galaxy, ranging from mass-produced pharmaceuticals to “local cures” known only on remote planets. Each medicine has different game effects. Some may add a bonus to a character’s first aid or (A) medicine skill; others may allow a patient to heal faster; still others may only affect certain injuries or diseases and provide no help for others.
+
+# POISON (OPTIONAL)
+
+Mixing a poison calculated to kill a member of the character’s own species doesn’t take a lot of training. If the target is the same species as the poisoner, the poisoner must make an Easy alien species roll and a Moderate first aid roll (or a Very Easy (A) medicine roll). If both rolls are successful, the poisoner has concocted a liquid poison which does 10+1D6 damage to the target in 1D6 minutes (when it is ingested). If either roll fails, the poison is completely ineffective.
+
+[Página impressa 104 | PDF 106]
+
+Knowing what kills other species is not as intuitive. When attempting to poison members of other species, the poisoner must make a Moderate first aid roll (or a Very Easy (A) medicine roll) as above. He must also make an alien species roll and check on the following table to establish the poison’s effectiveness. If the first aid roll falls, the poison is ineffective.
+
+Result | Effect
+≤8 | Poison is ineffective
+9-11 | 5+1D6 damage to target after ten minutes
+12-15 | 10+1D6 damage to target after five minutes
+16+ | 15+1D6 damage to target occurs immediately
+
+Skill
+
+The character trying to mix the poison must make his skill checks with the assistance of the gamemaster. The poisoner will have no idea how it will affect another character until it is administered. Poison can only he administered in food, drink, or through a medpac injection. The poison cannot be turned into a gaseous or contact poison.
+
+When a poison begins to take effect, roll the damage, and allow the target character to make a Strength roll. If the character beats or equals the poison’s damage, his body successfully resists the toxin, and the poison has no further effect. If he fails, calculate the total damage of the poison. It does not take effect immediately, however. The victim takes one Wound every turn, until he has either taken the full damage or is dead. Each turn, he may attempt to beat the poison again (but don’t forget the −1 penalty to all attributes and skill scores for each wound taken). If successful, the character defeats the poison. If not, he continues to take damage.
+
+A Moderate (A) medicine or difficult first aid roll allows a person analyzing a poison to identify a specific type of poison or a counteractive agent. These poisons are rather exotic, and those making their rolls can establish that these toxins are not used by amateurs. Once the poison is identified, the character may use the poison kit or the contents of a medpac to neutralize the poison (the difficulty of the skill roll is equal to the poison’s damage when using (A) medicine, and the damage +5 when using first aid).
+
+# ILLNESS AND DISEASE
+
+As the characters travel from world to world, and interact with various aliens, foods, and beverages, they are likely to encounter contagious illness or disease at some point. Use the guidelines on the “Illness/Disease” chart to determine the seriousness of a contracted illness.
+
+These results do not necessarily inflict normal damage, however. Calculate the would level as normal, gamemasters may choose — or roll 1D to randomly select — from the following optional results in lieu of the regular damage penalties.
+
+Note that, unless indicated otherwise, only one of the penalties should be selected, and the effects of the illness last for the duration (indicated above) or until medical treatment is received; the base difficulties for healing the damage caused by illness are a Difficult (A) medicine or Very Difficult first aid roll, unless stated otherwise. (Only one first aid or (A) medicine attempt can be made per day to counteract the illness’ effects.)
+
+### ILLNESS/DISEASE CHART
+
+Disease Level | Damage Effects * | Duration
+Mild | Inflicts 2D of damage every twelve hours | 1D days
+Moderate | Inflicts 2D of damage every six hours | 1D days
+Severe | Inflicts 3D of damage every three hours | 1D days
+Very Severe | Inflicts 4D of damage every half hour | 3D days
+Extreme | 5D of damage every ten minutes | 5D days
+
+Illness/
+
+* Note: Armor bonuses do not apply to Strength rolls to resist damage from contaminated water.
+
+## ILLNESS/DISEASE RESULTS
+
+### Stunned (Roll 1D)
+
+1
+Blurred Vision: −1D to vision-based search checks, −1D to any Dexterity skill rolls that-require the use of sight: blaster, melee combat, dodge and so on).
+
+2
+Painful Stomach Cramps: Movement is reduced by 2.
+
+3
+Low-grade Fever: −1D to sneak and hide when attempting to avoid from heat sensors.
+
+4
+Rash: Creates a distracting itch, −1D to Perception and related skills.
+
+5
+Dizziness: −1D to Dexterity and Mechanical and related skills.
+
+6
+Extreme Hunger: −1D to Strength and related skills.
+
+### First Wound (Roll 1D)
+
+1
+Minor Infection: Pick any two results from the “stunned” effects.
+
+2
+Hallucinations: Characters experience visual or auditory hallucinations. Visual hallucinations (seeing spots, for example) reduce all vision-based attribute and skill checks by −1D. Auditory hallucination (ringing in the ears or other such difficulty) reduces hearing-based attribute and skill checks by −1D.
+
+3
+Vomiting: Character must make a Very Difficult stamina check to prevent vomiting. The attack lasts for 1D minutes, and reduces all skills and attributes by −1D for 3D hours.
+
+4
+Attention Deficit: Character must make a Moderate Perception roll to access short-term memory: recent orders, weather updates and so forth.
+
+5
+Loss of Judgment: Character has difficulty making snap decisions or interpreting orders, all Perception, Knowledge and related difficulties increase by one level.
+
+6
+Allergic Reaction: Character has difficulty breathing or suddenly must sneeze for 3D minutes, −1D to sneak or hide for duration of allergic reaction.
+
+[Página impressa 105 | PDF 107]
+
+### Second Wound (Roll 1D)
+
+1
+Infection: Pick any two results from the “stunned” effects, and one item from the “first wound” effects.
+
+2
+Internal Bruising/Bleeding: Character suffers a −2D penalty to Strength to resist damage and must receive medical attention before the illness’ effects wear off; failure to receive treatment results in the character’s death.
+
+3
+Fear: A Difficult willpower roll must be made every round that an affected character is engaged in combat. Failure to make the required willpower roll indicates the character’s nerve breaks and he or she begins a blind retreat in a randomly determined direction, Multiple-action penalties apply when making the willpower roll.
+
+4
+Increased Aggression: Character must make a Moderate willpower roll to refrain from attacking any nearby target — friend or foe; character may not use sneak during this attack.
+
+5
+Paranoia: The affected character believes he or she is the subject of a conspiracy. Character must make a Moderate Perception roll to refrain from attacking fellow party members. All multiple-action penalties apply.
+
+6
+Extreme Dehydration: Character is exceptionally thirsty, experiences dizziness, light-headedness, fatigue, and may lapse into unconsciousness. Character suffers a −2D penalty to all attribute and skill checks and movement is reduced to 5.
+
+### Incapacitated (Roll 1D)
+
+1
+Major Infection: Pick any two results from the “first wound” effects, and one item from the “second wound” effects.
+
+2
+Extreme Paranoia: The affected character believes he or she is the subject of a conspiracy. Character must make a Difficult Perception roll to refrain from attacking fellow party members. All multiple-action penalties apply.
+
+3
+Respiratory Ailment: Character has extreme difficulty breathing. Movement is reduced to 2. If bacta treatment is not received before the effect’s duration has elapsed, the character suffocates.
+
+4
+Stupor: All attributes and skills reduced to 1D for the entire effect duration unless the character receives immediate medical attention (Heroic first aid or Very Difficult (A) medicine roll).
+
+5
+Blackouts: If a character rolls a “1” on the Wild Die during any attribute or skill checks, he or she experiences a blackout for 1D rounds. During the blackout the character falls prone and cannot move, see or hear.
+
+6
+Partial Paralysis: Character loses the use of a limb (at gamemaster’s discretion or use the “Random Hit Location” chart). Paralysis in a leg reduces movement to 5. Paralysis in an arm reduces dexterity by −2D.
+
+### Mortally Wounded (Roll 1D)
+
+1
+Catastrophic Infection: Pick one “stunned” effect, one “first wound” effect, one “second wound” effect, and one “incapacitated” effect.
+
+2
+Organ Failure: Movement reduced to 0, character requires immediate medical attention or will die in 5D hours.
+
+3
+Psychosis/Dementia: Perception, Knowledge, Technical, and Mechanical attributes and skills are reduced to 1D for effect duration. The character suffers no permanent mental damage, recovering completely alter the effect’s duration has elapsed.
+
+4
+Paralysis: Character is rendered completely immobile, though he or she remains conscious. If the character does not receive medical attention, the paralysis becomes permanent after the effect duration elapses.
+
+5
+Blindness: Difficulty for any vision-based skill or attribute checks are increased by five difficulty levels. If medical treatment is not received before the contamination effect’s time has elapsed, the blindness is permanent.
+
+6
+Tremors/Convulsions:
+Character experiences seizures. Seizures inflict the character’s Strength +1D damage. During the seizure and for 1D rounds after, the character’s skills are all reduced by −3D (minimum of 0D). Strength is not affected for the purposes of resisting damage, and in this case armor bonuses apply.
+
+### Death (Roll 1D)
+
+1
+Permanent Psychosis/Dementia: Character’s Perception, Knowledge, Technical, and Mechanical attributes and skills are permanently reduced to 1D and cannot be advanced.
+
+2
+Nerve Damage: Character suffers a loss of motor control. Dexterity and related skills are all permanently reduced to 1D and cannot be improved.
+
+3
+Coma: Character lapses into a coma for the effect duration. All attributes and skills are reduced to 0D, and movement is reduced to 0. Character must receive a Moderate first aid roll (or an Easy (A) medicine roll) once per day or will lapse into systemic shutdown (see below). If the character is stabilized, he or she awakens after the effect duration has elapsed.
+
+4
+Tissue Liquefaction: The character’s skin tissues breakdown, causing extreme pain, bleeding and — if medical treatment (a Very Difficult (A) medicine roll) is not received before the effect duration elapses — Death. Character’s attributes, skills and movement are all reduced to 0D.
+
+5
+Systemic Shutdown: Character has suffered irreversible. physical damage and cannot survive without permanent medical attention (life-support apparatus and so on). All attributes and skills reduced to 0D. In the field, the character can be stabilized by a Heroic first aid or Very Difficult (A) medicine roll; if the character does not receive the required medical attention, death occurs after the effect’s duration has elapsed.
+
+6
+Death: Character dies immediately, unless he or she is placed into a life-support system or bacta immersion: If removed from bacta or life-support, death is instantaneous.

@@ -1,0 +1,115 @@
+{
+  "id": "force",
+  "source": { "chapter": 10, "pages": [150, 151, 152, 153, 174, 175, 176, 177, 178, 179], "file": "raw-data/10-the-force.txt" },
+  "force_skills": {
+    "skills": ["control", "sense", "alter"],
+    "meaning": {
+      "control": "Control over the Jedi's own body and internal Force.",
+      "sense": "Feeling the Force in other things beyond one's own body: danger, information, the bonds between living things.",
+      "alter": "Changing the distribution and nature of the Force: moving objects, helping others control their Force, manipulating the Force in other bodies, changing perceptions."
+    },
+    "learn_first_time": {
+      "requirements": "A teacher with at least 3D in that skill, higher than the student's skill; only Force-sensitive characters.",
+      "cost": "10 Character Points and one week of intensive study (one day less per extra Character Point, minimum one day).",
+      "result": "The skill starts at 1D and the character is taught one power pertaining to it.",
+      "usual_order": "Control first (some teachers start with sense), alter last."
+    },
+    "improve": {
+      "cost_per_pip": "the number before the 'D' in the current die code; double without a teacher",
+      "training": "1 day per Character Point with a teacher; 2 days per Character Point without; 1 day cut per additional Character Point, minimum one day",
+      "new_power": "Each pip improved lets the teacher choose a new power that uses the improved skill (a control improvement cannot teach an alter-only power)."
+    },
+    "source_pages": [150, 151]
+  },
+  "teaching": {
+    "pupils": "Need a Force skill of at least 3D to teach it and can only teach powers they know. By tradition a student does not take pupils. Teaching someone with Dark Side Points gives the teacher a Dark Side Point. A Jedi is responsible for a pupil who turns to the dark side.",
+    "other_sources": "A Holocron, datatape or book may or may not count as a teacher, at the gamemaster's discretion.",
+    "source_pages": [150, 151]
+  },
+  "learning_powers": {
+    "rules": [
+      "A power must be taught before it can be used.",
+      "Learning a Force skill for the first time teaches one power for that skill.",
+      "Each pip of improvement in a Force skill allows one new power.",
+      "A power can be taught without improving a skill for 5 Character Points.",
+      "A power that uses two skills counts as two powers when being taught; three skills count as three.",
+      "All Required Powers must already be known."
+    ],
+    "source_page": 152
+  },
+  "using_powers": {
+    "skill_rolls": "Each Force skill a power uses is a separate action. Roll them in consecutive rounds at no penalty, or all in one round with the normal multiple-action penalty (two skills: -1D each).",
+    "difficulty": "Each power lists a difficulty per skill; the gamemaster may add modifiers. The target may roll control or Perception to resist when the entry says so.",
+    "stretching_powers": "The gamemaster may let players stretch a power to nearby effects: a modest extension raises difficulty one or two levels, the outermost limits may need Heroic +50 or more.",
+    "keeping_up": "Some powers may be kept 'up' (announce when activating): no new rolls each round, but the Jedi loses dice as if taking actions (-1D per Force skill the power uses, e.g. lightsaber combat -2D). Stunned, wounded or worse drops all 'up' powers. If the entry does not say it can be kept up, it ends at the end of the round.",
+    "warning": "Some powers are inherently evil and give a Dark Side Point every use; any power used for evil also does.",
+    "time_to_use": "If no Time to Use is listed the power takes effect in one round.",
+    "source_pages": [152, 153]
+  },
+  "relationship_modifier": {
+    "verified_against": "PDF page 155 (the text export misaligns the values)",
+    "rows": [
+      { "user_and_target": "Close relatives (spouse, siblings, child)", "add_to_difficulty": 0 },
+      { "user_and_target": "Close friends", "add_to_difficulty": 2 },
+      { "user_and_target": "Friends", "add_to_difficulty": 5 },
+      { "user_and_target": "Acquaintances", "add_to_difficulty": 7 },
+      { "user_and_target": "Slight acquaintances", "add_to_difficulty": 10 },
+      { "user_and_target": "Met once", "add_to_difficulty": 12 },
+      { "user_and_target": "Never met, but known by reputation", "add_to_difficulty": 15 },
+      { "user_and_target": "Complete strangers", "add_to_difficulty": 20 },
+      { "user_and_target": "Complete strangers, not of the same species", "add_to_difficulty": 30 }
+    ],
+    "source_page": 153
+  },
+  "proximity_modifier": {
+    "verified_against": "PDF page 155 and the regenerated text (all eight rows)",
+    "rows": [
+      { "user_and_target": "Touching", "add_to_difficulty": 0 },
+      { "user_and_target": "In line of sight but not touching", "add_to_difficulty": 2 },
+      { "user_and_target": "Not in line of sight, 1-100 meters away", "add_to_difficulty": 5 },
+      { "user_and_target": "101 meters to 10 km away", "add_to_difficulty": 7 },
+      { "user_and_target": "11 to 1,000 km away", "add_to_difficulty": 10 },
+      { "user_and_target": "Same planet, more than 1,000 km away", "add_to_difficulty": 15 },
+      { "user_and_target": "Same system, not the same planet", "add_to_difficulty": 20 },
+      { "user_and_target": "Not in the same star system", "add_to_difficulty": 30 }
+    ],
+    "source_page": 153
+  },
+  "dark_side": {
+    "bonus_to_force_skills": "A character with Dark Side Points adds +1D per Dark Side Point to Force skill rolls (3 points = +3D). A Jedi may refuse the bonus, but then all Force power difficulties rise by at least one level. A character who has gone over to the dark side no longer gets the bonus.",
+    "source_page": 152,
+    "ways_to_gain_points": [
+      { "way": "Action", "rule": "Knowingly and willfully breaking the Jedi Code, including unjustified violence and violence fueled by hate or anger; committing or bringing about evil; using 'dark side' powers (Inflict Pain, Telekinetic Kill, Force Lightning...); using a Force Point for evil. Guideline: an act that makes you say 'That's cold!' is unjustifiable." },
+      { "way": "Inaction", "rule": "'Evil by association': standing idly by while evil is committed or passing on an obvious chance to bring justice gives a point." },
+      { "way": "Calling upon the dark side", "rule": "Gain a Force Point (spent that round) and a Dark Side Point, successful or not. Difficulty Easy the first time (+2 levels if no harm is intended), +3 per additional use; roll control. Failure: lose 1D Character Points or the dark side takes 1D from an attribute or Force skill; 0D means death." }
+    ],
+    "fallen": "Normally a character with more than six Dark Side Points becomes a gamemaster character. Optional rules to keep playing: no Character Points for adventuring (one per Dark Side Point instead); Force Points only regained when spent on evil at a dramatically appropriate moment, otherwise lost; the gamemaster secretly rolls 2D against the number of evil acts in the adventure to decide if a Dark Side Point is gained.",
+    "source_pages": [177, 178],
+    "returning_to_the_light": {
+      "requirement": "Spend a Force Point selflessly at a dramatically appropriate moment (often a heroic sacrifice); the gamemaster decides.",
+      "cost": "Lose all Force Points and Character Points; Dark Side Points drop to five; the character should atone.",
+      "source_page": 178
+    },
+    "atonement": {
+      "when": "With 1-5 Dark Side Points.",
+      "ways": "Chosen according to belief (Jedi fast, reflect, meditate). Actively prevent evil, preferably non-violently: preserve life, preserve the right to knowledge and enlightenment, preserve peace and harmony, defend the defenseless.",
+      "time_to_remove": [
+        { "dark_side_points": 1, "days": 40 },
+        { "dark_side_points": 2, "days": 60 },
+        { "dark_side_points": 3, "days": 80 },
+        { "dark_side_points": 4, "days": 100 },
+        { "dark_side_points": 5, "days": 120 }
+      ],
+      "note": "Atonement starts over if a Dark Side Point is received during it.",
+      "source_page": 178
+    }
+  },
+  "optional_rules": {
+    "dramatic_force_use": "Use a power you do not know for 10 Character Points and one Force Point, after having witnessed it, in a dramatic situation. Points are lost even on failure; using it selfishly gives two Dark Side Points. (p.175)",
+    "learning_difficulty_instead_of_required_powers": "Roll willpower against a learning difficulty: 5 for powers without prerequisites, +5 per prerequisite power. Failure: wait at least a month (or never, at the gamemaster's discretion) and the Character Points are lost. Example: absorb/dissipate energy 5; combat sense (two prerequisites) 15. (p.175)",
+    "slow_progression_into_darkness": "Each Dark Side Point adds a negative personality trait (chosen or rolled on 4D from a list of 21 traits such as Arrogant, Deceitful, Hateful, Paranoia, Power-hungry). (p.178)"
+  },
+  "force_traditions": {
+    "tyia_example": "A Tyia student learning control at 1D automatically learns hibernation trance and emptiness (Easy for Tyia) plus three more control powers; all alter powers are one difficulty level higher; all powers take at least one minute. Other traditions (Witches of Dathomir, Ossus) must be defined by the gamemaster. (p.174)"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "movement",
+  "source": { "chapter": 7, "pages": [107, 108, 109, 110], "file": "raw-data/07-movement-chases.txt" },
+  "character_movement": {
+    "move_score": "Meters per round while walking (most humans 10). Moving is an action; once per round. Running/walking rolls running or Dexterity; swimming uses swimming or Strength; climbing uses climbing/jumping or Strength. Unusual movement (swimming, climbing) is normally one-third of Move.",
+    "roll": "Roll >= the terrain difficulty number to move without problem; lower is a movement failure.",
+    "speeds": [
+      { "speed": "cautious", "multiplier": 0.5,
+        "easy_terrain": "free action in Very Easy, Easy and Moderate terrain: no roll, no multiple-action penalty",
+        "hard_terrain": "in Difficult, Very Difficult and Heroic terrain roll running with the difficulty reduced one level" },
+      { "speed": "cruising", "multiplier": 1,
+        "easy_terrain": "an action; automatic in Very Easy, Easy and Moderate terrain",
+        "hard_terrain": "roll running for Difficult, Very Difficult and Heroic terrain" },
+      { "speed": "high", "multiplier": 2,
+        "easy_terrain": "roll running in Very Easy, Easy and Moderate terrain",
+        "hard_terrain": "Difficult becomes Very Difficult, Very Difficult becomes Heroic, Heroic becomes Heroic +10" },
+      { "speed": "all-out", "multiplier": 4,
+        "restriction": "May do nothing else that round, including dodge or parry.",
+        "easy_terrain": "difficulty +1 level in Very Easy, Easy and Moderate terrain",
+        "hard_terrain": "difficulty +2 levels in Difficult, Very Difficult and Heroic terrain" }
+    ],
+    "partial_moves": "After choosing a speed, move anywhere between half and the full distance of that speed (all-out with Move 10: 20 to 40 m).",
+    "acceleration": "Characters may change speed up to two levels per round (cautious -> high is allowed, cautious -> all-out is not; all-out cannot drop to cautious or stop in one round).",
+    "source_pages": [107, 108]
+  },
+  "encumbrance": {
+    "optional": true,
+    "rule": "A character can carry one medium-sized object per pip of Strength (1D = 3 pips; Strength 3D+2 = 11 objects). Carrying too much applies the long-distance movement and stamina rules.",
+    "medium_items": "Fatigues, boots, partial armor, helmet, a main weapon, three grenades, three days' rations, about half a dozen small objects (power tools, power packs, a secondary weapon), backpack, comm gear, scanner, explosives, portable computer, and similar.",
+    "source_page": 108
+  },
+  "long_distance": {
+    "all_out": "Stamina roll every minute (first Very Easy, +1 level each roll). Failure: rest twice as long as moved all-out.",
+    "high_speed": "Stamina roll every 10 minutes (first Very Easy, +1 level each roll). Failure: rest twice as long as moved at high speed.",
+    "marching": "Cruising march: Very Easy stamina check every 3 hours (+1 level each), assuming 5-15 minute breaks; marching continuously: every 2 hours. One hour of sleep per stamina check made restores vigor. Terrain may modify the difficulty.",
+    "terrain_checks": "Movement checks for terrain every 3 hours (2 on a forced march); some terrain forces cautious movement.",
+    "source_page": 109
+  },
+  "terrain_difficulty_characters": [
+    { "level": "Very Easy",      "range": "1-5",   "examples": "Flat, clear, even ground; clear walkways. Swimming: calm water." },
+    { "level": "Easy",           "range": "6-10",  "examples": "Flat but naturally uneven ground (fields, yards) with a few small obstacles. Swimming: minor obstacles or moderate currents." },
+    { "level": "Moderate",       "range": "11-15", "examples": "Rough ground or many obstacles (large holes, rocks, thickets). Swimming: many obstacles or a very confined area." },
+    { "level": "Difficult",      "range": "16-20", "examples": "Densely packed area (panicked crowd, thick forest); very rough ground, darkened tunnels, falling boulders. Swimming in a very rough storm or among predators." },
+    { "level": "Very Difficult", "range": "21-30", "examples": "Very dangerous terrain: minefield, crawl-way with whirling fans, a starship breaking apart. Swimming in a dangerous storm with large waves." },
+    { "level": "Heroic",         "range": "31+",   "examples": "Virtually impassable: avalanche, corridor of falling debris and exploding consoles, swimming in a tidal wave or hurricane." }
+  ],
+  "terrain_difficulty_page": 109,
+  "maneuver_modifiers": {
+    "rule": "The terrain number covers straight-line movement and simple turns. Harder maneuvers (tight beams, grabbing something mid-run) add modifiers. Crossing into other skills (jump a ditch, climb a wall) needs a separate climbing/jumping roll after the movement roll.",
+    "levels": [
+      { "modifier": "+1-5",   "meaning": "takes a little effort and coordination" },
+      { "modifier": "+6-10",  "meaning": "modest effort and coordination" },
+      { "modifier": "+11-15", "meaning": "a lot of concentration; very difficult while moving quickly" },
+      { "modifier": "+16+",   "meaning": "very, very difficult while moving quickly" }
+    ],
+    "source_page": 109
+  },
+  "movement_failures_characters": {
+    "rule": "Failure margin = difficulty number - roll.",
+    "rows": [
+      { "missed_by": "1-3",   "result": "Slight slip", "effect": "-1D to all actions for the rest of the round (plus multiple-action penalties)." },
+      { "missed_by": "4-6",   "result": "Slip", "effect": "Moves only half the Move; -3D to all actions for the rest of the round and -1D next round." },
+      { "missed_by": "7-10",  "result": "Fall", "effect": "Falls halfway through the Move, ends kneeling; no actions for the rest of the round; -2D to all actions next round." },
+      { "missed_by": "11-15", "result": "Minor tumble", "effect": "Falls a quarter of the way through the Move; no actions for the rest of the round and next round; collision damage reduced by 3D (so 1D if all-out, otherwise none)." },
+      { "missed_by": "16-20", "result": "Tumble", "effect": "Falls; normal collision damage." },
+      { "missed_by": "21+",   "result": "Major tumble", "effect": "Falls at a bad angle; collision damage +2D." }
+    ],
+    "collision_damage": [
+      { "speed": "cautious", "damage": "1D" },
+      { "speed": "cruise",   "damage": "2D" },
+      { "speed": "high",     "damage": "3D" },
+      { "speed": "all-out",  "damage": "4D" }
+    ],
+    "damage_resolution": "Roll against the character's Strength as in the damage rules (see damage-healing.json).",
+    "source_pages": [109, 110]
+  }
+}

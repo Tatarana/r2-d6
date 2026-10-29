@@ -1,0 +1,91 @@
+{
+  "id": "character-creation-advancement",
+  "source": { "chapter": 2, "pages": [21, 22, 23, 24, 25, 26, 27, 28], "file": "raw-data/02-characters.txt" },
+  "creation": {
+    "starting_character_points": 5,
+    "starting_force_points": { "force_sensitive": 2, "not_force_sensitive": 1 },
+    "beginning_skill_dice": "7D",
+    "max_added_to_one_skill_at_creation": "2D",
+    "specializations": {
+      "cost": "1D of beginning skill dice buys three specializations",
+      "bonus_each": "1D",
+      "note": "A specialization is rolled only when its specific item or knowledge applies; otherwise the base skill (or attribute) is rolled."
+    },
+    "advanced_skills": {
+      "marker": "(A)",
+      "start_value": "1D",
+      "requirement": "Have the prerequisite skills at the listed level; beginning dice go into prerequisites first.",
+      "prerequisite_roll_bonus": "When rolling a prerequisite skill, add the advanced skill's dice to the roll.",
+      "unused_on_template": "Cross off if no beginning dice are placed."
+    },
+    "new_template": {
+      "attribute_dice": "species Attribute Dice + 6D",
+      "attribute_limits": "Each attribute must be between the species minimum and maximum die codes.",
+      "pips": "A die can be split into three pips; +3 becomes the next full die (2D, 2D+1, 2D+2, 3D...).",
+      "move": "Species Move is 'start/maximum' (humans 10/12).",
+      "force_skill_cost": "1D of attribute dice per 1D in control, sense or alter; gamemaster permission required; attributes may not drop below species minimum.",
+      "example_species": { "name": "Human", "attribute_dice": "12D", "attribute_range": "2D/4D each", "move": "10/12", "special_abilities": "none" }
+    },
+    "starting_credits_optional": {
+      "roll": "2D (gamemaster's option)",
+      "classes": [
+        { "class": "Poor",    "formula": "2D x 100", "typical": "Jedi, outlaws, natives" },
+        { "class": "Average", "formula": "2D x 250", "typical": "soldiers, spacers, regular jobs" },
+        { "class": "Wealthy", "formula": "2D x 400", "typical": "nobles, senators, businessmen" }
+      ],
+      "source_page": 24
+    }
+  },
+  "advancement": {
+    "earning": "Character Points are awarded after each adventure and spent between adventures.",
+    "skill": {
+      "cost_per_pip": "the number before the 'D' in the current die code (3D+2 -> 4D counts as one pip, cost 3)",
+      "limit": "One pip per skill between adventures; several different skills allowed.",
+      "source_page": 25
+    },
+    "specialization": {
+      "cost_per_pip": "half the number before the 'D', rounded up",
+      "separate_from_base": "Improving the skill does not improve its specializations, and vice versa.",
+      "source_page": 25
+    },
+    "advanced_skill": {
+      "cost_per_pip": "2 x the number before the 'D'",
+      "learn_at_1D": "usually 2 Character Points",
+      "source_pages": [26, 27]
+    },
+    "new_skill_or_specialization": {
+      "cost": "enough Character Points to reach one pip above the attribute (attribute 3D -> 3 points)",
+      "source_page": 27
+    },
+    "attribute": {
+      "cost_per_pip": "10 x the number before the 'D'",
+      "side_effect": "All skills under the attribute (except advanced skills) also gain one pip.",
+      "ceiling_check": "After training, the player rolls the new attribute code; the gamemaster rolls the species maximum for that attribute. Player roll <= gamemaster roll: attribute increases. Otherwise it does not and half the Character Points are returned.",
+      "source_page": 27
+    },
+    "move": {
+      "cost_per_meter": "current Move",
+      "cap": "species maximum Move",
+      "source_page": 27
+    },
+    "become_force_sensitive": {
+      "cost": 20,
+      "training": "none",
+      "effect": "Gain one Force Point immediately; must follow Force-sensitive guidelines; cannot be undone. Gamemaster may reduce the price for characters who closely followed the Jedi code.",
+      "source_pages": [27, 28]
+    },
+    "training_time": {
+      "applies_when": "The skill or specialization was not used in the last adventure. If it was used, no training time. Attributes, Move and advanced skills always require training.",
+      "skill_or_specialization": { "with_teacher": "1 day per Character Point", "without_teacher": "2 days per Character Point" },
+      "advanced_skill":          { "with_teacher": "1 week per Character Point", "without_teacher": "2 weeks per Character Point", "minimum": "1 week", "shorten": "1 Character Point per day cut" },
+      "attribute_and_move":      { "with_teacher": "1 week per Character Point", "without_teacher": "2 weeks per Character Point", "minimum": "1 week", "shorten": "1 additional Character Point per day cut" },
+      "shorten_skill": "1 additional Character Point per day cut; minimum 1 day",
+      "rules": [
+        "Skill does not improve until training is complete.",
+        "Only one skill can be trained at a time and not while off adventuring."
+      ],
+      "teacher_requirement": "The teacher's skill (or the specific specialization) must be at least the value the student will reach.",
+      "source_page": 26
+    }
+  }
+}

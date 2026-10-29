@@ -1,0 +1,144 @@
+{
+  "id": "vehicle-movement-damage",
+  "source": { "chapter": 7, "pages": [110, 111, 112, 113, 114, 115, 116], "file": "raw-data/07-movement-chases.txt" },
+  "vehicle_movement": {
+    "rule": "A vehicle has a Move (meters per round at cruising speed) and moves once per round (an action). Pilot rolls the vehicle's operation skill (repulsorlift operation for most speeders; walker operation, ground vehicle operation, hover vehicle operation, swoop operation otherwise) plus the vehicle's maneuverability code, or Mechanical if unskilled. Roll >= terrain difficulty or suffer a movement failure.",
+    "speeds": [
+      { "speed": "cautious", "multiplier": 0.5, "note": "Free action in Very Easy/Easy/Moderate terrain (no roll). In harder terrain roll with the difficulty reduced one level." },
+      { "speed": "cruising", "multiplier": 1,   "note": "An action; automatic in Very Easy/Easy/Moderate terrain; roll for Difficult, Very Difficult, Heroic." },
+      { "speed": "high",     "multiplier": 2,   "note": "Roll in all terrain; Difficult becomes Very Difficult, Very Difficult becomes Heroic, Heroic becomes Heroic +10." },
+      { "speed": "all-out",  "multiplier": 4,   "note": "Pilot may do nothing else (no vehicle dodges, no weapons). Difficulty +1 level in easy terrain, +2 levels in hard terrain." }
+    ],
+    "acceleration": "Vehicles change speed one level per round (unlike characters, who change two).",
+    "partial_moves": "Anywhere from half to the full distance of the chosen speed.",
+    "long_distance": {
+      "all_out": "Body strength roll every 10 minutes (first Very Easy, +1 level each). Fail by 1-10: strain, must rest twice as long as it moved all-out. Fail by 11+: mechanical failure needing a Moderate repair roll and at least an hour.",
+      "high_speed": "Body strength roll every hour (first Very Easy, +1 level each)."
+    },
+    "source_pages": [110, 111]
+  },
+  "terrain_difficulty_vehicles": [
+    { "level": "Very Easy",      "range": "1-5",   "examples": "Flat artificial surfaces such as roads; light traffic; repulsorlift flight over any flat, stable surface." },
+    { "level": "Easy",           "range": "6-10",  "examples": "Smooth surfaces with minor obstacles; moderate traffic; repulsorlift over uneven terrain or in moderate traffic." },
+    { "level": "Moderate",       "range": "11-15", "examples": "Heavy traffic at high speed; rough terrain or an intense storm; repulsorlift over very uneven terrain or in severely limited visibility." },
+    { "level": "Difficult",      "range": "16-20", "examples": "Very rough terrain (mountainside, crater field, meteor storm); chase in heavy traffic; flight through thick forests or Beggar's Canyon." },
+    { "level": "Very Difficult", "range": "21-30", "examples": "Driving through a city during an earthquake or fierce battle; flight in similar circumstances." },
+    { "level": "Heroic",         "range": "31+",   "examples": "Verging on impossible: thick swamps with vines at every turn; racing through an immense drilling machine." }
+  ],
+  "terrain_difficulty_pages": [111, 112],
+  "maneuver_modifiers": {
+    "levels": [
+      { "modifier": "+1-5",   "meaning": "fairly easy" },
+      { "modifier": "+6-10",  "meaning": "somewhat difficult, needs some skill" },
+      { "modifier": "+11-15", "meaning": "very difficult, needs a very talented or lucky pilot" },
+      { "modifier": "+16+",   "meaning": "almost impossible" }
+    ],
+    "examples": [
+      { "maneuver": "Bootlegger turn", "vehicles": "ground", "modifier": "+6 to +15", "effect": "Slams brakes, spins and slides: moves half its Move and ends facing the opposite direction." },
+      { "maneuver": "Extreme climb or dive", "vehicles": "flying", "modifier": "+6 to +20 or more", "effect": "Climb or dive at 45 degrees or more." },
+      { "maneuver": "Extreme turn", "vehicles": "ground and flying", "modifier": "+6 to +15", "effect": "A turn over 45 degrees while keeping high speed." },
+      { "maneuver": "Jump", "vehicles": "ground", "modifier": "+5 to +20", "effect": "Jumping off a bridge, cliff or ramp; depends on distance and landing." },
+      { "maneuver": "Loop", "vehicles": "flying", "modifier": "+15 to +30 or more", "effect": "Loop over the whole move." },
+      { "maneuver": "Rotate", "vehicles": "hover (and some ground repulsorlift)", "modifier": "+5 to +15 or more", "effect": "At cruising speed or less, turn up to 360 degrees without changing inertia." }
+    ],
+    "source_page": 112
+  },
+  "movement_failures_vehicles": {
+    "rows": [
+      { "missed_by": "1-3",   "result": "Slight slip", "effect": "Pilot -1D to all actions for the rest of the round." },
+      { "missed_by": "4-6",   "result": "Slip", "effect": "Vehicle makes half its Move; pilot -3D to all actions this round and -1D next round." },
+      { "missed_by": "7-10",  "result": "Spin", "effect": "Completes a quarter of its Move, then spins out of control: no movement for the rest of the round and the next round; may move again in two rounds if not damaged by a collision." },
+      { "missed_by": "11-15", "result": "Minor collision", "effect": "Glances off an obstacle; collision damage -3D. If there is nothing to hit, spins out and cannot move this round and next." },
+      { "missed_by": "16-20", "result": "Collision", "effect": "Normal collision damage. With nothing to hit, may spin, tumble or flip (gamemaster)." },
+      { "missed_by": "21+",   "result": "Major collision", "effect": "Collision damage +4D. With nothing to hit, flips or suffers another serious collision." }
+    ],
+    "source_page": 112
+  },
+  "collisions": {
+    "damage_by_speed": [
+      { "speed": "cautious", "damage": "2D" },
+      { "speed": "cruise",   "damage": "4D" },
+      { "speed": "high",     "damage": "6D" },
+      { "speed": "all-out",  "damage": "10D" }
+    ],
+    "angle_modifier_vs_vehicle": [
+      { "angle": "Head-on crash",       "modifier": "+3D" },
+      { "angle": "Rear-ender/sideswipe", "modifier": "-3D" },
+      { "angle": "T-bone",              "modifier": "0D" }
+    ],
+    "notes": [
+      "Roll collision damage against the vehicle's body strength roll (use damage caps when scales differ).",
+      "Soft obstacles (wooden fence, thick bushes) may reduce damage by -1D, -2D or more; a hardened wall gives full damage.",
+      "Example from the book: high speed (6D) + major collision (+4D) + head-on (+3D) = 13D."
+    ],
+    "source_page": 113
+  },
+  "vehicle_combat": {
+    "attack": "Difficulty by range; roll vehicle blasters (or Dexterity) plus fire control; >= difficulty hits; roll damage.",
+    "reaction": "Vehicle dodge: pilot's operation skill + the vehicle's maneuverability code becomes the new difficulty. Full reaction (only action that round, not even moving): the roll is added to the difficulty of every attack against the vehicle.",
+    "modifiers": "All Combat chapter modifiers apply; also scale and cover (None, 1/4, 1/2, 3/4, Full).",
+    "weapon_ranges": "If a weapon lists four ranges, the first is point-blank (Very Easy); anything closer is below point-blank and Very Difficult. Example blaster cannon 10-50/100/200/500.",
+    "crew": "Crew N = number of gunners needed; only one rolls the attack skill. No crew listing: the pilot can fire it.",
+    "fire_arcs": "Front, back, left, right, turret (turret = any direction).",
+    "ramming": {
+      "rule": "Pass very close to the target during the move. +10 to the movement difficulty and a separate action (extra -1D to the pilot).",
+      "outcomes": [
+        "Roll higher than the +10 difficulty: ram hits.",
+        "Roll lower than the original movement difficulty: movement failure.",
+        "Roll between the original difficulty and the +10 difficulty: move succeeds but the ram misses."
+      ],
+      "damage": "Attacker takes sideswipe damage (-3D); the victim takes T-bone damage (normal). The target may make a vehicle dodge."
+    },
+    "complex_maneuvers": [
+      { "name": "Attack Pattern Delta", "summary": "Speeders approach a walker single file head-on, strafe, then veer off in different directions.", "game_notes": "Each pilot makes an extra Easy repulsorlift operation roll to form up. Each following speeder gets +1D when attackers straight ahead shoot at it; the lead speeder gets no bonus." },
+      { "name": "Bantha Decoy", "summary": "Lead speeder attacks and banks away so the walker turns its guns, exposing its head and neck to a trailing speeder.", "game_notes": "If the lead speeder hits, the walker's commander makes a free opposed tactics or Perception roll against the lead pilot. If the commander loses, the trailing speeder gets +1D+2 to hit and the walker's gunners get +5 difficulty against the trailing speeder." }
+    ],
+    "source_pages": [113, 114, 115]
+  },
+  "vehicle_damage": {
+    "resolution": "Roll the damage (weapon or collision) against the vehicle's body strength roll. Lower: no damage. Equal or higher: use the chart.",
+    "chart": [
+      { "damage_minus_body_strength": "0-3",  "result": "Shields blown / controls ionized" },
+      { "damage_minus_body_strength": "4-8",  "result": "Lightly damaged" },
+      { "damage_minus_body_strength": "9-12", "result": "Heavily damaged" },
+      { "damage_minus_body_strength": "13-15","result": "Severely damaged" },
+      { "damage_minus_body_strength": "16+",  "result": "Destroyed" }
+    ],
+    "shields_blown": "-1D from the shields total until repaired; with no shield dice left (or none), treat as controls ionized.",
+    "controls_ionized": "-1D from maneuverability, fire control, weapon damage and shield dice for the rest of this round and the next (body strength unaffected). If the number of controls ionized results equals the vehicle's maneuverability dice, controls freeze for two rounds: same speed and direction, no turning, weapons, shields or other actions; the pilot must keep rolling operation (a difficulty is set) or the vehicle crashes.",
+    "lightly_damaged": { "roll": "1D", "results": [
+      { "roll": "1-3", "effect": "-1D maneuverability (if already 0D: -1 Move)." },
+      { "roll": "4",   "effect": "One weapon (random) destroyed; gunners take damage." },
+      { "roll": "5-6", "effect": "-1 Move." } ], "repeatable": "any number of times" },
+    "heavily_damaged": { "roll": "1D", "results": [
+      { "roll": "1-3", "effect": "-2D maneuverability until repaired (if already 0D: -2 Move)." },
+      { "roll": "4-6", "effect": "-2 Move." } ], "note": "A heavily damaged vehicle that is lightly or heavily damaged again becomes severely damaged." },
+    "severely_damaged": { "roll": "1D", "results": [
+      { "roll": "1-2", "effect": "Destroyed powerplant: ground vehicle at high/all-out speed crashes; at cruising/cautious it rolls to a stop; flying vehicles plummet and the pilot needs an operation roll (minimum Moderate) to land." },
+      { "roll": "3",   "effect": "Overloaded generator: explodes in 1D rounds; minimum Moderate to crash-land or stop safely." },
+      { "roll": "4",   "effect": "All weapons shut down." },
+      { "roll": "5",   "effect": "Structural damage: 1D rounds to eject or crash-land (minimum Moderate)." },
+      { "roll": "6",   "effect": "Destroyed or crashes from complete loss of control." } ],
+      "note": "A severely damaged vehicle damaged again is destroyed." },
+    "destroyed": "Immediately destroyed; all passengers take damage.",
+    "lost_moves": [
+      { "total": "-1", "effect": "Cannot move all-out; limited to high speed." },
+      { "total": "-2", "effect": "Limited to cruising speed." },
+      { "total": "-3", "effect": "Cautious speed only." },
+      { "total": "-4", "effect": "Drive disabled until repaired." },
+      { "total": "-5", "effect": "Vehicle destroyed." }
+    ],
+    "lost_moves_note": "Lost Moves add together (-1 then -2 = -3).",
+    "passenger_damage": {
+      "rule": "Gamemaster judges whether passengers are hurt; damage is character-scale.",
+      "rows": [
+        { "vehicle": "Lightly damaged", "damage": "1D" },
+        { "vehicle": "Heavily damaged", "damage": "3D" },
+        { "vehicle": "Severely damaged", "damage": "6D" },
+        { "vehicle": "Destroyed", "damage": "12D" }
+      ]
+    },
+    "falling": "Damage matches the scale of the faller; same table as character falling (see damage-healing.json). Increase a couple of levels on high gravity worlds, decrease on low gravity worlds.",
+    "source_pages": [115, 116]
+  }
+}

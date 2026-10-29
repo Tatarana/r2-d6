@@ -1,0 +1,14 @@
+node_modules/
+.env
+.data/
+dist/
+*.tsbuildinfo
+packages/data/generated/
+test-results/
+playwright-report/
+e2e/screenshots/
+
+# livro original: fica so na maquina local (repo publico)
+data/raw-data/*.pdf
+# configuracao local do Claude Code
+.claude/settings.local.json

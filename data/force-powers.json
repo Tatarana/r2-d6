@@ -1,0 +1,1257 @@
+{
+ "id": "force-powers",
+ "source": {
+  "chapter": 10,
+  "pages": [
+   153,
+   174
+  ],
+  "file": "raw-data/10-the-force.txt"
+ },
+ "notes": "A Jedi must be taught each power. A power using two skills counts as two powers when being taught, three skills as three. Difficulty fields are the book text; see rules/force.md for relationship and proximity modifiers. effect_summary is the first sentence only; read the page in the raw chapter for full rules and examples.",
+ "powers": [
+  {
+   "id": "absorb-dissipate-energy",
+   "name": "Absorb/Dissipate Energy",
+   "skills": [
+    "control"
+   ],
+   "page": 153,
+   "control_difficulty": "Very Easy for sunburn and other very minor energy sources; Easy for intense sun; Moderate for solar wind and other modest energy sources (blaster bolts and Force lightening); Difficult for radiation storms and other intense energy sources (speeder-scale damage).",
+   "can_be_kept_up": true,
+   "effect_summary": "This power allows the Jedi to absorb or dissipate energy, including light, heat, radiation and blaster bolts."
+  },
+  {
+   "id": "accelerate-healing",
+   "name": "Accelerate Healing",
+   "skills": [
+    "control"
+   ],
+   "page": 153,
+   "control_difficulty": "Easy for wounded characters, Moderate for incapacitated characters, Difficult for mortally wounded characters.",
+   "time_to_use": "One minute.",
+   "can_be_kept_up": false,
+   "effect_summary": "A Jedi who uses this power successfully may make two natural healing rolls for the current day (12 hours apart) regardless of the severity of the injury."
+  },
+  {
+   "id": "burst-of-speed",
+   "name": "Burst of Speed",
+   "skills": [
+    "control"
+   ],
+   "page": 154,
+   "control_difficulty": "Moderate.",
+   "required_powers": [
+    "Enhance attribute"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "A Jedi can use this power to enhance his Move rating, increasing his running and walking speeds dramatically for a short period of time."
+  },
+  {
+   "id": "concentration",
+   "name": "Concentration",
+   "skills": [
+    "control"
+   ],
+   "page": 154,
+   "control_difficulty": "Easy if the Jedi is relaxed and at peace; Difficult if the Jedi is filled with aggression, fear or other negative emotions; Very Difficult if the Jedi is acting on those negative emotions.",
+   "can_be_kept_up": false,
+   "effect_summary": "When using this power, the Jedi clears all negative thoughts from her mind, feeling the Force flowing through the universe and her own being."
+  },
+  {
+   "id": "contort-escape",
+   "name": "Contort/Escape",
+   "skills": [
+    "control"
+   ],
+   "page": 154,
+   "control_difficulty": "Very Easy for loose bonds; Easy for hand binder; Moderate for serious restraints; Difficult to Heroic for maximum security (varies at gamemaster’s discretion, depending on security measures).",
+   "required_powers": [
+    "Concentration",
+    "control pain",
+    "enhance attribute"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "The character may escape bonds by contorting in painful and difficult (but still physically possible) ways."
+  },
+  {
+   "id": "control-disease",
+   "name": "Control Disease",
+   "skills": [
+    "control"
+   ],
+   "page": 154,
+   "control_difficulty": "Very Easy for a mild infection, such as a cold; Easy for a modest infection or illness, such as a high fever or severe flu; Moderate for a severe illness, such as gangrene or a hive virus; Difficult for a life-threatening disease; Very Difficult for a massive, long-standing disease; Heroic for a rapid-acting life-threatening disease.",
+   "required_powers": [
+    "Accelerate healing"
+   ],
+   "time_to_use": "30 minutes to several uses over the course of weeks.",
+   "can_be_kept_up": false,
+   "effect_summary": "Control disease allows the Jedi to direct and control the anti-bodies and healing resources of her body to throw off an infection or to resist diseases within the body."
+  },
+  {
+   "id": "control-pain",
+   "name": "Control Pain",
+   "skills": [
+    "control"
+   ],
+   "page": 154,
+   "control_difficulty": "Very Easy for wounded or stunned characters, Easy for incapacitated characters, Difficult for mortally wounded characters.",
+   "can_be_kept_up": false,
+   "effect_summary": "A wounded Jedi who controls pain can act as if she has not been wounded, starting with the round after the power roll has been made."
+  },
+  {
+   "id": "detoxify-poison",
+   "name": "Detoxify Poison",
+   "skills": [
+    "control"
+   ],
+   "page": 155,
+   "control_difficulty": "Very Easy for a very mild poison, such as alcohol; Easy for a mild poison; Moderate for an average poison; Difficult for a virulent poison; Very Difficult to Heroic for a neurotoxin.",
+   "time_to_use": "Five minutes.",
+   "can_be_kept_up": false,
+   "effect_summary": "This power allows a Jedi to detoxify or eject poisons that have entered her body."
+  },
+  {
+   "id": "emptiness",
+   "name": "Emptiness",
+   "skills": [
+    "control"
+   ],
+   "page": 155,
+   "control_difficulty": "Moderate.",
+   "required_powers": [
+    "Hibernation trance"
+   ],
+   "note": "Characters who are consumed by the dark side of the Force may not use this power.",
+   "can_be_kept_up": false,
+   "effect_summary": "The user empties her mind and allows the Force to flow through her."
+  },
+  {
+   "id": "enhance-attribute",
+   "name": "Enhance Attribute",
+   "skills": [
+    "control"
+   ],
+   "page": 155,
+   "control_difficulty": "Moderate.",
+   "can_be_kept_up": false,
+   "effect_summary": "A Jedi uses this power to increase a single attribute for a limited period."
+  },
+  {
+   "id": "force-of-will",
+   "name": "Force of Will",
+   "skills": [
+    "control"
+   ],
+   "page": 155,
+   "control_difficulty": "Easy.",
+   "note": "Force of will does not protect against Force lightning or Force storms or objects hurled by telekinesis since in each case the power creates a distinct physical manifestation. These are external rather than internal powers, in which case willpower would have no bearing on resistance. Force of will works on injure/kill, telekinetic kill, inflict pain, and other powers which directly use the Force to affect the target.",
+   "can_be_kept_up": true,
+   "effect_summary": "By using force of will, the character uses his or her own willpower skill to fight the effects of hostile Force powers."
+  },
+  {
+   "id": "hibernation-trance",
+   "name": "Hibernation Trance",
+   "skills": [
+    "control"
+   ],
+   "page": 156,
+   "control_difficulty": "Difficult.",
+   "can_be_kept_up": true,
+   "effect_summary": "This power allows a Jedi to place herself into a deep trance, remarkably slowing all body functions."
+  },
+  {
+   "id": "instinctive-astrogation-control",
+   "name": "Instinctive Astrogation Control",
+   "skills": [
+    "control"
+   ],
+   "page": 156,
+   "control_difficulty": "Very Difficult. Modified by astrogation difficulty.",
+   "can_be_kept_up": false,
+   "effect_summary": "Instinctive astrogation control is far more difficult than the standard sense-based instinctive astrogation power because rather than trying to feel the correct solutions to the hyperspace equations, the Jedi calculates them in his head."
+  },
+  {
+   "id": "rage",
+   "name": "Rage",
+   "skills": [
+    "control"
+   ],
+   "page": 156,
+   "control_difficulty": "Difficult.",
+   "required_powers": [
+    "Hibernation trance"
+   ],
+   "warning": "A Jedi who uses this gains one Dark Side Point.",
+   "note": "This power can only be used by characters who have been consumed by the dark side of the Force.",
+   "can_be_kept_up": false,
+   "effect_summary": "Rage allows a character to feel the influence of the dark side."
+  },
+  {
+   "id": "reduce-injury",
+   "name": "Reduce Injury",
+   "skills": [
+    "control"
+   ],
+   "page": 157,
+   "control_difficulty": "Moderate for incapacitated characters, Difficult for mortally wounded characters, Very Difficult for dead characters.",
+   "required_powers": [
+    "Control pain"
+   ],
+   "note": "It is not always a “selfish” act to save one’s life, so the character might be able to get the Force Point back. If the character was fighting to save her friends from certain doom — and if she fails, they certainly die — then this could even be considered an heroic action.",
+   "can_be_kept_up": false,
+   "effect_summary": "A Jedi may use this power to reduce the amount of injury she suffers."
+  },
+  {
+   "id": "remain-conscious",
+   "name": "Remain Conscious",
+   "skills": [
+    "control"
+   ],
+   "page": 157,
+   "control_difficulty": "Easy for stunned characters, Moderate for incapacitated characters, Difficult for mortally wounded characters.",
+   "required_powers": [
+    "Control pain"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "Remain conscious allows a Jedi to remain conscious even after suffering injuries which would knock her unconscious."
+  },
+  {
+   "id": "remove-fatigue",
+   "name": "Remove Fatigue",
+   "skills": [
+    "control"
+   ],
+   "page": 157,
+   "control_difficulty": "Moderate.",
+   "required_powers": [
+    "Accelerate healing",
+    "control pain"
+   ],
+   "can_be_kept_up": true,
+   "effect_summary": "The character uses this power to combat the effects of strenuous work."
+  },
+  {
+   "id": "resist-stun",
+   "name": "Resist Stun",
+   "skills": [
+    "control"
+   ],
+   "page": 157,
+   "control_difficulty": "Moderate.",
+   "time_to_use": "One minute.",
+   "can_be_kept_up": true,
+   "effect_summary": "Resist stun allows the Jedi to prepare her body to resist the effects of stun damage."
+  },
+  {
+   "id": "short-term-memory-enhancement",
+   "name": "Short-Term Memory Enhancement",
+   "skills": [
+    "control"
+   ],
+   "page": 158,
+   "control_difficulty": "Difficult.",
+   "required_powers": [
+    "Hibernation trance"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "When a Jedi uses this power, he or she can replay recent events in order to more carefully examine images and peripheral occurrences."
+  },
+  {
+   "id": "up-the-walls",
+   "name": "Up the Walls",
+   "skills": [
+    "control"
+   ],
+   "page": 158,
+   "control_difficulty": "Difficult.",
+   "required_powers": [
+    "Enhance attribute",
+    "burst of speed"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "You can use some or all of your movement on a wall, as long as you begin and end your turn on the floor."
+  },
+  {
+   "id": "beast-languages",
+   "name": "Beast Languages",
+   "skills": [
+    "sense"
+   ],
+   "page": 158,
+   "sense_difficulty": "Easy if the animal is domesticated/ friendly (such as a bantha); Moderate to Difficult if the animal is wild, but non-predatory (such as an undomesticated tauntaun); Very Difficult to Heroic if the animal is ferocious/predatory (such as a wild rancor).",
+   "required_powers": [
+    "Life sense",
+    "receptive telepathy",
+    "projective telepathy",
+    "translation"
+   ],
+   "can_be_kept_up": true,
+   "effect_summary": "This power allows the Jedi to translate a beast-language and allows the Jedi to speak it."
+  },
+  {
+   "id": "combat-sense",
+   "name": "Combat Sense",
+   "skills": [
+    "sense"
+   ],
+   "page": 158,
+   "sense_difficulty": "Moderate for one opponent, +3 for each additional opponent the Jedi wishes to defend against.",
+   "required_powers": [
+    "Danger sense",
+    "life detection"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "Combat sense allows a Jedi to focus on the battle at hand."
+  },
+  {
+   "id": "danger-sense",
+   "name": "Danger Sense",
+   "skills": [
+    "sense"
+   ],
+   "page": 159,
+   "sense_difficulty": "Moderate or attacker’s control roll.",
+   "required_powers": [
+    "Life detection"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "Danger sense allows a Jedi to extend his senses around himself like protective sensors creating an early warning system for as long as the power remains in effect."
+  },
+  {
+   "id": "direction-sense",
+   "name": "Direction Sense",
+   "skills": [
+    "sense"
+   ],
+   "page": 159,
+   "sense_difficulty": "Easy; modified by proximity.",
+   "can_be_kept_up": false,
+   "effect_summary": "Direction sense allows a Jedi to be guided by the Force toward a particular goal or destination."
+  },
+  {
+   "id": "instinctive-astrogation",
+   "name": "Instinctive Astrogation",
+   "skills": [
+    "sense"
+   ],
+   "page": 159,
+   "sense_difficulty": "Moderate, modified by astrogation difficulty.",
+   "required_powers": [
+    "Magnify senses"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "This is the more well known ability of the Jedi to calculate astrogation routes without the use of a nav computer."
+  },
+  {
+   "id": "life-detection",
+   "name": "Life Detection",
+   "skills": [
+    "sense"
+   ],
+   "page": 159,
+   "sense_difficulty": "Very Easy if the subject has Force skills or is Force-sensitive; Moderate if not. Modified by relationship.",
+   "can_be_kept_up": true,
+   "effect_summary": "This power allows Jedi to detect live sentient beings who might otherwise remain hidden."
+  },
+  {
+   "id": "life-sense",
+   "name": "Life Sense",
+   "skills": [
+    "sense"
+   ],
+   "page": 159,
+   "sense_difficulty": "Very Easy. Modified by proximity and relationship.",
+   "required_powers": [
+    "Life detection"
+   ],
+   "can_be_kept_up": true,
+   "effect_summary": "The user can sense the presence and identity of a specific person for whom she searches."
+  },
+  {
+   "id": "life-web",
+   "name": "Life Web",
+   "skills": [
+    "sense"
+   ],
+   "page": 159,
+   "sense_difficulty": "See below: modified by proximity.",
+   "required_powers": [
+    "Life detection",
+    "life sense",
+    "sense Force"
+   ],
+   "time_to_use": "Two days (or more).",
+   "note": "The Force-user must choose one specific species as a specialization (see below).",
+   "can_be_kept_up": false,
+   "effect_summary": "This power is used to detect large concentrations of members of a specific species such as humans, Rodians, or Chadra-Fan."
+  },
+  {
+   "id": "magnify-senses",
+   "name": "Magnify Senses",
+   "skills": [
+    "sense"
+   ],
+   "page": 160,
+   "sense_difficulty": "Very Easy. Modified by proximity.",
+   "time_to_use": "Three rounds.",
+   "can_be_kept_up": false,
+   "effect_summary": "This power allows a Jedi to increase the effectiveness of her normal senses to perceive things that otherwise would be impossible without artificial aids."
+  },
+  {
+   "id": "merge-senses",
+   "name": "Merge Senses",
+   "skills": [
+    "sense"
+   ],
+   "page": 160,
+   "sense_difficulty": "Moderate. Modified by proximity.",
+   "required_powers": [
+    "Magnify senses"
+   ],
+   "time_to_use": "Three rounds.",
+   "can_be_kept_up": false,
+   "effect_summary": "This power allows a Force user to perceive things through the senses of another creature, one with animal intelligence or less."
+  },
+  {
+   "id": "postcognition",
+   "name": "Postcognition",
+   "skills": [
+    "sense"
+   ],
+   "page": 160,
+   "sense_difficulty": "Easy if seeing less than two hours into the past; Moderate for seeing more than two hours but less than a week into the past; Difficult for seeing more than a week but less than six months into the past; Very Difficult for seeing more than six months but less than a year into the past; Heroic for seeing more than a year but less than two years into the past; +10 for each additional year.",
+   "required_powers": [
+    "Hibernation trance",
+    "life detection",
+    "sense Force"
+   ],
+   "time_to_use": "Five minutes; the time to use may be reduced by adding +10 for each minute cut. Minimum time to use of one minute.",
+   "can_be_kept_up": false,
+   "effect_summary": "Postcognition allows a Jedi to investigate the tenuous imprints of the Force left on objects when they are handled by living beings."
+  },
+  {
+   "id": "predict-natural-disaster",
+   "name": "Predict Natural Disaster",
+   "skills": [
+    "sense"
+   ],
+   "page": 160,
+   "sense_difficulty": "Easy if the Jedi has lived in the area for more than a year. Moderate if the Jedi has been living within the area between six and 12 months. Difficult if the Jedi has been living within the area between one and six months. Very Difficult if the Jedi has been living within the area less than one month. Modified by severity of disaster (larger disasters are easier to predict) and degree to which the disaster could reasonably be predicted (gamemasters may decide that disasters are easier or harder to predict based on a multitude of factors).",
+   "required_powers": [
+    "Danger sense",
+    "life detection",
+    "weather sense",
+    "magnify senses"
+   ],
+   "time_to_use": "15 minutes. May be reduced in five-minute increments by increasing difficulty one level per five-minute increment (minimum time to use is one minute).",
+   "can_be_kept_up": false,
+   "effect_summary": "The Jedi can sense local meteorological and geological conditions and predict imminent disasters, such as earthquakes, volcanic eruptions, floods, landslides, avalanches, cave-ins, tornadoes, hurricanes (hurricanes can also can be predicted with weather sense)"
+  },
+  {
+   "id": "receptive-telepathy",
+   "name": "Receptive Telepathy",
+   "skills": [
+    "sense"
+   ],
+   "page": 161,
+   "sense_difficulty": "Very Easy for friendly, non-resisting targets. A resisting target makes a Perception or control roll to determine the difficulty. Modified by proximity and relationship.",
+   "required_powers": [
+    "Life detection",
+    "life sense"
+   ],
+   "can_be_kept_up": true,
+   "effect_summary": "A Jedi who makes the power roll can read the surface thoughts and emotions of the target."
+  },
+  {
+   "id": "sense-force",
+   "name": "Sense Force",
+   "skills": [
+    "sense"
+   ],
+   "page": 161,
+   "sense_difficulty": "Moderate for an area; Difficult for sensing details or specific objects within the area. Modified by proximity.",
+   "can_be_kept_up": false,
+   "effect_summary": "This power is used to sense the ambient Force within a place."
+  },
+  {
+   "id": "sense-force-potential",
+   "name": "Sense Force Potential",
+   "skills": [
+    "sense"
+   ],
+   "page": 161,
+   "sense_difficulty": "Moderate for friendly, unresistant targets. Moderate plus target’s Perception or control roll (whichever is higher) to determine the difficulty of the probe on an unwilling subject.",
+   "required_powers": [
+    "Life detection",
+    "life sense",
+    "receptive telepathy",
+    "sense Force"
+   ],
+   "time_to_use": "Six rounds.",
+   "can_be_kept_up": false,
+   "effect_summary": "This power allows a Jedi to probe the mind of a target, and determine whether that person has the potential to be strong in the Force."
+  },
+  {
+   "id": "sense-path",
+   "name": "Sense Path",
+   "skills": [
+    "sense"
+   ],
+   "page": 161,
+   "sense_difficulty": "Moderate",
+   "required_powers": [
+    "Emptiness",
+    "hibernation trance"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "This power informs a character of the “path” he travels: whether his current actions are likely to lead him to the dark side, and whether any specified future actions are likely to do so (this power may be thought of as farseeing without control)."
+  },
+  {
+   "id": "shift-sense",
+   "name": "Shift Sense",
+   "skills": [
+    "sense"
+   ],
+   "page": 162,
+   "sense_difficulty": "Moderate for simple phenomena (such as heat or simple scents); Difficult for more uncommon phenomena (such as comm frequencies, infrared radiation); Very Difficult for specific, complex phenomena (such as setting olfactory nerves to detect the presence of Tibanna gas).",
+   "can_be_kept_up": true,
+   "effect_summary": "The character may shift his or her senses as to detect phenomena of a different type than normal."
+  },
+  {
+   "id": "translation",
+   "name": "Translation",
+   "skills": [
+    "sense"
+   ],
+   "page": 162,
+   "sense_difficulty": "Moderate for humans or aliens. Difficult for droids. If the target is being purposely cryptic add +5 to the difficulty, +20 if the language is written down.",
+   "required_powers": [
+    "Receptive telepathy",
+    "projective telepathy",
+    "life sense"
+   ],
+   "can_be_kept_up": true,
+   "effect_summary": "The character may translate a language and speak it."
+  },
+  {
+   "id": "weather-sense",
+   "name": "Weather Sense",
+   "skills": [
+    "sense"
+   ],
+   "page": 162,
+   "sense_difficulty": "Easy if the Jedi has lived in the area for more than a year; Moderate if the Jedi has lived in the area between six and twelve months; Difficult if the Jedi has lived in the area between one and six months; Very Difficult if the Jedi has lived in the area less than one month. Modified for proximity and local meteorological conditions.",
+   "required_powers": [
+    "Magnify senses"
+   ],
+   "can_be_kept_up": true,
+   "effect_summary": "This power allows the Jedi to attune himself to the workings of local weather patterns."
+  },
+  {
+   "id": "force-push",
+   "name": "Force Push",
+   "skills": [
+    "alter"
+   ],
+   "page": 162,
+   "alter_difficulty": "Target’s control or Strength roll, +3 to difficulty for every 5 meters away from target, line of sight only.",
+   "required_powers": [
+    "Concentration",
+    "life detection",
+    "telekinesis"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "With this power, a Jedi may use the Force to push several adjacent targets backwards, knocking them prone or banging them against a wall."
+  },
+  {
+   "id": "injure-kill",
+   "name": "Injure/Kill",
+   "skills": [
+    "alter"
+   ],
+   "page": 163,
+   "alter_difficulty": "Target’s control or Perception roll.",
+   "warning": "A character who uses this power receives a Dark Side Point.",
+   "can_be_kept_up": false,
+   "effect_summary": "An attacker must be touching the target to use this power."
+  },
+  {
+   "id": "kinetic-combat",
+   "name": "Kinetic Combat",
+   "skills": [
+    "alter"
+   ],
+   "page": 163,
+   "alter_difficulty": "Difficult",
+   "required_powers": [
+    "Telekinesis"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "Once the Jedi has successfully activated this power, he may wield a melee weapon or lightsaber with the power of the Force at a distance up to 10 meters, as though the weapon were in his hands using his melee weapons or lightsaber skill respectively."
+  },
+  {
+   "id": "telekinesis",
+   "name": "Telekinesis",
+   "skills": [
+    "alter"
+   ],
+   "page": 163,
+   "alter_difficulty": "Very Easy for objects weighing one kilogram or less; Easy for objects weighing one to ten kilograms; Moderate for objects 11 to 100 kilograms; Difficult for 101 kilograms to one metric ton; Very Difficult for 1,001 kilograms to ten metric tons; Heroic for objects weighing 10,001 kilograms to 100 metric tons.",
+   "can_be_kept_up": true,
+   "effect_summary": "This power allows the Jedi to levitate and move objects with the power of her mind alone."
+  },
+  {
+   "id": "farseeing",
+   "name": "Farseeing",
+   "skills": [
+    "control",
+    "sense"
+   ],
+   "page": 164,
+   "control_difficulty": "Very Easy, modified by proximity. Add +5 to +20 to the difficulty if the character wishes to see something in the past. Add +10 to +30 for the future.",
+   "sense_difficulty": "Very Easy if the target is friendly and doesn’t resist. If the target resists, make a control or Perception total for the difficulty. Modified by relationship.",
+   "required_powers": [
+    "Life sense"
+   ],
+   "time_to_use": "At least one minute.",
+   "can_be_kept_up": false,
+   "effect_summary": "The Jedi may see the person or place he wishes to see in his mind as the situation currently exists."
+  },
+  {
+   "id": "life-bond",
+   "name": "Life Bond",
+   "skills": [
+    "control",
+    "sense"
+   ],
+   "page": 164,
+   "control_difficulty": "Moderate.",
+   "sense_difficulty": "See below. Modified by proximity.",
+   "required_powers": [
+    "Life detection",
+    "life sense",
+    "magnify senses",
+    "receptive telepathy"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "A Jedi character may choose the life bond power to permanently form a mental link with one other individual, normally a mate (although sometimes siblings, parent and child, or even very close friends choose to life bond)."
+  },
+  {
+   "id": "lifemerge",
+   "name": "Lifemerge",
+   "skills": [
+    "control",
+    "sense"
+   ],
+   "page": 165,
+   "control_difficulty": "Difficult.",
+   "sense_difficulty": "Difficult.",
+   "can_be_kept_up": false,
+   "effect_summary": "A Jedi may attempt to activate this power at his death."
+  },
+  {
+   "id": "lightsaber-combat",
+   "name": "Lightsaber Combat",
+   "skills": [
+    "control",
+    "sense"
+   ],
+   "page": 165,
+   "control_difficulty": "Moderate.",
+   "sense_difficulty": "Easy.",
+   "can_be_kept_up": true,
+   "effect_summary": "Jedi use this power to wield this elegant but difficult- to-control weapon while also sensing their opponents’ actions through the Force."
+  },
+  {
+   "id": "projective-telepathy",
+   "name": "Projective Telepathy",
+   "skills": [
+    "control",
+    "sense"
+   ],
+   "page": 166,
+   "control_difficulty": "Very Easy. Increase difficulty by +5 to +10 if the Jedi cannot verbalize the thoughts she is transmitting (she is gagged or doesn’t want to make a sound). Modified by proximity.",
+   "sense_difficulty": "Very Easy if target is friendly and doesn’t resist. If target resists, roll Perception or control to determine the difficulty. Modified by relationship.",
+   "required_powers": [
+    "Life detection",
+    "life sense",
+    "receptive telepathy"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "If the Jedi successfully projects her thoughts, the target “hears” her thoughts and “feels” her emotions."
+  },
+  {
+   "id": "accelerate-another-s-healing",
+   "name": "Accelerate Another’s Healing",
+   "skills": [
+    "control",
+    "alter"
+   ],
+   "page": 166,
+   "control_difficulty": "Very Easy. Modified by relationship.",
+   "alter_difficulty": "Very Easy.",
+   "required_powers": [
+    "Control another’s pain",
+    "control pain"
+   ],
+   "time_to_use": "One minute.",
+   "can_be_kept_up": false,
+   "effect_summary": "The target is allowed to make extra healing rolls, as outlined in accelerate healing."
+  },
+  {
+   "id": "control-another-s-disease",
+   "name": "Control Another’s Disease",
+   "skills": [
+    "control",
+    "alter"
+   ],
+   "page": 166,
+   "control_difficulty": "Very Easy, as modified by relationship.",
+   "alter_difficulty": "Same as control disease.",
+   "required_powers": [
+    "Accelerate healing",
+    "control disease"
+   ],
+   "time_to_use": "30 minutes to several uses over the course of several weeks.",
+   "can_be_kept_up": false,
+   "effect_summary": "This power allows a Jedi to heal another character, using the same rules and conditions as outlined in control disease."
+  },
+  {
+   "id": "control-another-s-pain",
+   "name": "Control Another’s Pain",
+   "skills": [
+    "control",
+    "alter"
+   ],
+   "page": 166,
+   "control_difficulty": "Very Easy. Modified by relationship.",
+   "alter_difficulty": "Easy for wounded characters; Moderate for incapacitated characters; Difficult for mortally wounded characters.",
+   "required_powers": [
+    "Control pain"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "This power allows a Jedi to help another character control pain, under the same rules and conditions outlined in the control pain power."
+  },
+  {
+   "id": "control-breathing",
+   "name": "Control Breathing",
+   "skills": [
+    "control",
+    "alter"
+   ],
+   "page": 166,
+   "control_difficulty": "Moderate.",
+   "alter_difficulty": "Very Difficult.",
+   "required_powers": [
+    "Concentration",
+    "hibernation trance",
+    "telekinesis"
+   ],
+   "can_be_kept_up": true,
+   "effect_summary": "This power allows a Jedi to control the amount of oxygen flowing into his or her body."
+  },
+  {
+   "id": "detoxify-another-s-poison",
+   "name": "Detoxify Another’s Poison",
+   "skills": [
+    "control",
+    "alter"
+   ],
+   "page": 166,
+   "control_difficulty": "Very Easy, modified by relationship.",
+   "alter_difficulty": "Very Easy for a very mild poison (such as alcohol); Easy for a mild poison; Moderate for an average poison; Difficult for a virulent poison; Very Difficult to Heroic for a neurotoxin.",
+   "required_powers": [
+    "Accelerate healing",
+    "accelerate another’s healing",
+    "control pain",
+    "control another’s pain",
+    "detoxify poison"
+   ],
+   "time_to_use": "Five minutes.",
+   "can_be_kept_up": false,
+   "effect_summary": "This power allows a Jedi to remove or detoxify poison from a patent’s body faster than is normally possible."
+  },
+  {
+   "id": "feed-on-dark-side",
+   "name": "Feed on Dark Side",
+   "skills": [
+    "control",
+    "alter"
+   ],
+   "page": 166,
+   "control_difficulty": "Moderate when activated, Very Easy each round thereafter.",
+   "alter_difficulty": "Moderate when activated; no rolls required for subsequent rounds.",
+   "required_powers": [
+    "Sense Force"
+   ],
+   "warning": "Any Jedi who activates this power automatically receives a Dark Side Point.",
+   "can_be_kept_up": false,
+   "effect_summary": "This power allows a Jedi to feed on the fear, hatred, or other negative emotions of others to make himself more powerful."
+  },
+  {
+   "id": "force-jump",
+   "name": "Force Jump",
+   "skills": [
+    "control",
+    "alter"
+   ],
+   "page": 167,
+   "control_difficulty": "Easy.",
+   "alter_difficulty": "Easy.",
+   "required_powers": [
+    "Enhance attribute",
+    "telekinesis"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "A Jedi uses this power to increase his jumping ability in order to perform impossibly high leaps."
+  },
+  {
+   "id": "force-lightning",
+   "name": "Force Lightning",
+   "skills": [
+    "control",
+    "alter"
+   ],
+   "page": 167,
+   "control_difficulty": "Difficult, modified by proximity, limited to line of sight.",
+   "alter_difficulty": "Target’s control or Perception roll.",
+   "warning": "A Jedi who uses this power for any reason immediately gains a Dark Side Point.",
+   "can_be_kept_up": false,
+   "effect_summary": "This power is a corruption of the Force."
+  },
+  {
+   "id": "inflict-pain",
+   "name": "Inflict Pain",
+   "skills": [
+    "control",
+    "alter"
+   ],
+   "page": 167,
+   "control_difficulty": "Very Easy. Modified by proximity.",
+   "alter_difficulty": "Target’s control or Perception. Modified by proximity.",
+   "required_powers": [
+    "Control pain",
+    "life sense"
+   ],
+   "warning": "A character who uses this power immediately receives a Dark Side Point.",
+   "can_be_kept_up": false,
+   "effect_summary": "The target experiences great agony."
+  },
+  {
+   "id": "place-another-in-hibernation-trance",
+   "name": "Place Another in Hibernation Trance",
+   "skills": [
+    "control",
+    "alter"
+   ],
+   "page": 168,
+   "control_difficulty": "Very Easy. Modified by the target’s relationship.",
+   "alter_difficulty": "Difficult.",
+   "required_powers": [
+    "Hibernation trance"
+   ],
+   "time_to_use": "Five minutes.",
+   "can_be_kept_up": false,
+   "effect_summary": "This power allows a Jedi to put another character into a hibernation trance."
+  },
+  {
+   "id": "redirect-energy",
+   "name": "Redirect Energy",
+   "skills": [
+    "control",
+    "alter"
+   ],
+   "page": 168,
+   "control_difficulty": "Difficult.",
+   "alter_difficulty": "Very Difficult or target’s dodge roll.",
+   "required_powers": [
+    "Absorb/dissipate energy"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "If the Jedi is the target of a Force energy attack (such as force lightning) he may attempt to send the energy back at the attacker."
+  },
+  {
+   "id": "remove-another-s-fatigue",
+   "name": "Remove Another’s Fatigue",
+   "skills": [
+    "control",
+    "alter"
+   ],
+   "page": 168,
+   "control_difficulty": "Easy.",
+   "alter_difficulty": "Moderate. Modified by relationship.",
+   "required_powers": [
+    "Accelerate healing",
+    "accelerate another’s healing",
+    "control pain",
+    "control another’s pain",
+    "remove fatigue"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "This power allows the Jedi to remove the effects of effects of fatigue in another."
+  },
+  {
+   "id": "return-another-to-consciousness",
+   "name": "Return Another to Consciousness",
+   "skills": [
+    "control",
+    "alter"
+   ],
+   "page": 168,
+   "control_difficulty": "Easy. Modified by relationship.",
+   "alter_difficulty": "Easy for incapacitated characters; Difficult for mortally wounded characters.",
+   "required_powers": [
+    "Remain conscious",
+    "control pain"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "The target returns to consciousness."
+  },
+  {
+   "id": "transfer-force",
+   "name": "Transfer Force",
+   "skills": [
+    "control",
+    "alter"
+   ],
+   "page": 168,
+   "control_difficulty": "Easy. Modified by relationship.",
+   "alter_difficulty": "Moderate.",
+   "required_powers": [
+    "Control another’s pain",
+    "control pain"
+   ],
+   "time_to_use": "One minute.",
+   "can_be_kept_up": false,
+   "effect_summary": "This power will save a mortally wounded character from dying because the Jedi is transferring her life force to the target."
+  },
+  {
+   "id": "dim-another-s-senses",
+   "name": "Dim Another’s Senses",
+   "skills": [
+    "sense",
+    "alter"
+   ],
+   "page": 168,
+   "sense_difficulty": "Easy, modified by proximity.",
+   "alter_difficulty": "Target’s control or Perception.",
+   "can_be_kept_up": false,
+   "effect_summary": "This power greatly reduces the Perception of the target character."
+  },
+  {
+   "id": "greater-force-shield",
+   "name": "Greater Force Shield",
+   "skills": [
+    "sense",
+    "alter"
+   ],
+   "page": 168,
+   "sense_difficulty": "Difficult.",
+   "alter_difficulty": "Very Difficult.",
+   "required_powers": [
+    "Absorb/dissipate energy",
+    "concentration",
+    "magnify senses",
+    "telekinesis",
+    "lesser force shield"
+   ],
+   "can_be_kept_up": true,
+   "effect_summary": "When a Jedi successfully activates this power, he creates a protective shield around his body."
+  },
+  {
+   "id": "lesser-force-shield",
+   "name": "Lesser Force Shield",
+   "skills": [
+    "sense",
+    "alter"
+   ],
+   "page": 169,
+   "sense_difficulty": "Easy.",
+   "alter_difficulty": "Moderate.",
+   "required_powers": [
+    "Absorb/dissipate energy",
+    "concentration",
+    "magnify senses",
+    "telekinesis"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "This power allows the Jedi to surround his body with a Force-generated shield."
+  },
+  {
+   "id": "affect-mind",
+   "name": "Affect Mind",
+   "skills": [
+    "control",
+    "sense",
+    "alter"
+   ],
+   "page": 169,
+   "control_difficulty": "Very Easy for perceptions; Easy for memories; Moderate for conclusions. Modified by proximity.",
+   "sense_difficulty": "The target’s control or Perception roll.",
+   "alter_difficulty": "Very Easy for slight, momentary misperceptions, minor changes to distant memories, or if the character doesn’t care one way or another. Easy for brief, visible phenomena, for memories less than a year old, or if the character feels only minor emotion regarding the conclusion he is reaching. Moderate for short hallucinations, for memories less than a day old, or if the target has strict orders about the conclusion. Difficult for slight disguises to facial features, hallucinations which can be sensed with two senses (sight and sound, for example), for memories less than a minute old, or if the matter involving the conclusion is very important to the target. Very Difficult for hallucinations which can be sensed by all five senses, if the memory change is major, or if the logic is clear and coming to the wrong conclusion is virtually impossible.",
+   "can_be_kept_up": false,
+   "effect_summary": "The target character’s perceptions are altered so that he senses an illusion or fails to see what the user of the power doesn’t want him to see."
+  },
+  {
+   "id": "battle-meditation",
+   "name": "Battle Meditation",
+   "skills": [
+    "control",
+    "sense",
+    "alter"
+   ],
+   "page": 169,
+   "control_difficulty": "Varies based on the number of targeted individuals. See table below:",
+   "sense_difficulty": "Varies based on the number of targeted individuals. See table below:",
+   "alter_difficulty": "Varies based on the number of targeted individuals. See table below:",
+   "time_to_use": "Five minutes.",
+   "can_be_kept_up": false,
+   "effect_summary": "Battle meditation has two possible effects."
+  },
+  {
+   "id": "control-mind",
+   "name": "Control Mind",
+   "skills": [
+    "control",
+    "sense",
+    "alter"
+   ],
+   "page": 170,
+   "control_difficulty": "Moderate, as modified by relationship. Targets with an affinity for the Force (i.e., have Force skill or Force Points) may make an opposed control or Perception rolls, selecting either their roll or the base difficulty to resist.",
+   "sense_difficulty": "Easy for a Jedi who has turned to the dark side, as modified by proximity. Moderate for a Jedi who is of the light side, as modified by proximity.",
+   "alter_difficulty": "Variable, depending on the number of targets being controlled and whether or not they are willing. Force-sensitive targets may make opposed rolls, choosing either their roll or the difficulty, whichever is higher.",
+   "warning": "Any Jedi who uses this power automatically receives a Dark Side Point, plus an additional Dark Side Point for every evil action she forces a victim of this power to undertake.",
+   "note": "The difficulties of this power are significantly decreased for those who have fallen to the dark side.",
+   "can_be_kept_up": true,
+   "effect_summary": "The use of this power allows a Jedi to take control of another person turning him into a puppet who must obey the Jedi’s will."
+  },
+  {
+   "id": "create-force-storms",
+   "name": "Create Force Storms",
+   "skills": [
+    "control",
+    "sense",
+    "alter"
+   ],
+   "page": 170,
+   "control_difficulty": "Heroic.",
+   "sense_difficulty": "Heroic.",
+   "alter_difficulty": "Heroic modified by proximity. Modified by diameter of storm desired: +5 for 100 meters or less; +10 for 100 meters to 1 kilometer; +15 for a base of 1 kilometer and +2 for every additional kilometer. Modified by damage: +5 per 1D of damage. The user must make Heroic rolls each successive round to control the storm. She must also make a Very Difficult roll to dissipate the storm.",
+   "required_powers": [
+    "Hibernation trance",
+    "life detection",
+    "life sense",
+    "magnify senses",
+    "receptive telepathy",
+    "sense Force",
+    "telekinesis",
+    "farseeing",
+    "projective telepathy",
+    "instinctive astrogation",
+    "rage"
+   ],
+   "warning": "Force Storms are immensely destructive and violate the laws of nature. A Jedi using this power automatically receives a Dark Side Point.",
+   "can_be_kept_up": false,
+   "effect_summary": "This is one of the most destructive Force powers known."
+  },
+  {
+   "id": "doppleganger",
+   "name": "Doppleganger",
+   "skills": [
+    "control",
+    "sense",
+    "alter"
+   ],
+   "page": 171,
+   "control_difficulty": "Very Difficult.",
+   "sense_difficulty": "Very Difficult.",
+   "alter_difficulty": "Heroic.",
+   "required_powers": [
+    "Control pain",
+    "emptiness",
+    "hibernation trance",
+    "life detection",
+    "life sense",
+    "magnify senses",
+    "receptive telepathy",
+    "sense Force",
+    "telekinesis",
+    "projective telepathy",
+    "control another’s pain",
+    "transfer Force",
+    "affect mind",
+    "dim another’s senses"
+   ],
+   "time_to_use": "Five minutes.",
+   "warning": "A character using this power receives a Dark Side Point.",
+   "can_be_kept_up": false,
+   "effect_summary": "This power creates a doppelganger of the Force-user."
+  },
+  {
+   "id": "drain-life-essence",
+   "name": "Drain Life Essence",
+   "skills": [
+    "control",
+    "sense",
+    "alter"
+   ],
+   "page": 171,
+   "control_difficulty": "Very Difficult, inversely modified by relationship. For example, a close relative would add +30 to difficulty, while a total stranger of an alien species would add nothing.",
+   "sense_difficulty": "Use chart below:",
+   "alter_difficulty": "Easy for willing, worshipful subjects. Difficult for ambivalent or apathetic individuals. Heroic for enemies. Add +10 to the difficulty if individuals are imbued with the light side of the Force.",
+   "required_powers": [
+    "Control pain",
+    "hibernation trance",
+    "life detection",
+    "life sense",
+    "magnify senses",
+    "receptive telepathy",
+    "sense Force",
+    "telekinesis",
+    "farseeing",
+    "projective telepathy",
+    "control another’s pain",
+    "transfer Force",
+    "affect mind",
+    "control mind",
+    "dim another’s senses"
+   ],
+   "warning": "Any Jedi who uses this power gains a Dark Side Point.",
+   "can_be_kept_up": true,
+   "effect_summary": "This power allows a Jedi to draw life energy from those around him and channel the negative effects of the dark side into those victims."
+  },
+  {
+   "id": "enhanced-coordination",
+   "name": "Enhanced Coordination",
+   "skills": [
+    "control",
+    "sense",
+    "alter"
+   ],
+   "page": 171,
+   "control_difficulty": "Moderate, as modified by proximity.",
+   "sense_difficulty": "Difficult.",
+   "alter_difficulty": "Dependent upon the number of people affected by the power.",
+   "can_be_kept_up": false,
+   "effect_summary": "This power allows the Jedi to coordinate a group at the subconscious level to perform certain tasks more efficiently."
+  },
+  {
+   "id": "force-harmony",
+   "name": "Force Harmony",
+   "skills": [
+    "control",
+    "sense",
+    "alter"
+   ],
+   "page": 172,
+   "control_difficulty": "Difficult. Modified by proximity.",
+   "sense_difficulty": "Difficult. Modified by relationship.",
+   "alter_difficulty": "Moderate.",
+   "required_powers": [
+    "Life detection",
+    "life sense",
+    "receptive telepathy",
+    "projective telepathy"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "This power allows several willing Jedi to manifest the power of the light side."
+  },
+  {
+   "id": "projected-fighting",
+   "name": "Projected Fighting",
+   "skills": [
+    "control",
+    "sense",
+    "alter"
+   ],
+   "page": 172,
+   "control_difficulty": "Difficult.",
+   "sense_difficulty": "Difficult.",
+   "alter_difficulty": "Moderate. Modified by proximity.",
+   "required_powers": [
+    "Concentration",
+    "telekinesis"
+   ],
+   "can_be_kept_up": false,
+   "effect_summary": "Projected fighting allows the user to strike at an opponent, inflicting damage without physically touching the target."
+  },
+  {
+   "id": "telekinetic-kill",
+   "name": "Telekinetic Kill",
+   "skills": [
+    "control",
+    "sense",
+    "alter"
+   ],
+   "page": 172,
+   "control_difficulty": "Easy, modified by proximity.",
+   "sense_difficulty": "Easy, modified by proximity.",
+   "alter_difficulty": "Target’s control or Perception roll",
+   "required_powers": [
+    "Control pain",
+    "inflict pain",
+    "injure/kill",
+    "life sense"
+   ],
+   "warning": "A character who uses this power automatically receives a Dark Side Point.",
+   "can_be_kept_up": false,
+   "effect_summary": "This power is used to telekinetically injure or kill a target."
+  },
+  {
+   "id": "transfer-life",
+   "name": "Transfer Life",
+   "skills": [
+    "control",
+    "sense",
+    "alter"
+   ],
+   "page": 172,
+   "control_difficulty": "Heroic, modified by relationship. If the victim is unwilling, increase the difficulty by +15.",
+   "sense_difficulty": "Heroic, modified by proximity. If the target is unwilling, increase the difficulty by +15.",
+   "alter_difficulty": "Variable, depending on willingness and Force affinity.",
+   "required_powers": [
+    "Absorb/dissipate energy",
+    "accelerate healing",
+    "control pain",
+    "emptiness",
+    "detoxify poison",
+    "hibernation trance",
+    "reduce injury",
+    "remain conscious",
+    "resist stun",
+    "life detection",
+    "life sense",
+    "magnify senses",
+    "receptive telepathy",
+    "sense Force",
+    "telekinesis",
+    "injure/kill",
+    "farseeing",
+    "projective telepathy",
+    "receptive telepathy",
+    "accelerate another’s healing",
+    "control another’s pain",
+    "feed on dark side",
+    "inflict pain",
+    "return another to consciousness",
+    "dim another’s senses",
+    "transfer Force",
+    "affect mind"
+   ],
+   "warning": "Any Jedi using this power receives two Dark Side Points. If attempting to possess an unwilling host, the Jedi receives four Dark Side Points.",
+   "can_be_kept_up": false,
+   "effect_summary": "This power allows character to transfer his or her life energy into another body."
+  },
+  {
+   "id": "force-scream",
+   "name": "Force Scream",
+   "skills": [],
+   "page": 173,
+   "note": "This is an involuntary power that may be activated when a Dark Jedi loses control of her temper.",
+   "can_be_kept_up": false,
+   "effect_summary": "The dark side of the Force is seductive, offering tremendous power to lure the weak-willed into its grip."
+  }
+ ]
+}
