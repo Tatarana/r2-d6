@@ -404,9 +404,18 @@
       "description": "Ser alienígena de espécie antiga e serena, em vestes simples de meditação, sentado de pernas cruzadas; um pequeno amuleto flutua diante dele envolto em brilho suave.",
       "alt": "Alienígena em meditação com amuleto flutuante.",
       "data_ref": "data/templates.json#alien-student-of-the-force",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.alien-student-of-the-force.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "template.armchair-historian",
@@ -424,9 +433,18 @@
       "description": "Ex-burocrata de meia-idade com óculos e uniforme rebelde um pouco largo, abraçando um datapad cheio de anotações; ao fundo, prateleiras de cristais de dados.",
       "alt": "Historiador de óculos e uniforme rebelde com um datapad.",
       "data_ref": "data/templates.json#armchair-historian",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.armchair-historian.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "template.arrogant-noble",
@@ -444,9 +462,18 @@
       "description": "Nobre jovem de queixo erguido, roupas finas da última moda e capa bordada, segurando com desdém uma pequena pistola ornamentada.",
       "alt": "Nobre altivo com roupas luxuosas e pistola ornamentada.",
       "data_ref": "data/templates.json#arrogant-noble",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.arrogant-noble.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "template.bounty-hunter",
@@ -464,9 +491,18 @@
       "description": "Caçador de recompensas jovem com armadura de placas desencontradas e capacete sob o braço, várias armas no cinto, olhar frio de quem segue um código próprio.",
       "alt": "Caçador de recompensas com armadura improvisada e várias armas.",
       "data_ref": "data/templates.json#bounty-hunter",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.bounty-hunter.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "template.brash-pilot",
@@ -513,9 +549,18 @@
       "description": "Pequeno ser peludo de capuz de couro, segurando uma lança e uma bolsa cheia de objetos brilhantes, curioso diante de uma luz de painel de nave.",
       "alt": "Pequeno ser peludo de capuz, curioso, com lança e objetos brilhantes.",
       "data_ref": "data/templates.json#ewok",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.ewok.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "template.failed-jedi",
@@ -533,9 +578,18 @@
       "description": "Homem envelhecido de barba por fazer, manto surrado e garrafa na mão, um cabo de sabre de luz esquecido no cinto; sombras pesadas e um leve brilho avermelhado atrás dele.",
       "alt": "Ex-aprendiz Jedi decadente com manto surrado e sabre no cinto.",
       "data_ref": "data/templates.json#failed-jedi",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.failed-jedi.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "template.gambler",
@@ -933,9 +987,18 @@
       "description": "Viajante humana de meia-idade com jaqueta de piloto gasta e olhar atento, iluminada pela luz azul de um painel; diversidade de traços humanos.",
       "alt": "Viajante humana de jaqueta de piloto.",
       "data_ref": "data/species.json#humans",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.humans.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.republic-clone",
@@ -953,9 +1016,18 @@
       "description": "Soldado de rosto marcado e cabelo raspado, armadura branca de design próprio sem capacete; atrás dele, fileiras de rostos idênticos desfocados.",
       "alt": "Soldado clone sem capacete diante de fileiras de rostos iguais.",
       "data_ref": "data/species.json#republic-clone",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.republic-clone.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.anzat",
@@ -993,9 +1065,18 @@
       "description": "Humanoide de pele coriácea, olhos grandes e escuros e duas presas curvas saindo da boca, postura de brigão de cantina.",
       "alt": "Humanoide de presas curvas e olhos grandes, postura de brigão.",
       "data_ref": "data/species.json#aqualish",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.aqualish.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.barabel",
@@ -1013,9 +1094,18 @@
       "description": "Réptil bípede de escamas grossas e escuras, dentes afiados e olhar de caçador, em roupa de couro de expedição.",
       "alt": "Réptil bípede de escamas escuras e dentes afiados.",
       "data_ref": "data/species.json#barabel",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.barabel.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.bith",
@@ -1033,9 +1123,18 @@
       "description": "Ser de cabeça alongada e calva, olhos grandes e negros sem pálpebras e dedos longos segurando um instrumento de sopro.",
       "alt": "Ser de cabeça alongada e olhos negros com instrumento de sopro.",
       "data_ref": "data/species.json#bith",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.bith.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.bothan",
@@ -1053,9 +1152,18 @@
       "description": "Humanoide coberto de pelagem curta, orelhas pontudas e focinho, rosto iluminado por um datapad com informações secretas.",
       "alt": "Humanoide peludo de orelhas pontudas lendo um datapad.",
       "data_ref": "data/species.json#bothan",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.bothan.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.caamasi",
@@ -1073,9 +1181,18 @@
       "description": "Humanoide gracioso de penugem dourada com faixas violeta ao redor dos olhos, expressão serena e sábia.",
       "alt": "Humanoide de penugem dourada e faixas violeta ao redor dos olhos.",
       "data_ref": "data/species.json#caamasi",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.caamasi.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.cathar",
@@ -1093,9 +1210,18 @@
       "description": "Felinoide de juba farta, presas e olhos âmbar, armadura leve de couro, pose de guerreiro orgulhoso.",
       "alt": "Felinoide de juba com armadura leve.",
       "data_ref": "data/species.json#cathar",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.cathar.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.cereans",
@@ -1113,9 +1239,18 @@
       "description": "Humanoide de crânio cônico muito alto, barba aparada e túnica de conselheiro, olhar ponderado.",
       "alt": "Humanoide de crânio cônico alto e túnica de conselheiro.",
       "data_ref": "data/species.json#cereans",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.cereans.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.chadra-fan",
@@ -1133,9 +1268,18 @@
       "description": "Pequeno ser de orelhas enormes em leque, nariz enrugado e olhos brilhantes, mexendo animado num aparelho desmontado.",
       "alt": "Pequeno ser de orelhas enormes mexendo num aparelho.",
       "data_ref": "data/species.json#chadra-fan",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.chadra-fan.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.chiss",
@@ -1153,9 +1297,18 @@
       "description": "Humanoide de pele azul, olhos vermelhos luminosos e cabelo preto, uniforme sóbrio, expressão de estrategista frio.",
       "alt": "Humanoide de pele azul e olhos vermelhos luminosos.",
       "data_ref": "data/species.json#chiss",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.chiss.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.defel",
@@ -1173,9 +1326,18 @@
       "description": "Silhueta quase invisível na sombra, só se veem olhos vermelhos e presas brancas refletindo uma luz fraca.",
       "alt": "Silhueta na sombra com olhos vermelhos e presas visíveis.",
       "data_ref": "data/species.json#defel",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.defel.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.devaronian",
@@ -1193,9 +1355,18 @@
       "description": "Humanoide de pele avermelhada com dois chifres curtos na testa e sorriso malandro de viajante incansável.",
       "alt": "Humanoide de pele avermelhada com chifres curtos, sorriso malandro.",
       "data_ref": "data/species.json#devaronian",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.devaronian.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.dug",
@@ -1213,9 +1384,18 @@
       "description": "Ser que se apoia sobre os braços longos e usa os pés como mãos, rosto com papada, numa oficina de corridas cheia de peças.",
       "alt": "Ser que anda sobre os braços numa oficina de corridas.",
       "data_ref": "data/species.json#dug",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.dug.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.duros",
@@ -1233,9 +1413,18 @@
       "description": "Humanoide de pele azul-acinzentada, olhos vermelhos grandes e sem nariz, com chapéu de aba larga de piloto veterano.",
       "alt": "Piloto de pele azul-acinzentada e olhos vermelhos com chapéu de aba larga.",
       "data_ref": "data/species.json#duros",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.duros.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.ewok",
@@ -1253,9 +1442,18 @@
       "description": "Pequeno ser peludo de capuz de couro numa plataforma de madeira entre árvores gigantes, lança na mão e olhar curioso.",
       "alt": "Pequeno ser peludo de capuz entre árvores gigantes.",
       "data_ref": "data/species.json#ewok",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.ewok.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.falleen",
@@ -1273,9 +1471,18 @@
       "description": "Humanoide reptiliano de pele verde com crista dorsal discreta, beleza aristocrática e leve brilho rosado na pele sugerindo feromônios.",
       "alt": "Humanoide reptiliano de pele verde com porte aristocrático.",
       "data_ref": "data/species.json#falleen",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.falleen.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.gamorrean",
@@ -1293,9 +1500,18 @@
       "description": "Humanoide corpulento de feições suínas e pele esverdeada, machado de guerra apoiado no ombro, de guarda numa porta.",
       "alt": "Guarda corpulento de feições suínas com machado.",
       "data_ref": "data/species.json#gamorrean",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.gamorrean.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.gand",
@@ -1313,9 +1529,18 @@
       "description": "Insetoide de exoesqueleto cinzento com respirador e olhos compostos, postura de caçador paciente.",
       "alt": "Insetoide de exoesqueleto com respirador e olhos compostos.",
       "data_ref": "data/species.json#gand",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.gand.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.geonosian-worker",
@@ -1333,9 +1558,18 @@
       "description": "Insetoide alado de exoesqueleto ocre, sem adornos, trabalhando numa linha de montagem de colmeia de rocha.",
       "alt": "Insetoide alado ocre trabalhando numa colmeia de rocha.",
       "data_ref": "data/species.json#geonosian",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.geonosian-worker.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.geonosian-aristocrat",
@@ -1353,9 +1587,18 @@
       "description": "Insetoide alado de porte esguio com adornos de metal e asas abertas, num balcão esculpido de uma colmeia nobre.",
       "alt": "Insetoide alado nobre com adornos num balcão de colmeia.",
       "data_ref": "data/species.json#geonosian",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.geonosian-aristocrat.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.givin",
@@ -1373,9 +1616,18 @@
       "description": "Ser de crânio de exoesqueleto com grandes olhos triangulares, cercado por equações holográficas flutuantes.",
       "alt": "Ser de crânio de exoesqueleto cercado por equações holográficas.",
       "data_ref": "data/species.json#givin",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.givin.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.gotal",
@@ -1393,9 +1645,18 @@
       "description": "Humanoide peludo com dois cones sensoriais na cabeça, olhar concentrado como quem sente o ambiente ao redor.",
       "alt": "Humanoide peludo com dois cones sensoriais na cabeça.",
       "data_ref": "data/species.json#gotal",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.gotal.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.gran",
@@ -1413,9 +1674,18 @@
       "description": "Ser de três olhos em pedúnculos e focinho de cabra, expressão pacata e amistosa num mercado.",
       "alt": "Ser de três olhos em pedúnculos num mercado.",
       "data_ref": "data/species.json#gran",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.gran.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.gungan",
@@ -1433,9 +1703,18 @@
       "description": "Anfíbio esguio de orelhas longas pendentes e olhos no alto da cabeça, à beira de um lago com estruturas orgânicas iluminadas.",
       "alt": "Anfíbio de orelhas longas à beira de um lago.",
       "data_ref": "data/species.json#gungan",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.gungan.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.herglic",
@@ -1453,9 +1732,18 @@
       "description": "Ser enorme de corpo de cetáceo e pele lisa acinzentada, sorrindo diante de uma mesa de apostas.",
       "alt": "Ser enorme de corpo de cetáceo numa mesa de apostas.",
       "data_ref": "data/species.json#herglic",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.herglic.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.hutt",
@@ -1473,9 +1761,18 @@
       "description": "Criatura gigantesca semelhante a uma lesma, olhos de pálpebras pesadas e sorriso largo, reclinada num estrado cheio de almofadas.",
       "alt": "Criatura gigante semelhante a uma lesma reclinada num estrado.",
       "data_ref": "data/species.json#hutt",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.hutt.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.iktotchi",
@@ -1493,9 +1790,18 @@
       "description": "Humanoide de pele avermelhada com chifres que descem pelas laterais do rosto, olhar distante de quem pressente o futuro, de macacão de piloto.",
       "alt": "Humanoide de chifres descendentes com olhar distante.",
       "data_ref": "data/species.json#iktotchi",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.iktotchi.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.ithorians",
@@ -1513,9 +1819,18 @@
       "description": "Ser de pescoço longo e curvo e cabeça larga em forma de martelo, cuidando de plantas exóticas numa estufa.",
       "alt": "Ser de cabeça em forma de martelo cuidando de plantas.",
       "data_ref": "data/species.json#ithorians",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.ithorians.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.jawa",
@@ -1533,9 +1848,18 @@
       "description": "Pequena figura encapuzada de manto marrom, só se veem dois olhos amarelos luminosos, puxando um aparelho de sucata.",
       "alt": "Pequena figura encapuzada de olhos amarelos puxando sucata.",
       "data_ref": "data/species.json#jawa",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.jawa.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.kaminoan",
@@ -1553,9 +1877,18 @@
       "description": "Ser muito alto e esguio de pescoço longo, pele pálida e olhos grandes e escuros, num laboratório branco e luminoso.",
       "alt": "Ser alto de pescoço longo num laboratório branco.",
       "data_ref": "data/species.json#kaminoan",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.kaminoan.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.kel-dor",
@@ -1573,9 +1906,18 @@
       "description": "Humanoide de pele alaranjada com máscara respiratória e óculos protetores escuros, manto de viagem.",
       "alt": "Humanoide de máscara respiratória e óculos protetores.",
       "data_ref": "data/species.json#kel-dor",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.kel-dor.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.mon-calamari",
@@ -1593,9 +1935,18 @@
       "description": "Ser aquático de cabeça arredondada, pele salmão e grandes olhos laterais, diante de janelas de uma nave de linhas orgânicas.",
       "alt": "Ser aquático de olhos laterais grandes numa nave orgânica.",
       "data_ref": "data/species.json#mon-calamari",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.mon-calamari.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.nautolans",
@@ -1613,9 +1964,18 @@
       "description": "Humanoide de pele verde com tentáculos grossos caindo da cabeça e olhos negros, emergindo da água.",
       "alt": "Humanoide verde com tentáculos na cabeça emergindo da água.",
       "data_ref": "data/species.json#nautolans",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.nautolans.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.quarren",
@@ -1633,9 +1993,18 @@
       "description": "Ser aquático de rosto com tentáculos ao redor da boca e pele rosada, expressão desconfiada.",
       "alt": "Ser aquático de tentáculos ao redor da boca.",
       "data_ref": "data/species.json#quarren",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.quarren.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.rodians",
@@ -1653,9 +2022,18 @@
       "description": "Humanoide de pele verde, focinho tubular, olhos grandes multifacetados e antenas curtas, com mira de caçador.",
       "alt": "Humanoide de focinho tubular e olhos multifacetados.",
       "data_ref": "data/species.json#rodians",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.rodians.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.sullustans",
@@ -1673,9 +2051,18 @@
       "description": "Ser baixo de bochechas pendentes, olhos grandes e negros e orelhas arredondadas, de capacete de navegador.",
       "alt": "Navegador baixo de bochechas pendentes e olhos negros.",
       "data_ref": "data/species.json#sullustans",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.sullustans.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.talz",
@@ -1693,9 +2080,18 @@
       "description": "Gigante gentil coberto de pelo branco, com dois olhos grandes e dois pequenos e garras enormes, numa paisagem gelada.",
       "alt": "Gigante de pelo branco com quatro olhos numa paisagem gelada.",
       "data_ref": "data/species.json#talz",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.talz.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.togruta",
@@ -1713,9 +2109,18 @@
       "description": "Humanoide de pele alaranjada com padrões faciais brancos, apêndices listrados na cabeça (montrals e lekku), olhar de caçadora.",
       "alt": "Caçadora de pele alaranjada com apêndices listrados na cabeça.",
       "data_ref": "data/species.json#togruta",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.togruta.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.trandoshans",
@@ -1733,9 +2138,18 @@
       "description": "Réptil grande de escamas verdes e olhos amarelos, garras e armadura de caçador.",
       "alt": "Réptil grande de escamas verdes com armadura de caçador.",
       "data_ref": "data/species.json#trandoshans",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.trandoshans.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.twi-leks",
@@ -1753,9 +2167,18 @@
       "description": "Humanoide de pele de cor viva com duas caudas cranianas longas (lekku) sobre os ombros, roupa de viajante.",
       "alt": "Humanoide de pele colorida com duas caudas cranianas.",
       "data_ref": "data/species.json#twi-leks",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.twi-leks.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.umbaran",
@@ -1773,9 +2196,18 @@
       "description": "Humanoide de pele muito pálida e olhos grandes e claros, manto escuro de gola alta, ar de quem conhece segredos.",
       "alt": "Humanoide pálido de olhos claros e manto escuro.",
       "data_ref": "data/species.json#umbaran",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.umbaran.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.verpine",
@@ -1793,9 +2225,18 @@
       "description": "Insetoide esguio de exoesqueleto verde, olhos grandes e antenas, montando com precisão uma peça de arma.",
       "alt": "Insetoide verde de antenas montando uma peça.",
       "data_ref": "data/species.json#verpine",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.verpine.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.weequay",
@@ -1813,9 +2254,18 @@
       "description": "Humanoide de pele enrugada como couro curtido, tranças finas e roupa de pirata do deserto.",
       "alt": "Humanoide de pele enrugada com tranças, pirata do deserto.",
       "data_ref": "data/species.json#weequay",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.weequay.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.wookiees",
@@ -1833,9 +2283,18 @@
       "description": "Alienígena muito alto de pelagem castanha densa, bandoleira cruzada, entre troncos de árvores colossais.",
       "alt": "Alienígena alto e peludo entre árvores colossais.",
       "data_ref": "data/species.json#wookiees",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.wookiees.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.yuuzhan-vong",
@@ -1853,9 +2312,18 @@
       "description": "Guerreiro de pele cinzenta com escarificações e tatuagens rituais, implantes orgânicos e armadura viva com textura de carapaça.",
       "alt": "Guerreiro escarificado com armadura orgânica viva.",
       "data_ref": "data/species.json#yuuzhan-vong",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.yuuzhan-vong.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "species.zabrak",
@@ -1873,9 +2341,18 @@
       "description": "Humanoide com uma coroa de pequenos chifres no alto da cabeça e tatuagens faciais geométricas, olhar determinado.",
       "alt": "Humanoide com coroa de pequenos chifres e tatuagens faciais.",
       "data_ref": "data/species.json#zabrak",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.zabrak.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "ref.rules",
