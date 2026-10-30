@@ -5604,9 +5604,18 @@
       "description": "Cinto de utilidades, coldre e bandoleira com uma mira eletrônica encaixada.",
       "alt": "Cinto, coldre, bandoleira e mira.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/gear-cat.accessories.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.personal-comlink",
@@ -6812,9 +6821,18 @@
       "description": "Andador blindado de pernas mecânicas de design próprio avançando por uma planície enevoada.",
       "alt": "Andador blindado avançando na névoa.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/vehicle-cat.walkers.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle-cat.landspeeders",
@@ -6861,9 +6879,18 @@
       "description": "Moto flutuante de design próprio em alta velocidade entre troncos de floresta.",
       "alt": "Moto flutuante entre árvores.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/vehicle-cat.speeder-bikes.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle-cat.swoops",
@@ -6881,9 +6908,18 @@
       "description": "Swoop de corrida de design próprio, motor enorme e assento mínimo, cruzando um cânion.",
       "alt": "Swoop de corrida cruzando um cânion.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/vehicle-cat.swoops.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle-cat.armored-assault-vehicles",
@@ -6901,9 +6937,18 @@
       "description": "Tanque flutuante blindado de design próprio avançando com poeira atrás.",
       "alt": "Tanque flutuante blindado.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/vehicle-cat.armored-assault-vehicles.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle-cat.airspeeders",
@@ -6921,9 +6966,18 @@
       "description": "Aerospeeder de design próprio voando baixo entre torres de uma cidade.",
       "alt": "Aerospeeder voando entre torres.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/vehicle-cat.airspeeders.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle-cat.cloud-cars",
@@ -6941,9 +6995,18 @@
       "description": "Carro de nuvens de design próprio cruzando nuvens alaranjadas.",
       "alt": "Carro de nuvens entre nuvens alaranjadas.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/vehicle-cat.cloud-cars.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle-cat.podracers",
@@ -6961,9 +7024,18 @@
       "description": "Cabine de corrida puxada por dois motores de design próprio deixando rastros de calor.",
       "alt": "Cabine puxada por dois motores de corrida.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/vehicle-cat.podracers.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle-cat.sail-barges",
@@ -6981,9 +7053,18 @@
       "description": "Barcaça flutuante com velas de design próprio sobre dunas.",
       "alt": "Barcaça com velas sobre dunas.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/vehicle-cat.sail-barges.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle-cat.skiffs",
@@ -7001,9 +7082,18 @@
       "description": "Plataforma de carga flutuante aberta de design próprio num porto.",
       "alt": "Plataforma de carga flutuante.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/vehicle-cat.skiffs.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle-cat.ground-vehicles",
@@ -7021,9 +7111,18 @@
       "description": "Veículo terrestre pesado de rodas de design próprio cruzando lama.",
       "alt": "Veículo terrestre pesado na lama.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/vehicle-cat.ground-vehicles.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle-cat.hover-vehicles",
@@ -7041,9 +7140,18 @@
       "description": "Hidrofólio de design próprio deslizando sobre ondas.",
       "alt": "Hidrofólio sobre ondas.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/vehicle-cat.hover-vehicles.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.at-at",
@@ -7589,9 +7697,18 @@
       "description": "Pequenas naves de design próprio (um caça e um cargueiro leve) cruzando um campo de estrelas perto de um planeta.",
       "alt": "Caça e cargueiro leve cruzando as estrelas.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/starship-scale.starfighter.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship-scale.capital",
@@ -7609,9 +7726,18 @@
       "description": "Grande nave de guerra de design próprio em órbita de um planeta, com naves menores ao redor para dar escala.",
       "alt": "Grande nave de guerra em órbita.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/starship-scale.capital.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship-scale.personal-starship",
@@ -7629,9 +7755,18 @@
       "description": "Iate estelar pequeno e elegante de design próprio saindo de um hangar particular.",
       "alt": "Iate estelar pequeno saindo de um hangar.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/starship-scale.personal-starship.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.delta-7-aethersprite-starfighter",
@@ -8426,9 +8561,18 @@
       "description": "Arquivo de cristais de dados e mapas estelares projetados sobre uma mesa.",
       "alt": "Cristais de dados e mapas estelares.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/skill-attr.knowledge.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "skill-attr.mechanical",
@@ -8446,9 +8590,18 @@
       "description": "Mãos num manche de pilotagem com o painel da cabine aceso.",
       "alt": "Mãos no manche de uma cabine.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/skill-attr.mechanical.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "skill-attr.perception",
@@ -8466,9 +8619,18 @@
       "description": "Olhar atento refletindo uma cena distante numa viseira.",
       "alt": "Olhar atento refletido numa viseira.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/skill-attr.perception.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "skill-attr.strength",
@@ -8486,9 +8648,18 @@
       "description": "Figura erguendo uma caixa de carga pesada com esforço.",
       "alt": "Figura erguendo uma caixa pesada.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/skill-attr.strength.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "skill-attr.technical",
@@ -8506,9 +8677,18 @@
       "description": "Mãos com ferramentas abrindo um painel de circuitos que solta faíscas.",
       "alt": "Mãos consertando um painel com faíscas.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/skill-attr.technical.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "skill.acrobatics",
@@ -10946,9 +11126,18 @@
       "description": "Figura meditando de pernas cruzadas envolta num halo branco-azulado calmo.",
       "alt": "Figura meditando envolta em luz calma.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/power-skill.control.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "power-skill.sense",
@@ -10966,9 +11155,18 @@
       "description": "Ondas violeta saindo de uma figura de olhos fechados e tocando formas de vida ao redor.",
       "alt": "Ondas violeta tocando seres ao redor.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/power-skill.sense.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "power-skill.alter",
@@ -10986,9 +11184,18 @@
       "description": "Mão estendida fazendo pedras flutuarem com energia ciano em movimento.",
       "alt": "Mão estendida fazendo pedras flutuarem.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/power-skill.alter.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "power-skill.control-sense",
@@ -11006,9 +11213,18 @@
       "description": "Figura meditando com um halo calmo e ondas violeta se espalhando.",
       "alt": "Figura meditando com halo e ondas violeta.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/power-skill.control-sense.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "power-skill.control-alter",
@@ -11026,9 +11242,18 @@
       "description": "Figura concentrada com halo calmo enquanto energia ciano se move a partir das mãos.",
       "alt": "Figura com halo calmo movendo energia.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/power-skill.control-alter.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "power-skill.sense-alter",
@@ -11046,9 +11271,18 @@
       "description": "Ondas violeta e energia ciano formando uma cúpula ao redor de uma figura.",
       "alt": "Cúpula de energia ao redor de uma figura.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/power-skill.sense-alter.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "power-skill.control-sense-alter",
@@ -11066,9 +11300,18 @@
       "description": "Três círculos de luz (branco, violeta e ciano) entrelaçados em torno de uma figura serena.",
       "alt": "Três círculos de luz em torno de uma figura.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/power-skill.control-sense-alter.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "power-skill.none",
@@ -11086,9 +11329,18 @@
       "description": "Figura soltando um grito que ondula o ar ao redor em tom escuro.",
       "alt": "Grito ondulando o ar ao redor.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/power-skill.none.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "power.absorb-dissipate-energy",

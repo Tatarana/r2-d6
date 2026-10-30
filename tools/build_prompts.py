@@ -14,6 +14,9 @@ WAVES = {
     "onda-3": {"armor", "gear"},
 }
 SKIP_STYLES = {"icon-glyph", "material"}
+# ordem de geracao: grupos de maior risco de recusa no Bing (armas) por ultimo, marcados com "risky"
+ORDER = ["species", "template", "vehicle", "starship", "gear", "armor", "weapon"]
+RISKY = {"weapon", "armor"}
 END = "No text, no letters, no logos. Filling the entire frame, no black bars."
 STYLES = {
     "holo-cinematic": "Cinematic digital painting, high contrast, near-black deep sky or space, cyan key light (#4FD1FF) and amber rim light (#FFB020), subtle film grain, atmospheric depth. Leave a calm empty area for interface text where the focal point indicates.",
@@ -43,7 +46,10 @@ def main():
     for i in m["items"]:
         if i["group"] in WAVES[wave] and not i.get("file") and i["style"] not in SKIP_STYLES:
             out.append({"id": i["id"], "style": i["style"], "style_prompt": STYLES.get(i["style"], ""), "end": END,
-                        "bing_ratio": bing_ratio(i["aspect"]), "focal_point": i["focal_point"], "description_pt": i["description"]})
+                        "bing_ratio": bing_ratio(i["aspect"]), "focal_point": i["focal_point"], "description_pt": i["description"],
+                        **({"risky": True} if i["group"] in RISKY else {})})
+    if wave != "onda-1":  # onda-1 tem a ordem ajustada a mao (itens sensiveis ao fim)
+        out.sort(key=lambda e: ORDER.index(e["id"].split(".")[0]) if e["id"].split(".")[0] in ORDER else len(ORDER))
     path = os.path.join(ROOT, "docs", "prompts", f"{wave}.json")
     json.dump(out, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     print(f"{len(out)} espacos -> {os.path.relpath(path, ROOT)}")

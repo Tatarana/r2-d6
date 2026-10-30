@@ -1,0 +1,1811 @@
+[
+  {
+    "id": "species.humans",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Viajante humana de meia-idade com jaqueta de piloto gasta e olhar atento, iluminada pela luz azul de um painel; diversidade de traços humanos."
+  },
+  {
+    "id": "species.republic-clone",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Soldado de rosto marcado e cabelo raspado, armadura branca de design próprio sem capacete; atrás dele, fileiras de rostos idênticos desfocados."
+  },
+  {
+    "id": "species.anzat",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide de pele pálida e olhos enormes e escuros, com finas probóscides recolhidas nas bochechas; expressão calma e inquietante."
+  },
+  {
+    "id": "species.aqualish",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide de pele coriácea, olhos grandes e escuros e duas presas curvas saindo da boca, postura de brigão de cantina."
+  },
+  {
+    "id": "species.barabel",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Réptil bípede de escamas grossas e escuras, dentes afiados e olhar de caçador, em roupa de couro de expedição."
+  },
+  {
+    "id": "species.bith",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Ser de cabeça alongada e calva, olhos grandes e negros sem pálpebras e dedos longos segurando um instrumento de sopro."
+  },
+  {
+    "id": "species.bothan",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide coberto de pelagem curta, orelhas pontudas e focinho, rosto iluminado por um datapad com informações secretas."
+  },
+  {
+    "id": "species.caamasi",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide gracioso de penugem dourada com faixas violeta ao redor dos olhos, expressão serena e sábia."
+  },
+  {
+    "id": "species.cathar",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Felinoide de juba farta, presas e olhos âmbar, armadura leve de couro, pose de guerreiro orgulhoso."
+  },
+  {
+    "id": "species.cereans",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide de crânio cônico muito alto, barba aparada e túnica de conselheiro, olhar ponderado."
+  },
+  {
+    "id": "species.chadra-fan",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Pequeno ser de orelhas enormes em leque, nariz enrugado e olhos brilhantes, mexendo animado num aparelho desmontado."
+  },
+  {
+    "id": "species.chiss",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide de pele azul, olhos vermelhos luminosos e cabelo preto, uniforme sóbrio, expressão de estrategista frio."
+  },
+  {
+    "id": "species.defel",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Silhueta quase invisível na sombra, só se veem olhos vermelhos e presas brancas refletindo uma luz fraca."
+  },
+  {
+    "id": "species.devaronian",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide de pele avermelhada com dois chifres curtos na testa e sorriso malandro de viajante incansável."
+  },
+  {
+    "id": "species.dug",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Ser que se apoia sobre os braços longos e usa os pés como mãos, rosto com papada, numa oficina de corridas cheia de peças."
+  },
+  {
+    "id": "species.duros",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide de pele azul-acinzentada, olhos vermelhos grandes e sem nariz, com chapéu de aba larga de piloto veterano."
+  },
+  {
+    "id": "species.ewok",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Pequeno ser peludo de capuz de couro numa plataforma de madeira entre árvores gigantes, lança na mão e olhar curioso."
+  },
+  {
+    "id": "species.falleen",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide reptiliano de pele verde com crista dorsal discreta, beleza aristocrática e leve brilho rosado na pele sugerindo feromônios."
+  },
+  {
+    "id": "species.gamorrean",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide corpulento de feições suínas e pele esverdeada, machado de guerra apoiado no ombro, de guarda numa porta."
+  },
+  {
+    "id": "species.gand",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Insetoide de exoesqueleto cinzento com respirador e olhos compostos, postura de caçador paciente."
+  },
+  {
+    "id": "species.geonosian-worker",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Insetoide alado de exoesqueleto ocre, sem adornos, trabalhando numa linha de montagem de colmeia de rocha."
+  },
+  {
+    "id": "species.geonosian-aristocrat",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Insetoide alado de porte esguio com adornos de metal e asas abertas, num balcão esculpido de uma colmeia nobre."
+  },
+  {
+    "id": "species.givin",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Ser de crânio de exoesqueleto com grandes olhos triangulares, cercado por equações holográficas flutuantes."
+  },
+  {
+    "id": "species.gotal",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide peludo com dois cones sensoriais na cabeça, olhar concentrado como quem sente o ambiente ao redor."
+  },
+  {
+    "id": "species.gran",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Ser de três olhos em pedúnculos e focinho de cabra, expressão pacata e amistosa num mercado."
+  },
+  {
+    "id": "species.gungan",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Anfíbio esguio de orelhas longas pendentes e olhos no alto da cabeça, à beira de um lago com estruturas orgânicas iluminadas."
+  },
+  {
+    "id": "species.herglic",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Ser enorme de corpo de cetáceo e pele lisa acinzentada, sorrindo diante de uma mesa de apostas."
+  },
+  {
+    "id": "species.hutt",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Criatura gigantesca semelhante a uma lesma, olhos de pálpebras pesadas e sorriso largo, reclinada num estrado cheio de almofadas."
+  },
+  {
+    "id": "species.iktotchi",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide de pele avermelhada com chifres que descem pelas laterais do rosto, olhar distante de quem pressente o futuro, de macacão de piloto."
+  },
+  {
+    "id": "species.ithorians",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Ser de pescoço longo e curvo e cabeça larga em forma de martelo, cuidando de plantas exóticas numa estufa."
+  },
+  {
+    "id": "species.jawa",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Pequena figura encapuzada de manto marrom, só se veem dois olhos amarelos luminosos, puxando um aparelho de sucata."
+  },
+  {
+    "id": "species.kaminoan",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Ser muito alto e esguio de pescoço longo, pele pálida e olhos grandes e escuros, num laboratório branco e luminoso."
+  },
+  {
+    "id": "species.kel-dor",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide de pele alaranjada com máscara respiratória e óculos protetores escuros, manto de viagem."
+  },
+  {
+    "id": "species.mon-calamari",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Ser aquático de cabeça arredondada, pele salmão e grandes olhos laterais, diante de janelas de uma nave de linhas orgânicas."
+  },
+  {
+    "id": "species.nautolans",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide de pele verde com tentáculos grossos caindo da cabeça e olhos negros, emergindo da água."
+  },
+  {
+    "id": "species.quarren",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Ser aquático de rosto com tentáculos ao redor da boca e pele rosada, expressão desconfiada."
+  },
+  {
+    "id": "species.rodians",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide de pele verde, focinho tubular, olhos grandes multifacetados e antenas curtas, com mira de caçador."
+  },
+  {
+    "id": "species.sullustans",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Ser baixo de bochechas pendentes, olhos grandes e negros e orelhas arredondadas, de capacete de navegador."
+  },
+  {
+    "id": "species.talz",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Gigante gentil coberto de pelo branco, com dois olhos grandes e dois pequenos e garras enormes, numa paisagem gelada."
+  },
+  {
+    "id": "species.togruta",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide de pele alaranjada com padrões faciais brancos, apêndices listrados na cabeça (montrals e lekku), olhar de caçadora."
+  },
+  {
+    "id": "species.trandoshans",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Réptil grande de escamas verdes e olhos amarelos, garras e armadura de caçador."
+  },
+  {
+    "id": "species.twi-leks",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide de pele de cor viva com duas caudas cranianas longas (lekku) sobre os ombros, roupa de viajante."
+  },
+  {
+    "id": "species.umbaran",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide de pele muito pálida e olhos grandes e claros, manto escuro de gola alta, ar de quem conhece segredos."
+  },
+  {
+    "id": "species.verpine",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Insetoide esguio de exoesqueleto verde, olhos grandes e antenas, montando com precisão uma peça de arma."
+  },
+  {
+    "id": "species.weequay",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide de pele enrugada como couro curtido, tranças finas e roupa de pirata do deserto."
+  },
+  {
+    "id": "species.wookiees",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Alienígena muito alto de pelagem castanha densa, bandoleira cruzada, entre troncos de árvores colossais."
+  },
+  {
+    "id": "species.yuuzhan-vong",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Guerreiro de pele cinzenta com escarificações e tatuagens rituais, implantes orgânicos e armadura viva com textura de carapaça."
+  },
+  {
+    "id": "species.zabrak",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Humanoide com uma coroa de pequenos chifres no alto da cabeça e tatuagens faciais geométricas, olhar determinado."
+  },
+  {
+    "id": "template.alien-student-of-the-force",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Ser alienígena de espécie antiga e serena, em vestes simples de meditação, sentado de pernas cruzadas; um pequeno amuleto flutua diante dele envolto em brilho suave."
+  },
+  {
+    "id": "template.armchair-historian",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Ex-burocrata de meia-idade com óculos e uniforme rebelde um pouco largo, abraçando um datapad cheio de anotações; ao fundo, prateleiras de cristais de dados."
+  },
+  {
+    "id": "template.arrogant-noble",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Nobre jovem de queixo erguido, roupas finas da última moda e capa bordada, segurando com desdém uma pequena pistola ornamentada."
+  },
+  {
+    "id": "template.bounty-hunter",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Caçador de recompensas jovem com armadura de placas desencontradas e capacete sob o braço, várias armas no cinto, olhar frio de quem segue um código próprio."
+  },
+  {
+    "id": "template.ewok",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Pequeno ser peludo de capuz de couro, segurando uma lança e uma bolsa cheia de objetos brilhantes, curioso diante de uma luz de painel de nave."
+  },
+  {
+    "id": "template.failed-jedi",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Homem envelhecido de barba por fazer, manto surrado e garrafa na mão, um cabo de sabre de luz esquecido no cinto; sombras pesadas e um leve brilho avermelhado atrás dele."
+  },
+  {
+    "id": "template.gambler",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Apostador elegante numa mesa de cartas de salão espacial, roupas caras, cartas holográficas em leque na mão e um sorriso de quem tem um trunfo."
+  },
+  {
+    "id": "template.kid",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Criança de uns doze anos com mochila, estilingue no bolso e olhar determinado, espiando de trás de caixas de carga num porto espacial."
+  },
+  {
+    "id": "template.laconic-scout",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Batedora de poucas palavras com poncho, binóculos eletrônicos e mochila, de pé num rochedo diante de um planeta selvagem e vazio ao amanhecer."
+  },
+  {
+    "id": "template.loyal-retainer",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Servidor fiel de casa real, roupas formais impecáveis com um detalhe de brasão original, postura protetora, mão perto de uma pistola discreta."
+  },
+  {
+    "id": "template.merc",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Mercenário veterano com uniforme da companhia de cor neutra, rifle blaster de design original, cicatriz no rosto e insígnia de unidade inventada."
+  },
+  {
+    "id": "template.minor-jedi",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Jovem de túnica simples e olhar cansado, segurando um sabre de luz desligado com reverência; luz azul fria vinda de baixo."
+  },
+  {
+    "id": "template.mon-calamari",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Oficial de espécie aquática com cabeça arredondada e olhos grandes laterais, uniforme de frota, diante de janelas de uma ponte de comando de linhas orgânicas."
+  },
+  {
+    "id": "template.old-senatorial",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Senador idoso de cabelos brancos e roupas austeras, mãos apoiadas numa bengala, olhar firme de quem ainda luta pela velha república."
+  },
+  {
+    "id": "template.outlaw",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Fora da lei de chapéu de aba e casaco longo empoeirado, pistola pesada no coldre, de costas para um povoado em chamas ao longe."
+  },
+  {
+    "id": "template.pirate",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Pirata espacial extravagante com roupas coloridas, muitos anéis e um sabre curvo, rindo no convés de uma nave remendada."
+  },
+  {
+    "id": "template.protocol-droid",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Droide de protocolo humanoide de design original, acabamento metálico prateado-azulado e olhos luminosos, gesticulando com ar preocupado."
+  },
+  {
+    "id": "template.quixotic-jedi",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Aventureiro excêntrico com armadura improvisada de sucata, espada de duelo antiga erguida e capa feita de cortina, convencido de ser um cavaleiro."
+  },
+  {
+    "id": "template.retired-captain",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Capitão aposentado de bigode grisalho, uniforme naval um pouco fora de moda, contemplando uma janela com estrelas; postura ainda militar."
+  },
+  {
+    "id": "template.smuggler",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Contrabandista de colete e pistola pesada no quadril, encostado na rampa de um cargueiro surrado de design original, sorriso torto."
+  },
+  {
+    "id": "template.tongue-tied-engineer",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Engenheira tímida com roupas largas cheias de bolsos, computador de bolso na mão e ferramentas caindo, ao lado de um pequeno droide de manutenção de design original."
+  },
+  {
+    "id": "template.tough-native",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Nativo robusto de mundo isolado, roupas extravagantes de outra era, espada e pistola de pólvora, olhando com espanto para uma nave moderna."
+  },
+  {
+    "id": "template.wookiee",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Alienígena alto coberto de pelagem castanha densa, bandoleira cruzada e besta de energia de design original, olhar leal e feroz."
+  },
+  {
+    "id": "template.young-jedi",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Jovem esperançoso de roupas simples de fazenda, mão estendida fazendo uma pedra pequena flutuar, um pequeno droide astromecânico de design original ao lado."
+  },
+  {
+    "id": "template.young-senatorial",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "rosto no terço superior",
+    "description_pt": "Jovem de família senatorial, roupas elegantes e penteado elaborado, segurando uma mensagem holográfica com expressão decidida."
+  },
+  {
+    "id": "vehicle.at-at",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Andador de assalto quadrúpede gigantesco e blindado atravessando um campo de neve, tropas minúsculas ao lado para dar escala. Escala Walker; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.at-pt",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Andador leve bípede de um tripulante, cabine aberta, numa trilha de floresta. Escala Walker; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.at-st",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Andador bípede médio de cabine elevada patrulhando uma floresta. Escala Walker; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.at-te",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Andador de seis pernas subindo uma encosta rochosa com tropas. Escala Walker; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.ubrikkian-9000-z004",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Landspeeder esportivo aberto e baixo, com para-brisa curvo, numa avenida de cidade. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.v-35-courier",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Landspeeder utilitário de cabine fechada estacionado num povoado de fazenda. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.x-34-landspeeder",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Landspeeder aberto de dois lugares com turbinas traseiras sobre um deserto. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.aratech-74-z-military-speeder-bike",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Moto flutuante militar com aletas dianteiras entre árvores gigantes. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.ikas-adno-nightfalcon",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Moto flutuante esportiva de linhas aerodinâmicas numa rua noturna iluminada. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.razalon-fc-20",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Moto flutuante robusta de patrulha num posto de fronteira. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.stap",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Pequena plataforma voadora individual com o piloto de pé, sobre uma planície. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.air-2-racing-swoop",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Swoop de corrida: motor enorme com assento minúsculo, inclinado numa curva. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.flare-s",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Swoop de corrida com carenagem lisa deixando um rastro de luz. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.aat-1",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Tanque flutuante blindado com canhão principal e proa inclinada, numa campina. Escala Walker; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.multi-troop-transport",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Transporte de tropas flutuante enorme e blindado com portas frontais abertas. Escala Walker; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.incom-t-47i-airspeeder",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Aerospeeder utilitário de dois lugares com cabine envidraçada sobre uma cidade. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.laat-i-gunship",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Canhoneira de transporte de tropas com portas laterais abertas e torres de disparo, sobre um campo de batalha. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.rebel-alliance-combat-snowspeeder",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Aerospeeder de combate de dois tripulantes adaptado para o frio, voando rente à neve. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.bespin-motors-storm-iv",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Carro de nuvens de dois casulos ligados por um motor central entre nuvens alaranjadas. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.radon-ulzer-podracer",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Dois motores de corrida enormes puxando por cabos uma pequena cabine sobre a areia. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.sail-barge",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Barcaça flutuante de luxo com velas e convés de festa sobre dunas. Escala Walker; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.cargo-skiff",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Plataforma de carga flutuante aberta com corrimões, sobre um mar de areia. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.a5-juggernaut",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Veículo de assalto pesado de muitas rodas com uma torre alta de observação. Escala Walker; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "vehicle.waveskimmer",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "veículo no terço central, espaço livre acima para o nome",
+    "description_pt": "Hidrofólio de ataque deslizando sobre ondas com borrifos. Escala Walker; design próprio, sem reproduzir o veículo dos filmes."
+  },
+  {
+    "id": "starship.delta-7-aethersprite-starfighter",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Interceptador pequeno em forma de cunha achatada com cabine para um piloto, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.arc-170",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Caça pesado de asas que se abrem em duas camadas, com canhões longos, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.a-wing",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Interceptador compacto em cunha com dois motores laterais grandes, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.b-wing",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Caça de assalto de asa longa vertical com cabine na ponta, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.vulture-class-droid-starfighter",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Caça droide de asas dobráveis que vira andador, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.tri-fighter",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Caça droide de três braços com um sensor central, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.eta-2-actis-interceptor",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Interceptador minúsculo de painéis de asa abertos, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.n-1-royal-starfighter",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Caça elegante cromado de motores alongados, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.tie-fighter",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Caça leve de produção em massa com cabine central e grandes painéis laterais, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.tie-bomber",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Bombardeiro leve de dois casulos lado a lado entre painéis, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.tie-interceptor",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Interceptador de painéis laterais angulosos e pontiagudos, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.x-wing",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Caça de superioridade de quatro asas que se abrem em formação de ataque, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.y-wing-s3",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Caça de ataque de estrutura exposta e dois motores longos, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.y-wing-a4",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Caça de ataque de estrutura exposta, dois motores longos e torre de canhão, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.z-95-headhunter",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Caça polivalente antigo de asas fixas e cabine em bolha, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.acclamator-assault-ship",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Nave de assalto de casco em cunha desembarcando tropas, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.banking-clan-frigate",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Fragata de casco estreito com um núcleo esférico, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.corellian-corvette",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Corveta longa com uma fileira de motores brilhando na popa, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.imperial-star-destroyer",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Imensa nave de guerra em forma de cunha com torre de comando, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.interdictor-cruiser",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Cruzador pesado com grandes projetores esféricos no casco, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.mon-calamari-mc80-star-cruiser",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Cruzador de casco orgânico, bulboso e irregular, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.nebulon-b-frigate",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Fragata de escolta com casco dividido por um braço estreito, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.republic-cruiser",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Cruzador diplomático de casco vermelho e linhas suaves, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.trade-federation-battleship",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Nave de batalha em anel com uma esfera central, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.venator-star-destroyer",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Destróier estelar em cunha com um longo convés de voo, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.firespray-patrol-attack-craft",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Nave de patrulha de casco ovalado que voa na vertical, saindo do hiperespaço perto de uma estação. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.ghtroc-720-freighter",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Cargueiro leve de cabine lateral e casco robusto, saindo do hiperespaço perto de uma estação. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.j-type-star-skiff",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Iate estelar cromado de linhas suaves e asas curtas, saindo do hiperespaço perto de uma estação. Escala Personal Starship; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.lambda-shuttle",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Lançadeira de três asas, as laterais dobrando no pouso, saindo do hiperespaço perto de uma estação. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.gallofree-medium-transport",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Transporte médio de casco modular e motores na popa, saindo do hiperespaço perto de uma estação. Escala Capital; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.guardian-light-cruiser",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Cruzador leve de alfândega com casco compacto e torres, saindo do hiperespaço perto de uma estação. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.yt-1300-transport",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Cargueiro leve de casco achatado e arredondado, cabine deslocada para o lado, saindo do hiperespaço perto de uma estação. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.yt-2000-transport",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Cargueiro leve de casco achatado com duas cabines simétricas, saindo do hiperespaço perto de uma estação. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "starship.yt-2400-transport",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "nave no terço central, espaço livre acima para o nome",
+    "description_pt": "Cargueiro leve de casco circular com cabine num braço lateral, saindo do hiperespaço perto de uma estação. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes."
+  },
+  {
+    "id": "weapon.amphistaff",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Bastão orgânico vivo, como uma serpente rígida de escamas escuras, com uma ponta afiada. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
+    "risky": true
+  },
+  {
+    "id": "weapon.atlatl",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Propulsor de arremesso de madeira entalhada com uma esfera de energia encaixada na ponta. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
+    "risky": true
+  },
+  {
+    "id": "weapon.bayonet",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Lâmina de baioneta presa sob o cano de um rifle. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
+    "risky": true
+  },
+  {
+    "id": "weapon.cesta",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Cesta curva de vime trançado presa ao braço, pronta para arremessar esferas de energia. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
+    "risky": true
+  },
+  {
+    "id": "weapon.club",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Porrete de madeira pesada com tiras de couro no cabo. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
+    "risky": true
+  },
+  {
+    "id": "weapon.electrostaff",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Bastão metálico longo com pontas que soltam arcos elétricos azuis. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
+    "risky": true
+  },
+  {
+    "id": "weapon.force-pike",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Lança longa de guarda com ponta vibratória luminosa. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
+    "risky": true
+  },
+  {
+    "id": "weapon.gaderffii-stick",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Bastão de metal feito à mão, com cabeça de lâminas e espetos rústicos. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
+    "risky": true
+  },
+  {
+    "id": "weapon.hatchet",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Machadinha de cabo curto com lâmina gasta. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
+    "risky": true
+  },
+  {
+    "id": "weapon.knife",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Faca de combate com lâmina simples e cabo de couro. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
+    "risky": true
+  },
+  {
+    "id": "weapon.spear",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Lança de haste longa com ponta de metal batido. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
+    "risky": true
+  },
+  {
+    "id": "weapon.staff",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Bastão de madeira longo com anéis de metal nas pontas. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
+    "risky": true
+  },
+  {
+    "id": "weapon.stun-gauntlets",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Par de manoplas com eletrodos nos nós dos dedos crepitando. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
+    "risky": true
+  },
+  {
+    "id": "weapon.vibro-ax",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Machado de cabo longo com lâmina vibratória que tremula. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
+    "risky": true
+  },
+  {
+    "id": "weapon.vibroblade",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Faca longa de lâmina vibratória com um leve borrão de movimento. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
+    "risky": true
+  },
+  {
+    "id": "weapon.lightsaber",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Cabo cilíndrico metálico de design próprio com a lâmina de energia acesa em cor neutra. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
+    "risky": true
+  },
+  {
+    "id": "weapon.double-bladed-lightsaber",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Cabo longo com uma lâmina de energia acesa em cada ponta. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
+    "risky": true
+  },
+  {
+    "id": "weapon.short-lightsaber",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Cabo compacto com uma lâmina de energia curta. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
+    "risky": true
+  },
+  {
+    "id": "weapon.crossbow",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Besta de madeira e metal com a corda armada. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
+    "risky": true
+  },
+  {
+    "id": "weapon.longbow",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Arco longo de madeira flexível com aljava de flechas. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
+    "risky": true
+  },
+  {
+    "id": "weapon.net",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Rede de arremesso com pesos nas bordas, aberta no ar. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
+    "risky": true
+  },
+  {
+    "id": "weapon.sling",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Funda de couro com uma pedra no bolsão. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
+    "risky": true
+  },
+  {
+    "id": "weapon.throwing-knife",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Trio de facas de arremesso equilibradas em leque. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
+    "risky": true
+  },
+  {
+    "id": "weapon.black-powder-pistol",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Pistola de pólvora antiga com cano longo e cão armado. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
+    "risky": true
+  },
+  {
+    "id": "weapon.musket",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Mosquete de pólvora com coronha de madeira e baioneta curta. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
+    "risky": true
+  },
+  {
+    "id": "weapon.slugthrower-pistol",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Pistola de projéteis sólidos com pente e estojos de metal ao lado. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
+    "risky": true
+  },
+  {
+    "id": "weapon.slugthrower-rifle",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Rifle de projéteis sólidos com mira de ferro. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
+    "risky": true
+  },
+  {
+    "id": "weapon.submachine-gun",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Submetralhadora de projéteis compacta com carregador curvo. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
+    "risky": true
+  },
+  {
+    "id": "weapon.hold-out-blaster",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Pistola blaster minúscula que cabe na palma da mão. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
+    "risky": true
+  },
+  {
+    "id": "weapon.sporting-blaster",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Pistola blaster leve e elegante de cano fino. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
+    "risky": true
+  },
+  {
+    "id": "weapon.blaster-pistol",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Pistola blaster de uso comum com aletas de resfriamento no cano. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
+    "risky": true
+  },
+  {
+    "id": "weapon.heavy-blaster-pistol",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Pistola blaster pesada de cano grosso e empunhadura robusta. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
+    "risky": true
+  },
+  {
+    "id": "weapon.hunting-blaster",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Blaster de caça com coronha e mira telescópica longa. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
+    "risky": true
+  },
+  {
+    "id": "weapon.blaster-carbine",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Carabina blaster compacta com coronha dobrável. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
+    "risky": true
+  },
+  {
+    "id": "weapon.blaster-rifle",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Rifle blaster militar com mira e coronha fixa. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
+    "risky": true
+  },
+  {
+    "id": "weapon.heavy-blaster-rifle",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Rifle blaster pesado com cano reforçado e bipé. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
+    "risky": true
+  },
+  {
+    "id": "weapon.sporting-blaster-rifle",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Rifle blaster esportivo leve e polido. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
+    "risky": true
+  },
+  {
+    "id": "weapon.light-repeating-blaster",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Blaster de repetição leve com bipé e cano de resfriamento. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
+    "risky": true
+  },
+  {
+    "id": "weapon.heavy-repeating-blaster",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Blaster de repetição pesado com cinta de células de energia. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
+    "risky": true
+  },
+  {
+    "id": "weapon.e-web-repeating-blaster",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Blaster de repetição pesado sobre tripé, com gerador ao lado, operado por dois. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
+    "risky": true
+  },
+  {
+    "id": "weapon.bowcaster",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Besta de energia com arco metálico e mira, disparando um dardo luminoso (design próprio). Planta holográfica técnica, design próprio, vista em 3/4.",
+    "risky": true
+  },
+  {
+    "id": "weapon.flamethrower",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Lança-chamas com tanque nas costas e bico com chama piloto. Planta holográfica técnica, design próprio, vista em 3/4.",
+    "risky": true
+  },
+  {
+    "id": "weapon.ion-pistol",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Pistola com bobinas azuis de íons ao longo do cano. Planta holográfica técnica, design próprio, vista em 3/4.",
+    "risky": true
+  },
+  {
+    "id": "weapon.ion-rifle",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Rifle de íons com bobinas azuis e coronha longa. Planta holográfica técnica, design próprio, vista em 3/4.",
+    "risky": true
+  },
+  {
+    "id": "weapon.riot-gun",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Arma de controle de tumultos de cano largo. Planta holográfica técnica, design próprio, vista em 3/4.",
+    "risky": true
+  },
+  {
+    "id": "weapon.stun-pistol",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Pistola compacta com anéis de atordoamento azuis no cano. Planta holográfica técnica, design próprio, vista em 3/4.",
+    "risky": true
+  },
+  {
+    "id": "weapon.anti-infantry-laser-battery",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Bateria laser antipessoal de dois canos sobre plataforma giratória. Planta holográfica de uma instalação de artilharia em escala de veículo, com uma figura humana minúscula para dar escala.",
+    "risky": true
+  },
+  {
+    "id": "weapon.anti-vehicle-laser-cannon",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Canhão laser antiveículo em base fixa com escudo frontal. Planta holográfica de uma instalação de artilharia em escala de veículo, com uma figura humana minúscula para dar escala.",
+    "risky": true
+  },
+  {
+    "id": "weapon.heavy-anti-orbital-ion-cannon",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Enorme canhão de íons de superfície numa torre cilíndrica apontada para a órbita. Planta holográfica de uma instalação de artilharia em escala de veículo, com uma figura humana minúscula para dar escala.",
+    "risky": true
+  },
+  {
+    "id": "weapon.turbolaser-battery",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Torre de turbolaser fixa de canos longos sobre um bunker. Planta holográfica de uma instalação de artilharia em escala de veículo, com uma figura humana minúscula para dar escala.",
+    "risky": true
+  },
+  {
+    "id": "weapon.fragmentation-grenade",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Granada de fragmentação cilíndrica com anel de ativação. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
+    "risky": true
+  },
+  {
+    "id": "weapon.ion-grenade",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Granada de íons com faixas azuis luminosas. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
+    "risky": true
+  },
+  {
+    "id": "weapon.stun-grenade",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Granada de atordoamento com faixas brancas. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
+    "risky": true
+  },
+  {
+    "id": "weapon.grenade-launcher",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Lançador de granadas de tambor rotativo. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
+    "risky": true
+  },
+  {
+    "id": "weapon.rocket-launcher",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Lança-foguetes portátil apoiado no ombro. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
+    "risky": true
+  },
+  {
+    "id": "weapon.antipersonnel-mine",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Mina antipessoal achatada semienterrada com sensor piscando. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
+    "risky": true
+  },
+  {
+    "id": "weapon.vehicle-mine",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Mina antiveículo larga e pesada enterrada na estrada. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
+    "risky": true
+  },
+  {
+    "id": "weapon.explosive-charge",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Carga explosiva com fios e um painel de armar. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
+    "risky": true
+  },
+  {
+    "id": "weapon.standard-detonator",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Detonador padrão: pequeno cilindro com pinos de contato. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
+    "risky": true
+  },
+  {
+    "id": "weapon.timer-fuse",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Espoleta com mostrador de contagem regressiva. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
+    "risky": true
+  },
+  {
+    "id": "weapon.remote-fuse",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Espoleta com antena curta e controle remoto. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
+    "risky": true
+  },
+  {
+    "id": "weapon.detonite",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Barras de explosivo moldável embaladas lado a lado. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
+    "risky": true
+  },
+  {
+    "id": "weapon.thermal-detonator",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Esfera metálica de detonador com uma luz de armado piscando. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
+    "risky": true
+  }
+]
