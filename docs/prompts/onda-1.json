@@ -1,21 +1,13 @@
 [
   {
-    "id": "hero.signup",
-    "style": "holo-cinematic",
-    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky or space, cyan key light (#4FD1FF) and amber rim light (#FFB020), subtle film grain, atmospheric depth. Leave a calm empty area for interface text where the focal point indicates.",
-    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
-    "bing_ratio": "3:2",
-    "focal_point": "centro-direita",
-    "description_pt": "Vista de dentro de uma cabine de nave no instante do salto ao hiperespaço: as estrelas se esticam em linhas de luz azul e branca através da janela, painéis com luzes âmbar em primeiro plano. Sensação de começo de jornada."
-  },
-  {
     "id": "bg.auth",
     "style": "ambient-bg",
     "style_prompt": "Low-contrast ambient background to sit behind a user interface: very dark (average luminance under 12%), soft details, no bright spots in the center, slightly vignetted corners, works when cropped to different ratios.",
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Campo de estrelas profundo com uma nebulosa azul-violeta muito discreta e poeira cósmica; pode receber paralaxe lenta em camadas (estrelas próximas, distantes, nebulosa)."
+    "description_pt": "Campo de estrelas profundo com uma nebulosa azul-violeta muito discreta e poeira cósmica; pode receber paralaxe lenta em camadas (estrelas próximas, distantes, nebulosa).",
+    "sensitive": false
   },
   {
     "id": "hero.hangar",
@@ -24,7 +16,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro-baixo; topo livre para saudação",
-    "description_pt": "Interior de um hangar de base escondida à noite: baias numeradas com luz ciano no chão, um cargueiro e dois caças de design original em manutenção, técnicos pequenos ao fundo. Atmosfera de base de operações acolhedora."
+    "description_pt": "Interior de um hangar de base escondida à noite: baias numeradas com luz ciano no chão, um cargueiro e dois caças de design original em manutenção, técnicos pequenos ao fundo. Atmosfera de base de operações acolhedora.",
+    "sensitive": false
   },
   {
     "id": "bg.hangar",
@@ -33,7 +26,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Piso metálico do hangar visto de cima em perspectiva, com marcações de baia e reflexos de luzes de pista, muito escuro e desfocado nas bordas."
+    "description_pt": "Piso metálico do hangar visto de cima em perspectiva, com marcações de baia e reflexos de luzes de pista, muito escuro e desfocado nas bordas.",
+    "sensitive": false
   },
   {
     "id": "hangar.bay.empty",
@@ -42,7 +36,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "2:3",
     "focal_point": "centro",
-    "description_pt": "Baia de atracação vazia vista de frente, com contorno holográfico tracejado de uma silhueta humanoide indefinida e um sinal de mais luminoso no centro, convidando a criar um personagem."
+    "description_pt": "Baia de atracação vazia vista de frente, com contorno holográfico tracejado de uma silhueta humanoide indefinida e um sinal de mais luminoso no centro, convidando a criar um personagem.",
+    "sensitive": false
   },
   {
     "id": "hero.create",
@@ -51,7 +46,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Mesa de projeção holográfica numa sala escura; acima dela gira um holograma de figura humanoide em construção, feito de linhas ciano, com seis anéis de dados orbitando ao redor."
+    "description_pt": "Mesa de projeção holográfica numa sala escura; acima dela gira um holograma de figura humanoide em construção, feito de linhas ciano, com seis anéis de dados orbitando ao redor.",
+    "sensitive": false
   },
   {
     "id": "create.path.template",
@@ -60,7 +56,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Leque de cartões holográficos de identidade abertos sobre uma mesa, cada um com uma silhueta diferente (pilota, caçador, erudito), luz âmbar."
+    "description_pt": "Leque de cartões holográficos de identidade abertos sobre uma mesa, cada um com uma silhueta diferente (pilota, caçador, erudito), luz âmbar.",
+    "sensitive": false
   },
   {
     "id": "create.path.scratch",
@@ -69,7 +66,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Planta técnica de uma figura humanoide com medidas e seis marcadores de atributo vazios ao redor, como um projeto a preencher."
+    "description_pt": "Planta técnica de uma figura humanoide com medidas e seis marcadores de atributo vazios ao redor, como um projeto a preencher.",
+    "sensitive": false
   },
   {
     "id": "ref.rules",
@@ -78,7 +76,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Um datapad aberto sobre uma mesa projetando um holograma de seis dados e um diagrama de fluxo de turno, livros de capa gasta ao lado."
+    "description_pt": "Um datapad aberto sobre uma mesa projetando um holograma de seis dados e um diagrama de fluxo de turno, livros de capa gasta ao lado.",
+    "sensitive": false
   },
   {
     "id": "ref.skills",
@@ -87,7 +86,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Painel com seis setores luminosos (destreza, conhecimento, mecânica, percepção, força, técnica), cada um com um pequeno ícone abstrato, em círculo."
+    "description_pt": "Painel com seis setores luminosos (destreza, conhecimento, mecânica, percepção, força, técnica), cada um com um pequeno ícone abstrato, em círculo.",
+    "sensitive": false
   },
   {
     "id": "ref.force-powers",
@@ -96,7 +96,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Mão aberta com pedras pequenas flutuando acima dela e linhas de energia suave entre elas, fundo de templo em ruínas desfocado."
+    "description_pt": "Mão aberta com pedras pequenas flutuando acima dela e linhas de energia suave entre elas, fundo de templo em ruínas desfocado.",
+    "sensitive": false
   },
   {
     "id": "ref.species",
@@ -105,7 +106,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Mosaico de silhuetas de muitas espécies diferentes contra uma janela com estrelas, em contraluz."
+    "description_pt": "Mosaico de silhuetas de muitas espécies diferentes contra uma janela com estrelas, em contraluz.",
+    "sensitive": false
   },
   {
     "id": "ref.weapons",
@@ -114,7 +116,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Planta técnica explodida de uma pistola blaster de design original, peças separadas com linhas de cota."
+    "description_pt": "Planta técnica explodida de uma pistola blaster de design original, peças separadas com linhas de cota.",
+    "sensitive": false
   },
   {
     "id": "ref.armor",
@@ -123,7 +126,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Planta técnica de um conjunto de armadura modular de design original em vista frontal e lateral."
+    "description_pt": "Planta técnica de um conjunto de armadura modular de design original em vista frontal e lateral.",
+    "sensitive": false
   },
   {
     "id": "ref.gear",
@@ -132,7 +136,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Mochila aberta com equipamentos espalhados: medpac, comlink, binóculos eletrônicos, cordas e rações, vistos de cima."
+    "description_pt": "Mochila aberta com equipamentos espalhados: medpac, comlink, binóculos eletrônicos, cordas e rações, vistos de cima.",
+    "sensitive": false
   },
   {
     "id": "ref.vehicles",
@@ -141,7 +146,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Planta técnica de uma moto flutuante de design original em perspectiva, com indicadores de repulsor sob o casco."
+    "description_pt": "Planta técnica de uma moto flutuante de design original em perspectiva, com indicadores de repulsor sob o casco.",
+    "sensitive": false
   },
   {
     "id": "ref.glossary",
@@ -150,7 +156,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Arquivo de cristais de dados em gavetas luminosas, um cristal destacado emitindo luz."
+    "description_pt": "Arquivo de cristais de dados em gavetas luminosas, um cristal destacado emitindo luz.",
+    "sensitive": false
   },
   {
     "id": "ref.tables",
@@ -159,7 +166,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Grade holográfica de tabelas e gráficos flutuando sobre uma mesa de comando escura."
+    "description_pt": "Grade holográfica de tabelas e gráficos flutuando sobre uma mesa de comando escura.",
+    "sensitive": false
   },
   {
     "id": "hero.campaign",
@@ -168,7 +176,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro; topo livre para o nome da campanha",
-    "description_pt": "Grupo de quatro aventureiros de costas, silhuetas de espécies diferentes, diante de uma grande janela que mostra um planeta e uma frota distante."
+    "description_pt": "Grupo de quatro aventureiros de costas, silhuetas de espécies diferentes, diante de uma grande janela que mostra um planeta e uma frota distante.",
+    "sensitive": false
   },
   {
     "id": "bg.campaign.holomap",
@@ -177,7 +186,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Mapa galáctico holográfico original: braços espirais em ciano e violeta, regiões em anéis concêntricos, rotas hiperespaciais como linhas pontilhadas, sem nomes reais de planetas."
+    "description_pt": "Mapa galáctico holográfico original: braços espirais em ciano e violeta, regiões em anéis concêntricos, rotas hiperespaciais como linhas pontilhadas, sem nomes reais de planetas.",
+    "sensitive": false
   },
   {
     "id": "campaign.cover.outer-rim",
@@ -186,7 +196,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Planeta desértico com duas luas no céu e um povoado de cúpulas de barro sob o calor, cargueiro chegando."
+    "description_pt": "Planeta desértico com duas luas no céu e um povoado de cúpulas de barro sob o calor, cargueiro chegando.",
+    "sensitive": false
   },
   {
     "id": "campaign.cover.core-worlds",
@@ -195,7 +206,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Cidade-planeta à noite com torres infinitas e tráfego aéreo em faixas de luz, chuva fina."
+    "description_pt": "Cidade-planeta à noite com torres infinitas e tráfego aéreo em faixas de luz, chuva fina.",
+    "sensitive": false
   },
   {
     "id": "campaign.cover.rebel-cell",
@@ -204,7 +216,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Base escondida numa floresta úmida, antenas camufladas e caças sob redes, luz verde filtrada."
+    "description_pt": "Base escondida numa floresta úmida, antenas camufladas e caças sob redes, luz verde filtrada.",
+    "sensitive": false
   },
   {
     "id": "campaign.cover.smugglers-run",
@@ -213,7 +226,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Cargueiro esquivando-se num campo de asteroides com disparos ao longe."
+    "description_pt": "Cargueiro esquivando-se num campo de asteroides com disparos ao longe.",
+    "sensitive": false
   },
   {
     "id": "campaign.cover.ancient-ruins",
@@ -222,7 +236,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Ruínas de templo antigo cobertas de musgo, com escadarias e uma luz suave vinda do interior."
+    "description_pt": "Ruínas de templo antigo cobertas de musgo, com escadarias e uma luz suave vinda do interior.",
+    "sensitive": false
   },
   {
     "id": "campaign.cover.imperial-shadow",
@@ -231,7 +246,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Silhueta de uma imensa nave de guerra triangular de design original cobrindo o céu de um planeta, sombra sobre a cidade."
+    "description_pt": "Silhueta de uma imensa nave de guerra triangular de design original cobrindo o céu de um planeta, sombra sobre a cidade.",
+    "sensitive": false
   },
   {
     "id": "hero.invite",
@@ -240,7 +256,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Mensagem holográfica azul projetada por um pequeno emissor sobre a palma de uma mão: uma figura encapuzada indefinida faz um gesto de chamado."
+    "description_pt": "Mensagem holográfica azul projetada por um pequeno emissor sobre a palma de uma mão: uma figura encapuzada indefinida faz um gesto de chamado.",
+    "sensitive": false
   },
   {
     "id": "bg.gm-console",
@@ -249,7 +266,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Console de comando escuro visto de frente, fileiras de pequenas luzes âmbar e violeta e telas apagadas; muito escuro."
+    "description_pt": "Console de comando escuro visto de frente, fileiras de pequenas luzes âmbar e violeta e telas apagadas; muito escuro.",
+    "sensitive": false
   },
   {
     "id": "hero.holocron",
@@ -258,7 +276,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Um cubo de cristal antigo flutuando, com faces gravadas em padrões geométricos originais, irradiando luz ciano suave numa sala escura de pedra."
+    "description_pt": "Um cubo de cristal antigo flutuando, com faces gravadas em padrões geométricos originais, irradiando luz ciano suave numa sala escura de pedra.",
+    "sensitive": false
   },
   {
     "id": "portrait.default",
@@ -267,7 +286,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Silhueta humanoide neutra em holograma ciano com scanlines, fundo escuro; serve para qualquer espécie."
+    "description_pt": "Silhueta humanoide neutra em holograma ciano com scanlines, fundo escuro; serve para qualquer espécie.",
+    "sensitive": false
   },
   {
     "id": "og.default",
@@ -276,7 +296,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "direita",
-    "description_pt": "Seis dados flutuando sobre uma mesa escura, um deles âmbar e brilhante, com um campo de estrelas atrás e espaço à esquerda para o nome do app."
+    "description_pt": "Seis dados flutuando sobre uma mesa escura, um deles âmbar e brilhante, com um campo de estrelas atrás e espaço à esquerda para o nome do app.",
+    "sensitive": false
   },
   {
     "id": "empty.campaigns",
@@ -285,7 +306,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Mapa estelar enrolado e ainda fechado sobre uma caixa, com um selo de convite piscando."
+    "description_pt": "Mapa estelar enrolado e ainda fechado sobre uma caixa, com um selo de convite piscando.",
+    "sensitive": false
   },
   {
     "id": "empty.feed",
@@ -294,7 +316,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Seis dados dormindo empilhados, um deles âmbar com um olho entreaberto."
+    "description_pt": "Seis dados dormindo empilhados, um deles âmbar com um olho entreaberto.",
+    "sensitive": false
   },
   {
     "id": "empty.search",
@@ -303,7 +326,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Sonda de reconhecimento flutuante iluminando com um holofote um terreno vazio."
+    "description_pt": "Sonda de reconhecimento flutuante iluminando com um holofote um terreno vazio.",
+    "sensitive": false
   },
   {
     "id": "empty.journal",
@@ -312,7 +336,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Datapad em branco com uma caneta luminosa ao lado e uma xícara fumegante."
+    "description_pt": "Datapad em branco com uma caneta luminosa ao lado e uma xícara fumegante.",
+    "sensitive": false
   },
   {
     "id": "empty.timeline",
@@ -321,7 +346,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Linha pontilhada luminosa que começa num pequeno ponto e some no escuro, como uma rota ainda não percorrida."
+    "description_pt": "Linha pontilhada luminosa que começa num pequeno ponto e some no escuro, como uma rota ainda não percorrida.",
+    "sensitive": false
   },
   {
     "id": "empty.party",
@@ -330,7 +356,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Mesa redonda com cadeiras vazias e um holoprojetor aceso no centro mostrando um código de convite abstrato."
+    "description_pt": "Mesa redonda com cadeiras vazias e um holoprojetor aceso no centro mostrando um código de convite abstrato.",
+    "sensitive": false
   },
   {
     "id": "error.offline",
@@ -339,7 +366,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Antena parabólica de uma base remota coberta de neve, com uma faísca fraca de sinal."
+    "description_pt": "Antena parabólica de uma base remota coberta de neve, com uma faísca fraca de sinal.",
+    "sensitive": false
   },
   {
     "id": "error.not-found",
@@ -348,7 +376,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Nave pequena perdida numa nebulosa densa, faróis acesos procurando o caminho."
+    "description_pt": "Nave pequena perdida numa nebulosa densa, faróis acesos procurando o caminho.",
+    "sensitive": false
   },
   {
     "id": "error.server",
@@ -357,7 +386,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Droide astromecânico de design original soltando fumaça, com um painel aberto e faíscas."
+    "description_pt": "Droide astromecânico de design original soltando fumaça, com um painel aberto e faíscas.",
+    "sensitive": false
   },
   {
     "id": "error.forbidden",
@@ -366,7 +396,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Porta blindada fechada com uma luz vermelha de acesso negado e um pequeno visor."
+    "description_pt": "Porta blindada fechada com uma luz vermelha de acesso negado e um pequeno visor.",
+    "sensitive": false
   },
   {
     "id": "error.invite-expired",
@@ -375,7 +406,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Mensagem holográfica falhando e se desfazendo em estática."
+    "description_pt": "Mensagem holográfica falhando e se desfazendo em estática.",
+    "sensitive": false
   },
   {
     "id": "error.sync-conflict",
@@ -384,79 +416,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Dois hologramas do mesmo personagem sobrepostos e ligeiramente desalinhados, como um eco."
-  },
-  {
-    "id": "weapon-cat.melee",
-    "style": "blueprint-item",
-    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
-    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
-    "bing_ratio": "3:2",
-    "focal_point": "centro",
-    "description_pt": "Conjunto de armas brancas e de energia de design próprio dispostas num suporte de parede: lâmina vibratória, bastão elétrico, machado e um cabo de lâmina de energia."
-  },
-  {
-    "id": "weapon-cat.archaic-ranged",
-    "style": "blueprint-item",
-    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
-    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
-    "bing_ratio": "3:2",
-    "focal_point": "centro",
-    "description_pt": "Arco, besta, funda e um mosquete antigo sobre uma bancada de madeira escura, iluminados por uma lanterna."
-  },
-  {
-    "id": "weapon-cat.miscellaneous",
-    "style": "blueprint-item",
-    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
-    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
-    "bing_ratio": "3:2",
-    "focal_point": "centro",
-    "description_pt": "Armas especiais de design próprio: pistola de íons com bobinas azuis, lança-chamas compacto e uma besta de energia."
-  },
-  {
-    "id": "weapon-cat.artillery",
-    "style": "blueprint-item",
-    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
-    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
-    "bing_ratio": "3:2",
-    "focal_point": "centro",
-    "description_pt": "Torre de artilharia fixa de canos longos sobre um bunker, apontada para o céu ao entardecer."
-  },
-  {
-    "id": "weapon-cat.explosive",
-    "style": "blueprint-item",
-    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
-    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
-    "bing_ratio": "3:2",
-    "focal_point": "centro",
-    "description_pt": "Granadas, minas e uma carga moldável em planta holográfica, com luzes de armado piscando."
-  },
-  {
-    "id": "armor-cat.light",
-    "style": "blueprint-item",
-    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
-    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
-    "bing_ratio": "3:2",
-    "focal_point": "centro",
-    "description_pt": "Colete, capacete e macacão acolchoado de design próprio em planta holográfica, vistos de frente."
-  },
-  {
-    "id": "armor-cat.military",
-    "style": "blueprint-item",
-    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
-    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
-    "bing_ratio": "3:2",
-    "focal_point": "centro",
-    "description_pt": "Manequim de armadura militar de placas de design próprio, vista de frente e de perfil."
-  },
-  {
-    "id": "armor-cat.heavy",
-    "style": "blueprint-item",
-    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
-    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
-    "bing_ratio": "3:2",
-    "focal_point": "centro",
-    "description_pt": "Armadura pesada moldada de design próprio, com placas grossas e juntas reforçadas, sobre um suporte de manutenção."
+    "description_pt": "Dois hologramas do mesmo personagem sobrepostos e ligeiramente desalinhados, como um eco.",
+    "sensitive": false
   },
   {
     "id": "gear-cat.communications",
@@ -465,7 +426,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Comunicadores de mão, um transceptor de mesa e uma antena de mochila em planta holográfica."
+    "description_pt": "Comunicadores de mão, um transceptor de mesa e uma antena de mochila em planta holográfica.",
+    "sensitive": false
   },
   {
     "id": "gear-cat.computers",
@@ -474,7 +436,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Datapad, cartões de dados e um terminal portátil abertos sobre uma mesa escura."
+    "description_pt": "Datapad, cartões de dados e um terminal portátil abertos sobre uma mesa escura.",
+    "sensitive": false
   },
   {
     "id": "gear-cat.detection",
@@ -483,7 +446,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Binóculos eletrônicos, lanterna e um sensor portátil emitindo uma varredura em leque."
+    "description_pt": "Binóculos eletrônicos, lanterna e um sensor portátil emitindo uma varredura em leque.",
+    "sensitive": false
   },
   {
     "id": "gear-cat.life-support",
@@ -492,7 +456,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Traje de vácuo e máscara respiratória pendurados num armário de câmara de descompressão."
+    "description_pt": "Traje de vácuo e máscara respiratória pendurados num armário de câmara de descompressão.",
+    "sensitive": false
   },
   {
     "id": "gear-cat.medical",
@@ -501,7 +466,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Kit médico aberto com injetores, ataduras e um frasco de líquido curativo azul."
+    "description_pt": "Kit médico aberto com injetores, ataduras e um frasco de líquido curativo azul.",
+    "sensitive": false
   },
   {
     "id": "gear-cat.cybernetics",
@@ -510,7 +476,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Braço protético mecânico de design próprio sobre uma bancada de cirurgia, com fios expostos."
+    "description_pt": "Braço protético mecânico de design próprio sobre uma bancada de cirurgia, com fios expostos.",
+    "sensitive": false
   },
   {
     "id": "gear-cat.survival",
@@ -519,7 +486,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Mochila de sobrevivência, corda, rações e um manto térmico sobre uma rocha."
+    "description_pt": "Mochila de sobrevivência, corda, rações e um manto térmico sobre uma rocha.",
+    "sensitive": false
   },
   {
     "id": "gear-cat.tools",
@@ -528,7 +496,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Caixa de ferramentas aberta com chaves, soldador e células de energia."
+    "description_pt": "Caixa de ferramentas aberta com chaves, soldador e células de energia.",
+    "sensitive": false
   },
   {
     "id": "gear-cat.accessories",
@@ -537,7 +506,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Cinto de utilidades, coldre e bandoleira com uma mira eletrônica encaixada."
+    "description_pt": "Cinto de utilidades, coldre e bandoleira com uma mira eletrônica encaixada.",
+    "sensitive": false
   },
   {
     "id": "vehicle-cat.walkers",
@@ -546,7 +516,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Andador blindado de pernas mecânicas de design próprio avançando por uma planície enevoada."
+    "description_pt": "Andador blindado de pernas mecânicas de design próprio avançando por uma planície enevoada.",
+    "sensitive": false
   },
   {
     "id": "vehicle-cat.speeder-bikes",
@@ -555,7 +526,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Moto flutuante de design próprio em alta velocidade entre troncos de floresta."
+    "description_pt": "Moto flutuante de design próprio em alta velocidade entre troncos de floresta.",
+    "sensitive": false
   },
   {
     "id": "vehicle-cat.swoops",
@@ -564,7 +536,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Swoop de corrida de design próprio, motor enorme e assento mínimo, cruzando um cânion."
+    "description_pt": "Swoop de corrida de design próprio, motor enorme e assento mínimo, cruzando um cânion.",
+    "sensitive": false
   },
   {
     "id": "vehicle-cat.armored-assault-vehicles",
@@ -573,7 +546,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Tanque flutuante blindado de design próprio avançando com poeira atrás."
+    "description_pt": "Tanque flutuante blindado de design próprio avançando com poeira atrás.",
+    "sensitive": false
   },
   {
     "id": "vehicle-cat.airspeeders",
@@ -582,7 +556,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Aerospeeder de design próprio voando baixo entre torres de uma cidade."
+    "description_pt": "Aerospeeder de design próprio voando baixo entre torres de uma cidade.",
+    "sensitive": false
   },
   {
     "id": "vehicle-cat.cloud-cars",
@@ -591,7 +566,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Carro de nuvens de design próprio cruzando nuvens alaranjadas."
+    "description_pt": "Carro de nuvens de design próprio cruzando nuvens alaranjadas.",
+    "sensitive": false
   },
   {
     "id": "vehicle-cat.podracers",
@@ -600,7 +576,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Cabine de corrida puxada por dois motores de design próprio deixando rastros de calor."
+    "description_pt": "Cabine de corrida puxada por dois motores de design próprio deixando rastros de calor.",
+    "sensitive": false
   },
   {
     "id": "vehicle-cat.sail-barges",
@@ -609,7 +586,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Barcaça flutuante com velas de design próprio sobre dunas."
+    "description_pt": "Barcaça flutuante com velas de design próprio sobre dunas.",
+    "sensitive": false
   },
   {
     "id": "vehicle-cat.skiffs",
@@ -618,7 +596,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Plataforma de carga flutuante aberta de design próprio num porto."
+    "description_pt": "Plataforma de carga flutuante aberta de design próprio num porto.",
+    "sensitive": false
   },
   {
     "id": "vehicle-cat.ground-vehicles",
@@ -627,7 +606,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Veículo terrestre pesado de rodas de design próprio cruzando lama."
+    "description_pt": "Veículo terrestre pesado de rodas de design próprio cruzando lama.",
+    "sensitive": false
   },
   {
     "id": "vehicle-cat.hover-vehicles",
@@ -636,7 +616,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Hidrofólio de design próprio deslizando sobre ondas."
+    "description_pt": "Hidrofólio de design próprio deslizando sobre ondas.",
+    "sensitive": false
   },
   {
     "id": "starship-scale.starfighter",
@@ -645,7 +626,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Pequenas naves de design próprio (um caça e um cargueiro leve) cruzando um campo de estrelas perto de um planeta."
+    "description_pt": "Pequenas naves de design próprio (um caça e um cargueiro leve) cruzando um campo de estrelas perto de um planeta.",
+    "sensitive": false
   },
   {
     "id": "starship-scale.capital",
@@ -654,7 +636,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Grande nave de guerra de design próprio em órbita de um planeta, com naves menores ao redor para dar escala."
+    "description_pt": "Grande nave de guerra de design próprio em órbita de um planeta, com naves menores ao redor para dar escala.",
+    "sensitive": false
   },
   {
     "id": "starship-scale.personal-starship",
@@ -663,7 +646,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "3:2",
     "focal_point": "centro",
-    "description_pt": "Iate estelar pequeno e elegante de design próprio saindo de um hangar particular."
+    "description_pt": "Iate estelar pequeno e elegante de design próprio saindo de um hangar particular.",
+    "sensitive": false
   },
   {
     "id": "skill-attr.knowledge",
@@ -672,7 +656,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Arquivo de cristais de dados e mapas estelares projetados sobre uma mesa."
+    "description_pt": "Arquivo de cristais de dados e mapas estelares projetados sobre uma mesa.",
+    "sensitive": false
   },
   {
     "id": "skill-attr.mechanical",
@@ -681,7 +666,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Mãos num manche de pilotagem com o painel da cabine aceso."
+    "description_pt": "Mãos num manche de pilotagem com o painel da cabine aceso.",
+    "sensitive": false
   },
   {
     "id": "skill-attr.perception",
@@ -690,7 +676,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Olhar atento refletindo uma cena distante numa viseira."
+    "description_pt": "Olhar atento refletindo uma cena distante numa viseira.",
+    "sensitive": false
   },
   {
     "id": "skill-attr.strength",
@@ -699,7 +686,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Figura erguendo uma caixa de carga pesada com esforço."
+    "description_pt": "Figura erguendo uma caixa de carga pesada com esforço.",
+    "sensitive": false
   },
   {
     "id": "skill-attr.technical",
@@ -708,7 +696,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Mãos com ferramentas abrindo um painel de circuitos que solta faíscas."
+    "description_pt": "Mãos com ferramentas abrindo um painel de circuitos que solta faíscas.",
+    "sensitive": false
   },
   {
     "id": "power-skill.control",
@@ -717,7 +706,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Figura meditando de pernas cruzadas envolta num halo branco-azulado calmo."
+    "description_pt": "Figura meditando de pernas cruzadas envolta num halo branco-azulado calmo.",
+    "sensitive": false
   },
   {
     "id": "power-skill.sense",
@@ -726,7 +716,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Ondas violeta saindo de uma figura de olhos fechados e tocando formas de vida ao redor."
+    "description_pt": "Ondas violeta saindo de uma figura de olhos fechados e tocando formas de vida ao redor.",
+    "sensitive": false
   },
   {
     "id": "power-skill.alter",
@@ -735,7 +726,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Mão estendida fazendo pedras flutuarem com energia ciano em movimento."
+    "description_pt": "Mão estendida fazendo pedras flutuarem com energia ciano em movimento.",
+    "sensitive": false
   },
   {
     "id": "power-skill.control-sense",
@@ -744,7 +736,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Figura meditando com um halo calmo e ondas violeta se espalhando."
+    "description_pt": "Figura meditando com um halo calmo e ondas violeta se espalhando.",
+    "sensitive": false
   },
   {
     "id": "power-skill.control-alter",
@@ -753,7 +746,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Figura concentrada com halo calmo enquanto energia ciano se move a partir das mãos."
+    "description_pt": "Figura concentrada com halo calmo enquanto energia ciano se move a partir das mãos.",
+    "sensitive": false
   },
   {
     "id": "power-skill.sense-alter",
@@ -762,7 +756,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Ondas violeta e energia ciano formando uma cúpula ao redor de uma figura."
+    "description_pt": "Ondas violeta e energia ciano formando uma cúpula ao redor de uma figura.",
+    "sensitive": false
   },
   {
     "id": "power-skill.control-sense-alter",
@@ -771,7 +766,8 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Três círculos de luz (branco, violeta e ciano) entrelaçados em torno de uma figura serena."
+    "description_pt": "Três círculos de luz (branco, violeta e ciano) entrelaçados em torno de uma figura serena.",
+    "sensitive": false
   },
   {
     "id": "power-skill.none",
@@ -780,6 +776,87 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "1:1",
     "focal_point": "centro",
-    "description_pt": "Figura soltando um grito que ondula o ar ao redor em tom escuro."
+    "description_pt": "Figura soltando um grito que ondula o ar ao redor em tom escuro.",
+    "sensitive": false
+  },
+  {
+    "id": "weapon-cat.melee",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Conjunto de armas brancas e de energia de design próprio dispostas num suporte de parede: lâmina vibratória, bastão elétrico, machado e um cabo de lâmina de energia.",
+    "sensitive": true
+  },
+  {
+    "id": "weapon-cat.archaic-ranged",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Arco, besta, funda e um mosquete antigo sobre uma bancada de madeira escura, iluminados por uma lanterna.",
+    "sensitive": true
+  },
+  {
+    "id": "weapon-cat.miscellaneous",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Armas especiais de design próprio: pistola de íons com bobinas azuis, lança-chamas compacto e uma besta de energia.",
+    "sensitive": true
+  },
+  {
+    "id": "weapon-cat.artillery",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Torre de artilharia fixa de canos longos sobre um bunker, apontada para o céu ao entardecer.",
+    "sensitive": true
+  },
+  {
+    "id": "weapon-cat.explosive",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Granadas, minas e uma carga moldável em planta holográfica, com luzes de armado piscando.",
+    "sensitive": true
+  },
+  {
+    "id": "armor-cat.light",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Colete, capacete e macacão acolchoado de design próprio em planta holográfica, vistos de frente.",
+    "sensitive": true
+  },
+  {
+    "id": "armor-cat.military",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Manequim de armadura militar de placas de design próprio, vista de frente e de perfil.",
+    "sensitive": true
+  },
+  {
+    "id": "armor-cat.heavy",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Armadura pesada moldada de design próprio, com placas grossas e juntas reforçadas, sobre um suporte de manutenção.",
+    "sensitive": true
   }
 ]

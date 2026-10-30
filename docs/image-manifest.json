@@ -164,9 +164,18 @@
       "description": "Vista de dentro de uma cabine de nave no instante do salto ao hiperespaço: as estrelas se esticam em linhas de luz azul e branca através da janela, painéis com luzes âmbar em primeiro plano. Sensação de começo de jornada.",
       "alt": "Janela de cabine com as estrelas se esticando em linhas de luz no salto ao hiperespaço.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/hero.signup.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "bg.auth",
@@ -186,9 +195,18 @@
       "description": "Campo de estrelas profundo com uma nebulosa azul-violeta muito discreta e poeira cósmica; pode receber paralaxe lenta em camadas (estrelas próximas, distantes, nebulosa).",
       "alt": "",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/bg.auth.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "hero.hangar",
@@ -208,9 +226,18 @@
       "description": "Interior de um hangar de base escondida à noite: baias numeradas com luz ciano no chão, um cargueiro e dois caças de design original em manutenção, técnicos pequenos ao fundo. Atmosfera de base de operações acolhedora.",
       "alt": "Hangar noturno com naves em manutenção e baias iluminadas.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/hero.hangar.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "bg.hangar",
@@ -230,9 +257,18 @@
       "description": "Piso metálico do hangar visto de cima em perspectiva, com marcações de baia e reflexos de luzes de pista, muito escuro e desfocado nas bordas.",
       "alt": "",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/bg.hangar.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "hangar.bay.empty",
@@ -250,9 +286,18 @@
       "description": "Baia de atracação vazia vista de frente, com contorno holográfico tracejado de uma silhueta humanoide indefinida e um sinal de mais luminoso no centro, convidando a criar um personagem.",
       "alt": "Baia vazia com silhueta holográfica, convite para criar personagem.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/hangar.bay.empty.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          832,
+          1248
+        ]
+      }
     },
     {
       "id": "hero.create",
@@ -272,9 +317,18 @@
       "description": "Mesa de projeção holográfica numa sala escura; acima dela gira um holograma de figura humanoide em construção, feito de linhas ciano, com seis anéis de dados orbitando ao redor.",
       "alt": "Holograma de um personagem sendo montado sobre uma mesa de projeção.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/hero.create.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "create.path.template",
@@ -292,9 +346,18 @@
       "description": "Leque de cartões holográficos de identidade abertos sobre uma mesa, cada um com uma silhueta diferente (pilota, caçador, erudito), luz âmbar.",
       "alt": "Cartões holográficos de identidade em leque, cada um com uma silhueta.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/create.path.template.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "create.path.scratch",
@@ -312,9 +375,18 @@
       "description": "Planta técnica de uma figura humanoide com medidas e seis marcadores de atributo vazios ao redor, como um projeto a preencher.",
       "alt": "Planta de uma figura humanoide com marcadores de atributo vazios.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/create.path.scratch.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "template.alien-student-of-the-force",
@@ -1821,9 +1893,18 @@
       "description": "Um datapad aberto sobre uma mesa projetando um holograma de seis dados e um diagrama de fluxo de turno, livros de capa gasta ao lado.",
       "alt": "Datapad projetando dados e um diagrama de regras.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/ref.rules.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "ref.skills",
@@ -1841,9 +1922,18 @@
       "description": "Painel com seis setores luminosos (destreza, conhecimento, mecânica, percepção, força, técnica), cada um com um pequeno ícone abstrato, em círculo.",
       "alt": "Painel circular com seis setores de atributos.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/ref.skills.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "ref.force-powers",
@@ -1861,9 +1951,18 @@
       "description": "Mão aberta com pedras pequenas flutuando acima dela e linhas de energia suave entre elas, fundo de templo em ruínas desfocado.",
       "alt": "Mão aberta fazendo pedras flutuarem.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/ref.force-powers.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "ref.species",
@@ -1881,9 +1980,18 @@
       "description": "Mosaico de silhuetas de muitas espécies diferentes contra uma janela com estrelas, em contraluz.",
       "alt": "Silhuetas de várias espécies alienígenas em contraluz.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/ref.species.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "ref.weapons",
@@ -1901,9 +2009,18 @@
       "description": "Planta técnica explodida de uma pistola blaster de design original, peças separadas com linhas de cota.",
       "alt": "Planta explodida de uma pistola blaster de design original.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/ref.weapons.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "ref.armor",
@@ -1921,9 +2038,18 @@
       "description": "Planta técnica de um conjunto de armadura modular de design original em vista frontal e lateral.",
       "alt": "Planta de uma armadura modular em duas vistas.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/ref.armor.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "ref.gear",
@@ -1941,9 +2067,18 @@
       "description": "Mochila aberta com equipamentos espalhados: medpac, comlink, binóculos eletrônicos, cordas e rações, vistos de cima.",
       "alt": "Equipamentos de viagem espalhados vistos de cima.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/ref.gear.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "ref.vehicles",
@@ -1961,9 +2096,18 @@
       "description": "Planta técnica de uma moto flutuante de design original em perspectiva, com indicadores de repulsor sob o casco.",
       "alt": "Planta de uma moto flutuante de design original.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/ref.vehicles.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "ref.starships",
@@ -2010,9 +2154,18 @@
       "description": "Arquivo de cristais de dados em gavetas luminosas, um cristal destacado emitindo luz.",
       "alt": "Gavetas de cristais de dados com um destacado.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/ref.glossary.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "ref.tables",
@@ -2030,9 +2183,18 @@
       "description": "Grade holográfica de tabelas e gráficos flutuando sobre uma mesa de comando escura.",
       "alt": "Tabelas holográficas sobre uma mesa de comando.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/ref.tables.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "bg.mesa",
@@ -2123,9 +2285,18 @@
       "description": "Grupo de quatro aventureiros de costas, silhuetas de espécies diferentes, diante de uma grande janela que mostra um planeta e uma frota distante.",
       "alt": "Grupo de aventureiros de costas olhando um planeta por uma janela.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/hero.campaign.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "bg.campaign.holomap",
@@ -2145,9 +2316,18 @@
       "description": "Mapa galáctico holográfico original: braços espirais em ciano e violeta, regiões em anéis concêntricos, rotas hiperespaciais como linhas pontilhadas, sem nomes reais de planetas.",
       "alt": "Mapa galáctico holográfico com rotas pontilhadas.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/bg.campaign.holomap.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "campaign.cover.outer-rim",
@@ -2165,9 +2345,18 @@
       "description": "Planeta desértico com duas luas no céu e um povoado de cúpulas de barro sob o calor, cargueiro chegando.",
       "alt": "Planeta desértico com duas luas e povoado de cúpulas.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/campaign.cover.outer-rim.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "campaign.cover.core-worlds",
@@ -2185,9 +2374,18 @@
       "description": "Cidade-planeta à noite com torres infinitas e tráfego aéreo em faixas de luz, chuva fina.",
       "alt": "Cidade-planeta noturna com tráfego aéreo.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/campaign.cover.core-worlds.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "campaign.cover.rebel-cell",
@@ -2205,9 +2403,18 @@
       "description": "Base escondida numa floresta úmida, antenas camufladas e caças sob redes, luz verde filtrada.",
       "alt": "Base escondida na floresta com caças sob redes.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/campaign.cover.rebel-cell.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "campaign.cover.smugglers-run",
@@ -2225,9 +2432,18 @@
       "description": "Cargueiro esquivando-se num campo de asteroides com disparos ao longe.",
       "alt": "Cargueiro passando por um campo de asteroides.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/campaign.cover.smugglers-run.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "campaign.cover.ancient-ruins",
@@ -2245,9 +2461,18 @@
       "description": "Ruínas de templo antigo cobertas de musgo, com escadarias e uma luz suave vinda do interior.",
       "alt": "Ruínas de templo antigo com luz interior.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/campaign.cover.ancient-ruins.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "campaign.cover.imperial-shadow",
@@ -2265,9 +2490,18 @@
       "description": "Silhueta de uma imensa nave de guerra triangular de design original cobrindo o céu de um planeta, sombra sobre a cidade.",
       "alt": "Imensa nave de guerra cobrindo o céu de um planeta.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/campaign.cover.imperial-shadow.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "hero.invite",
@@ -2287,9 +2521,18 @@
       "description": "Mensagem holográfica azul projetada por um pequeno emissor sobre a palma de uma mão: uma figura encapuzada indefinida faz um gesto de chamado.",
       "alt": "Mensagem holográfica projetada na palma de uma mão, um chamado.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/hero.invite.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "bg.gm-console",
@@ -2309,9 +2552,18 @@
       "description": "Console de comando escuro visto de frente, fileiras de pequenas luzes âmbar e violeta e telas apagadas; muito escuro.",
       "alt": "",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/bg.gm-console.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "hero.holocron",
@@ -2331,9 +2583,18 @@
       "description": "Um cubo de cristal antigo flutuando, com faces gravadas em padrões geométricos originais, irradiando luz ciano suave numa sala escura de pedra.",
       "alt": "Cubo de cristal antigo flutuando e emitindo luz.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/hero.holocron.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "portrait.default",
@@ -2351,9 +2612,18 @@
       "description": "Silhueta humanoide neutra em holograma ciano com scanlines, fundo escuro; serve para qualquer espécie.",
       "alt": "Retrato não definido.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/portrait.default.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "og.default",
@@ -2371,9 +2641,18 @@
       "description": "Seis dados flutuando sobre uma mesa escura, um deles âmbar e brilhante, com um campo de estrelas atrás e espaço à esquerda para o nome do app.",
       "alt": "Seis dados flutuando, um âmbar em destaque, sobre fundo estrelado.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/og.default.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "app.icon",
@@ -2440,9 +2719,18 @@
       "description": "Mapa estelar enrolado e ainda fechado sobre uma caixa, com um selo de convite piscando.",
       "alt": "Mapa estelar enrolado, à espera de uma campanha.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/empty.campaigns.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "empty.feed",
@@ -2460,9 +2748,18 @@
       "description": "Seis dados dormindo empilhados, um deles âmbar com um olho entreaberto.",
       "alt": "Dados empilhados dormindo, à espera da primeira rolagem.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/empty.feed.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "empty.search",
@@ -2480,9 +2777,18 @@
       "description": "Sonda de reconhecimento flutuante iluminando com um holofote um terreno vazio.",
       "alt": "Sonda iluminando um terreno vazio.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/empty.search.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "empty.journal",
@@ -2500,9 +2806,18 @@
       "description": "Datapad em branco com uma caneta luminosa ao lado e uma xícara fumegante.",
       "alt": "Datapad em branco com caneta luminosa.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/empty.journal.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "empty.timeline",
@@ -2520,9 +2835,18 @@
       "description": "Linha pontilhada luminosa que começa num pequeno ponto e some no escuro, como uma rota ainda não percorrida.",
       "alt": "Rota pontilhada que começa e some no escuro.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/empty.timeline.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "empty.party",
@@ -2540,9 +2864,18 @@
       "description": "Mesa redonda com cadeiras vazias e um holoprojetor aceso no centro mostrando um código de convite abstrato.",
       "alt": "Mesa redonda vazia com holoprojetor aceso.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/empty.party.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "error.offline",
@@ -2560,9 +2893,18 @@
       "description": "Antena parabólica de uma base remota coberta de neve, com uma faísca fraca de sinal.",
       "alt": "Antena coberta de neve sem sinal.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/error.offline.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "error.not-found",
@@ -2580,9 +2922,18 @@
       "description": "Nave pequena perdida numa nebulosa densa, faróis acesos procurando o caminho.",
       "alt": "Nave pequena perdida numa nebulosa.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/error.not-found.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "error.server",
@@ -2600,9 +2951,18 @@
       "description": "Droide astromecânico de design original soltando fumaça, com um painel aberto e faíscas.",
       "alt": "Droide soltando fumaça com painel aberto.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/error.server.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "error.forbidden",
@@ -2620,9 +2980,18 @@
       "description": "Porta blindada fechada com uma luz vermelha de acesso negado e um pequeno visor.",
       "alt": "Porta blindada com luz de acesso negado.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/error.forbidden.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "error.invite-expired",
@@ -2640,9 +3009,18 @@
       "description": "Mensagem holográfica falhando e se desfazendo em estática.",
       "alt": "Mensagem holográfica se desfazendo em estática.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/error.invite-expired.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "error.sync-conflict",
@@ -2660,9 +3038,18 @@
       "description": "Dois hologramas do mesmo personagem sobrepostos e ligeiramente desalinhados, como um eco.",
       "alt": "Dois hologramas do mesmo personagem desalinhados.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/error.sync-conflict.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "icon.attr.dexterity",
@@ -4985,9 +5372,18 @@
       "description": "Comunicadores de mão, um transceptor de mesa e uma antena de mochila em planta holográfica.",
       "alt": "Aparelhos de comunicação.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/gear-cat.communications.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear-cat.computers",
@@ -5005,9 +5401,18 @@
       "description": "Datapad, cartões de dados e um terminal portátil abertos sobre uma mesa escura.",
       "alt": "Datapad, cartões de dados e terminal.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/gear-cat.computers.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear-cat.detection",
@@ -5025,9 +5430,18 @@
       "description": "Binóculos eletrônicos, lanterna e um sensor portátil emitindo uma varredura em leque.",
       "alt": "Binóculos, lanterna e sensor portátil.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/gear-cat.detection.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear-cat.life-support",
@@ -5045,9 +5459,18 @@
       "description": "Traje de vácuo e máscara respiratória pendurados num armário de câmara de descompressão.",
       "alt": "Traje de vácuo e máscara respiratória.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/gear-cat.life-support.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear-cat.medical",
@@ -5065,9 +5488,18 @@
       "description": "Kit médico aberto com injetores, ataduras e um frasco de líquido curativo azul.",
       "alt": "Kit médico aberto.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/gear-cat.medical.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear-cat.cybernetics",
@@ -5085,9 +5517,18 @@
       "description": "Braço protético mecânico de design próprio sobre uma bancada de cirurgia, com fios expostos.",
       "alt": "Braço protético sobre uma bancada.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/gear-cat.cybernetics.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear-cat.survival",
@@ -5105,9 +5546,18 @@
       "description": "Mochila de sobrevivência, corda, rações e um manto térmico sobre uma rocha.",
       "alt": "Equipamento de sobrevivência sobre uma rocha.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/gear-cat.survival.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear-cat.tools",
@@ -5125,9 +5575,18 @@
       "description": "Caixa de ferramentas aberta com chaves, soldador e células de energia.",
       "alt": "Caixa de ferramentas aberta.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/gear-cat.tools.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-30",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear-cat.accessories",
