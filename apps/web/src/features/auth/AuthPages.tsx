@@ -1,9 +1,8 @@
-// Entrar, cadastro, esqueci a senha e redefinir. Layout: PC imagem a direita (60%), tablet imagem de fundo, celular imagem no topo.
+// Entrar, cadastro, esqueci a senha e redefinir. Layout: so o campo de estrelas ao fundo (sem arte), cartao a esquerda no PC.
 import { useQuery } from '@tanstack/react-query';
 import { Hexagon, LogIn } from 'lucide-react';
 import { useState, type FormEvent, type ReactNode } from 'react';
 import { Link, useNavigate, useSearchParams } from 'react-router';
-import { ArtSlot } from '@/components/ArtSlot';
 import { Field } from '@/components/ui';
 import { get } from '@/lib/api';
 import { authClient, signIn, signUp } from '@/lib/auth';
@@ -15,17 +14,13 @@ export function useMeta() {
   return useQuery({ queryKey: ['meta'], queryFn: () => get<{ features: { google: boolean; discord: boolean; assistant: boolean }; bundleHash: string }>('/api/meta'), retry: 0 });
 }
 
-function AuthLayout({ hero, title, subtitle, children, jumping, onJumped }: { hero: string; title: string; subtitle?: string; children: ReactNode; jumping?: boolean; onJumped?: () => void }) {
+function AuthLayout({ title, subtitle, children, jumping, onJumped }: { title: string; subtitle?: string; children: ReactNode; jumping?: boolean; onJumped?: () => void }) {
   const lowLight = usePrefs((s) => s.lowLight);
   return (
     <div className={cn('relative min-h-dvh', lowLight && 'lowlight')} data-auth>
       <div className="fixed inset-0 -z-10 bg-[var(--void)]"><HyperspaceField jumping={!!jumping} onDone={onJumped} /></div>
-      {/* celular: terco superior; tablet: fundo inteiro; PC: 60% a direita */}
-      {/* o esmaecimento fica na propria arte (mask), nao em camadas por cima: assim o campo de estrelas e o salto aparecem na tela toda */}
-      <ArtSlot id={hero} ratio="auto" decorative eager className={cn('pointer-events-none absolute opacity-40 mix-blend-screen inset-x-0 top-0 h-[34dvh] md:inset-0 md:h-full md:opacity-25 lg:left-[40%] lg:opacity-40 transition-opacity duration-500',
-        '[mask-image:linear-gradient(180deg,#000_40%,transparent)] md:[mask-image:none] lg:[mask-image:linear-gradient(90deg,transparent,#000_50%)]', jumping && 'opacity-0 md:opacity-0 lg:opacity-0')} />
       {/* o fade fica no main: o .rise dos filhos usa fill-mode both e prenderia opacity em 1 */}
-      <main className={cn('relative z-10 mx-auto grid min-h-dvh w-full max-w-md content-start gap-4 px-4 pb-10 pt-[26dvh] transition-opacity duration-500 md:content-center md:pt-10 lg:ml-[6vw] lg:mr-auto', jumping && 'opacity-0')}>
+      <main className={cn('relative z-10 mx-auto grid min-h-dvh w-full max-w-md gap-4 px-4 py-10 transition-opacity duration-500 content-center lg:ml-[6vw] lg:mr-auto', jumping && 'opacity-0')}>
         <div className="rise grid gap-1">
           <span className="flex items-center gap-2 font-bold uppercase tracking-widest" style={{ fontFamily: 'var(--font-display)' }}><Hexagon className="h-7 w-7" style={{ color: 'var(--wild)' }} aria-hidden /><span className="holo-text text-xl">r2-d6</span></span>
           <h1 className="text-2xl font-bold uppercase tracking-wider">{title}</h1>
@@ -90,7 +85,7 @@ export function LoginPage() {
     setTimeout(go, calm ? 150 : JUMP_MS + 150);
   };
   return (
-    <AuthLayout hero="hero.login" title="Entrar" subtitle="Sua ficha, sua mesa, seus dados." jumping={warp}>
+    <AuthLayout title="Entrar" subtitle="Sua ficha, sua mesa, seus dados." jumping={warp}>
       <form onSubmit={submit} className="grid gap-3" noValidate>
         <Field label="E-mail"><input className="input" name="email" type="email" autoComplete="username" required autoFocus /></Field>
         <Field label="Senha"><input className="input" name="password" type="password" autoComplete="current-password" required /></Field>
@@ -121,7 +116,7 @@ export function SignupPage() {
     nav(sp.get('next') || '/', { replace: true });
   };
   return (
-    <AuthLayout hero="hero.signup" title="Criar conta" subtitle="Leva um minuto. Sem e-mail de confirmação no protótipo.">
+    <AuthLayout title="Criar conta" subtitle="Leva um minuto. Sem e-mail de confirmação no protótipo.">
       <form onSubmit={submit} className="grid gap-3" noValidate>
         <Field label="Nome de exibição"><input className="input" name="name" autoComplete="nickname" required minLength={2} maxLength={60} autoFocus /></Field>
         <Field label="E-mail"><input className="input" name="email" type="email" autoComplete="username" required /></Field>
@@ -149,7 +144,7 @@ export function ForgotPage() {
     setSent(true); // mesma resposta exista ou nao o e-mail
   };
   return (
-    <AuthLayout hero="bg.auth" title="Esqueci a senha" subtitle="Enviaremos um link para você escolher outra.">
+    <AuthLayout title="Esqueci a senha" subtitle="Enviaremos um link para você escolher outra.">
       {sent ? (
         <div className="grid gap-3" role="status">
           <p>Se existir uma conta com esse e-mail, o link já está a caminho. Ele vale por 1 hora.</p>
@@ -189,7 +184,7 @@ export function ResetPage() {
     setTimeout(() => nav('/entrar'), 1500);
   };
   return (
-    <AuthLayout hero="bg.auth" title="Nova senha">
+    <AuthLayout title="Nova senha">
       {!token || sp.get('error') ? (
         <div className="grid gap-3"><p role="alert" className="err">Link inválido ou expirado.</p><Link className="btn" to="/esqueci">Pedir outro link</Link></div>
       ) : done ? (

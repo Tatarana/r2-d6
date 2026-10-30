@@ -3,6 +3,8 @@ import { useMemo, useState } from 'react';
 import { ART_ITEMS, ArtSlot, artResolved } from '@/components/ArtSlot';
 import { Page } from '@/components/ui';
 
+const STATUS: Record<string, string> = { draft: 'rascunho', approved: 'aprovada', rejected: 'recusada' };
+
 export default function ArtDev() {
   const [group, setGroup] = useState('todos');
   const [only, setOnly] = useState<'todos' | 'faltam' | 'prontos'>('todos');
@@ -22,10 +24,11 @@ export default function ArtDev() {
       <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3" data-testid="art-list">
         {shown.map((r) => (
           <li key={r.id} className="glass grid grid-cols-[7rem_1fr] gap-3 p-3" data-art-row={r.id}>
-            <ArtSlot id={r.id} className="w-28" ratio={r.aspect.startsWith('variável') ? '1 / 1' : undefined} alt="" decorative />
+            {/* caixa de tamanho fixo para todas as linhas; a imagem inteira aparece (contain), sem recorte */}
+            <ArtSlot id={r.id} className="w-28 self-start rounded bg-[var(--void)]" ratio="4 / 3" fit="contain" alt="" decorative />
             <div className="min-w-0 text-sm">
               <div className="flex flex-wrap items-center gap-1.5"><code className="mono break-all font-bold">{r.id}</code>
-                <span className="chip" style={{ color: r.own ? 'var(--ok)' : 'var(--warn)' }} data-status={r.own ? 'ok' : 'falta'}>{r.own ? 'tem arte' : r.via ? 'usa reserva' : 'falta'}</span><span className="chip">{r.priority}</span></div>
+                <span className="chip" style={{ color: r.own ? 'var(--ok)' : 'var(--warn)' }} data-status={r.own ? 'ok' : 'falta'}>{r.own ? 'tem arte' : r.via ? 'usa reserva' : 'falta'}</span>{r.own && r.status && r.status !== 'missing' && <span className="chip" data-review={r.status}>{STATUS[r.status] ?? r.status}</span>}<span className="chip">{r.priority}</span></div>
               <div className="text-muted">{r.screen} · {r.aspect} · {r.style}</div>
               <p className="mt-1 line-clamp-3" title={r.description}>{r.description}</p>
               <p className="mt-1 text-xs text-muted">alt: {r.alt || '(decorativa)'}</p>
