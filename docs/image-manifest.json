@@ -3121,7 +3121,7 @@
       "alt": "Pistola, carabina e rifle blaster lado a lado.",
       "data_ref": null,
       "file": "art/weapon-cat.blaster.webp",
-      "status": "draft",
+      "status": "approved",
       "fallback": [],
       "provenance": {
         "tool": "bing",
@@ -7939,7 +7939,7 @@
       "alt": "Figura esquivando de um disparo.",
       "data_ref": null,
       "file": "art/skill-attr.dexterity.webp",
-      "status": "draft",
+      "status": "approved",
       "fallback": [],
       "provenance": {
         "tool": "bing",

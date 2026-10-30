@@ -1,0 +1,785 @@
+[
+  {
+    "id": "hero.signup",
+    "style": "holo-cinematic",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky or space, cyan key light (#4FD1FF) and amber rim light (#FFB020), subtle film grain, atmospheric depth. Leave a calm empty area for interface text where the focal point indicates.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro-direita",
+    "description_pt": "Vista de dentro de uma cabine de nave no instante do salto ao hiperespaço: as estrelas se esticam em linhas de luz azul e branca através da janela, painéis com luzes âmbar em primeiro plano. Sensação de começo de jornada."
+  },
+  {
+    "id": "bg.auth",
+    "style": "ambient-bg",
+    "style_prompt": "Low-contrast ambient background to sit behind a user interface: very dark (average luminance under 12%), soft details, no bright spots in the center, slightly vignetted corners, works when cropped to different ratios.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Campo de estrelas profundo com uma nebulosa azul-violeta muito discreta e poeira cósmica; pode receber paralaxe lenta em camadas (estrelas próximas, distantes, nebulosa)."
+  },
+  {
+    "id": "hero.hangar",
+    "style": "holo-cinematic",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky or space, cyan key light (#4FD1FF) and amber rim light (#FFB020), subtle film grain, atmospheric depth. Leave a calm empty area for interface text where the focal point indicates.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro-baixo; topo livre para saudação",
+    "description_pt": "Interior de um hangar de base escondida à noite: baias numeradas com luz ciano no chão, um cargueiro e dois caças de design original em manutenção, técnicos pequenos ao fundo. Atmosfera de base de operações acolhedora."
+  },
+  {
+    "id": "bg.hangar",
+    "style": "ambient-bg",
+    "style_prompt": "Low-contrast ambient background to sit behind a user interface: very dark (average luminance under 12%), soft details, no bright spots in the center, slightly vignetted corners, works when cropped to different ratios.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Piso metálico do hangar visto de cima em perspectiva, com marcações de baia e reflexos de luzes de pista, muito escuro e desfocado nas bordas."
+  },
+  {
+    "id": "hangar.bay.empty",
+    "style": "blueprint",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise, one central object in 3/4 perspective. Labels only as abstract glyphs.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "2:3",
+    "focal_point": "centro",
+    "description_pt": "Baia de atracação vazia vista de frente, com contorno holográfico tracejado de uma silhueta humanoide indefinida e um sinal de mais luminoso no centro, convidando a criar um personagem."
+  },
+  {
+    "id": "hero.create",
+    "style": "holo-cinematic",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky or space, cyan key light (#4FD1FF) and amber rim light (#FFB020), subtle film grain, atmospheric depth. Leave a calm empty area for interface text where the focal point indicates.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Mesa de projeção holográfica numa sala escura; acima dela gira um holograma de figura humanoide em construção, feito de linhas ciano, com seis anéis de dados orbitando ao redor."
+  },
+  {
+    "id": "create.path.template",
+    "style": "holo-cinematic",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky or space, cyan key light (#4FD1FF) and amber rim light (#FFB020), subtle film grain, atmospheric depth. Leave a calm empty area for interface text where the focal point indicates.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Leque de cartões holográficos de identidade abertos sobre uma mesa, cada um com uma silhueta diferente (pilota, caçador, erudito), luz âmbar."
+  },
+  {
+    "id": "create.path.scratch",
+    "style": "blueprint",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise, one central object in 3/4 perspective. Labels only as abstract glyphs.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Planta técnica de uma figura humanoide com medidas e seis marcadores de atributo vazios ao redor, como um projeto a preencher."
+  },
+  {
+    "id": "ref.rules",
+    "style": "blueprint",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise, one central object in 3/4 perspective. Labels only as abstract glyphs.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Um datapad aberto sobre uma mesa projetando um holograma de seis dados e um diagrama de fluxo de turno, livros de capa gasta ao lado."
+  },
+  {
+    "id": "ref.skills",
+    "style": "blueprint",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise, one central object in 3/4 perspective. Labels only as abstract glyphs.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Painel com seis setores luminosos (destreza, conhecimento, mecânica, percepção, força, técnica), cada um com um pequeno ícone abstrato, em círculo."
+  },
+  {
+    "id": "ref.force-powers",
+    "style": "blueprint",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise, one central object in 3/4 perspective. Labels only as abstract glyphs.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Mão aberta com pedras pequenas flutuando acima dela e linhas de energia suave entre elas, fundo de templo em ruínas desfocado."
+  },
+  {
+    "id": "ref.species",
+    "style": "blueprint",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise, one central object in 3/4 perspective. Labels only as abstract glyphs.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Mosaico de silhuetas de muitas espécies diferentes contra uma janela com estrelas, em contraluz."
+  },
+  {
+    "id": "ref.weapons",
+    "style": "blueprint",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise, one central object in 3/4 perspective. Labels only as abstract glyphs.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Planta técnica explodida de uma pistola blaster de design original, peças separadas com linhas de cota."
+  },
+  {
+    "id": "ref.armor",
+    "style": "blueprint",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise, one central object in 3/4 perspective. Labels only as abstract glyphs.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Planta técnica de um conjunto de armadura modular de design original em vista frontal e lateral."
+  },
+  {
+    "id": "ref.gear",
+    "style": "blueprint",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise, one central object in 3/4 perspective. Labels only as abstract glyphs.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Mochila aberta com equipamentos espalhados: medpac, comlink, binóculos eletrônicos, cordas e rações, vistos de cima."
+  },
+  {
+    "id": "ref.vehicles",
+    "style": "blueprint",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise, one central object in 3/4 perspective. Labels only as abstract glyphs.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Planta técnica de uma moto flutuante de design original em perspectiva, com indicadores de repulsor sob o casco."
+  },
+  {
+    "id": "ref.glossary",
+    "style": "blueprint",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise, one central object in 3/4 perspective. Labels only as abstract glyphs.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Arquivo de cristais de dados em gavetas luminosas, um cristal destacado emitindo luz."
+  },
+  {
+    "id": "ref.tables",
+    "style": "blueprint",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise, one central object in 3/4 perspective. Labels only as abstract glyphs.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Grade holográfica de tabelas e gráficos flutuando sobre uma mesa de comando escura."
+  },
+  {
+    "id": "hero.campaign",
+    "style": "holo-cinematic",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky or space, cyan key light (#4FD1FF) and amber rim light (#FFB020), subtle film grain, atmospheric depth. Leave a calm empty area for interface text where the focal point indicates.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro; topo livre para o nome da campanha",
+    "description_pt": "Grupo de quatro aventureiros de costas, silhuetas de espécies diferentes, diante de uma grande janela que mostra um planeta e uma frota distante."
+  },
+  {
+    "id": "bg.campaign.holomap",
+    "style": "blueprint",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise, one central object in 3/4 perspective. Labels only as abstract glyphs.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Mapa galáctico holográfico original: braços espirais em ciano e violeta, regiões em anéis concêntricos, rotas hiperespaciais como linhas pontilhadas, sem nomes reais de planetas."
+  },
+  {
+    "id": "campaign.cover.outer-rim",
+    "style": "holo-cinematic",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky or space, cyan key light (#4FD1FF) and amber rim light (#FFB020), subtle film grain, atmospheric depth. Leave a calm empty area for interface text where the focal point indicates.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Planeta desértico com duas luas no céu e um povoado de cúpulas de barro sob o calor, cargueiro chegando."
+  },
+  {
+    "id": "campaign.cover.core-worlds",
+    "style": "holo-cinematic",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky or space, cyan key light (#4FD1FF) and amber rim light (#FFB020), subtle film grain, atmospheric depth. Leave a calm empty area for interface text where the focal point indicates.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Cidade-planeta à noite com torres infinitas e tráfego aéreo em faixas de luz, chuva fina."
+  },
+  {
+    "id": "campaign.cover.rebel-cell",
+    "style": "holo-cinematic",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky or space, cyan key light (#4FD1FF) and amber rim light (#FFB020), subtle film grain, atmospheric depth. Leave a calm empty area for interface text where the focal point indicates.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Base escondida numa floresta úmida, antenas camufladas e caças sob redes, luz verde filtrada."
+  },
+  {
+    "id": "campaign.cover.smugglers-run",
+    "style": "holo-cinematic",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky or space, cyan key light (#4FD1FF) and amber rim light (#FFB020), subtle film grain, atmospheric depth. Leave a calm empty area for interface text where the focal point indicates.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Cargueiro esquivando-se num campo de asteroides com disparos ao longe."
+  },
+  {
+    "id": "campaign.cover.ancient-ruins",
+    "style": "holo-cinematic",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky or space, cyan key light (#4FD1FF) and amber rim light (#FFB020), subtle film grain, atmospheric depth. Leave a calm empty area for interface text where the focal point indicates.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Ruínas de templo antigo cobertas de musgo, com escadarias e uma luz suave vinda do interior."
+  },
+  {
+    "id": "campaign.cover.imperial-shadow",
+    "style": "holo-cinematic",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky or space, cyan key light (#4FD1FF) and amber rim light (#FFB020), subtle film grain, atmospheric depth. Leave a calm empty area for interface text where the focal point indicates.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Silhueta de uma imensa nave de guerra triangular de design original cobrindo o céu de um planeta, sombra sobre a cidade."
+  },
+  {
+    "id": "hero.invite",
+    "style": "holo-cinematic",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky or space, cyan key light (#4FD1FF) and amber rim light (#FFB020), subtle film grain, atmospheric depth. Leave a calm empty area for interface text where the focal point indicates.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Mensagem holográfica azul projetada por um pequeno emissor sobre a palma de uma mão: uma figura encapuzada indefinida faz um gesto de chamado."
+  },
+  {
+    "id": "bg.gm-console",
+    "style": "ambient-bg",
+    "style_prompt": "Low-contrast ambient background to sit behind a user interface: very dark (average luminance under 12%), soft details, no bright spots in the center, slightly vignetted corners, works when cropped to different ratios.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Console de comando escuro visto de frente, fileiras de pequenas luzes âmbar e violeta e telas apagadas; muito escuro."
+  },
+  {
+    "id": "hero.holocron",
+    "style": "holo-cinematic",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky or space, cyan key light (#4FD1FF) and amber rim light (#FFB020), subtle film grain, atmospheric depth. Leave a calm empty area for interface text where the focal point indicates.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Um cubo de cristal antigo flutuando, com faces gravadas em padrões geométricos originais, irradiando luz ciano suave numa sala escura de pedra."
+  },
+  {
+    "id": "portrait.default",
+    "style": "portrait-card",
+    "style_prompt": "Semi-realistic digital painting, bust portrait in 3/4 view, dark background with blue haze and a thin glowing cyan holographic ring behind the head; panel lighting: cyan from below, amber rim light. Character looking slightly off-frame.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Silhueta humanoide neutra em holograma ciano com scanlines, fundo escuro; serve para qualquer espécie."
+  },
+  {
+    "id": "og.default",
+    "style": "holo-cinematic",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky or space, cyan key light (#4FD1FF) and amber rim light (#FFB020), subtle film grain, atmospheric depth. Leave a calm empty area for interface text where the focal point indicates.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "direita",
+    "description_pt": "Seis dados flutuando sobre uma mesa escura, um deles âmbar e brilhante, com um campo de estrelas atrás e espaço à esquerda para o nome do app."
+  },
+  {
+    "id": "empty.campaigns",
+    "style": "spot-illustration",
+    "style_prompt": "Small centered spot illustration on a plain very dark navy background, glowing cyan holographic line-art with a single amber detail, simple clear silhouette, light gentle humor, readable at 160 pixels.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Mapa estelar enrolado e ainda fechado sobre uma caixa, com um selo de convite piscando."
+  },
+  {
+    "id": "empty.feed",
+    "style": "spot-illustration",
+    "style_prompt": "Small centered spot illustration on a plain very dark navy background, glowing cyan holographic line-art with a single amber detail, simple clear silhouette, light gentle humor, readable at 160 pixels.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Seis dados dormindo empilhados, um deles âmbar com um olho entreaberto."
+  },
+  {
+    "id": "empty.search",
+    "style": "spot-illustration",
+    "style_prompt": "Small centered spot illustration on a plain very dark navy background, glowing cyan holographic line-art with a single amber detail, simple clear silhouette, light gentle humor, readable at 160 pixels.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Sonda de reconhecimento flutuante iluminando com um holofote um terreno vazio."
+  },
+  {
+    "id": "empty.journal",
+    "style": "spot-illustration",
+    "style_prompt": "Small centered spot illustration on a plain very dark navy background, glowing cyan holographic line-art with a single amber detail, simple clear silhouette, light gentle humor, readable at 160 pixels.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Datapad em branco com uma caneta luminosa ao lado e uma xícara fumegante."
+  },
+  {
+    "id": "empty.timeline",
+    "style": "spot-illustration",
+    "style_prompt": "Small centered spot illustration on a plain very dark navy background, glowing cyan holographic line-art with a single amber detail, simple clear silhouette, light gentle humor, readable at 160 pixels.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Linha pontilhada luminosa que começa num pequeno ponto e some no escuro, como uma rota ainda não percorrida."
+  },
+  {
+    "id": "empty.party",
+    "style": "spot-illustration",
+    "style_prompt": "Small centered spot illustration on a plain very dark navy background, glowing cyan holographic line-art with a single amber detail, simple clear silhouette, light gentle humor, readable at 160 pixels.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Mesa redonda com cadeiras vazias e um holoprojetor aceso no centro mostrando um código de convite abstrato."
+  },
+  {
+    "id": "error.offline",
+    "style": "spot-illustration",
+    "style_prompt": "Small centered spot illustration on a plain very dark navy background, glowing cyan holographic line-art with a single amber detail, simple clear silhouette, light gentle humor, readable at 160 pixels.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Antena parabólica de uma base remota coberta de neve, com uma faísca fraca de sinal."
+  },
+  {
+    "id": "error.not-found",
+    "style": "spot-illustration",
+    "style_prompt": "Small centered spot illustration on a plain very dark navy background, glowing cyan holographic line-art with a single amber detail, simple clear silhouette, light gentle humor, readable at 160 pixels.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Nave pequena perdida numa nebulosa densa, faróis acesos procurando o caminho."
+  },
+  {
+    "id": "error.server",
+    "style": "spot-illustration",
+    "style_prompt": "Small centered spot illustration on a plain very dark navy background, glowing cyan holographic line-art with a single amber detail, simple clear silhouette, light gentle humor, readable at 160 pixels.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Droide astromecânico de design original soltando fumaça, com um painel aberto e faíscas."
+  },
+  {
+    "id": "error.forbidden",
+    "style": "spot-illustration",
+    "style_prompt": "Small centered spot illustration on a plain very dark navy background, glowing cyan holographic line-art with a single amber detail, simple clear silhouette, light gentle humor, readable at 160 pixels.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Porta blindada fechada com uma luz vermelha de acesso negado e um pequeno visor."
+  },
+  {
+    "id": "error.invite-expired",
+    "style": "spot-illustration",
+    "style_prompt": "Small centered spot illustration on a plain very dark navy background, glowing cyan holographic line-art with a single amber detail, simple clear silhouette, light gentle humor, readable at 160 pixels.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Mensagem holográfica falhando e se desfazendo em estática."
+  },
+  {
+    "id": "error.sync-conflict",
+    "style": "spot-illustration",
+    "style_prompt": "Small centered spot illustration on a plain very dark navy background, glowing cyan holographic line-art with a single amber detail, simple clear silhouette, light gentle humor, readable at 160 pixels.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Dois hologramas do mesmo personagem sobrepostos e ligeiramente desalinhados, como um eco."
+  },
+  {
+    "id": "weapon-cat.melee",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Conjunto de armas brancas e de energia de design próprio dispostas num suporte de parede: lâmina vibratória, bastão elétrico, machado e um cabo de lâmina de energia."
+  },
+  {
+    "id": "weapon-cat.archaic-ranged",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Arco, besta, funda e um mosquete antigo sobre uma bancada de madeira escura, iluminados por uma lanterna."
+  },
+  {
+    "id": "weapon-cat.miscellaneous",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Armas especiais de design próprio: pistola de íons com bobinas azuis, lança-chamas compacto e uma besta de energia."
+  },
+  {
+    "id": "weapon-cat.artillery",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Torre de artilharia fixa de canos longos sobre um bunker, apontada para o céu ao entardecer."
+  },
+  {
+    "id": "weapon-cat.explosive",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Granadas, minas e uma carga moldável em planta holográfica, com luzes de armado piscando."
+  },
+  {
+    "id": "armor-cat.light",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Colete, capacete e macacão acolchoado de design próprio em planta holográfica, vistos de frente."
+  },
+  {
+    "id": "armor-cat.military",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Manequim de armadura militar de placas de design próprio, vista de frente e de perfil."
+  },
+  {
+    "id": "armor-cat.heavy",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Armadura pesada moldada de design próprio, com placas grossas e juntas reforçadas, sobre um suporte de manutenção."
+  },
+  {
+    "id": "gear-cat.communications",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Comunicadores de mão, um transceptor de mesa e uma antena de mochila em planta holográfica."
+  },
+  {
+    "id": "gear-cat.computers",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Datapad, cartões de dados e um terminal portátil abertos sobre uma mesa escura."
+  },
+  {
+    "id": "gear-cat.detection",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Binóculos eletrônicos, lanterna e um sensor portátil emitindo uma varredura em leque."
+  },
+  {
+    "id": "gear-cat.life-support",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Traje de vácuo e máscara respiratória pendurados num armário de câmara de descompressão."
+  },
+  {
+    "id": "gear-cat.medical",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Kit médico aberto com injetores, ataduras e um frasco de líquido curativo azul."
+  },
+  {
+    "id": "gear-cat.cybernetics",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Braço protético mecânico de design próprio sobre uma bancada de cirurgia, com fios expostos."
+  },
+  {
+    "id": "gear-cat.survival",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Mochila de sobrevivência, corda, rações e um manto térmico sobre uma rocha."
+  },
+  {
+    "id": "gear-cat.tools",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Caixa de ferramentas aberta com chaves, soldador e células de energia."
+  },
+  {
+    "id": "gear-cat.accessories",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) of original design in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Sci-fi technology, not real-world equipment.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Cinto de utilidades, coldre e bandoleira com uma mira eletrônica encaixada."
+  },
+  {
+    "id": "vehicle-cat.walkers",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Andador blindado de pernas mecânicas de design próprio avançando por uma planície enevoada."
+  },
+  {
+    "id": "vehicle-cat.speeder-bikes",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Moto flutuante de design próprio em alta velocidade entre troncos de floresta."
+  },
+  {
+    "id": "vehicle-cat.swoops",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Swoop de corrida de design próprio, motor enorme e assento mínimo, cruzando um cânion."
+  },
+  {
+    "id": "vehicle-cat.armored-assault-vehicles",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Tanque flutuante blindado de design próprio avançando com poeira atrás."
+  },
+  {
+    "id": "vehicle-cat.airspeeders",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Aerospeeder de design próprio voando baixo entre torres de uma cidade."
+  },
+  {
+    "id": "vehicle-cat.cloud-cars",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Carro de nuvens de design próprio cruzando nuvens alaranjadas."
+  },
+  {
+    "id": "vehicle-cat.podracers",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Cabine de corrida puxada por dois motores de design próprio deixando rastros de calor."
+  },
+  {
+    "id": "vehicle-cat.sail-barges",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Barcaça flutuante com velas de design próprio sobre dunas."
+  },
+  {
+    "id": "vehicle-cat.skiffs",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Plataforma de carga flutuante aberta de design próprio num porto."
+  },
+  {
+    "id": "vehicle-cat.ground-vehicles",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Veículo terrestre pesado de rodas de design próprio cruzando lama."
+  },
+  {
+    "id": "vehicle-cat.hover-vehicles",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Hidrofólio de design próprio deslizando sobre ondas."
+  },
+  {
+    "id": "starship-scale.starfighter",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Pequenas naves de design próprio (um caça e um cargueiro leve) cruzando um campo de estrelas perto de um planeta."
+  },
+  {
+    "id": "starship-scale.capital",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Grande nave de guerra de design próprio em órbita de um planeta, com naves menores ao redor para dar escala."
+  },
+  {
+    "id": "starship-scale.personal-starship",
+    "style": "holo-craft",
+    "style_prompt": "Cinematic digital painting, high contrast, near-black deep sky, cyan key light (#4FD1FF) and amber backlight (#FFB020), subtle film grain, atmospheric depth. The vehicle or ship of original design in motion in its natural environment, whole craft in frame with margin.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Iate estelar pequeno e elegante de design próprio saindo de um hangar particular."
+  },
+  {
+    "id": "skill-attr.knowledge",
+    "style": "scene-spot",
+    "style_prompt": "Small symbolic scene illustration, dark vignetted background, simplified painterly style, cyan light and a single amber accent, one clear readable action at small size.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Arquivo de cristais de dados e mapas estelares projetados sobre uma mesa."
+  },
+  {
+    "id": "skill-attr.mechanical",
+    "style": "scene-spot",
+    "style_prompt": "Small symbolic scene illustration, dark vignetted background, simplified painterly style, cyan light and a single amber accent, one clear readable action at small size.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Mãos num manche de pilotagem com o painel da cabine aceso."
+  },
+  {
+    "id": "skill-attr.perception",
+    "style": "scene-spot",
+    "style_prompt": "Small symbolic scene illustration, dark vignetted background, simplified painterly style, cyan light and a single amber accent, one clear readable action at small size.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Olhar atento refletindo uma cena distante numa viseira."
+  },
+  {
+    "id": "skill-attr.strength",
+    "style": "scene-spot",
+    "style_prompt": "Small symbolic scene illustration, dark vignetted background, simplified painterly style, cyan light and a single amber accent, one clear readable action at small size.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Figura erguendo uma caixa de carga pesada com esforço."
+  },
+  {
+    "id": "skill-attr.technical",
+    "style": "scene-spot",
+    "style_prompt": "Small symbolic scene illustration, dark vignetted background, simplified painterly style, cyan light and a single amber accent, one clear readable action at small size.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Mãos com ferramentas abrindo um painel de circuitos que solta faíscas."
+  },
+  {
+    "id": "power-skill.control",
+    "style": "scene-spot",
+    "style_prompt": "Small symbolic scene illustration, dark vignetted background, simplified painterly style, cyan light and a single amber accent, one clear readable action at small size.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Figura meditando de pernas cruzadas envolta num halo branco-azulado calmo."
+  },
+  {
+    "id": "power-skill.sense",
+    "style": "scene-spot",
+    "style_prompt": "Small symbolic scene illustration, dark vignetted background, simplified painterly style, cyan light and a single amber accent, one clear readable action at small size.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Ondas violeta saindo de uma figura de olhos fechados e tocando formas de vida ao redor."
+  },
+  {
+    "id": "power-skill.alter",
+    "style": "scene-spot",
+    "style_prompt": "Small symbolic scene illustration, dark vignetted background, simplified painterly style, cyan light and a single amber accent, one clear readable action at small size.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Mão estendida fazendo pedras flutuarem com energia ciano em movimento."
+  },
+  {
+    "id": "power-skill.control-sense",
+    "style": "scene-spot",
+    "style_prompt": "Small symbolic scene illustration, dark vignetted background, simplified painterly style, cyan light and a single amber accent, one clear readable action at small size.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Figura meditando com um halo calmo e ondas violeta se espalhando."
+  },
+  {
+    "id": "power-skill.control-alter",
+    "style": "scene-spot",
+    "style_prompt": "Small symbolic scene illustration, dark vignetted background, simplified painterly style, cyan light and a single amber accent, one clear readable action at small size.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Figura concentrada com halo calmo enquanto energia ciano se move a partir das mãos."
+  },
+  {
+    "id": "power-skill.sense-alter",
+    "style": "scene-spot",
+    "style_prompt": "Small symbolic scene illustration, dark vignetted background, simplified painterly style, cyan light and a single amber accent, one clear readable action at small size.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Ondas violeta e energia ciano formando uma cúpula ao redor de uma figura."
+  },
+  {
+    "id": "power-skill.control-sense-alter",
+    "style": "scene-spot",
+    "style_prompt": "Small symbolic scene illustration, dark vignetted background, simplified painterly style, cyan light and a single amber accent, one clear readable action at small size.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Três círculos de luz (branco, violeta e ciano) entrelaçados em torno de uma figura serena."
+  },
+  {
+    "id": "power-skill.none",
+    "style": "scene-spot",
+    "style_prompt": "Small symbolic scene illustration, dark vignetted background, simplified painterly style, cyan light and a single amber accent, one clear readable action at small size.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "1:1",
+    "focal_point": "centro",
+    "description_pt": "Figura soltando um grito que ondula o ar ao redor em tom escuro."
+  }
+]

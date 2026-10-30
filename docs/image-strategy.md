@@ -53,6 +53,8 @@ Total realista: **~360 imagens finais** (ondas 1 a 3), não 568.
 - Bing oferece só 1:1, 3:2 e 2:3: espaços 16:9 saem em 3:2, e o app recorta.
 - Para armas, dizer explicitamente "energy weapons, emitter nozzles, no scopes, no magazines, nothing like real-world firearms", senão saem fuzis reais.
 - Salvar sem diálogo: o agente lê a URL da imagem na página e grava pelo terminal; nunca usar o botão de download (abre "Save As").
+  - **Bing:** funciona (URL pública em th.bing.com).
+  - **Gemini:** não funciona. A URL exige a sessão, o fetch na página é barrado por CORS, e o "Copiar imagem" não chega à área de transferência do Windows. Automação 100% sem cliques só pelo Bing; o Gemini exige o "Save As" manual ou a API (chave no `.env`, cota grátis incerta).
 - Haiku basta para conduzir o navegador e foi bem mais rápido que o Sonnet com downloads pelo navegador.
 
 ## 5. Fluxo de trabalho (a construir quando a estratégia for aprovada)
