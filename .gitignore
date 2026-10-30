@@ -12,3 +12,6 @@ e2e/screenshots/
 data/raw-data/*.pdf
 # configuracao local do Claude Code
 .claude/settings.local.json
+
+# imagens originais antes do processamento
+art-inbox/

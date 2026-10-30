@@ -133,9 +133,18 @@
       "description": "Um cargueiro gasto pousado numa plataforma de atracação ao entardecer de um planeta árido de rochas vermelhas, sob um sol grande e baixo; a rampa está aberta e uma luz quente sai do interior. Atmosfera de partida para a aventura, sem personagens reconhecíveis.",
       "alt": "Cargueiro com a rampa aberta numa plataforma ao entardecer, pronto para partir.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/hero.login.webp",
+      "status": "approved",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini Auto",
+        "date": "2026-10-29",
+        "source_size": [
+          1376,
+          768
+        ]
+      }
     },
     {
       "id": "hero.signup",
@@ -403,9 +412,18 @@
       "description": "Piloto jovem e confiante, macacão laranja-escuro de voo e capacete de design original no ombro, sorriso de quem acha que é o melhor da galáxia; caças ao fundo.",
       "alt": "Piloto jovem e confiante com capacete no ombro.",
       "data_ref": "data/templates.json#brash-pilot",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.brash-pilot.webp",
+      "status": "approved",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini Auto",
+        "date": "2026-10-29",
+        "source_size": [
+          896,
+          1200
+        ]
+      }
     },
     {
       "id": "template.ewok",
@@ -1963,9 +1981,18 @@
       "description": "Planta técnica de um cargueiro leve de design original visto de cima e de perfil, com seções numeradas por glifos.",
       "alt": "Planta de um cargueiro leve de design original.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/ref.starships.webp",
+      "status": "approved",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "ref.glossary",
@@ -2025,9 +2052,18 @@
       "description": "Superfície de mesa de jogo de madeira escura vista de cima, com marcas de copo e leve névoa azul de holograma desligado; quase preta para não competir com os números.",
       "alt": "",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/bg.mesa.webp",
+      "status": "approved",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini Auto",
+        "date": "2026-10-29",
+        "source_size": [
+          1376,
+          768
+        ]
+      }
     },
     {
       "id": "texture.die.normal",
@@ -2375,9 +2411,18 @@
       "description": "Pequeno droide de manutenção varrendo uma baia vazia, com um balão de pensamento mostrando um capacete de piloto.",
       "alt": "Droide varrendo uma baia vazia.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/empty.characters.webp",
+      "status": "approved",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini Auto",
+        "date": "2026-10-29",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "empty.campaigns",
@@ -3075,9 +3120,18 @@
       "description": "Três blasters de design próprio (pistola, carabina e rifle) em planta holográfica lado a lado, do menor ao maior.",
       "alt": "Pistola, carabina e rifle blaster lado a lado.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/weapon-cat.blaster.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon-cat.miscellaneous",
@@ -6319,9 +6373,18 @@
       "description": "Landspeeder aberto de design próprio flutuando baixo sobre uma estrada de terra ao pôr do sol.",
       "alt": "Landspeeder flutuando sobre uma estrada de terra.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/vehicle-cat.landspeeders.webp",
+      "status": "approved",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle-cat.speeder-bikes",
@@ -7875,9 +7938,18 @@
       "description": "Figura em movimento rápido esquivando de um disparo, com rastros de luz.",
       "alt": "Figura esquivando de um disparo.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/skill-attr.dexterity.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-29",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "skill-attr.knowledge",

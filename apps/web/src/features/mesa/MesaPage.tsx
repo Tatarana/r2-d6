@@ -16,6 +16,7 @@ import { applyServerResult, editSheet, flush, pull, setPlayState, syncNow, useCh
 import { templateArt } from '../hangar/Hangar';
 import { CHOICES, FeedList, RollSeal, type RollDTO } from '../campaigns/Feed';
 import { DiceDisplay } from './DiceViews';
+import { ArtSlot } from '@/components/ArtSlot';
 import { useSession } from '@/lib/auth';
 
 const vibrate = (p: number | number[]) => { if (usePrefs.getState().vibrate && 'vibrate' in navigator) try { navigator.vibrate(p); } catch { /* sem vibracao */ } };
@@ -177,6 +178,8 @@ function Mesa({ ch }: { ch: LocalChar }) {
 
   return (
     <Page className="grid gap-4 !max-w-7xl lg:grid-cols-[1.25fr_1fr]">
+      {/* fundo do modo mesa: fixo, fora do fluxo do grid, atras dos paineis */}
+      <ArtSlot id="bg.mesa" ratio="auto" decorative className="pointer-events-none fixed inset-0 -z-10" />
       {/* ------------------------------------------------ coluna do rolador */}
       <div className="grid content-start gap-4">
         <Panel className="flex items-center gap-3">

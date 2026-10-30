@@ -890,6 +890,16 @@ manifest = {
     "count": len(items),
     "items": items,
 }
+# preserva o que a producao de arte ja gravou (tools/process_art.py): file, status e provenance por id
+if os.path.exists(OUT_JSON):
+    with open(OUT_JSON, encoding="utf-8") as f:
+        prev = {i["id"]: i for i in json.load(f).get("items", [])}
+    for it in items:
+        old = prev.get(it["id"])
+        if old:
+            for k in ("file", "status", "provenance"):
+                if k in old and old[k] not in (None, "missing"):
+                    it[k] = old[k]
 with open(OUT_JSON, "w", encoding="utf-8") as f:
     json.dump(manifest, f, ensure_ascii=False, indent=2)
 
