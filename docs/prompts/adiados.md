@@ -5,13 +5,10 @@ fica no pacote da onda; não suavizar os termos ao tentar de novo.
 
 | Id | Onda | Motivo |
 |---|---|---|
-| weapon-cat.melee | 1 | Sensível (armas); reservado para o Gemini |
-| weapon-cat.archaic-ranged | 1 | Sensível (armas); reservado para o Gemini |
-| weapon-cat.miscellaneous | 1 | Sensível (armas); reservado para o Gemini |
-| weapon-cat.artillery | 1 | Sensível (armas); reservado para o Gemini |
-| weapon-cat.explosive | 1 | Sensível (armas); reservado para o Gemini |
-| armor-cat.light | 1 | Sensível (armaduras); reservado para o Gemini |
-| armor-cat.military | 1 | Sensível (armaduras); reservado para o Gemini |
-| armor-cat.heavy | 1 | Sensível (armaduras); reservado para o Gemini |
-| species.anzat | 2 | Bing travou 2x sem gerar nem avisar (provável bloqueio silencioso) |
-| template.gambler | 2 | Bing bloqueou com aviso de política ("This prompt has been blocked... may conflict with our content policy"); provável tema de jogo de azar |
+| template.wookiee | 2 | Gemini recusou ("interests of third-party content providers"); ChatGPT no limite do plano grátis |
+| template.minor-jedi | 2 | Gemini recusou ("interests of third-party content providers"); ChatGPT no limite do plano grátis |
+| template.protocol-droid | 2 | Gemini recusou ("interests of third-party content providers"); ChatGPT no limite do plano grátis |
+| template.young-jedi | 2 | Gemini recusou ("interests of third-party content providers"); ChatGPT no limite do plano grátis |
+
+Resolvidos no lote manual de 31/10/2026 (Gemini e ChatGPT, com Save As): as 8 categorias sensíveis da Onda 1,
+species.anzat e template.gambler.

@@ -607,9 +607,18 @@
       "description": "Apostador elegante numa mesa de cartas de salão espacial, roupas caras, cartas holográficas em leque na mão e um sorriso de quem tem um trunfo.",
       "alt": "Apostador elegante com cartas em leque numa mesa de jogo.",
       "data_ref": "data/templates.json#gambler",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.gambler.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "chatgpt",
+        "model": "ChatGPT Free",
+        "date": "2026-10-31",
+        "source_size": [
+          1024,
+          1536
+        ]
+      }
     },
     {
       "id": "template.kid",
@@ -627,9 +636,18 @@
       "description": "Criança de uns doze anos com mochila, estilingue no bolso e olhar determinado, espiando de trás de caixas de carga num porto espacial.",
       "alt": "Criança aventureira espiando de trás de caixas de carga.",
       "data_ref": "data/templates.json#kid",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.kid.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          848,
+          1264
+        ]
+      }
     },
     {
       "id": "template.laconic-scout",
@@ -647,9 +665,18 @@
       "description": "Batedora de poucas palavras com poncho, binóculos eletrônicos e mochila, de pé num rochedo diante de um planeta selvagem e vazio ao amanhecer.",
       "alt": "Batedora com poncho e binóculos diante de um planeta selvagem.",
       "data_ref": "data/templates.json#laconic-scout",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.laconic-scout.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          848,
+          1264
+        ]
+      }
     },
     {
       "id": "template.loyal-retainer",
@@ -667,9 +694,18 @@
       "description": "Servidor fiel de casa real, roupas formais impecáveis com um detalhe de brasão original, postura protetora, mão perto de uma pistola discreta.",
       "alt": "Servidor formal de casa real em postura protetora.",
       "data_ref": "data/templates.json#loyal-retainer",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.loyal-retainer.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          848,
+          1264
+        ]
+      }
     },
     {
       "id": "template.merc",
@@ -687,9 +723,18 @@
       "description": "Mercenário veterano com uniforme da companhia de cor neutra, rifle blaster de design original, cicatriz no rosto e insígnia de unidade inventada.",
       "alt": "Mercenário veterano de uniforme com rifle.",
       "data_ref": "data/templates.json#merc",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.merc.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          848,
+          1264
+        ]
+      }
     },
     {
       "id": "template.minor-jedi",
@@ -727,9 +772,18 @@
       "description": "Oficial de espécie aquática com cabeça arredondada e olhos grandes laterais, uniforme de frota, diante de janelas de uma ponte de comando de linhas orgânicas.",
       "alt": "Oficial aquático de uniforme numa ponte de comando orgânica.",
       "data_ref": "data/templates.json#mon-calamari",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.mon-calamari.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          848,
+          1264
+        ]
+      }
     },
     {
       "id": "template.old-senatorial",
@@ -747,9 +801,18 @@
       "description": "Senador idoso de cabelos brancos e roupas austeras, mãos apoiadas numa bengala, olhar firme de quem ainda luta pela velha república.",
       "alt": "Senador idoso de roupas austeras com bengala.",
       "data_ref": "data/templates.json#old-senatorial",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.old-senatorial.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          848,
+          1264
+        ]
+      }
     },
     {
       "id": "template.outlaw",
@@ -767,9 +830,18 @@
       "description": "Fora da lei de chapéu de aba e casaco longo empoeirado, pistola pesada no coldre, de costas para um povoado em chamas ao longe.",
       "alt": "Fora da lei de casaco longo com povoado em chamas ao fundo.",
       "data_ref": "data/templates.json#outlaw",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.outlaw.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          848,
+          1264
+        ]
+      }
     },
     {
       "id": "template.pirate",
@@ -787,9 +859,18 @@
       "description": "Pirata espacial extravagante com roupas coloridas, muitos anéis e um sabre curvo, rindo no convés de uma nave remendada.",
       "alt": "Pirata extravagante com anéis e sabre curvo.",
       "data_ref": "data/templates.json#pirate",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.pirate.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          848,
+          1264
+        ]
+      }
     },
     {
       "id": "template.protocol-droid",
@@ -827,9 +908,18 @@
       "description": "Aventureiro excêntrico com armadura improvisada de sucata, espada de duelo antiga erguida e capa feita de cortina, convencido de ser um cavaleiro.",
       "alt": "Aventureiro excêntrico com armadura de sucata e espada antiga erguida.",
       "data_ref": "data/templates.json#quixotic-jedi",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.quixotic-jedi.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          848,
+          1264
+        ]
+      }
     },
     {
       "id": "template.retired-captain",
@@ -847,9 +937,18 @@
       "description": "Capitão aposentado de bigode grisalho, uniforme naval um pouco fora de moda, contemplando uma janela com estrelas; postura ainda militar.",
       "alt": "Capitão aposentado de uniforme antigo olhando as estrelas.",
       "data_ref": "data/templates.json#retired-captain",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.retired-captain.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          848,
+          1264
+        ]
+      }
     },
     {
       "id": "template.smuggler",
@@ -867,9 +966,18 @@
       "description": "Contrabandista de colete e pistola pesada no quadril, encostado na rampa de um cargueiro surrado de design original, sorriso torto.",
       "alt": "Contrabandista encostado na rampa de um cargueiro surrado.",
       "data_ref": "data/templates.json#smuggler",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.smuggler.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          848,
+          1264
+        ]
+      }
     },
     {
       "id": "template.tongue-tied-engineer",
@@ -887,9 +995,18 @@
       "description": "Engenheira tímida com roupas largas cheias de bolsos, computador de bolso na mão e ferramentas caindo, ao lado de um pequeno droide de manutenção de design original.",
       "alt": "Engenheira tímida com computador de bolso e droide de manutenção.",
       "data_ref": "data/templates.json#tongue-tied-engineer",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.tongue-tied-engineer.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          848,
+          1264
+        ]
+      }
     },
     {
       "id": "template.tough-native",
@@ -907,9 +1024,18 @@
       "description": "Nativo robusto de mundo isolado, roupas extravagantes de outra era, espada e pistola de pólvora, olhando com espanto para uma nave moderna.",
       "alt": "Nativo robusto com espada e pistola de pólvora olhando uma nave.",
       "data_ref": "data/templates.json#tough-native",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.tough-native.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          848,
+          1264
+        ]
+      }
     },
     {
       "id": "template.wookiee",
@@ -967,9 +1093,18 @@
       "description": "Jovem de família senatorial, roupas elegantes e penteado elaborado, segurando uma mensagem holográfica com expressão decidida.",
       "alt": "Jovem senatorial elegante segurando uma mensagem holográfica.",
       "data_ref": "data/templates.json#young-senatorial",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.young-senatorial.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          848,
+          1264
+        ]
+      }
     },
     {
       "id": "species.humans",
@@ -1045,9 +1180,18 @@
       "description": "Humanoide de pele pálida e olhos enormes e escuros, com finas probóscides recolhidas nas bochechas; expressão calma e inquietante.",
       "alt": "Humanoide pálido de olhos enormes e expressão inquietante.",
       "data_ref": "data/species.json#anzat",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/species.anzat.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          848,
+          1264
+        ]
+      }
     },
     {
       "id": "species.aqualish",
@@ -3944,9 +4088,18 @@
       "description": "Conjunto de armas brancas e de energia de design próprio dispostas num suporte de parede: lâmina vibratória, bastão elétrico, machado e um cabo de lâmina de energia.",
       "alt": "Armas brancas num suporte de parede.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/weapon-cat.melee.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          1264,
+          848
+        ]
+      }
     },
     {
       "id": "weapon-cat.archaic-ranged",
@@ -3964,9 +4117,18 @@
       "description": "Arco, besta, funda e um mosquete antigo sobre uma bancada de madeira escura, iluminados por uma lanterna.",
       "alt": "Armas antigas de projétil sobre uma bancada.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/weapon-cat.archaic-ranged.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          1264,
+          848
+        ]
+      }
     },
     {
       "id": "weapon-cat.blaster",
@@ -4013,9 +4175,18 @@
       "description": "Armas especiais de design próprio: pistola de íons com bobinas azuis, lança-chamas compacto e uma besta de energia.",
       "alt": "Armas especiais: íons, chamas e besta de energia.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/weapon-cat.miscellaneous.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          1264,
+          848
+        ]
+      }
     },
     {
       "id": "weapon-cat.artillery",
@@ -4033,9 +4204,18 @@
       "description": "Torre de artilharia fixa de canos longos sobre um bunker, apontada para o céu ao entardecer.",
       "alt": "Torre de artilharia fixa apontada para o céu.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/weapon-cat.artillery.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "chatgpt",
+        "model": "ChatGPT Free",
+        "date": "2026-10-31",
+        "source_size": [
+          1536,
+          1024
+        ]
+      }
     },
     {
       "id": "weapon-cat.explosive",
@@ -4053,9 +4233,18 @@
       "description": "Granadas, minas e uma carga moldável em planta holográfica, com luzes de armado piscando.",
       "alt": "Granadas, minas e cargas explosivas.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/weapon-cat.explosive.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          1264,
+          848
+        ]
+      }
     },
     {
       "id": "weapon.amphistaff",
@@ -5459,9 +5648,18 @@
       "description": "Colete, capacete e macacão acolchoado de design próprio em planta holográfica, vistos de frente.",
       "alt": "Proteções leves: colete, capacete e macacão.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/armor-cat.light.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "chatgpt",
+        "model": "ChatGPT Free",
+        "date": "2026-10-31",
+        "source_size": [
+          1536,
+          1024
+        ]
+      }
     },
     {
       "id": "armor-cat.military",
@@ -5479,9 +5677,18 @@
       "description": "Manequim de armadura militar de placas de design próprio, vista de frente e de perfil.",
       "alt": "Armadura militar de placas em duas vistas.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/armor-cat.military.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "gemini",
+        "model": "Gemini app",
+        "date": "2026-10-31",
+        "source_size": [
+          1264,
+          848
+        ]
+      }
     },
     {
       "id": "armor-cat.heavy",
@@ -5499,9 +5706,18 @@
       "description": "Armadura pesada moldada de design próprio, com placas grossas e juntas reforçadas, sobre um suporte de manutenção.",
       "alt": "Armadura pesada num suporte de manutenção.",
       "data_ref": null,
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/armor-cat.heavy.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "chatgpt",
+        "model": "ChatGPT Free",
+        "date": "2026-10-31",
+        "source_size": [
+          1536,
+          1024
+        ]
+      }
     },
     {
       "id": "armor.armored-spacesuit",
