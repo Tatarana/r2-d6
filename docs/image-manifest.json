@@ -4262,11 +4262,20 @@
       "description": "Bastão orgânico vivo, como uma serpente rígida de escamas escuras, com uma ponta afiada. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
       "alt": "Bastão orgânico vivo, como uma serpente rígida de escamas escuras, com uma ponta afiada.",
       "data_ref": "data/weapons.json#amphistaff",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.amphistaff.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.melee"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.atlatl",
@@ -4284,11 +4293,20 @@
       "description": "Propulsor de arremesso de madeira entalhada com uma esfera de energia encaixada na ponta. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
       "alt": "Propulsor de arremesso de madeira entalhada com uma esfera de energia encaixada na ponta.",
       "data_ref": "data/weapons.json#atlatl",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.atlatl.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.melee"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.bayonet",
@@ -4306,11 +4324,20 @@
       "description": "Lâmina de baioneta presa sob o cano de um rifle. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
       "alt": "Lâmina de baioneta presa sob o cano de um rifle.",
       "data_ref": "data/weapons.json#bayonet",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.bayonet.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.melee"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.cesta",
@@ -4328,11 +4355,20 @@
       "description": "Cesta curva de vime trançado presa ao braço, pronta para arremessar esferas de energia. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
       "alt": "Cesta curva de vime trançado presa ao braço, pronta para arremessar esferas de energia.",
       "data_ref": "data/weapons.json#cesta",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.cesta.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.melee"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.club",
@@ -4350,11 +4386,20 @@
       "description": "Porrete de madeira pesada com tiras de couro no cabo. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
       "alt": "Porrete de madeira pesada com tiras de couro no cabo.",
       "data_ref": "data/weapons.json#club",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.club.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.melee"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.electrostaff",
@@ -4372,11 +4417,20 @@
       "description": "Bastão metálico longo com pontas que soltam arcos elétricos azuis. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
       "alt": "Bastão metálico longo com pontas que soltam arcos elétricos azuis.",
       "data_ref": "data/weapons.json#electrostaff",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.electrostaff.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.melee"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.force-pike",
@@ -4394,11 +4448,20 @@
       "description": "Lança longa de guarda com ponta vibratória luminosa. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
       "alt": "Lança longa de guarda com ponta vibratória luminosa.",
       "data_ref": "data/weapons.json#force-pike",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.force-pike.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.melee"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.gaderffii-stick",
@@ -4416,11 +4479,20 @@
       "description": "Bastão de metal feito à mão, com cabeça de lâminas e espetos rústicos. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
       "alt": "Bastão de metal feito à mão, com cabeça de lâminas e espetos rústicos.",
       "data_ref": "data/weapons.json#gaderffii-stick",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.gaderffii-stick.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.melee"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.hatchet",
@@ -4438,11 +4510,20 @@
       "description": "Machadinha de cabo curto com lâmina gasta. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
       "alt": "Machadinha de cabo curto com lâmina gasta.",
       "data_ref": "data/weapons.json#hatchet",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.hatchet.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.melee"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.knife",
@@ -4460,11 +4541,20 @@
       "description": "Faca de combate com lâmina simples e cabo de couro. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
       "alt": "Faca de combate com lâmina simples e cabo de couro.",
       "data_ref": "data/weapons.json#knife",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.knife.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.melee"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.spear",
@@ -4482,11 +4572,20 @@
       "description": "Lança de haste longa com ponta de metal batido. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
       "alt": "Lança de haste longa com ponta de metal batido.",
       "data_ref": "data/weapons.json#spear",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.spear.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.melee"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.staff",
@@ -4504,11 +4603,20 @@
       "description": "Bastão de madeira longo com anéis de metal nas pontas. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
       "alt": "Bastão de madeira longo com anéis de metal nas pontas.",
       "data_ref": "data/weapons.json#staff",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.staff.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.melee"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.stun-gauntlets",
@@ -4526,11 +4634,20 @@
       "description": "Par de manoplas com eletrodos nos nós dos dedos crepitando. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
       "alt": "Par de manoplas com eletrodos nos nós dos dedos crepitando.",
       "data_ref": "data/weapons.json#stun-gauntlets",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.stun-gauntlets.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.melee"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.vibro-ax",
@@ -4548,11 +4665,20 @@
       "description": "Machado de cabo longo com lâmina vibratória que tremula. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
       "alt": "Machado de cabo longo com lâmina vibratória que tremula.",
       "data_ref": "data/weapons.json#vibro-ax",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.vibro-ax.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.melee"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.vibroblade",
@@ -4570,11 +4696,20 @@
       "description": "Faca longa de lâmina vibratória com um leve borrão de movimento. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
       "alt": "Faca longa de lâmina vibratória com um leve borrão de movimento.",
       "data_ref": "data/weapons.json#vibroblade",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.vibroblade.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.melee"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.lightsaber",
@@ -4592,11 +4727,20 @@
       "description": "Cabo cilíndrico metálico de design próprio com a lâmina de energia acesa em cor neutra. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
       "alt": "Cabo cilíndrico metálico de design próprio com a lâmina de energia acesa em cor neutra.",
       "data_ref": "data/weapons.json#lightsaber",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.lightsaber.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.melee"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.double-bladed-lightsaber",
@@ -4614,11 +4758,20 @@
       "description": "Cabo longo com uma lâmina de energia acesa em cada ponta. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
       "alt": "Cabo longo com uma lâmina de energia acesa em cada ponta.",
       "data_ref": "data/weapons.json#double-bladed-lightsaber",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.double-bladed-lightsaber.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.melee"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.short-lightsaber",
@@ -4636,11 +4789,20 @@
       "description": "Cabo compacto com uma lâmina de energia curta. Planta holográfica técnica, vista em 3/4, com linhas de cota discretas.",
       "alt": "Cabo compacto com uma lâmina de energia curta.",
       "data_ref": "data/weapons.json#short-lightsaber",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.short-lightsaber.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.melee"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.crossbow",
@@ -4658,11 +4820,20 @@
       "description": "Besta de madeira e metal com a corda armada. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
       "alt": "Besta de madeira e metal com a corda armada.",
       "data_ref": "data/weapons.json#crossbow",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.crossbow.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.archaic-ranged"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.longbow",
@@ -4680,11 +4851,20 @@
       "description": "Arco longo de madeira flexível com aljava de flechas. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
       "alt": "Arco longo de madeira flexível com aljava de flechas.",
       "data_ref": "data/weapons.json#longbow",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.longbow.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.archaic-ranged"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.net",
@@ -4702,11 +4882,20 @@
       "description": "Rede de arremesso com pesos nas bordas, aberta no ar. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
       "alt": "Rede de arremesso com pesos nas bordas, aberta no ar.",
       "data_ref": "data/weapons.json#net",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.net.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.archaic-ranged"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.sling",
@@ -4724,11 +4913,20 @@
       "description": "Funda de couro com uma pedra no bolsão. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
       "alt": "Funda de couro com uma pedra no bolsão.",
       "data_ref": "data/weapons.json#sling",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.sling.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.archaic-ranged"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.throwing-knife",
@@ -4746,11 +4944,20 @@
       "description": "Trio de facas de arremesso equilibradas em leque. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
       "alt": "Trio de facas de arremesso equilibradas em leque.",
       "data_ref": "data/weapons.json#throwing-knife",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.throwing-knife.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.archaic-ranged"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.black-powder-pistol",
@@ -4768,11 +4975,20 @@
       "description": "Pistola de pólvora antiga com cano longo e cão armado. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
       "alt": "Pistola de pólvora antiga com cano longo e cão armado.",
       "data_ref": "data/weapons.json#black-powder-pistol",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.black-powder-pistol.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.archaic-ranged"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.musket",
@@ -4790,11 +5006,20 @@
       "description": "Mosquete de pólvora com coronha de madeira e baioneta curta. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
       "alt": "Mosquete de pólvora com coronha de madeira e baioneta curta.",
       "data_ref": "data/weapons.json#musket",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.musket.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.archaic-ranged"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.slugthrower-pistol",
@@ -4812,11 +5037,20 @@
       "description": "Pistola de projéteis sólidos com pente e estojos de metal ao lado. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
       "alt": "Pistola de projéteis sólidos com pente e estojos de metal ao lado.",
       "data_ref": "data/weapons.json#slugthrower-pistol",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.slugthrower-pistol.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.archaic-ranged"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.slugthrower-rifle",
@@ -4834,11 +5068,20 @@
       "description": "Rifle de projéteis sólidos com mira de ferro. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
       "alt": "Rifle de projéteis sólidos com mira de ferro.",
       "data_ref": "data/weapons.json#slugthrower-rifle",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.slugthrower-rifle.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.archaic-ranged"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.submachine-gun",
@@ -4856,11 +5099,20 @@
       "description": "Submetralhadora de projéteis compacta com carregador curvo. Planta holográfica técnica de uma arma antiga, vista lateral com linhas de cota.",
       "alt": "Submetralhadora de projéteis compacta com carregador curvo.",
       "data_ref": "data/weapons.json#submachine-gun",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.submachine-gun.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.archaic-ranged"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.hold-out-blaster",
@@ -4878,11 +5130,20 @@
       "description": "Pistola blaster minúscula que cabe na palma da mão. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
       "alt": "Pistola blaster minúscula que cabe na palma da mão.",
       "data_ref": "data/weapons.json#hold-out-blaster",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.hold-out-blaster.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.blaster"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.sporting-blaster",
@@ -4900,11 +5161,20 @@
       "description": "Pistola blaster leve e elegante de cano fino. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
       "alt": "Pistola blaster leve e elegante de cano fino.",
       "data_ref": "data/weapons.json#sporting-blaster",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.sporting-blaster.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.blaster"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.blaster-pistol",
@@ -4922,11 +5192,20 @@
       "description": "Pistola blaster de uso comum com aletas de resfriamento no cano. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
       "alt": "Pistola blaster de uso comum com aletas de resfriamento no cano.",
       "data_ref": "data/weapons.json#blaster-pistol",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.blaster-pistol.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.blaster"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.heavy-blaster-pistol",
@@ -4944,11 +5223,20 @@
       "description": "Pistola blaster pesada de cano grosso e empunhadura robusta. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
       "alt": "Pistola blaster pesada de cano grosso e empunhadura robusta.",
       "data_ref": "data/weapons.json#heavy-blaster-pistol",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.heavy-blaster-pistol.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.blaster"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.hunting-blaster",
@@ -4966,11 +5254,20 @@
       "description": "Blaster de caça com coronha e mira telescópica longa. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
       "alt": "Blaster de caça com coronha e mira telescópica longa.",
       "data_ref": "data/weapons.json#hunting-blaster",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.hunting-blaster.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.blaster"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.blaster-carbine",
@@ -4988,11 +5285,20 @@
       "description": "Carabina blaster compacta com coronha dobrável. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
       "alt": "Carabina blaster compacta com coronha dobrável.",
       "data_ref": "data/weapons.json#blaster-carbine",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.blaster-carbine.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.blaster"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.blaster-rifle",
@@ -5010,11 +5316,20 @@
       "description": "Rifle blaster militar com mira e coronha fixa. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
       "alt": "Rifle blaster militar com mira e coronha fixa.",
       "data_ref": "data/weapons.json#blaster-rifle",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.blaster-rifle.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.blaster"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.heavy-blaster-rifle",
@@ -5032,11 +5347,20 @@
       "description": "Rifle blaster pesado com cano reforçado e bipé. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
       "alt": "Rifle blaster pesado com cano reforçado e bipé.",
       "data_ref": "data/weapons.json#heavy-blaster-rifle",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.heavy-blaster-rifle.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.blaster"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.sporting-blaster-rifle",
@@ -5054,11 +5378,20 @@
       "description": "Rifle blaster esportivo leve e polido. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
       "alt": "Rifle blaster esportivo leve e polido.",
       "data_ref": "data/weapons.json#sporting-blaster-rifle",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.sporting-blaster-rifle.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.blaster"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.light-repeating-blaster",
@@ -5076,11 +5409,20 @@
       "description": "Blaster de repetição leve com bipé e cano de resfriamento. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
       "alt": "Blaster de repetição leve com bipé e cano de resfriamento.",
       "data_ref": "data/weapons.json#light-repeating-blaster",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.light-repeating-blaster.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.blaster"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.heavy-repeating-blaster",
@@ -5098,11 +5440,20 @@
       "description": "Blaster de repetição pesado com cinta de células de energia. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
       "alt": "Blaster de repetição pesado com cinta de células de energia.",
       "data_ref": "data/weapons.json#heavy-repeating-blaster",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.heavy-repeating-blaster.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.blaster"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.e-web-repeating-blaster",
@@ -5120,11 +5471,20 @@
       "description": "Blaster de repetição pesado sobre tripé, com gerador ao lado, operado por dois. Planta holográfica técnica de uma arma de energia de design próprio, vista lateral em 3/4.",
       "alt": "Blaster de repetição pesado sobre tripé, com gerador ao lado, operado por dois.",
       "data_ref": "data/weapons.json#e-web-repeating-blaster",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.e-web-repeating-blaster.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.blaster"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.bowcaster",
@@ -5142,11 +5502,20 @@
       "description": "Besta de energia com arco metálico e mira, disparando um dardo luminoso (design próprio). Planta holográfica técnica, design próprio, vista em 3/4.",
       "alt": "Besta de energia com arco metálico e mira, disparando um dardo luminoso (design próprio).",
       "data_ref": "data/weapons.json#bowcaster",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.bowcaster.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.miscellaneous"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.flamethrower",
@@ -5164,11 +5533,20 @@
       "description": "Lança-chamas com tanque nas costas e bico com chama piloto. Planta holográfica técnica, design próprio, vista em 3/4.",
       "alt": "Lança-chamas com tanque nas costas e bico com chama piloto.",
       "data_ref": "data/weapons.json#flamethrower",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.flamethrower.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.miscellaneous"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.ion-pistol",
@@ -5186,11 +5564,20 @@
       "description": "Pistola com bobinas azuis de íons ao longo do cano. Planta holográfica técnica, design próprio, vista em 3/4.",
       "alt": "Pistola com bobinas azuis de íons ao longo do cano.",
       "data_ref": "data/weapons.json#ion-pistol",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.ion-pistol.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.miscellaneous"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.ion-rifle",
@@ -5208,11 +5595,20 @@
       "description": "Rifle de íons com bobinas azuis e coronha longa. Planta holográfica técnica, design próprio, vista em 3/4.",
       "alt": "Rifle de íons com bobinas azuis e coronha longa.",
       "data_ref": "data/weapons.json#ion-rifle",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.ion-rifle.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.miscellaneous"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.riot-gun",
@@ -5230,11 +5626,20 @@
       "description": "Arma de controle de tumultos de cano largo. Planta holográfica técnica, design próprio, vista em 3/4.",
       "alt": "Arma de controle de tumultos de cano largo.",
       "data_ref": "data/weapons.json#riot-gun",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.riot-gun.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.miscellaneous"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.stun-pistol",
@@ -5252,11 +5657,20 @@
       "description": "Pistola compacta com anéis de atordoamento azuis no cano. Planta holográfica técnica, design próprio, vista em 3/4.",
       "alt": "Pistola compacta com anéis de atordoamento azuis no cano.",
       "data_ref": "data/weapons.json#stun-pistol",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.stun-pistol.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.miscellaneous"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.anti-infantry-laser-battery",
@@ -5274,11 +5688,20 @@
       "description": "Bateria laser antipessoal de dois canos sobre plataforma giratória. Planta holográfica de uma instalação de artilharia em escala de veículo, com uma figura humana minúscula para dar escala.",
       "alt": "Bateria laser antipessoal de dois canos sobre plataforma giratória.",
       "data_ref": "data/weapons.json#anti-infantry-laser-battery",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.anti-infantry-laser-battery.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.artillery"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.anti-vehicle-laser-cannon",
@@ -5296,11 +5719,20 @@
       "description": "Canhão laser antiveículo em base fixa com escudo frontal. Planta holográfica de uma instalação de artilharia em escala de veículo, com uma figura humana minúscula para dar escala.",
       "alt": "Canhão laser antiveículo em base fixa com escudo frontal.",
       "data_ref": "data/weapons.json#anti-vehicle-laser-cannon",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.anti-vehicle-laser-cannon.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.artillery"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.heavy-anti-orbital-ion-cannon",
@@ -5318,11 +5750,20 @@
       "description": "Enorme canhão de íons de superfície numa torre cilíndrica apontada para a órbita. Planta holográfica de uma instalação de artilharia em escala de veículo, com uma figura humana minúscula para dar escala.",
       "alt": "Enorme canhão de íons de superfície numa torre cilíndrica apontada para a órbita.",
       "data_ref": "data/weapons.json#heavy-anti-orbital-ion-cannon",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.heavy-anti-orbital-ion-cannon.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.artillery"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.turbolaser-battery",
@@ -5340,11 +5781,20 @@
       "description": "Torre de turbolaser fixa de canos longos sobre um bunker. Planta holográfica de uma instalação de artilharia em escala de veículo, com uma figura humana minúscula para dar escala.",
       "alt": "Torre de turbolaser fixa de canos longos sobre um bunker.",
       "data_ref": "data/weapons.json#turbolaser-battery",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.turbolaser-battery.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.artillery"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.fragmentation-grenade",
@@ -5362,11 +5812,20 @@
       "description": "Granada de fragmentação cilíndrica com anel de ativação. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
       "alt": "Granada de fragmentação cilíndrica com anel de ativação.",
       "data_ref": "data/weapons.json#fragmentation-grenade",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.fragmentation-grenade.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.explosive"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.ion-grenade",
@@ -5384,11 +5843,20 @@
       "description": "Granada de íons com faixas azuis luminosas. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
       "alt": "Granada de íons com faixas azuis luminosas.",
       "data_ref": "data/weapons.json#ion-grenade",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.ion-grenade.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.explosive"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.stun-grenade",
@@ -5406,11 +5874,20 @@
       "description": "Granada de atordoamento com faixas brancas. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
       "alt": "Granada de atordoamento com faixas brancas.",
       "data_ref": "data/weapons.json#stun-grenade",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.stun-grenade.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.explosive"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.grenade-launcher",
@@ -5428,11 +5905,20 @@
       "description": "Lançador de granadas de tambor rotativo. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
       "alt": "Lançador de granadas de tambor rotativo.",
       "data_ref": "data/weapons.json#grenade-launcher",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.grenade-launcher.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.explosive"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.rocket-launcher",
@@ -5450,11 +5936,20 @@
       "description": "Lança-foguetes portátil apoiado no ombro. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
       "alt": "Lança-foguetes portátil apoiado no ombro.",
       "data_ref": "data/weapons.json#rocket-launcher",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.rocket-launcher.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.explosive"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.antipersonnel-mine",
@@ -5472,11 +5967,20 @@
       "description": "Mina antipessoal achatada semienterrada com sensor piscando. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
       "alt": "Mina antipessoal achatada semienterrada com sensor piscando.",
       "data_ref": "data/weapons.json#antipersonnel-mine",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.antipersonnel-mine.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.explosive"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.vehicle-mine",
@@ -5494,11 +5998,20 @@
       "description": "Mina antiveículo larga e pesada enterrada na estrada. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
       "alt": "Mina antiveículo larga e pesada enterrada na estrada.",
       "data_ref": "data/weapons.json#vehicle-mine",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.vehicle-mine.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.explosive"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.explosive-charge",
@@ -5516,11 +6029,20 @@
       "description": "Carga explosiva com fios e um painel de armar. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
       "alt": "Carga explosiva com fios e um painel de armar.",
       "data_ref": "data/weapons.json#explosive-charge",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.explosive-charge.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.explosive"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.standard-detonator",
@@ -5538,11 +6060,20 @@
       "description": "Detonador padrão: pequeno cilindro com pinos de contato. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
       "alt": "Detonador padrão: pequeno cilindro com pinos de contato.",
       "data_ref": "data/weapons.json#standard-detonator",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.standard-detonator.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.explosive"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.timer-fuse",
@@ -5560,11 +6091,20 @@
       "description": "Espoleta com mostrador de contagem regressiva. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
       "alt": "Espoleta com mostrador de contagem regressiva.",
       "data_ref": "data/weapons.json#timer-fuse",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.timer-fuse.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.explosive"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.remote-fuse",
@@ -5582,11 +6122,20 @@
       "description": "Espoleta com antena curta e controle remoto. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
       "alt": "Espoleta com antena curta e controle remoto.",
       "data_ref": "data/weapons.json#remote-fuse",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.remote-fuse.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.explosive"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.detonite",
@@ -5604,11 +6153,20 @@
       "description": "Barras de explosivo moldável embaladas lado a lado. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
       "alt": "Barras de explosivo moldável embaladas lado a lado.",
       "data_ref": "data/weapons.json#detonite",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.detonite.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.explosive"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "weapon.thermal-detonator",
@@ -5626,11 +6184,20 @@
       "description": "Esfera metálica de detonador com uma luz de armado piscando. Planta holográfica técnica, objeto pequeno ampliado, com luz âmbar de armado.",
       "alt": "Esfera metálica de detonador com uma luz de armado piscando.",
       "data_ref": "data/weapons.json#thermal-detonator",
-      "file": null,
-      "status": "missing",
+      "file": "art/weapon.thermal-detonator.webp",
+      "status": "draft",
       "fallback": [
         "weapon-cat.explosive"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "armor-cat.light",
