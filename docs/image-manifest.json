@@ -7363,11 +7363,20 @@
       "description": "Computador portátil dobrável sobre uma caixa de carga. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Computador portátil dobrável sobre uma caixa de carga.",
       "data_ref": "data/gear.json#portable-computer",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.portable-computer.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.computers"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.personal-computer",
@@ -7385,11 +7394,20 @@
       "description": "Terminal pessoal de mesa com teclado e tela curva. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Terminal pessoal de mesa com teclado e tela curva.",
       "data_ref": "data/gear.json#personal-computer",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.personal-computer.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.computers"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.macrobinoculars",
@@ -7407,11 +7425,20 @@
       "description": "Binóculos eletrônicos com tela de aproximação. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Binóculos eletrônicos com tela de aproximação.",
       "data_ref": "data/gear.json#macrobinoculars",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.macrobinoculars.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.detection"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.glow-rod",
@@ -7429,11 +7456,20 @@
       "description": "Bastão luminoso cilíndrico projetando um feixe de luz. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Bastão luminoso cilíndrico projetando um feixe de luz.",
       "data_ref": "data/gear.json#glow-rod",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.glow-rod.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.detection"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.fusion-lantern",
@@ -7451,11 +7487,20 @@
       "description": "Lanterna de fusão que ilumina e aquece um acampamento. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Lanterna de fusão que ilumina e aquece um acampamento.",
       "data_ref": "data/gear.json#fusion-lantern",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.fusion-lantern.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.detection"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.recording-rod",
@@ -7473,11 +7518,20 @@
       "description": "Bastão gravador de áudio com uma luz vermelha de gravação. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Bastão gravador de áudio com uma luz vermelha de gravação.",
       "data_ref": "data/gear.json#recording-rod",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.recording-rod.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.detection"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.portable-sensor-pack",
@@ -7495,11 +7549,20 @@
       "description": "Sensor portátil com antena giratória e tela de varredura. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Sensor portátil com antena giratória e tela de varredura.",
       "data_ref": "data/gear.json#portable-sensor-pack",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.portable-sensor-pack.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.detection"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.military-sensor-pack",
@@ -7517,11 +7580,20 @@
       "description": "Sensor militar reforçado com tela de alvos. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Sensor militar reforçado com tela de alvos.",
       "data_ref": "data/gear.json#military-sensor-pack",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.military-sensor-pack.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.detection"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.aquata-breather",
@@ -7539,11 +7611,20 @@
       "description": "Respirador aquático compacto preso à boca, soltando bolhas. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Respirador aquático compacto preso à boca, soltando bolhas.",
       "data_ref": "data/gear.json#aquata-breather",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.aquata-breather.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.life-support"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.breath-mask",
@@ -7561,11 +7642,20 @@
       "description": "Máscara respiratória com filtros laterais. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Máscara respiratória com filtros laterais.",
       "data_ref": "data/gear.json#breath-mask",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.breath-mask.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.life-support"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.vacuum-suit",
@@ -7583,11 +7673,20 @@
       "description": "Traje de vácuo leve com capacete transparente. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Traje de vácuo leve com capacete transparente.",
       "data_ref": "data/gear.json#vacuum-suit",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.vacuum-suit.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.life-support"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.space-suit",
@@ -7605,11 +7704,20 @@
       "description": "Traje espacial completo com mochila de suporte de vida. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Traje espacial completo com mochila de suporte de vida.",
       "data_ref": "data/gear.json#space-suit",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.space-suit.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.life-support"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.bacta-tank",
@@ -7627,11 +7735,20 @@
       "description": "Tanque cilíndrico de líquido curativo azul com um paciente de máscara flutuando. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Tanque cilíndrico de líquido curativo azul com um paciente de máscara flutuando.",
       "data_ref": "data/gear.json#bacta-tank",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.bacta-tank.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.medical"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.customized-medical-backpack",
@@ -7649,11 +7766,20 @@
       "description": "Mochila médica avançada aberta com compartimentos e injetores. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Mochila médica avançada aberta com compartimentos e injetores.",
       "data_ref": "data/gear.json#customized-medical-backpack",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.customized-medical-backpack.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.medical"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.medpac",
@@ -7671,11 +7797,20 @@
       "description": "Kit de primeiros socorros compacto aberto. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Kit de primeiros socorros compacto aberto.",
       "data_ref": "data/gear.json#medpac",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.medpac.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.medical"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.surgery-kit",
@@ -7693,11 +7828,20 @@
       "description": "Kit cirúrgico com instrumentos de precisão em estojo. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Kit cirúrgico com instrumentos de precisão em estojo.",
       "data_ref": "data/gear.json#surgery-kit",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.surgery-kit.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.medical"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.replacement-prosthetics",
@@ -7715,11 +7859,20 @@
       "description": "Mão protética mecânica no estilo de Star Wars, com articulações e servos à mostra, como a mão cibernética de Luke antes de receber a pele sintética. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Mão protética mecânica de design próprio com articulações à mostra.",
       "data_ref": "data/gear.json#replacement-prosthetics",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.replacement-prosthetics.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.cybernetics"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.all-temperature-cloak",
@@ -7737,11 +7890,20 @@
       "description": "Manto térmico de tecido sintético esvoaçando no vento. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Manto térmico de tecido sintético esvoaçando no vento.",
       "data_ref": "data/gear.json#all-temperature-cloak",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.all-temperature-cloak.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.survival"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.chain",
@@ -7759,11 +7921,20 @@
       "description": "Corrente pesada de elos metálicos enrolada. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Corrente pesada de elos metálicos enrolada.",
       "data_ref": "data/gear.json#chain",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.chain.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.survival"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.field-kit",
@@ -7781,11 +7952,20 @@
       "description": "Mochila de sobrevivência com abrigo dobrável e cantil. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Mochila de sobrevivência com abrigo dobrável e cantil.",
       "data_ref": "data/gear.json#field-kit",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.field-kit.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.survival"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.jet-pack",
@@ -7803,11 +7983,20 @@
       "description": "Mochila a jato com dois bocais e chamas curtas. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Mochila a jato com dois bocais e chamas curtas.",
       "data_ref": "data/gear.json#jet-pack",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.jet-pack.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.survival"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.liquid-cable-dispenser",
@@ -7825,11 +8014,20 @@
       "description": "Disparador de cabo líquido lançando uma linha que endurece no ar. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Disparador de cabo líquido lançando uma linha que endurece no ar.",
       "data_ref": "data/gear.json#liquid-cable-dispenser",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.liquid-cable-dispenser.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.survival"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.ration-pack",
@@ -7847,11 +8045,20 @@
       "description": "Pacote de rações desidratadas aberto com barras compactas. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Pacote de rações desidratadas aberto com barras compactas.",
       "data_ref": "data/gear.json#ration-pack",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.ration-pack.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.survival"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.rocket-pack",
@@ -7869,11 +8076,20 @@
       "description": "Mochila foguete de bocal único com rastro de fumaça. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Mochila foguete de bocal único com rastro de fumaça.",
       "data_ref": "data/gear.json#rocket-pack",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.rocket-pack.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.survival"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.syntherope",
@@ -7891,11 +8107,20 @@
       "description": "Rolo de corda sintética fina e resistente. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Rolo de corda sintética fina e resistente.",
       "data_ref": "data/gear.json#syntherope",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.syntherope.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.survival"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.binder-cuffs",
@@ -7913,11 +8138,20 @@
       "description": "Algemas magnéticas com luz de trava. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Algemas magnéticas com luz de trava.",
       "data_ref": "data/gear.json#binder-cuffs",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.binder-cuffs.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.tools"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.energy-cell",
@@ -7935,11 +8169,20 @@
       "description": "Célula de energia cilíndrica com indicador de carga. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Célula de energia cilíndrica com indicador de carga.",
       "data_ref": "data/gear.json#energy-cell",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.energy-cell.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.tools"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.fire-extinguisher",
@@ -7957,11 +8200,20 @@
       "description": "Extintor compacto soltando uma nuvem branca. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Extintor compacto soltando uma nuvem branca.",
       "data_ref": "data/gear.json#fire-extinguisher",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.fire-extinguisher.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.tools"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.mesh-tape",
@@ -7979,11 +8231,20 @@
       "description": "Rolo de fita adesiva de malha metálica. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Rolo de fita adesiva de malha metálica.",
       "data_ref": "data/gear.json#mesh-tape",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.mesh-tape.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.tools"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.blaster-power-pack",
@@ -8001,11 +8262,20 @@
       "description": "Carregador de energia para blaster com indicador de carga. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Carregador de energia para blaster com indicador de carga.",
       "data_ref": "data/gear.json#blaster-power-pack",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.blaster-power-pack.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.tools"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.power-recharger",
@@ -8023,11 +8293,20 @@
       "description": "Recarregador portátil com células encaixadas. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Recarregador portátil com células encaixadas.",
       "data_ref": "data/gear.json#power-recharger",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.power-recharger.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.tools"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.security-kit",
@@ -8045,11 +8324,20 @@
       "description": "Estojo de invasão com sondas e um decodificador de fechadura. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Estojo de invasão com sondas e um decodificador de fechadura.",
       "data_ref": "data/gear.json#security-kit",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.security-kit.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.tools"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.standard-tool-kit",
@@ -8067,11 +8355,20 @@
       "description": "Caixa de ferramentas padrão com chaves e hidrospanner. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Caixa de ferramentas padrão com chaves e hidrospanner.",
       "data_ref": "data/gear.json#standard-tool-kit",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.standard-tool-kit.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.tools"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.enhanced-tool-kit",
@@ -8089,11 +8386,20 @@
       "description": "Caixa de ferramentas avançada com diagnóstico eletrônico. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Caixa de ferramentas avançada com diagnóstico eletrônico.",
       "data_ref": "data/gear.json#enhanced-tool-kit",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.enhanced-tool-kit.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.tools"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.utility-belt",
@@ -8111,11 +8417,20 @@
       "description": "Cinto de utilidades com bolsos e um gancho. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Cinto de utilidades com bolsos e um gancho.",
       "data_ref": "data/gear.json#utility-belt",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.utility-belt.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.tools"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.bandolier",
@@ -8133,11 +8448,20 @@
       "description": "Bandoleira de couro com células de energia e granadas. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Bandoleira de couro com células de energia e granadas.",
       "data_ref": "data/gear.json#bandolier",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.bandolier.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.accessories"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.helmet-package",
@@ -8155,11 +8479,20 @@
       "description": "Capacete com sistema de mira e viseira holográfica. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Capacete com sistema de mira e viseira holográfica.",
       "data_ref": "data/gear.json#helmet-package",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.helmet-package.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.accessories"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.holster",
@@ -8177,11 +8510,20 @@
       "description": "Coldre de couro com uma pistola blaster. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Coldre de couro com uma pistola blaster.",
       "data_ref": "data/gear.json#holster",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.holster.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.accessories"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.standard-scope",
@@ -8199,11 +8541,20 @@
       "description": "Mira eletrônica para blaster com retículo luminoso. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Mira eletrônica para blaster com retículo luminoso.",
       "data_ref": "data/gear.json#standard-scope",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.standard-scope.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.accessories"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.enhanced-macroscope",
@@ -8221,11 +8572,20 @@
       "description": "Mira de ampliação montada em rifle, com lente longa. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Mira de ampliação montada em rifle, com lente longa.",
       "data_ref": "data/gear.json#enhanced-macroscope",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.enhanced-macroscope.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.accessories"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle-cat.walkers",
