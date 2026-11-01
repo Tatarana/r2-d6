@@ -7862,11 +7862,20 @@
       "description": "Andador de assalto quadrúpede gigantesco e blindado atravessando um campo de neve, tropas minúsculas ao lado para dar escala. Escala Walker; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Andador de assalto quadrúpede gigantesco e blindado atravessando um campo de neve.",
       "data_ref": "data/vehicles.json#at-at",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.at-at.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.walkers"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.at-pt",
@@ -7884,11 +7893,20 @@
       "description": "Andador leve bípede de um tripulante, cabine aberta, numa trilha de floresta. Escala Walker; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Andador leve bípede de um tripulante.",
       "data_ref": "data/vehicles.json#at-pt",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.at-pt.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.walkers"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.at-st",
@@ -7906,11 +7924,20 @@
       "description": "Andador bípede médio de cabine elevada patrulhando uma floresta. Escala Walker; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Andador bípede médio de cabine elevada patrulhando uma floresta.",
       "data_ref": "data/vehicles.json#at-st",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.at-st.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.walkers"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.at-te",
@@ -7928,11 +7955,20 @@
       "description": "Andador de seis pernas subindo uma encosta rochosa com tropas. Escala Walker; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Andador de seis pernas subindo uma encosta rochosa com tropas.",
       "data_ref": "data/vehicles.json#at-te",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.at-te.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.walkers"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.ubrikkian-9000-z004",
@@ -7950,11 +7986,20 @@
       "description": "Landspeeder esportivo aberto e baixo, com para-brisa curvo, numa avenida de cidade. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Landspeeder esportivo aberto e baixo.",
       "data_ref": "data/vehicles.json#ubrikkian-9000-z004",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.ubrikkian-9000-z004.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.landspeeders"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.v-35-courier",
@@ -7972,11 +8017,20 @@
       "description": "Landspeeder utilitário de cabine fechada estacionado num povoado de fazenda. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Landspeeder utilitário de cabine fechada estacionado num povoado de fazenda.",
       "data_ref": "data/vehicles.json#v-35-courier",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.v-35-courier.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.landspeeders"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.x-34-landspeeder",
@@ -7994,11 +8048,20 @@
       "description": "Landspeeder aberto de dois lugares com turbinas traseiras sobre um deserto. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Landspeeder aberto de dois lugares com turbinas traseiras sobre um deserto.",
       "data_ref": "data/vehicles.json#x-34-landspeeder",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.x-34-landspeeder.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.landspeeders"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.aratech-74-z-military-speeder-bike",
@@ -8016,11 +8079,20 @@
       "description": "Moto flutuante militar com aletas dianteiras entre árvores gigantes. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Moto flutuante militar com aletas dianteiras entre árvores gigantes.",
       "data_ref": "data/vehicles.json#aratech-74-z-military-speeder-bike",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.aratech-74-z-military-speeder-bike.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.speeder-bikes"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.ikas-adno-nightfalcon",
@@ -8038,11 +8110,20 @@
       "description": "Moto flutuante esportiva de linhas aerodinâmicas numa rua noturna iluminada. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Moto flutuante esportiva de linhas aerodinâmicas numa rua noturna iluminada.",
       "data_ref": "data/vehicles.json#ikas-adno-nightfalcon",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.ikas-adno-nightfalcon.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.speeder-bikes"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.razalon-fc-20",
@@ -8060,11 +8141,20 @@
       "description": "Moto flutuante robusta de patrulha num posto de fronteira. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Moto flutuante robusta de patrulha num posto de fronteira.",
       "data_ref": "data/vehicles.json#razalon-fc-20",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.razalon-fc-20.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.speeder-bikes"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.stap",
@@ -8082,11 +8172,20 @@
       "description": "Pequena plataforma voadora individual com o piloto de pé, sobre uma planície. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Pequena plataforma voadora individual com o piloto de pé.",
       "data_ref": "data/vehicles.json#stap",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.stap.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.speeder-bikes"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.air-2-racing-swoop",
@@ -8104,11 +8203,20 @@
       "description": "Swoop de corrida: motor enorme com assento minúsculo, inclinado numa curva. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Swoop de corrida: motor enorme com assento minúsculo.",
       "data_ref": "data/vehicles.json#air-2-racing-swoop",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.air-2-racing-swoop.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.swoops"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.flare-s",
@@ -8126,11 +8234,20 @@
       "description": "Swoop de corrida com carenagem lisa deixando um rastro de luz. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Swoop de corrida com carenagem lisa deixando um rastro de luz.",
       "data_ref": "data/vehicles.json#flare-s",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.flare-s.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.swoops"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.aat-1",
@@ -8148,11 +8265,20 @@
       "description": "Tanque flutuante blindado com canhão principal e proa inclinada, numa campina. Escala Walker; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Tanque flutuante blindado com canhão principal e proa inclinada.",
       "data_ref": "data/vehicles.json#aat-1",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.aat-1.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.armored-assault-vehicles"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.multi-troop-transport",
@@ -8170,11 +8296,20 @@
       "description": "Transporte de tropas flutuante enorme e blindado com portas frontais abertas. Escala Walker; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Transporte de tropas flutuante enorme e blindado com portas frontais abertas.",
       "data_ref": "data/vehicles.json#multi-troop-transport",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.multi-troop-transport.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.armored-assault-vehicles"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.incom-t-47i-airspeeder",
@@ -8192,11 +8327,20 @@
       "description": "Aerospeeder utilitário de dois lugares com cabine envidraçada sobre uma cidade. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Aerospeeder utilitário de dois lugares com cabine envidraçada sobre uma cidade.",
       "data_ref": "data/vehicles.json#incom-t-47i-airspeeder",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.incom-t-47i-airspeeder.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.airspeeders"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.laat-i-gunship",
@@ -8214,11 +8358,20 @@
       "description": "Canhoneira de transporte de tropas com portas laterais abertas e torres de disparo, sobre um campo de batalha. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Canhoneira de transporte de tropas com portas laterais abertas e torres de disparo.",
       "data_ref": "data/vehicles.json#laat-i-gunship",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.laat-i-gunship.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.airspeeders"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.rebel-alliance-combat-snowspeeder",
@@ -8236,11 +8389,20 @@
       "description": "Aerospeeder de combate de dois tripulantes adaptado para o frio, voando rente à neve. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Aerospeeder de combate de dois tripulantes adaptado para o frio.",
       "data_ref": "data/vehicles.json#rebel-alliance-combat-snowspeeder",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.rebel-alliance-combat-snowspeeder.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.airspeeders"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.bespin-motors-storm-iv",
@@ -8258,11 +8420,20 @@
       "description": "Carro de nuvens de dois casulos ligados por um motor central entre nuvens alaranjadas. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Carro de nuvens de dois casulos ligados por um motor central entre nuvens alaranjadas.",
       "data_ref": "data/vehicles.json#bespin-motors-storm-iv",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.bespin-motors-storm-iv.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.cloud-cars"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.radon-ulzer-podracer",
@@ -8280,11 +8451,20 @@
       "description": "Dois motores de corrida enormes puxando por cabos uma pequena cabine sobre a areia. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Dois motores de corrida enormes puxando por cabos uma pequena cabine sobre a areia.",
       "data_ref": "data/vehicles.json#radon-ulzer-podracer",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.radon-ulzer-podracer.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.podracers"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.sail-barge",
@@ -8302,11 +8482,20 @@
       "description": "Barcaça flutuante de luxo com velas e convés de festa sobre dunas. Escala Walker; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Barcaça flutuante de luxo com velas e convés de festa sobre dunas.",
       "data_ref": "data/vehicles.json#sail-barge",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.sail-barge.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.sail-barges"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.cargo-skiff",
@@ -8324,11 +8513,20 @@
       "description": "Plataforma de carga flutuante aberta com corrimões, sobre um mar de areia. Escala Speeder; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Plataforma de carga flutuante aberta com corrimões.",
       "data_ref": "data/vehicles.json#cargo-skiff",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.cargo-skiff.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.skiffs"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.a5-juggernaut",
@@ -8346,11 +8544,20 @@
       "description": "Veículo de assalto pesado de muitas rodas com uma torre alta de observação. Escala Walker; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Veículo de assalto pesado de muitas rodas com uma torre alta de observação.",
       "data_ref": "data/vehicles.json#a5-juggernaut",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.a5-juggernaut.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.ground-vehicles"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "vehicle.waveskimmer",
@@ -8368,11 +8575,20 @@
       "description": "Hidrofólio de ataque deslizando sobre ondas com borrifos. Escala Walker; design próprio, sem reproduzir o veículo dos filmes.",
       "alt": "Hidrofólio de ataque deslizando sobre ondas com borrifos.",
       "data_ref": "data/vehicles.json#waveskimmer",
-      "file": null,
-      "status": "missing",
+      "file": "art/vehicle.waveskimmer.webp",
+      "status": "draft",
       "fallback": [
         "vehicle-cat.hover-vehicles"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship-scale.starfighter",
@@ -8477,11 +8693,20 @@
       "description": "Interceptador pequeno em forma de cunha achatada com cabine para um piloto, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Interceptador pequeno em forma de cunha achatada com cabine para um piloto.",
       "data_ref": "data/starships.json#delta-7-aethersprite-starfighter",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.delta-7-aethersprite-starfighter.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.arc-170",
@@ -8499,11 +8724,20 @@
       "description": "Caça pesado de asas que se abrem em duas camadas, com canhões longos, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Caça pesado de asas que se abrem em duas camadas, com canhões longos.",
       "data_ref": "data/starships.json#arc-170",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.arc-170.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.a-wing",
@@ -8521,11 +8755,20 @@
       "description": "Interceptador compacto em cunha com dois motores laterais grandes, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Interceptador compacto em cunha com dois motores laterais grandes.",
       "data_ref": "data/starships.json#a-wing",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.a-wing.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.b-wing",
@@ -8543,11 +8786,20 @@
       "description": "Caça de assalto de asa longa vertical com cabine na ponta, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Caça de assalto de asa longa vertical com cabine na ponta.",
       "data_ref": "data/starships.json#b-wing",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.b-wing.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.vulture-class-droid-starfighter",
@@ -8565,11 +8817,20 @@
       "description": "Caça droide de asas dobráveis que vira andador, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Caça droide de asas dobráveis que vira andador.",
       "data_ref": "data/starships.json#vulture-class-droid-starfighter",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.vulture-class-droid-starfighter.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.tri-fighter",
@@ -8587,11 +8848,20 @@
       "description": "Caça droide de três braços com um sensor central, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Caça droide de três braços com um sensor central.",
       "data_ref": "data/starships.json#tri-fighter",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.tri-fighter.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.eta-2-actis-interceptor",
@@ -8609,11 +8879,20 @@
       "description": "Interceptador minúsculo de painéis de asa abertos, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Interceptador minúsculo de painéis de asa abertos.",
       "data_ref": "data/starships.json#eta-2-actis-interceptor",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.eta-2-actis-interceptor.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.n-1-royal-starfighter",
@@ -8631,11 +8910,20 @@
       "description": "Caça elegante cromado de motores alongados, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Caça elegante cromado de motores alongados.",
       "data_ref": "data/starships.json#n-1-royal-starfighter",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.n-1-royal-starfighter.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.tie-fighter",
@@ -8653,11 +8941,20 @@
       "description": "Caça leve de produção em massa com cabine central e grandes painéis laterais, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Caça leve de produção em massa com cabine central e grandes painéis laterais.",
       "data_ref": "data/starships.json#tie-fighter",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.tie-fighter.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.tie-bomber",
@@ -8675,11 +8972,20 @@
       "description": "Bombardeiro leve de dois casulos lado a lado entre painéis, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Bombardeiro leve de dois casulos lado a lado entre painéis.",
       "data_ref": "data/starships.json#tie-bomber",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.tie-bomber.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.tie-interceptor",
@@ -8697,11 +9003,20 @@
       "description": "Interceptador de painéis laterais angulosos e pontiagudos, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Interceptador de painéis laterais angulosos e pontiagudos.",
       "data_ref": "data/starships.json#tie-interceptor",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.tie-interceptor.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.x-wing",
@@ -8719,11 +9034,20 @@
       "description": "Caça de superioridade de quatro asas que se abrem em formação de ataque, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Caça de superioridade de quatro asas que se abrem em formação de ataque.",
       "data_ref": "data/starships.json#x-wing",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.x-wing.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.y-wing-s3",
@@ -8741,11 +9065,20 @@
       "description": "Caça de ataque de estrutura exposta e dois motores longos, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Caça de ataque de estrutura exposta e dois motores longos.",
       "data_ref": "data/starships.json#y-wing-s3",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.y-wing-s3.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.y-wing-a4",
@@ -8763,11 +9096,20 @@
       "description": "Caça de ataque de estrutura exposta, dois motores longos e torre de canhão, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Caça de ataque de estrutura exposta, dois motores longos e torre de canhão.",
       "data_ref": "data/starships.json#y-wing-a4",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.y-wing-a4.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.z-95-headhunter",
@@ -8785,11 +9127,20 @@
       "description": "Caça polivalente antigo de asas fixas e cabine em bolha, num combate entre asteroides. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Caça polivalente antigo de asas fixas e cabine em bolha.",
       "data_ref": "data/starships.json#z-95-headhunter",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.z-95-headhunter.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.acclamator-assault-ship",
@@ -8807,11 +9158,20 @@
       "description": "Nave de assalto de casco em cunha desembarcando tropas, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Nave de assalto de casco em cunha desembarcando tropas.",
       "data_ref": "data/starships.json#acclamator-assault-ship",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.acclamator-assault-ship.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.capital"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.banking-clan-frigate",
@@ -8829,11 +9189,20 @@
       "description": "Fragata de casco estreito com um núcleo esférico, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Fragata de casco estreito com um núcleo esférico.",
       "data_ref": "data/starships.json#banking-clan-frigate",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.banking-clan-frigate.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.capital"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.corellian-corvette",
@@ -8851,11 +9220,20 @@
       "description": "Corveta longa com uma fileira de motores brilhando na popa, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Corveta longa com uma fileira de motores brilhando na popa.",
       "data_ref": "data/starships.json#corellian-corvette",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.corellian-corvette.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.capital"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.imperial-star-destroyer",
@@ -8873,11 +9251,20 @@
       "description": "Imensa nave de guerra em forma de cunha com torre de comando, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Imensa nave de guerra em forma de cunha com torre de comando.",
       "data_ref": "data/starships.json#imperial-star-destroyer",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.imperial-star-destroyer.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.capital"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.interdictor-cruiser",
@@ -8895,11 +9282,20 @@
       "description": "Cruzador pesado com grandes projetores esféricos no casco, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Cruzador pesado com grandes projetores esféricos no casco.",
       "data_ref": "data/starships.json#interdictor-cruiser",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.interdictor-cruiser.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.capital"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.mon-calamari-mc80-star-cruiser",
@@ -8917,11 +9313,20 @@
       "description": "Cruzador de casco orgânico, bulboso e irregular, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Cruzador de casco orgânico, bulboso e irregular.",
       "data_ref": "data/starships.json#mon-calamari-mc80-star-cruiser",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.mon-calamari-mc80-star-cruiser.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.capital"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.nebulon-b-frigate",
@@ -8939,11 +9344,20 @@
       "description": "Fragata de escolta com casco dividido por um braço estreito, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Fragata de escolta com casco dividido por um braço estreito.",
       "data_ref": "data/starships.json#nebulon-b-frigate",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.nebulon-b-frigate.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.capital"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.republic-cruiser",
@@ -8961,11 +9375,20 @@
       "description": "Cruzador diplomático de casco vermelho e linhas suaves, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Cruzador diplomático de casco vermelho e linhas suaves.",
       "data_ref": "data/starships.json#republic-cruiser",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.republic-cruiser.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.capital"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.trade-federation-battleship",
@@ -8983,11 +9406,20 @@
       "description": "Nave de batalha em anel com uma esfera central, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Nave de batalha em anel com uma esfera central.",
       "data_ref": "data/starships.json#trade-federation-battleship",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.trade-federation-battleship.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.capital"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.venator-star-destroyer",
@@ -9005,11 +9437,20 @@
       "description": "Destróier estelar em cunha com um longo convés de voo, em órbita de um planeta, com naves menores ao redor para dar escala. Escala Capital; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Destróier estelar em cunha com um longo convés de voo.",
       "data_ref": "data/starships.json#venator-star-destroyer",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.venator-star-destroyer.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.capital"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.firespray-patrol-attack-craft",
@@ -9027,11 +9468,20 @@
       "description": "Nave de patrulha de casco ovalado que voa na vertical, saindo do hiperespaço perto de uma estação. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Nave de patrulha de casco ovalado que voa na vertical.",
       "data_ref": "data/starships.json#firespray-patrol-attack-craft",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.firespray-patrol-attack-craft.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.ghtroc-720-freighter",
@@ -9049,11 +9499,20 @@
       "description": "Cargueiro leve de cabine lateral e casco robusto, saindo do hiperespaço perto de uma estação. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Cargueiro leve de cabine lateral e casco robusto.",
       "data_ref": "data/starships.json#ghtroc-720-freighter",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.ghtroc-720-freighter.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.j-type-star-skiff",
@@ -9071,11 +9530,20 @@
       "description": "Iate estelar cromado de linhas suaves e asas curtas, saindo do hiperespaço perto de uma estação. Escala Personal Starship; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Iate estelar cromado de linhas suaves e asas curtas.",
       "data_ref": "data/starships.json#j-type-star-skiff",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.j-type-star-skiff.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.personal-starship"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.lambda-shuttle",
@@ -9093,11 +9561,20 @@
       "description": "Lançadeira de três asas, as laterais dobrando no pouso, saindo do hiperespaço perto de uma estação. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Lançadeira de três asas, as laterais dobrando no pouso.",
       "data_ref": "data/starships.json#lambda-shuttle",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.lambda-shuttle.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.gallofree-medium-transport",
@@ -9115,11 +9592,20 @@
       "description": "Transporte médio de casco modular e motores na popa, saindo do hiperespaço perto de uma estação. Escala Capital; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Transporte médio de casco modular e motores na popa.",
       "data_ref": "data/starships.json#gallofree-medium-transport",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.gallofree-medium-transport.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.capital"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.guardian-light-cruiser",
@@ -9137,11 +9623,20 @@
       "description": "Cruzador leve de alfândega com casco compacto e torres, saindo do hiperespaço perto de uma estação. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Cruzador leve de alfândega com casco compacto e torres.",
       "data_ref": "data/starships.json#guardian-light-cruiser",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.guardian-light-cruiser.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.yt-1300-transport",
@@ -9159,11 +9654,20 @@
       "description": "Cargueiro leve de casco achatado e arredondado, cabine deslocada para o lado, saindo do hiperespaço perto de uma estação. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Cargueiro leve de casco achatado e arredondado, cabine deslocada para o lado.",
       "data_ref": "data/starships.json#yt-1300-transport",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.yt-1300-transport.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.yt-2000-transport",
@@ -9181,11 +9685,20 @@
       "description": "Cargueiro leve de casco achatado com duas cabines simétricas, saindo do hiperespaço perto de uma estação. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Cargueiro leve de casco achatado com duas cabines simétricas.",
       "data_ref": "data/starships.json#yt-2000-transport",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.yt-2000-transport.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "starship.yt-2400-transport",
@@ -9203,11 +9716,20 @@
       "description": "Cargueiro leve de casco circular com cabine num braço lateral, saindo do hiperespaço perto de uma estação. Escala Starfighter; design próprio, sem reproduzir a nave dos filmes.",
       "alt": "Cargueiro leve de casco circular com cabine num braço lateral.",
       "data_ref": "data/starships.json#yt-2400-transport",
-      "file": null,
-      "status": "missing",
+      "file": "art/starship.yt-2400-transport.webp",
+      "status": "draft",
       "fallback": [
         "starship-scale.starfighter"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-10-31",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "skill-attr.dexterity",
