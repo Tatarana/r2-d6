@@ -749,12 +749,21 @@
       "placeholder": "template",
       "focal_point": "rosto no terço superior",
       "priority": "P1",
-      "description": "Jovem de túnica simples e olhar cansado, segurando um sabre de luz desligado com reverência; luz azul fria vinda de baixo.",
+      "description": "Sobrevivente Jedi de uns trinta anos, com treino incompleto, cujo mestre foi traído e executado pelo Império; vive como fugitivo. Manto de viajante com capuz, gasto, sobre túnica simples e desbotada, barba por fazer, olhar cansado e assombrado, espiando por cima do ombro como quem é caçado. Segura junto ao peito, com as duas mãos e reverência, o cabo desligado do sabre de luz do mestre morto, como uma relíquia. Clima melancólico e desconfiado, luz azul fria vinda de baixo.",
       "alt": "Jovem de túnica com sabre de luz desligado nas mãos.",
       "data_ref": "data/templates.json#minor-jedi",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.minor-jedi.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "manual",
+        "model": null,
+        "date": "2026-11-01",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "template.mon-calamari",
@@ -885,12 +894,21 @@
       "placeholder": "template",
       "focal_point": "rosto no terço superior",
       "priority": "P1",
-      "description": "Droide de protocolo humanoide de design original, acabamento metálico prateado-azulado e olhos luminosos, gesticulando com ar preocupado.",
+      "description": "Droide de protocolo humanoide no estilo clássico de Star Wars: corpo dourado polido, articulações expostas na cintura e nos joelhos, cabeça redonda com olhos amarelos luminosos e boca em fenda. Gesticula com as mãos erguidas, ar aflito e formal, como quem acabou de calcular as chances de sobrevivência.",
       "alt": "Droide de protocolo de design original gesticulando, preocupado.",
       "data_ref": "data/templates.json#protocol-droid",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.protocol-droid.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "manual",
+        "model": null,
+        "date": "2026-11-01",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "template.quixotic-jedi",
@@ -1053,9 +1071,18 @@
       "description": "Alienígena alto coberto de pelagem castanha densa, bandoleira cruzada e besta de energia de design original, olhar leal e feroz.",
       "alt": "Alienígena alto e peludo com bandoleira e besta de energia.",
       "data_ref": "data/templates.json#wookiee",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.wookiee.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "manual",
+        "model": null,
+        "date": "2026-11-01",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "template.young-jedi",
@@ -1070,12 +1097,21 @@
       "placeholder": "template",
       "focal_point": "rosto no terço superior",
       "priority": "P1",
-      "description": "Jovem esperançoso de roupas simples de fazenda, mão estendida fazendo uma pedra pequena flutuar, um pequeno droide astromecânico de design original ao lado.",
+      "description": "Jovem autodidata na Força, no fim da adolescência, criado numa fazenda de um mundo desértico remoto: roupas de fazenda simples e claras, cinto de utilidades com pistola blaster no coldre, cabelo desgrenhado. Uma das mãos erguida com a palma aberta faz uma pedra pequena flutuar, com um leve brilho ao redor; rosto de encanto, foco e esperança. Ao lado do ombro, um pequeno droide astromecânico da série R2, de cabeça em cúpula, apita encorajando. Sem sabre de luz. Clima otimista e aventureiro.",
       "alt": "Jovem fazendo uma pedra flutuar com um pequeno droide ao lado.",
       "data_ref": "data/templates.json#young-jedi",
-      "file": null,
-      "status": "missing",
-      "fallback": []
+      "file": "art/template.young-jedi.webp",
+      "status": "draft",
+      "fallback": [],
+      "provenance": {
+        "tool": "manual",
+        "model": null,
+        "date": "2026-11-01",
+        "source_size": [
+          1024,
+          1024
+        ]
+      }
     },
     {
       "id": "template.young-senatorial",
@@ -6409,7 +6445,7 @@
       "placeholder": "armor",
       "focal_point": "centro",
       "priority": "P2",
-      "description": "Armadura cerimonial de guarda de honra com elmo alto e manto longo de cor sóbria (design próprio). Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+      "description": "Armadura da Guarda Real do Imperador, no visual clássico de Star Wars: túnica e manto longo vermelho-carmesim até o chão, elmo vermelho alto e liso com viseira estreita escura, pike de força na mão. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Armadura cerimonial de guarda de honra com elmo alto e manto longo de cor sóbria (design próprio).",
       "data_ref": "data/armor.json#royal-guard-armor",
       "file": null,
@@ -6519,7 +6555,7 @@
       "placeholder": "armor",
       "focal_point": "centro",
       "priority": "P2",
-      "description": "Armadura de placas branca com faixas de unidade coloridas e capacete de viseira em T estreita (design próprio). Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+      "description": "Armadura de clone trooper da era das Guerras Clônicas, no visual clássico de Star Wars: placas brancas com faixas de unidade coloridas e capacete com visor em T escuro. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Armadura de placas branca com faixas de unidade coloridas e capacete de viseira em T estreita (design próprio).",
       "data_ref": "data/armor.json#clone-trooper-armor",
       "file": null,
@@ -6541,7 +6577,7 @@
       "placeholder": "armor",
       "focal_point": "centro",
       "priority": "P2",
-      "description": "Armadura branca de placas para tropas de choque, capacete fechado de lentes escuras (design próprio). Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+      "description": "Armadura de stormtrooper imperial, no visual clássico de Star Wars: placas brancas sobre traje preto, cinto com bolsas, capacete branco fechado de lentes escuras e grade de respiração. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Armadura branca de placas para tropas de choque, capacete fechado de lentes escuras (design próprio).",
       "data_ref": "data/armor.json#stormtrooper-armor",
       "file": null,
@@ -6563,7 +6599,7 @@
       "placeholder": "armor",
       "focal_point": "centro",
       "priority": "P2",
-      "description": "Armadura leve de batedor, placas mínimas e capacete de viseira estreita. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+      "description": "Armadura de scout trooper imperial, no visual clássico de Star Wars: placas brancas mínimas sobre traje preto, capacete com viseira longa e estreita e pala inclinada. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Armadura leve de batedor, placas mínimas e capacete de viseira estreita.",
       "data_ref": "data/armor.json#scout-trooper-armor",
       "file": null,
@@ -6585,7 +6621,7 @@
       "placeholder": "armor",
       "focal_point": "centro",
       "priority": "P2",
-      "description": "Armadura para clima frio com manto, saia térmica e respirador no capacete. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+      "description": "Armadura de snowtrooper imperial, no visual clássico de Star Wars: placas brancas, saia térmica e capuz de tecido, capacete com máscara respiradora e lentes escuras. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Armadura para clima frio com manto, saia térmica e respirador no capacete.",
       "data_ref": "data/armor.json#snowtrooper-armor",
       "file": null,
@@ -6893,11 +6929,20 @@
       "description": "Comunicador de mão pequeno com antena retrátil. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Comunicador de mão pequeno com antena retrátil.",
       "data_ref": "data/gear.json#personal-comlink",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.personal-comlink.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.communications"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.military-comlink",
@@ -6915,11 +6960,20 @@
       "description": "Comunicador militar robusto com capa emborrachada. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Comunicador militar robusto com capa emborrachada.",
       "data_ref": "data/gear.json#military-comlink",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.military-comlink.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.communications"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.vehicle-comlink",
@@ -6937,11 +6991,20 @@
       "description": "Conjunto de comunicação de alta potência montado numa mochila com antena alta. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Conjunto de comunicação de alta potência montado numa mochila com antena alta.",
       "data_ref": "data/gear.json#vehicle-comlink",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.vehicle-comlink.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.communications"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.subspace-transceiver-small",
@@ -6959,11 +7022,20 @@
       "description": "Rádio de subespaço de mesa com tela e teclado. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Rádio de subespaço de mesa com tela e teclado.",
       "data_ref": "data/gear.json#subspace-transceiver-small",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.subspace-transceiver-small.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.communications"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.subspace-transceiver-large",
@@ -6981,11 +7053,20 @@
       "description": "Estação de rádio de subespaço de alta potência com antena parabólica. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Estação de rádio de subespaço de alta potência com antena parabólica.",
       "data_ref": "data/gear.json#subspace-transceiver-large",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.subspace-transceiver-large.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.communications"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.pocket-scrambler",
@@ -7003,11 +7084,20 @@
       "description": "Pequeno embaralhador de dados que se acopla ao comunicador. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Pequeno embaralhador de dados que se acopla ao comunicador.",
       "data_ref": "data/gear.json#pocket-scrambler",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.pocket-scrambler.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.communications"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.jammer-pack",
@@ -7025,11 +7115,20 @@
       "description": "Mochila interferidora de comunicações com antenas curtas. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Mochila interferidora de comunicações com antenas curtas.",
       "data_ref": "data/gear.json#jammer-pack",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.jammer-pack.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.communications"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.alien-enhancer-vox-box",
@@ -7047,11 +7146,20 @@
       "description": "Caixa de voz que reproduz sons de outras espécies, com alto-falante em grade. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Caixa de voz que reproduz sons de outras espécies, com alto-falante em grade.",
       "data_ref": "data/gear.json#alien-enhancer-vox-box",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.alien-enhancer-vox-box.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.communications"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.transliterator",
@@ -7069,11 +7177,20 @@
       "description": "Tradutor portátil de idiomas com tela de glifos abstratos. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Tradutor portátil de idiomas com tela de glifos abstratos.",
       "data_ref": "data/gear.json#transliterator",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.transliterator.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.communications"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.code-cylinder",
@@ -7091,11 +7208,20 @@
       "description": "Cilindro de código de segurança preso a um bolso de uniforme. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Cilindro de código de segurança preso a um bolso de uniforme.",
       "data_ref": "data/gear.json#code-cylinder",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.code-cylinder.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.computers"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.credit-chip",
@@ -7113,11 +7239,20 @@
       "description": "Chip de crédito fino e brilhante entre dois dedos. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Chip de crédito fino e brilhante entre dois dedos.",
       "data_ref": "data/gear.json#credit-chip",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.credit-chip.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.computers"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.datacard",
@@ -7135,11 +7270,20 @@
       "description": "Cartão de dados translúcido com circuitos visíveis. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Cartão de dados translúcido com circuitos visíveis.",
       "data_ref": "data/gear.json#datacard",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.datacard.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.computers"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.datapad",
@@ -7157,11 +7301,20 @@
       "description": "Datapad portátil aceso com gráficos holográficos. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Datapad portátil aceso com gráficos holográficos.",
       "data_ref": "data/gear.json#datapad",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.datapad.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.computers"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.mainframe",
@@ -7179,11 +7332,20 @@
       "description": "Computador central em gabinetes altos com luzes piscando. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Computador central em gabinetes altos com luzes piscando.",
       "data_ref": "data/gear.json#mainframe",
-      "file": null,
-      "status": "missing",
+      "file": "art/gear.mainframe.webp",
+      "status": "draft",
       "fallback": [
         "gear-cat.computers"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-01",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear.portable-computer",
@@ -7550,7 +7712,7 @@
       "placeholder": "gear",
       "focal_point": "centro",
       "priority": "P2",
-      "description": "Mão protética mecânica de design próprio com articulações à mostra. Planta holográfica de objeto isolado, vista em 3/4.",
+      "description": "Mão protética mecânica no estilo de Star Wars, com articulações e servos à mostra, como a mão cibernética de Luke antes de receber a pele sintética. Planta holográfica de objeto isolado, vista em 3/4.",
       "alt": "Mão protética mecânica de design próprio com articulações à mostra.",
       "data_ref": "data/gear.json#replacement-prosthetics",
       "file": null,

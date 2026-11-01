@@ -1,0 +1,638 @@
+[
+  {
+    "id": "gear.personal-comlink",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Comunicador de mão pequeno com antena retrátil. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.military-comlink",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Comunicador militar robusto com capa emborrachada. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.vehicle-comlink",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Conjunto de comunicação de alta potência montado numa mochila com antena alta. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.subspace-transceiver-small",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Rádio de subespaço de mesa com tela e teclado. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.subspace-transceiver-large",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Estação de rádio de subespaço de alta potência com antena parabólica. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.pocket-scrambler",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Pequeno embaralhador de dados que se acopla ao comunicador. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.jammer-pack",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Mochila interferidora de comunicações com antenas curtas. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.alien-enhancer-vox-box",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Caixa de voz que reproduz sons de outras espécies, com alto-falante em grade. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.transliterator",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Tradutor portátil de idiomas com tela de glifos abstratos. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.code-cylinder",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Cilindro de código de segurança preso a um bolso de uniforme. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.credit-chip",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Chip de crédito fino e brilhante entre dois dedos. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.datacard",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Cartão de dados translúcido com circuitos visíveis. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.datapad",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Datapad portátil aceso com gráficos holográficos. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.mainframe",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Computador central em gabinetes altos com luzes piscando. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.portable-computer",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Computador portátil dobrável sobre uma caixa de carga. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.personal-computer",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Terminal pessoal de mesa com teclado e tela curva. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.macrobinoculars",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Binóculos eletrônicos com tela de aproximação. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.glow-rod",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Bastão luminoso cilíndrico projetando um feixe de luz. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.fusion-lantern",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Lanterna de fusão que ilumina e aquece um acampamento. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.recording-rod",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Bastão gravador de áudio com uma luz vermelha de gravação. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.portable-sensor-pack",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Sensor portátil com antena giratória e tela de varredura. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.military-sensor-pack",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Sensor militar reforçado com tela de alvos. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.aquata-breather",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Respirador aquático compacto preso à boca, soltando bolhas. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.breath-mask",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Máscara respiratória com filtros laterais. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.vacuum-suit",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Traje de vácuo leve com capacete transparente. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.space-suit",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Traje espacial completo com mochila de suporte de vida. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.bacta-tank",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Tanque cilíndrico de líquido curativo azul com um paciente de máscara flutuando. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.customized-medical-backpack",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Mochila médica avançada aberta com compartimentos e injetores. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.medpac",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Kit de primeiros socorros compacto aberto. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.surgery-kit",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Kit cirúrgico com instrumentos de precisão em estojo. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.replacement-prosthetics",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Mão protética mecânica no estilo de Star Wars, com articulações e servos à mostra, como a mão cibernética de Luke antes de receber a pele sintética. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.all-temperature-cloak",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Manto térmico de tecido sintético esvoaçando no vento. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.chain",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Corrente pesada de elos metálicos enrolada. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.field-kit",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Mochila de sobrevivência com abrigo dobrável e cantil. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.jet-pack",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Mochila a jato com dois bocais e chamas curtas. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.liquid-cable-dispenser",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Disparador de cabo líquido lançando uma linha que endurece no ar. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.ration-pack",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Pacote de rações desidratadas aberto com barras compactas. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.rocket-pack",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Mochila foguete de bocal único com rastro de fumaça. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.syntherope",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Rolo de corda sintética fina e resistente. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.binder-cuffs",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Algemas magnéticas com luz de trava. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.energy-cell",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Célula de energia cilíndrica com indicador de carga. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.fire-extinguisher",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Extintor compacto soltando uma nuvem branca. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.mesh-tape",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Rolo de fita adesiva de malha metálica. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.blaster-power-pack",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Carregador de energia para blaster com indicador de carga. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.power-recharger",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Recarregador portátil com células encaixadas. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.security-kit",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Estojo de invasão com sondas e um decodificador de fechadura. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.standard-tool-kit",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Caixa de ferramentas padrão com chaves e hidrospanner. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.enhanced-tool-kit",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Caixa de ferramentas avançada com diagnóstico eletrônico. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.utility-belt",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Cinto de utilidades com bolsos e um gancho. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.bandolier",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Bandoleira de couro com células de energia e granadas. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.helmet-package",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Capacete com sistema de mira e viseira holográfica. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.holster",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Coldre de couro com uma pistola blaster. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.standard-scope",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Mira eletrônica para blaster com retículo luminoso. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "gear.enhanced-macroscope",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Mira de ampliação montada em rifle, com lente longa. Planta holográfica de objeto isolado, vista em 3/4."
+  },
+  {
+    "id": "armor.armored-spacesuit",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Traje espacial blindado de abordagem com mochila de foguete e capacete selado. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+    "risky": true
+  },
+  {
+    "id": "armor.medium-battle-armor",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Armadura de combate média de placas sobre tecido reforçado. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+    "risky": true
+  },
+  {
+    "id": "armor.heavy-battle-armor",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Armadura de combate pesada moldada, resistente a impacto, com ombreiras largas. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+    "risky": true
+  },
+  {
+    "id": "armor.blast-helmet",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Capacete de combate com viseira e proteção de nuca. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+    "risky": true
+  },
+  {
+    "id": "armor.blast-vest",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Colete de proteção acolchoado com placas no peito. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+    "risky": true
+  },
+  {
+    "id": "armor.royal-guard-armor",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Armadura da Guarda Real do Imperador, no visual clássico de Star Wars: túnica e manto longo vermelho-carmesim até o chão, elmo vermelho alto e liso com viseira estreita escura, pike de força na mão. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+    "risky": true
+  },
+  {
+    "id": "armor.combat-jumpsuit",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Macacão de combate leve com reforços nos joelhos e cotovelos. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+    "risky": true
+  },
+  {
+    "id": "armor.corellian-powersuit",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Exoesqueleto de carga reforçado adaptado como armadura, com braços servoassistidos. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+    "risky": true
+  },
+  {
+    "id": "armor.armored-flight-suit",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Macacão de voo blindado com placas no peito e capacete de piloto. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+    "risky": true
+  },
+  {
+    "id": "armor.padded-flight-suit",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Macacão de voo acolchoado com mangueiras de suporte de vida. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+    "risky": true
+  },
+  {
+    "id": "armor.clone-trooper-armor",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Armadura de clone trooper da era das Guerras Clônicas, no visual clássico de Star Wars: placas brancas com faixas de unidade coloridas e capacete com visor em T escuro. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+    "risky": true
+  },
+  {
+    "id": "armor.stormtrooper-armor",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Armadura de stormtrooper imperial, no visual clássico de Star Wars: placas brancas sobre traje preto, cinto com bolsas, capacete branco fechado de lentes escuras e grade de respiração. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+    "risky": true
+  },
+  {
+    "id": "armor.scout-trooper-armor",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Armadura de scout trooper imperial, no visual clássico de Star Wars: placas brancas mínimas sobre traje preto, capacete com viseira longa e estreita e pala inclinada. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+    "risky": true
+  },
+  {
+    "id": "armor.snowtrooper-armor",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Armadura de snowtrooper imperial, no visual clássico de Star Wars: placas brancas, saia térmica e capuz de tecido, capacete com máscara respiradora e lentes escuras. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+    "risky": true
+  },
+  {
+    "id": "armor.vonduun-crabshell-armor",
+    "style": "blueprint-item",
+    "style_prompt": "Holographic technical blueprint illustration: glowing cyan line art on midnight blue, dimension lines, fine grid and scanline noise. Object(s) in 3/4 perspective, isolated and centered, soft shadow and a thin amber rim glow on one edge; must read well as a small square thumbnail. Labels only as abstract glyphs. Star Wars style sci-fi technology.",
+    "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
+    "bing_ratio": "3:2",
+    "focal_point": "centro",
+    "description_pt": "Carapaça orgânica viva de placas sobrepostas, como a casca de um crustáceo. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
+    "risky": true
+  }
+]

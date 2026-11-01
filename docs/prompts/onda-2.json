@@ -537,7 +537,7 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "2:3",
     "focal_point": "rosto no terço superior",
-    "description_pt": "Jovem de túnica simples e olhar cansado, segurando um sabre de luz desligado com reverência; luz azul fria vinda de baixo."
+    "description_pt": "Sobrevivente Jedi de uns trinta anos, com treino incompleto, cujo mestre foi traído e executado pelo Império; vive como fugitivo. Manto de viajante com capuz, gasto, sobre túnica simples e desbotada, barba por fazer, olhar cansado e assombrado, espiando por cima do ombro como quem é caçado. Segura junto ao peito, com as duas mãos e reverência, o cabo desligado do sabre de luz do mestre morto, como uma relíquia. Clima melancólico e desconfiado, luz azul fria vinda de baixo."
   },
   {
     "id": "template.mon-calamari",
@@ -582,7 +582,7 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "2:3",
     "focal_point": "rosto no terço superior",
-    "description_pt": "Droide de protocolo humanoide de design original, acabamento metálico prateado-azulado e olhos luminosos, gesticulando com ar preocupado."
+    "description_pt": "Droide de protocolo humanoide no estilo clássico de Star Wars: corpo dourado polido, articulações expostas na cintura e nos joelhos, cabeça redonda com olhos amarelos luminosos e boca em fenda. Gesticula com as mãos erguidas, ar aflito e formal, como quem acabou de calcular as chances de sobrevivência."
   },
   {
     "id": "template.quixotic-jedi",
@@ -645,7 +645,7 @@
     "end": "No text, no letters, no logos. Filling the entire frame, no black bars.",
     "bing_ratio": "2:3",
     "focal_point": "rosto no terço superior",
-    "description_pt": "Jovem esperançoso de roupas simples de fazenda, mão estendida fazendo uma pedra pequena flutuar, um pequeno droide astromecânico de design original ao lado."
+    "description_pt": "Jovem autodidata na Força, no fim da adolescência, criado numa fazenda de um mundo desértico remoto: roupas de fazenda simples e claras, cinto de utilidades com pistola blaster no coldre, cabelo desgrenhado. Uma das mãos erguida com a palma aberta faz uma pedra pequena flutuar, com um leve brilho ao redor; rosto de encanto, foco e esperança. Ao lado do ombro, um pequeno droide astromecânico da série R2, de cabeça em cúpula, apita encorajando. Sem sabre de luz. Clima otimista e aventureiro."
   },
   {
     "id": "template.young-senatorial",
