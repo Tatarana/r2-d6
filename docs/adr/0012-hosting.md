@@ -1,6 +1,8 @@
 # ADR-0012: Hospedagem em um serviço PaaS com Postgres gerenciado
 
-- Status: proposto (2026-10-28); depende do usuário (PaaS ou VPS, domínio)
+- Status: aceito (2026-11-01): Fly.io + Neon, máquina sempre ligada, subdomínio `fly.dev`, login só com Google
+  (`EMAIL_LOGIN=off`, dispensa provedor de e-mail) e cadastro só por convite (`SIGNUP_MODE=invite`). Passo a passo em
+  [docs/deploy.md](../deploy.md).
 
 ## Contexto
 

@@ -3,7 +3,9 @@ import { hash, verify } from '@node-rs/argon2';
 import { betterAuth } from 'better-auth';
 import { APIError, createAuthMiddleware } from 'better-auth/api';
 import { drizzleAdapter } from 'better-auth/adapters/drizzle';
+import { and, eq, gt, isNull, lt } from 'drizzle-orm';
 import type { Config } from '../config';
+import { hashCode, inviteFromCookie } from '../lib/invite';
 import type { Db } from '../db/client';
 import { schema } from '../db/client';
 import type { Mailer } from './mail';
@@ -20,6 +22,15 @@ export function passwordProblem(pw: unknown): string | null {
   return null;
 }
 
+// cadastro so por convite: o codigo precisa estar valido (nao revogado, nao expirado, com usos livres)
+export async function inviteIsValid(db: Db, code: unknown) {
+  if (typeof code !== 'string' || !code.trim()) return false;
+  const inv = schema.campaignInvites;
+  const [row] = await db.select({ id: inv.id }).from(inv)
+    .where(and(eq(inv.codeHash, hashCode(code)), isNull(inv.revokedAt), gt(inv.expiresAt, new Date()), lt(inv.uses, inv.maxUses)));
+  return !!row;
+}
+
 export function createAuth(cfg: Config, db: Db, mailer: Mailer) {
   const social: Record<string, any> = {};
   if (cfg.features.google) social.google = { clientId: cfg.GOOGLE_CLIENT_ID, clientSecret: cfg.GOOGLE_CLIENT_SECRET };
@@ -34,7 +45,7 @@ export function createAuth(cfg: Config, db: Db, mailer: Mailer) {
     trustedOrigins: [...origins],
     database: drizzleAdapter(db, { provider: 'pg', schema: { user: schema.user, session: schema.session, account: schema.account, verification: schema.verification } }),
     emailAndPassword: {
-      enabled: true,
+      enabled: cfg.features.emailLogin,
       minPasswordLength: 10,
       maxPasswordLength: 128,
       requireEmailVerification: false, // ligado so em producao (backlog: depende de e-mail de producao)
@@ -57,6 +68,19 @@ export function createAuth(cfg: Config, db: Db, mailer: Mailer) {
     session: { expiresIn: 60 * 60 * 24 * 30, updateAge: 60 * 60 * 24 },
     advanced: { useSecureCookies: cfg.isProd, defaultCookieAttributes: { sameSite: 'lax', httpOnly: true } },
     rateLimit: { enabled: cfg.isProd, window: 60, max: 30 },
+    databaseHooks: {
+      user: {
+        create: {
+          // SIGNUP_MODE=invite: conta nova so com convite valido (no corpo do cadastro por e-mail ou no cookie do login social) ou e-mail da lista
+          before: async (u, c) => {
+            if (cfg.SIGNUP_MODE !== 'invite' || cfg.signupAllowlist.has(u.email.toLowerCase())) return;
+            const code = c?.path === '/sign-up/email' ? (c.body as any)?.inviteCode : inviteFromCookie(c?.headers?.get('cookie'));
+            if (await inviteIsValid(db, code)) return;
+            throw new APIError('FORBIDDEN', { message: 'Cadastro só por convite: abra o link de convite da sua campanha para criar a conta.', code: 'INVITE_REQUIRED' });
+          },
+        },
+      },
+    },
     hooks: {
       before: createAuthMiddleware(async (ctx) => {
         if (ctx.path === '/sign-up/email' || ctx.path === '/reset-password') {

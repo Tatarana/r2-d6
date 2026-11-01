@@ -7,6 +7,7 @@ import { ArtSlot } from '@/components/ArtSlot';
 import { ErrorState, Spinner } from '@/components/ui';
 import { ApiError, errText, get, post } from '@/lib/api';
 import { useSession } from '@/lib/auth';
+import { socialSignIn, useMeta } from '@/features/auth/AuthPages';
 
 export function InvitePage() {
   const { code = '' } = useParams();
@@ -16,6 +17,14 @@ export function InvitePage() {
   const [err, setErr] = useState<string | null>(null);
   const [busy, setBusy] = useState(false);
   const next = encodeURIComponent(`/convite/${code}`);
+
+  const meta = useMeta();
+  const googleOnly = meta.data?.features.emailLogin === false;
+  // sem conta ainda: guarda o convite num cookie (vale para o cadastro por convite) e volta para esta pagina depois do Google
+  const google = async () => {
+    setBusy(true); setErr(null);
+    try { await post(`/api/invites/${encodeURIComponent(code)}/hold`); await socialSignIn('google', `/convite/${code}`); } catch (e) { setErr(errText(e)); setBusy(false); }
+  };
 
   const accept = async () => {
     setBusy(true); setErr(null);
@@ -38,7 +47,9 @@ export function InvitePage() {
         <p className="text-muted">{q.data!.gmName} chama você para a mesa.</p>
         {q.data!.campaign.description && <p>{q.data!.campaign.description}</p>}
         {err && <p role="alert" className="err">{err}</p>}
-        {session ? <button className="btn primary big" onClick={accept} disabled={busy} data-testid="accept-invite">{busy ? 'Entrando…' : 'Entrar na campanha'}</button> : (
+        {session ? <button className="btn primary big" onClick={accept} disabled={busy} data-testid="accept-invite">{busy ? 'Entrando…' : 'Entrar na campanha'}</button> : googleOnly ? (
+          <button className="btn primary big" onClick={google} disabled={busy || !meta.data?.features.google}>{busy ? 'Abrindo o Google…' : 'Entrar com Google para aceitar'}</button>
+        ) : (
           <div className="grid gap-2"><Link className="btn primary big" to={`/entrar?next=${next}`}>Entrar para aceitar</Link><Link className="btn" to={`/cadastro?next=${next}`}>Criar conta</Link></div>
         )}
       </main>

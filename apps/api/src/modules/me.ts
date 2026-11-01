@@ -9,7 +9,7 @@ const { characters, characterVersions, campaignMembers, rolls } = schema;
 export function registerMeRoutes(app: FastifyInstance, ctx: AppCtx) {
   app.get('/api/meta', async () => ({
     name: 'r2-d6', version: '0.1.0', bundleHash: ctx.bundleHash,
-    features: { google: ctx.cfg.features.google, discord: ctx.cfg.features.discord, assistant: ctx.cfg.features.assistant, magicLink: false },
+    features: { google: ctx.cfg.features.google, discord: ctx.cfg.features.discord, assistant: ctx.cfg.features.assistant, signupOpen: ctx.cfg.features.signupOpen, emailLogin: ctx.cfg.features.emailLogin, magicLink: false },
   }));
 
   app.get('/api/me', { preHandler: app.requireUser }, async (req) => ({ user: req.user }));

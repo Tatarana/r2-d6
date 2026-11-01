@@ -1,11 +1,62 @@
 import type { FastifyInstance } from 'fastify';
 import { afterAll, beforeAll, beforeEach, describe, expect, it } from 'vitest';
-import { Client, PASSWORD, makeApp, truncateAll } from './helpers';
+import { inviteIsValid } from '../src/auth/auth';
+import { loadConfig } from '../src/config';
+import { inviteFromCookie } from '../src/lib/invite';
+import { Client, ORIGIN, PASSWORD, makeApp, truncateAll } from './helpers';
 
 let app: FastifyInstance;
 beforeAll(async () => { app = await makeApp(); });
 afterAll(async () => { await app.close(); });
 beforeEach(async () => { await truncateAll(); app.ctx.mailer.outbox.length = 0; });
+
+describe('cadastro só por convite (SIGNUP_MODE=invite)', () => {
+  let inv: FastifyInstance;
+  beforeAll(async () => { inv = await makeApp({ env: { SIGNUP_MODE: 'invite', SIGNUP_ALLOWLIST: 'Mestra@t.local' } }); });
+  afterAll(async () => { await inv.close(); });
+  const signUp = (body: Record<string, string>) => inv.inject({ method: 'POST', url: '/api/auth/sign-up/email', headers: { origin: ORIGIN, 'content-type': 'application/json' }, payload: { password: PASSWORD, ...body } });
+
+  it('recusa sem convite, aceita e-mail da lista e convite válido', async () => {
+    expect((await signUp({ name: 'Ana', email: 'ana@t.local' })).statusCode).toBe(403);
+    expect((await inv.inject({ method: 'GET', url: '/api/meta' })).json().features.signupOpen).toBe(false);
+    const gm = new Client(inv);
+    await gm.signUp('Mestra', 'mestra@t.local');
+    const camp = (await gm.post('/api/campaigns', { name: 'Mesa' })).json().campaign;
+    const { code } = (await gm.post(`/api/campaigns/${camp.id}/invites`, {})).json();
+    expect((await signUp({ name: 'Ana', email: 'ana@t.local', inviteCode: 'ZZZZ-ZZZZ' })).statusCode).toBe(403);
+    expect((await signUp({ name: 'Ana', email: 'ana@t.local', inviteCode: code })).statusCode).toBe(200);
+  });
+});
+
+describe('só Google (EMAIL_LOGIN=off)', () => {
+  it('desliga cadastro e login por e-mail e guarda o convite em cookie para o Google', async () => {
+    const off = await makeApp({ env: { EMAIL_LOGIN: 'off', SIGNUP_MODE: 'invite' } });
+    try {
+      expect((await off.inject({ method: 'GET', url: '/api/meta' })).json().features.emailLogin).toBe(false);
+      const res = await off.inject({ method: 'POST', url: '/api/auth/sign-up/email', headers: { origin: ORIGIN, 'content-type': 'application/json' }, payload: { name: 'Ana', email: 'ana@t.local', password: PASSWORD } });
+      expect(res.statusCode).toBeGreaterThanOrEqual(400);
+      // convite criado por um mestre (no app com e-mail ligado, mesmo banco)
+      const gm = new Client(app);
+      await gm.signUp('Mestra', 'mestra@t.local');
+      const camp = (await gm.post('/api/campaigns', { name: 'Mesa' })).json().campaign;
+      const { code } = (await gm.post(`/api/campaigns/${camp.id}/invites`, {})).json();
+      const hold = await off.inject({ method: 'POST', url: `/api/invites/${code}/hold`, headers: { origin: ORIGIN, 'content-type': 'application/json' }, payload: {} });
+      expect(hold.statusCode).toBe(204);
+      const cookie = String(hold.headers['set-cookie']);
+      expect(cookie).toMatch(/r2d6_invite=/);
+      expect(cookie).toMatch(/HttpOnly/i);
+      expect(inviteFromCookie(cookie.split(';')[0])).toBe(code);
+      expect(await inviteIsValid(off.ctx.db, inviteFromCookie(`a=b; ${cookie.split(';')[0]}`))).toBe(true);
+      expect((await off.inject({ method: 'POST', url: '/api/invites/ZZZZ-ZZZZ/hold', headers: { origin: ORIGIN, 'content-type': 'application/json' }, payload: {} })).statusCode).toBe(410);
+    } finally { await off.close(); }
+  });
+
+  it('produção sem e-mail exige Google configurado', () => {
+    const prod = { NODE_ENV: 'production', APP_URL: 'https://r2-d6.fly.dev', BETTER_AUTH_SECRET: 'x'.repeat(40), GOOGLE_CLIENT_ID: '', GOOGLE_CLIENT_SECRET: '', EMAIL_LOGIN: '' };
+    expect(() => loadConfig(prod)).toThrow(/GOOGLE_CLIENT_ID/);
+    expect(loadConfig({ ...prod, GOOGLE_CLIENT_ID: 'id', GOOGLE_CLIENT_SECRET: 's' }).features.emailLogin).toBe(false);
+  });
+});
 
 describe('login', () => {
   it('cadastra, mantém a sessão por cookie httpOnly e sai', async () => {

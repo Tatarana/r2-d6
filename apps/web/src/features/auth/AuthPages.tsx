@@ -2,7 +2,7 @@
 import { useQuery } from '@tanstack/react-query';
 import { Hexagon, LogIn } from 'lucide-react';
 import { useState, type FormEvent, type ReactNode } from 'react';
-import { Link, useNavigate, useSearchParams } from 'react-router';
+import { Link, Navigate, useNavigate, useSearchParams } from 'react-router';
 import { Field } from '@/components/ui';
 import { get } from '@/lib/api';
 import { authClient, signIn, signUp } from '@/lib/auth';
@@ -11,7 +11,7 @@ import { usePrefs } from '@/lib/prefs';
 import { HyperspaceField, JUMP_MS } from '@/components/HyperspaceField';
 
 export function useMeta() {
-  return useQuery({ queryKey: ['meta'], queryFn: () => get<{ features: { google: boolean; discord: boolean; assistant: boolean }; bundleHash: string }>('/api/meta'), retry: 0 });
+  return useQuery({ queryKey: ['meta'], queryFn: () => get<{ features: { google: boolean; discord: boolean; assistant: boolean; signupOpen: boolean; emailLogin: boolean }; bundleHash: string }>('/api/meta'), retry: 0 });
 }
 
 function AuthLayout({ title, subtitle, children, jumping, onJumped }: { title: string; subtitle?: string; children: ReactNode; jumping?: boolean; onJumped?: () => void }) {
@@ -33,14 +33,20 @@ function AuthLayout({ title, subtitle, children, jumping, onJumped }: { title: s
   );
 }
 
-function Social({ mode }: { mode: 'login' | 'signup' }) {
+/** Login social; `next` e o caminho de volta (ex.: /convite/CODIGO). */
+export const socialSignIn = (provider: 'google' | 'discord', next = '/') => {
+  const back = window.location.origin + next;
+  return authClient.signIn.social({ provider, callbackURL: back, newUserCallbackURL: back, errorCallbackURL: window.location.origin + '/entrar?error=oauth' });
+};
+
+function Social({ mode, next = '/', alone = false }: { mode: 'login' | 'signup'; next?: string; alone?: boolean }) {
   const meta = useMeta();
   const f = meta.data?.features;
-  const go = (provider: 'google' | 'discord') => authClient.signIn.social({ provider, callbackURL: window.location.origin + '/', newUserCallbackURL: window.location.origin + '/', errorCallbackURL: window.location.origin + '/entrar?error=oauth' });
+  const go = (provider: 'google' | 'discord') => socialSignIn(provider, next);
   const googleOn = !!f?.google;
   const verb = mode === 'login' ? 'Entrar' : 'Cadastrar';
   return (
-    <div className="grid gap-2 border-t border-[var(--line)] pt-3">
+    <div className={cn('grid gap-2', !alone && 'border-t border-[var(--line)] pt-3')}>
       {/* Google sempre aparece: desabilitado (com dica ao admin) enquanto GOOGLE_CLIENT_ID/SECRET nao estiverem no .env */}
       <button className="btn" type="button" disabled={!googleOn} onClick={() => go('google')} data-testid="google-button" aria-describedby={googleOn ? undefined : 'google-hint'}>
         <svg viewBox="0 0 24 24" className="h-5 w-5" aria-hidden><path fill="currentColor" d="M21.35 11.1H12v2.98h5.35c-.23 1.4-1.6 4.1-5.35 4.1a6 6 0 1 1 0-12c1.9 0 3.17.8 3.9 1.5l2.66-2.56A9.6 9.6 0 0 0 12 2.5a9.5 9.5 0 1 0 0 19c5.48 0 9.1-3.85 9.1-9.27 0-.62-.07-1.1-.15-1.13z" /></svg>
@@ -71,6 +77,16 @@ export function LoginPage() {
   const [sp] = useSearchParams();
   const f = useForm();
   const [warp, setWarp] = useState(false);
+  const meta = useMeta();
+  const next = sp.get('next') || '/';
+  // producao: so Google (EMAIL_LOGIN=off); enquanto /api/meta carrega, nao mostra o formulario
+  if (meta.data && !meta.data.features.emailLogin) return (
+    <AuthLayout title="Entrar" subtitle="Sua ficha, sua mesa, seus dados.">
+      {sp.get('error') && <p role="alert" className="err">Não foi possível entrar com o Google. Se é o seu primeiro acesso, abra o link de convite da sua campanha e entre por ele.</p>}
+      <Social mode="login" next={next} alone />
+      {meta.data.features.signupOpen === false && <p className="text-sm text-muted">Primeiro acesso? A conta é criada pelo link de convite que o mestre da campanha envia.</p>}
+    </AuthLayout>
+  );
   const submit = async (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     f.setError(null); f.setBusy(true);
@@ -93,7 +109,7 @@ export function LoginPage() {
         <button className="btn primary big" disabled={f.busy}><LogIn className="h-5 w-5" aria-hidden />{f.busy ? 'Entrando…' : 'Entrar'}</button>
         <div className="flex justify-between text-sm"><Link to="/esqueci">Esqueci a senha</Link><Link to="/cadastro">Criar conta</Link></div>
       </form>
-      <Social mode="login" />
+      <Social mode="login" next={next} />
     </AuthLayout>
   );
 }
@@ -102,6 +118,12 @@ export function SignupPage() {
   const nav = useNavigate();
   const [sp] = useSearchParams();
   const f = useForm();
+  const meta = useMeta();
+  // cadastro por convite: o codigo vem do link de convite (/convite/CODIGO), repassado em ?next=
+  const inviteCode = /^\/convite\/([^/?#]+)/.exec(sp.get('next') ?? '')?.[1];
+  const closed = meta.data?.features.signupOpen === false && !inviteCode;
+  // so Google: a conta nasce no primeiro login (pelo convite), entao o cadastro vira a tela de entrar
+  if (meta.data && !meta.data.features.emailLogin) return <Navigate to={`/entrar${sp.get('next') ? `?next=${encodeURIComponent(sp.get('next')!)}` : ''}`} replace />;
   const submit = async (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     f.setError(null);
@@ -110,13 +132,19 @@ export function SignupPage() {
     if (password.length < 10) return f.setError('A senha precisa ter pelo menos 10 caracteres.');
     if (password !== String(fd.get('password2'))) return f.setError('As senhas não conferem.');
     f.setBusy(true);
-    const { error } = await signUp.email({ name: String(fd.get('name')).trim(), email: String(fd.get('email')).trim(), password });
+    const { error } = await signUp.email({ name: String(fd.get('name')).trim(), email: String(fd.get('email')).trim(), password, ...(inviteCode ? { inviteCode: decodeURIComponent(inviteCode) } : {}) } as Parameters<typeof signUp.email>[0]);
     f.setBusy(false);
     if (error) return f.setError(authMsg(error.message, error.status));
     nav(sp.get('next') || '/', { replace: true });
   };
   return (
     <AuthLayout title="Criar conta" subtitle="Leva um minuto. Sem e-mail de confirmação no protótipo.">
+      {closed ? (
+        <div className="grid gap-3">
+          <p>O cadastro está fechado: as contas são criadas só por convite. Peça ao mestre da sua campanha o link de convite e abra-o para criar a conta.</p>
+          <p className="text-sm">Já tem conta? <Link to="/entrar">Entrar</Link></p>
+        </div>
+      ) : (
       <form onSubmit={submit} className="grid gap-3" noValidate>
         <Field label="Nome de exibição"><input className="input" name="name" autoComplete="nickname" required minLength={2} maxLength={60} autoFocus /></Field>
         <Field label="E-mail"><input className="input" name="email" type="email" autoComplete="username" required /></Field>
@@ -126,7 +154,9 @@ export function SignupPage() {
         <button className="btn primary big" disabled={f.busy}>{f.busy ? 'Criando…' : 'Criar conta'}</button>
         <p className="text-sm">Já tem conta? <Link to="/entrar">Entrar</Link></p>
       </form>
-      <Social mode="signup" />
+      )}
+      {/* login social nao leva o codigo de convite: so aparece com cadastro aberto */}
+      {meta.data?.features.signupOpen !== false && <Social mode="signup" />}
     </AuthLayout>
   );
 }

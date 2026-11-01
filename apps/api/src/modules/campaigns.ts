@@ -1,11 +1,12 @@
 // campaigns.ts - campanhas: criar, convidar por codigo/link, membros, grupo, concessoes do mestre, avancar round.
 import { and, asc, desc, eq, inArray, isNull, sql } from 'drizzle-orm';
-import { createHash, randomInt } from 'node:crypto';
+import { randomInt } from 'node:crypto';
 import type { FastifyInstance } from 'fastify';
 import { z } from 'zod';
 import { attachCharacterBody, createCampaignBody, createInviteBody, grantBody, patchCampaignBody } from '@r2d6/contracts';
 import { canAddFP, nextRound, type Op } from '@r2d6/rules';
 import type { AppCtx } from '../ctx';
+import { hashCode, inviteCookie } from '../lib/invite';
 import { schema } from '../db/client';
 import { badRequest, conflict, forbidden, notFound, unprocessable } from '../lib/http';
 import { accessCharacter, membershipOf, summarize, writeCharacter } from './characters';
@@ -18,7 +19,7 @@ const makeCode = () => {
   const pick = (n: number) => Array.from({ length: n }, () => ALPHABET[randomInt(ALPHABET.length)]).join('');
   return `${pick(4)}-${pick(4)}`;
 };
-export const hashCode = (code: string) => createHash('sha256').update(code.toUpperCase().replace(/[^A-Z0-9]/g, '')).digest('hex');
+export { hashCode };
 
 export async function requireMember(ctx: AppCtx, campaignId: string, userId: string) {
   if (!z.string().uuid().safeParse(campaignId).success) throw notFound('Campanha');
@@ -128,7 +129,15 @@ export function registerCampaignRoutes(app: FastifyInstance, ctx: AppCtx) {
     const [gm] = await ctx.db.select({ name: user.name }).from(campaignMembers).innerJoin(user, eq(user.id, campaignMembers.userId)).where(and(eq(campaignMembers.campaignId, found.campaign.id), eq(campaignMembers.role, 'gm'))).limit(1);
     return { campaign: { name: found.campaign.name, description: found.campaign.description }, gmName: gm?.name ?? '' };
   });
-  app.post('/api/invites/:code/accept', { ...auth, ...inviteLimit }, async (req) => {
+  // antes do login com Google: guarda o convite num cookie curto para o cadastro por convite (SIGNUP_MODE=invite)
+  app.post('/api/invites/:code/hold', inviteLimit, async (req, reply) => {
+    const code = (req.params as any).code as string;
+    if (!await findInvite(code)) throw new (await import('../lib/http')).HttpError(410, 'Convite indisponível', 'Este convite expirou, foi revogado ou atingiu o limite de usos.');
+    reply.header('set-cookie', inviteCookie(code, ctx.cfg.isProd));
+    reply.code(204);
+  });
+  app.post('/api/invites/:code/accept', { ...auth, ...inviteLimit }, async (req, reply) => {
+    reply.header('set-cookie', inviteCookie(null, ctx.cfg.isProd));
     const found = await findInvite((req.params as any).code);
     if (!found) throw new (await import('../lib/http')).HttpError(410, 'Convite indisponível', 'Este convite expirou, foi revogado ou atingiu o limite de usos.');
     const already = await membershipOf(ctx, found.campaign.id, req.user!.id);
