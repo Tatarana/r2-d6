@@ -1,6 +1,8 @@
-import { lazy, Suspense, useEffect } from 'react';
+import { lazy, Suspense, useEffect, useState } from 'react';
 import { Navigate, Outlet, createBrowserRouter, useLocation, useParams } from 'react-router';
 import { AppShell } from '@/components/AppShell';
+import { HyperspaceField, JUMP_MS } from '@/components/HyperspaceField';
+import { usePrefs } from '@/lib/prefs';
 import { ErrorState, Spinner } from '@/components/ui';
 import { useSession } from '@/lib/auth';
 import { connectSocket } from '@/lib/socket';
@@ -21,11 +23,33 @@ import { PrintPage } from '@/features/characters/PrintPage';
 
 const ArtDev = lazy(() => import('@/features/dev/ArtDev'));
 
+// abertura: ao carregar o app pela URL principal (inclusive na volta do login com Google), as estrelas saltam para o
+// hiperespaco antes do Hangar. Uma vez por carregamento; navegar de volta para / dentro do app nao repete.
+let introPending = typeof window !== 'undefined' && window.location.pathname === '/';
+const INTRO_REST_MS = 700;
+
 function RequireAuth() {
   const { data: session, isPending } = useSession();
   const loc = useLocation();
   const uid = session?.user.id;
+  const [intro, setIntro] = useState(introPending);
+  const [jumping, setJumping] = useState(false);
   useEffect(() => { if (uid) { connectSocket(); void startSync(uid); } }, [uid]);
+  useEffect(() => {
+    if (!intro || isPending) return;
+    const finish = () => { introPending = false; setIntro(false); };
+    const calm = !session || usePrefs.getState().motion === 'off' || window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (calm) return finish();
+    // o salto nao bloqueia: se o canvas nao animar (aba oculta, erro), o temporizador entra no app do mesmo jeito
+    const rest = setTimeout(() => setJumping(true), INTRO_REST_MS);
+    const end = setTimeout(finish, INTRO_REST_MS + JUMP_MS + 300);
+    return () => { clearTimeout(rest); clearTimeout(end); };
+  }, [intro, isPending, session]);
+  if (intro && (isPending || session)) return (
+    <div className="fixed inset-0 bg-[var(--void)]" role="status" aria-label="Entrando no hangar…">
+      <HyperspaceField jumping={jumping} onDone={() => { introPending = false; setIntro(false); }} />
+    </div>
+  );
   if (isPending) return <div className="grid min-h-dvh place-items-center"><Spinner label="Entrando no hangar…" /></div>;
   if (!session) return <Navigate to={`/entrar?next=${encodeURIComponent(loc.pathname + loc.search)}`} replace />;
   return <Outlet />;

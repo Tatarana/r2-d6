@@ -22,7 +22,7 @@ Você cria as contas e cola os segredos no terminal; nenhum segredo vai para o G
 
 ## 1. Contas (uma vez)
 
-1. **Fly.io**: crie a conta em fly.io e instale o `flyctl` (`winget install flyio.flyctl` no Windows). Depois `fly auth login`.
+1. **Fly.io**: crie a conta em fly.io e instale o `flyctl` (no Windows, no PowerShell: `iwr https://fly.io/install.ps1 -useb | iex`, depois reabra o terminal). Depois `fly auth login`.
 2. **Neon**: crie a conta em neon.tech e um projeto `r2-d6` na região mais próxima (São Paulo, se houver; senão
    us-east). Copie a *connection string* com `sslmode=require` (a "pooled" serve).
 3. **Google OAuth**: no Google Cloud Console, crie um projeto, configure a tela de consentimento (tipo "Externo",
