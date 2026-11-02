@@ -1,6 +1,7 @@
 // /dev/art - lista os 144 espacos de imagem do manifesto com status (tem arte ou nao), para quem for produzir as imagens.
 import { useMemo, useState } from 'react';
 import { ART_ITEMS, ArtSlot, artResolved } from '@/components/ArtSlot';
+import { GAME_ICON_IDS, GameIcon } from '@/components/GameIcon';
 import { Page } from '@/components/ui';
 
 const STATUS: Record<string, string> = { draft: 'rascunho', approved: 'aprovada', rejected: 'recusada' };
@@ -21,6 +22,7 @@ export default function ArtDev() {
         <label className="field grow"><span>Buscar</span><input className="input" value={q} onChange={(e) => setQ(e.target.value)} placeholder="id, tela ou descrição" /></label>
         <div className="mono text-sm" data-testid="art-count">{shown.length} exibidos · {done}/{rows.length} prontos</div>
       </div>
+      <IconBoard />
       <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3" data-testid="art-list">
         {shown.map((r) => (
           <li key={r.id} className="glass grid grid-cols-[7rem_1fr] gap-3 p-3" data-art-row={r.id}>
@@ -38,5 +40,28 @@ export default function ArtDev() {
         ))}
       </ul>
     </Page>
+  );
+}
+
+/** Prancha dos icones do jogo (icon.* do manifesto, em SVG): grande, no tamanho de uso e nas cores do app. */
+function IconBoard() {
+  const desc = (id: string) => ART_ITEMS.find((i) => i.id === `icon.${id}`)?.description ?? '';
+  return (
+    <section className="glass mb-4 grid gap-3 p-3" aria-labelledby="icons-h" data-testid="icon-board">
+      <h2 id="icons-h" className="label !text-[0.8rem]">Ícones do jogo ({GAME_ICON_IDS.length}, SVG em components/GameIcon.tsx)</h2>
+      <ul className="grid grid-cols-2 gap-2 sm:grid-cols-4 lg:grid-cols-5">
+        {GAME_ICON_IDS.map((id) => (
+          <li key={id} className="grid gap-1.5 rounded-lg border border-[var(--line)] p-2" title={desc(id)}>
+            <div className="flex items-end gap-3">
+              <GameIcon id={id} size={48} className="text-[var(--holo)]" />
+              <GameIcon id={id} size={24} />
+              <GameIcon id={id} size={16} className="text-[var(--wild)]" />
+            </div>
+            <code className="mono break-all text-xs">{id}</code>
+            <p className="line-clamp-2 text-xs text-muted">{desc(id)}</p>
+          </li>
+        ))}
+      </ul>
+    </section>
   );
 }

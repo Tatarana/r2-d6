@@ -17,6 +17,7 @@ import { templateArt } from '../hangar/Hangar';
 import { CHOICES, FeedList, RollSeal, type RollDTO } from '../campaigns/Feed';
 import { DiceDisplay } from './DiceViews';
 import { ArtSlot } from '@/components/ArtSlot';
+import { GameIcon } from '@/components/GameIcon';
 import { useSession } from '@/lib/auth';
 
 const vibrate = (p: number | number[]) => { if (usePrefs.getState().vibrate && 'vibrate' in navigator) try { navigator.vibrate(p); } catch { /* sem vibracao */ } };
@@ -192,7 +193,7 @@ function Mesa({ ch }: { ch: LocalChar }) {
         <Panel className="flex items-center gap-3">
           <PortraitFrame mediaId={ch.portraitMediaId} size={52} alt="" fallback={templateArt(ch.templateType)} />
           <div className="min-w-0 flex-1"><h1 className="truncate text-xl font-bold">{ch.name}</h1><p className="text-sm text-muted">Round <span className="mono">{ps.n}</span> · {ps.actions} ação(ões)</p></div>
-          <span className="chip" style={{ color: woundTone(wound), borderColor: woundTone(wound) }} data-testid="wound-chip">{WOUND_PT[wound]}</span>
+          <span className="chip" style={{ color: woundTone(wound), borderColor: woundTone(wound) }} data-testid="wound-chip"><GameIcon id={`wound.${wound === 'healthy' ? 'wounded' : wound}`} size={14} className={wound === 'healthy' ? 'hidden' : undefined} />{WOUND_PT[wound]}</span>
           {prefs.wake && <span className="chip" title="Tela sempre ligada neste modo"><Eye className="h-3 w-3" aria-hidden /></span>}
         </Panel>
 
@@ -309,9 +310,9 @@ function Mesa({ ch }: { ch: LocalChar }) {
         <Panel className="grid gap-3" aria-labelledby="pts">
           <h2 id="pts" className="label !text-[0.8rem]">Pontos</h2>
           <div className="grid grid-cols-3 gap-2 text-center">
-            <div><div className="label">CP</div><div className="mono text-3xl font-bold" style={{ color: 'var(--cp)' }} data-testid="cp">{s.character_points}</div><div className="text-xs text-muted">gastos no round: {ps.cpSpent}</div></div>
-            <div><div className="label">FP</div><div className="mono text-3xl font-bold" style={{ color: 'var(--fp)' }} data-testid="fp">{s.force_points}</div><div className="text-xs text-muted">{ps.fpUsed ? 'usado neste round' : 'livre'}</div></div>
-            <div><div className="label">DSP</div><div className="mono text-3xl font-bold" style={{ color: 'var(--dark)' }}>{s.dark_side_points ?? 0}</div></div>
+            <div><div className="label inline-flex items-center gap-1"><GameIcon id="points.cp" size={16} style={{ color: 'var(--cp)' }} />CP</div><div className="mono text-3xl font-bold" style={{ color: 'var(--cp)' }} data-testid="cp">{s.character_points}</div><div className="text-xs text-muted">gastos no round: {ps.cpSpent}</div></div>
+            <div><div className="label inline-flex items-center gap-1"><GameIcon id="points.fp" size={16} style={{ color: 'var(--fp)' }} />FP</div><div className="mono text-3xl font-bold" style={{ color: 'var(--fp)' }} data-testid="fp">{s.force_points}</div><div className="text-xs text-muted">{ps.fpUsed ? 'usado neste round' : 'livre'}</div></div>
+            <div><div className="label inline-flex items-center gap-1"><GameIcon id="points.dsp" size={16} style={{ color: 'var(--dark)' }} />DSP</div><div className="mono text-3xl font-bold" style={{ color: 'var(--dark)' }}>{s.dark_side_points ?? 0}</div></div>
           </div>
           <div className="flex flex-wrap gap-2">
             {!ps.fpUsed ? <button className="btn" style={{ borderColor: 'var(--fp)' }} disabled={!canSpendFP(ps, s.force_points).ok} title={!canSpendFP(ps, s.force_points).ok ? canSpendFP(ps, s.force_points).reason : 'Dobra seus códigos até o fim do round (p.85)'} onClick={() => toggleFP(true)} data-testid="spend-fp"><Zap className="h-4 w-4" aria-hidden />Gastar Force Point</button>
@@ -401,10 +402,10 @@ function WoundCard({ ch }: { ch: LocalChar }) {
       <h2 id="wound" className="label !text-[0.8rem]">Ferimentos</h2>
       <div className={cn('flex items-center justify-between gap-2')} key={wound}>
         <div className={cn('mono text-xl font-bold', wound !== 'healthy' && 'hurt')} style={{ color: woundTone(wound) }} data-testid="wound">{WOUND_PT[wound]}</div>
-        <span className="chip">stuns ativos: {stuns}</span>
+        <span className="chip"><GameIcon id="wound.stunned" size={14} />stuns ativos: {stuns}</span>
       </div>
       <div className="flex flex-wrap gap-1.5">
-        {WOUND_STATES.filter((w) => w !== 'stunned').map((w) => <button key={w} className={cn('btn sm', w === wound && 'primary')} aria-pressed={w === wound} onClick={() => editSheet(ch.id, (d) => { d.wound_status = w; })}>{WOUND_PT[w]}</button>)}
+        {WOUND_STATES.filter((w) => w !== 'stunned').map((w) => <button key={w} className={cn('btn sm', w === wound && 'primary')} aria-pressed={w === wound} onClick={() => editSheet(ch.id, (d) => { d.wound_status = w; })}>{w !== 'healthy' && <GameIcon id={`wound.${w}`} size={16} />}{WOUND_PT[w]}</button>)}
         <button className="btn sm ghost" onClick={() => editSheet(ch.id, (d) => { d.wound_status = HEAL[d.wound_status]; })}>Curar um nível</button>
       </div>
       <div className="grid gap-2 border-t border-[var(--line)] pt-2">

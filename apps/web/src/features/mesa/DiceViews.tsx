@@ -1,5 +1,6 @@
 // DiceViews - dados 2D (fileira chapada; Wild Die = hexagono ambar) e o wrapper que carrega o 3D sob demanda com fallback.
 import { Component, lazy, Suspense, useEffect, useMemo, useState, type ReactNode } from 'react';
+import { GameIcon } from '@/components/GameIcon';
 import { cn } from '@/lib/cn';
 import { usePrefs } from '@/lib/prefs';
 import { usePlatform } from '@/components/AppShell';
@@ -18,7 +19,7 @@ export function DiceRow2D({ r, animate }: { r: DiceResult; animate?: boolean }) 
             <span className={cn('die-w hex', n === 6 && 'boom', n === 1 && i === 0 && 'one', spin && 'holo-in')} style={{ animationDelay: `${(r.normals.length + i) * 70}ms` }} aria-label={`Wild Die ${n}${n === 6 ? ' (explodiu)' : n === 1 && i === 0 ? ' (complicação)' : ''}`}>{n}</span>
           </span>
         ))}
-        <span className="mono text-[0.65rem] font-bold tracking-widest text-[var(--wild)]">WILD</span>
+        <span className="mono inline-flex items-center gap-0.5 text-[0.65rem] font-bold tracking-widest text-[var(--wild)]"><GameIcon id="die.wild" size={14} />WILD</span>
       </span>
       {r.cp.flat().length > 0 && r.cp.map((seq, i) => (
         <span key={`c${i}`} className="flex items-center gap-1">{seq.map((n, j) => <span key={j} className="die-n die-cp" style={{ borderColor: 'var(--cp)' }} aria-label={`dado de CP ${n}`}>{n}</span>)}</span>

@@ -5,6 +5,7 @@ import { useEffect, useRef, useState, type ReactNode } from 'react';
 import { Link, useNavigate, useParams } from 'react-router';
 import { openRef } from '@/components/AppShell';
 import { ArtSlot } from '@/components/ArtSlot';
+import { GameIcon } from '@/components/GameIcon';
 import { ErrorState, Modal, Page, Panel, PortraitFrame, Spinner, WOUND_PT, woundTone } from '@/components/ui';
 import { ApiError, api, errText } from '@/lib/api';
 import { useCatalog } from '@/lib/catalog';
@@ -39,10 +40,10 @@ export function CodeField({ value, onCommit, label }: { value: any; onCommit: (d
   );
 }
 
-export function Counter({ label, value, onChange, tone, min = 0, max }: { label: string; value: number; onChange: (n: number) => void; tone?: string; min?: number; max?: number }) {
+export function Counter({ label, value, onChange, tone, min = 0, max, icon }: { label: string; value: number; onChange: (n: number) => void; tone?: string; min?: number; max?: number; icon?: string }) {
   return (
     <div className="grid justify-items-center gap-1">
-      <span className="label">{label}</span>
+      <span className="label inline-flex items-center gap-1">{icon && <GameIcon id={icon} size={16} style={{ color: tone }} />}{label}</span>
       <div className="flex items-center gap-1.5">
         <button className="btn icon" aria-label={`${label}: diminuir`} disabled={value <= min} onClick={() => onChange(value - 1)}><Minus className="h-4 w-4" /></button>
         <output className="mono min-w-10 text-center text-2xl font-bold" style={{ color: tone }} aria-label={`${label}: ${value}`}>{value}</output>
@@ -52,8 +53,8 @@ export function Counter({ label, value, onChange, tone, min = 0, max }: { label:
   );
 }
 
-function Section({ title, children, right }: { title: string; children: ReactNode; right?: ReactNode }) {
-  return <Panel className="grid gap-3"><div className="flex flex-wrap items-center justify-between gap-2"><h2 className="label !text-[0.8rem]">{title}</h2>{right}</div>{children}</Panel>;
+function Section({ title, children, right, icon }: { title: string; children: ReactNode; right?: ReactNode; icon?: string }) {
+  return <Panel className="grid gap-3"><div className="flex flex-wrap items-center justify-between gap-2"><h2 className="label inline-flex items-center gap-1.5 !text-[0.8rem]">{icon && <GameIcon id={icon} size={18} className="text-[var(--holo)]" />}{title}</h2>{right}</div>{children}</Panel>;
 }
 
 export function SheetPage() {
@@ -124,7 +125,7 @@ export function SheetPage() {
             const at = s.attributes[a];
             const free = C.listOf('skills').filter((k: any) => k.attribute === a && !at.skills.some((x: any) => x.skill === k.id));
             return (
-              <Section key={a} title={`${ATTR_ABBR[a as keyof typeof ATTR_ABBR]} · ${a}`} right={<CodeField label={`Valor de ${a}`} value={at.value} onCommit={(v) => set((d) => { d.attributes[a].value = v; })} />}>
+              <Section key={a} icon={`attr.${a}`} title={`${ATTR_ABBR[a as keyof typeof ATTR_ABBR]} · ${a}`} right={<CodeField label={`Valor de ${a}`} value={at.value} onCommit={(v) => set((d) => { d.attributes[a].value = v; })} />}>
                 <ul className="grid gap-2">
                   {at.skills.map((sk: any, i: number) => (
                     <li key={sk.skill} className="grid gap-1.5 border-t border-[var(--line)] pt-2">
@@ -160,7 +161,7 @@ export function SheetPage() {
             {s.force_sensitive && (
               <>
                 <div className="grid grid-cols-3 gap-2">{FORCE_SKILLS.map((f) => (
-                  <div key={f} className="grid justify-items-center gap-1"><span className="label">{f}</span>
+                  <div key={f} className="grid justify-items-center gap-1"><span className="label inline-flex items-center gap-1"><GameIcon id={`force.${f}`} size={16} className="text-[var(--fp)]" />{f}</span>
                     <CodeField label={`Force ${f}`} value={s.force_attributes?.[f] ?? { dice: 0, pips: 0, text: '0D' }} onCommit={(v) => set((d) => { (d.force_attributes ??= {})[f] = v; })} /></div>))}</div>
                 <div className="flex flex-wrap gap-1.5">{(s.force_powers ?? []).map((pid: string) => <button key={pid} className="chip" onClick={() => openRef('powers', pid)}>{C.getEntity('powers', pid)?.name ?? pid}</button>)}</div>
               </>
@@ -179,9 +180,9 @@ export function SheetPage() {
         <div className="grid content-start gap-4">
           <Section title="Estado e pontos" right={<AdvanceButton ch={ch} />}>
             <div className="flex flex-wrap justify-around gap-3">
-              <Counter label="CP" tone="var(--cp)" value={s.character_points} onChange={(n) => set((d) => { d.character_points = n; })} />
-              <Counter label="FP" tone="var(--fp)" value={s.force_points} onChange={(n) => set((d) => { d.force_points = n; })} />
-              <Counter label="DSP" tone="var(--dark)" value={s.dark_side_points ?? 0} onChange={(n) => set((d) => { d.dark_side_points = n; })} />
+              <Counter label="CP" icon="points.cp" tone="var(--cp)" value={s.character_points} onChange={(n) => set((d) => { d.character_points = n; })} />
+              <Counter label="FP" icon="points.fp" tone="var(--fp)" value={s.force_points} onChange={(n) => set((d) => { d.force_points = n; })} />
+              <Counter label="DSP" icon="points.dsp" tone="var(--dark)" value={s.dark_side_points ?? 0} onChange={(n) => set((d) => { d.dark_side_points = n; })} />
             </div>
             <div className="grid grid-cols-2 gap-3">
               <label className="field"><span>Ferimento</span>
