@@ -1,11 +1,18 @@
 // round.ts - estado de mesa (play_state) e alvos de rolagem. Puro; usado no cliente e no servidor.
-import { parse } from './dice';
-import { ATTRS, ATTR_ABBR, FORCE_SKILLS, effectivePool, stunPenaltyCount, woundPenaltyDice, canSpendCP, canSpendFP, cpLimit, nextRound } from './rules';
+import { format, parse } from './dice';
+import { ATTRS, ATTR_ABBR, FORCE_SKILLS, effectivePool, scaleAdjust, stunPenaltyCount, woundPenaltyDice, canSpendCP, canSpendFP, cpLimit, nextRound } from './rules';
 
-export interface PlayState { n: number; actions: number; cpSpent: number; fpUsed: boolean; stuns: number[]; mortalRounds: number; activeWeapon?: number | null }
+/** Escalas de combate (RD-24, p.95), da menor para a maior. */
+export const SCALES = ['character', 'speeder', 'walker', 'starfighter', 'capital', 'death-star'] as const;
+
+/** armorWorn: indice em sheet.armor; scale/opponentScale: escala do personagem (ou do veiculo que pilota) e do oponente. */
+export interface PlayState {
+  n: number; actions: number; cpSpent: number; fpUsed: boolean; stuns: number[]; mortalRounds: number; activeWeapon?: number | null;
+  armorWorn?: number | null; scale?: string; opponentScale?: string;
+}
 
 export function defaultPlayState(): PlayState {
-  return { n: 1, actions: 1, cpSpent: 0, fpUsed: false, stuns: [], mortalRounds: 0, activeWeapon: null };
+  return { n: 1, actions: 1, cpSpent: 0, fpUsed: false, stuns: [], mortalRounds: 0, activeWeapon: null, armorWorn: null, scale: 'character', opponentScale: 'character' };
 }
 
 export const penaltyOf = (sheet: any, ps: PlayState) => ({
@@ -44,13 +51,72 @@ export function parseWeaponDamage(text: string) {
   return null;
 }
 
-/** Parada efetiva de um alvo dado o estado da ficha e do round. */
-export function poolForTarget(sheet: any, ps: PlayState, target: { base: any; rollType: string }, opts: { bonus?: any; noStr?: boolean } = {}) {
+// ------------------------------------------------------------------ armadura e escala (p.94-95, RD-24)
+/** Por rolagem: tipo do dano recebido (armadura protege diferente) e se a pericia e um ataque (bonus de escala). */
+export interface RollMods { damageKind?: 'physical' | 'energy'; attack?: boolean }
+export interface ModsCtx { armorById: Map<string, any>; scaleTable: any; skillsById: Map<string, any> }
+
+export const modsContext = (bundle: any, skillsById: Map<string, any>): ModsCtx => ({
+  armorById: new Map(bundle.entities.armor.map((a: any) => [a.id, a])), scaleTable: bundle.tables['combat-modifiers'].scale, skillsById,
+});
+
+const SCALE_PT: Record<string, string> = { character: 'personagem', speeder: 'speeder', walker: 'walker', starfighter: 'caça', capital: 'nave capital', 'death-star': 'Death Star' };
+export const scaleLabel = (s: string) => SCALE_PT[s] ?? s;
+
+/** Armadura vestida e a peca da ficha correspondente no catalogo (null se nenhuma). */
+export function wornArmor(sheet: any, ps: PlayState, ctx: ModsCtx) {
+  const i = ps.armorWorn;
+  const entry = Number.isInteger(i) ? sheet.armor?.[i as number] : null;
+  const item = entry ? ctx.armorById.get(entry.item) : null;
+  return entry ? { entry, protection: item?.protection ?? null } : null;
+}
+
+/**
+ * Bonus e penalidade de armadura e escala para um alvo, com uma linha de explicacao por efeito.
+ * Armadura (p.94): soma so na resistencia (fisico ou energia) e tira da Dexterity e das pericias dela.
+ * Escala (p.95): menor ataca maior = atacante soma no ataque, alvo na resistencia; maior ataca menor = alvo soma na esquiva, atacante no dano.
+ */
+export function combatMods(sheet: any, ps: PlayState, target: { key: string; rollType: string; skillId?: string }, mods: RollMods, ctx: ModsCtx) {
+  const lines: string[] = [];
+  let bonus = { dice: 0, pips: 0 }, penalty = 0;
+  const plus = (code: any, why: string) => { const c = parse(code); bonus = { dice: bonus.dice + c.dice, pips: bonus.pips + c.pips }; lines.push(`${why}: +${format(c)}`); };
+
+  const armor = wornArmor(sheet, ps, ctx);
+  const prot = armor?.protection;
+  if (target.rollType === 'resist' && prot) {
+    const kind = mods.damageKind ?? 'energy';
+    if (prot[kind]) plus(prot[kind], `Armadura ${armor!.entry.type} (${kind === 'energy' ? 'energia' : 'físico'}, p.94)`);
+    else lines.push(`Armadura ${armor!.entry.type}: não protege contra dano ${kind === 'energy' ? 'de energia' : 'físico'}`);
+  }
+  const attr = target.key === 'a:dexterity' ? 'dexterity' : target.skillId ? ctx.skillsById.get(target.skillId)?.attribute : null;
+  if (prot?.dexterity_penalty && attr === 'dexterity') {
+    const p = Math.abs(parse(prot.dexterity_penalty).dice);
+    if (p) { penalty += p; lines.push(`Armadura ${armor!.entry.type}: -${p}D em Dexterity e perícias dela (p.94)`); }
+  }
+
+  const self = ps.scale ?? 'character', opp = ps.opponentScale ?? self;
+  if (self !== opp) {
+    const incoming = scaleAdjust(opp, self, ctx.scaleTable), outgoing = scaleAdjust(self, opp, ctx.scaleTable);
+    const why = (a: string, b: string) => `Escala: ${scaleLabel(a)} contra ${scaleLabel(b)} (p.95)`;
+    if (target.rollType === 'resist' && incoming.resistBonus) plus(incoming.resistBonus, why(opp, self));
+    else if (target.rollType === 'reaction' && incoming.dodgeBonus) plus(incoming.dodgeBonus, why(opp, self));
+    else if (target.rollType === 'damage' && outgoing.damageBonus) plus(outgoing.damageBonus, why(self, opp));
+    else if (mods.attack && outgoing.attackBonus) plus(outgoing.attackBonus, why(self, opp));
+  }
+  return { bonus: bonus.dice || bonus.pips ? bonus : null, penalty, lines };
+}
+
+/** Parada efetiva de um alvo dado o estado da ficha e do round (com armadura e escala quando ha contexto). */
+export function poolForTarget(sheet: any, ps: PlayState, target: { key?: string; base: any; rollType: string; skillId?: string },
+  opts: { bonus?: any; noStr?: boolean; mods?: RollMods; ctx?: ModsCtx } = {}) {
   const rollType = target.rollType;
   const base = rollType === 'damage' && opts.noStr ? { dice: 0, pips: 0 } : target.base;
+  const cm = opts.ctx ? combatMods(sheet, ps, { key: target.key ?? '', rollType, skillId: target.skillId }, opts.mods ?? {}, opts.ctx) : null;
+  const weapon = rollType === 'damage' && opts.bonus ? parse(opts.bonus) : null;
+  const sum = [weapon, cm?.bonus].filter(Boolean).reduce((a: any, b: any) => ({ dice: a.dice + b.dice, pips: a.pips + b.pips }), { dice: 0, pips: 0 });
   return effectivePool({
     base, actionsDeclared: ps.actions, woundState: sheet.wound_status, activeStuns: stunPenaltyCount(ps.stuns, ps.n),
-    forcePoint: ps.fpUsed, rollType, bonus: rollType === 'damage' && opts.bonus ? opts.bonus : null,
+    forcePoint: ps.fpUsed, rollType, bonus: sum.dice || sum.pips ? sum : null, extraPenalty: cm?.penalty ?? 0, extraLines: cm?.lines ?? [],
   });
 }
 

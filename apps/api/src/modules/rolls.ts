@@ -51,7 +51,7 @@ export function registerRollRoutes(app: FastifyInstance, ctx: AppCtx) {
     const sheet: any = row.sheet;
     const target = targetsOf(sheet, ctx.skillsById).find((t) => t.key === body.targetKey);
     if (!target) throw unprocessable('Alvo de rolagem desconhecido para este personagem.');
-    const pool = poolForTarget(sheet, row.playState as any, target, { bonus: body.damageBonus, noStr: body.noStr });
+    const pool = poolForTarget(sheet, row.playState as any, target, { bonus: body.damageBonus, noStr: body.noStr, mods: { damageKind: body.damageKind, attack: body.attack }, ctx: ctx.mods });
     if (!pool.usable) throw unprocessable('Parada sem dados: não é possível rolar.', { lines: pool.lines });
     const code = parse(pool.code);
     let result;

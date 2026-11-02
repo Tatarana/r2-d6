@@ -5,4 +5,5 @@ export type { Sheet, SheetValidator } from './sheet';
 export * from './creation';
 export * from './ops';
 export * from './round';
+export * from './advance';
 export * from './v1-store';

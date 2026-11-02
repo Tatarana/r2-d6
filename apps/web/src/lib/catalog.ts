@@ -1,10 +1,10 @@
 // catalog.ts - carrega o bundle de dados (precache do service worker) e expoe o catalogo e o motor de criacao.
 import { createCatalog, type Catalog } from '@r2d6/data';
-import { createCreation, type Creation } from '@r2d6/rules';
+import { createCreation, modsContext, type Creation, type ModsCtx } from '@r2d6/rules';
 import bundleUrl from '@r2d6/data/generated/bundle.json?url';
 import { useEffect, useState } from 'react';
 
-type CatalogState = { catalog: Catalog; creation: Creation };
+type CatalogState = { catalog: Catalog; creation: Creation; mods: ModsCtx; bundle: any };
 let state: CatalogState | null = null;
 let loading: Promise<CatalogState> | null = null;
 const listeners = new Set<() => void>();
@@ -12,7 +12,8 @@ const listeners = new Set<() => void>();
 export function loadCatalog(): Promise<CatalogState> {
   if (state) return Promise.resolve(state);
   loading ??= fetch(bundleUrl).then((r) => { if (!r.ok) throw new Error(`bundle: HTTP ${r.status}`); return r.json(); }).then((bundle) => {
-    state = { catalog: createCatalog(bundle, { hrefBase: '/consulta' }), creation: createCreation(bundle) };
+    const creation = createCreation(bundle);
+    state = { catalog: createCatalog(bundle, { hrefBase: '/consulta' }), creation, mods: modsContext(bundle, creation.skillsById), bundle };
     listeners.forEach((l) => l());
     return state;
   });

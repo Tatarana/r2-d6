@@ -11,6 +11,7 @@ import { useCatalog } from '@/lib/catalog';
 import { usePrefs } from '@/lib/prefs';
 import { applyServerResult, editSheet, useChar } from '@/lib/sync';
 import { templateArt } from '../hangar/Hangar';
+import { AdvanceButton } from './AdvanceDialog';
 import { ConflictDialog } from './ConflictDialog';
 
 /** Campo de texto que grava ao sair (evita uma operacao por tecla). */
@@ -176,7 +177,7 @@ export function SheetPage() {
         </div>
 
         <div className="grid content-start gap-4">
-          <Section title="Estado e pontos">
+          <Section title="Estado e pontos" right={<AdvanceButton ch={ch} />}>
             <div className="flex flex-wrap justify-around gap-3">
               <Counter label="CP" tone="var(--cp)" value={s.character_points} onChange={(n) => set((d) => { d.character_points = n; })} />
               <Counter label="FP" tone="var(--fp)" value={s.force_points} onChange={(n) => set((d) => { d.force_points = n; })} />

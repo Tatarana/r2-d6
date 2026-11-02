@@ -3,7 +3,7 @@ import helmet from '@fastify/helmet';
 import multipart from '@fastify/multipart';
 import rateLimit from '@fastify/rate-limit';
 import fastifyStatic from '@fastify/static';
-import { createSheetValidator } from '@r2d6/rules';
+import { createSheetValidator, modsContext } from '@r2d6/rules';
 import { bundleHash, loadBundle } from '@r2d6/data/node';
 import { createCatalog } from '@r2d6/data';
 import { fromNodeHeaders } from 'better-auth/node';
@@ -45,10 +45,11 @@ export async function buildApp(opts: BuildOptions = {}): Promise<FastifyInstance
   const bundle = loadBundle();
   const catalog = createCatalog(bundle);
   const rt = createRealtime(opts.realtime === false ? null : app.server, { cfg, db, auth });
+  const skillsById = new Map<string, any>(bundle.entities.skills.map((s: any) => [s.id, s]));
   const ctx: AppCtx = {
     cfg, db, auth, mailer, catalog, bundleHash: bundleHash(), rt,
     validateSheet: createSheetValidator(bundle.schema),
-    skillsById: new Map(bundle.entities.skills.map((s: any) => [s.id, s])),
+    skillsById, mods: modsContext(bundle, skillsById),
     storage: createStorage(cfg, db),
   };
   app.decorate('ctx', ctx);

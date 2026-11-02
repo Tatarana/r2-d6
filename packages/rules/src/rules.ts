@@ -28,7 +28,11 @@ export const cannotAct = (w) => w === 'incapacitated' || w === 'mortally-wounded
  * `bonus` (opcional) e somado depois de dobrar e nao e dobrado (arma no dano, RD-13).
  */
 export function effectivePool({ base, actionsDeclared = 1, woundState = 'healthy', activeStuns = 0,
-  forcePoint = false, rollType = 'skill', bonus = null }) {
+  forcePoint = false, rollType = 'skill', bonus = null, extraPenalty = 0, extraLines = [] }: {
+  base: any; actionsDeclared?: number; woundState?: string; activeStuns?: number; forcePoint?: boolean; rollType?: string;
+  bonus?: any; extraPenalty?: number; extraLines?: string[];
+}) {
+  // extraPenalty/extraLines: modificadores de combate ja explicados (armadura e escala, combatMods em round.ts)
   const lines = [];
   let code = parse(base);
   lines.push(`Base: ${format(code)}`);
@@ -52,13 +56,14 @@ export function effectivePool({ base, actionsDeclared = 1, woundState = 'healthy
       lines.push(`Force Point dobra: ${format(code)} (RD-13, p.85)`);
     }
   }
+  for (const l of extraLines) lines.push(l);
   if (bonus) {
     const b = parse(bonus);
     code = { dice: code.dice + b.dice, pips: code.pips + b.pips };
     lines.push(`Bonus (nao dobrado): +${format(b)} = ${format(code)}`);
   }
 
-  let penalty = 0;
+  let penalty = extraPenalty;
   const actionPenalty = NO_ACTION_PENALTY.has(rollType) ? 0 : Math.max(0, actionsDeclared - 1);
   if (actionsDeclared > 1) {
     if (actionPenalty) { lines.push(`Acoes declaradas ${actionsDeclared}: -${actionPenalty}D (RD-07, p.78)`); }

@@ -3,7 +3,7 @@ import { and, asc, desc, eq, gt, inArray, isNull, sql } from 'drizzle-orm';
 import type { FastifyInstance } from 'fastify';
 import { z } from 'zod';
 import { batchBody, createCharacterBody, mutationSchema, playStateBody } from '@r2d6/contracts';
-import { applyOps, canSpendFP, clampSheet, defaultPlayState, findConflicts, isGmOp, speciesLimitWarnings, type Op } from '@r2d6/rules';
+import { SCALES, applyOps, canSpendFP, clampSheet, defaultPlayState, findConflicts, isGmOp, speciesLimitWarnings, type Op } from '@r2d6/rules';
 import { canEditSheet, canSeeHistory, characterRole, gmOpsAllowed, redactSheet, type CharRole } from '../authz/policies';
 import type { AppCtx, SessionUser } from '../ctx';
 import { schema } from '../db/client';
@@ -147,6 +147,8 @@ const sanitizePlayState = (raw: any) => {
     n: n(raw?.n, d.n, 1), actions: n(raw?.actions, 1, 1, 9), cpSpent: n(raw?.cpSpent, 0, 0, 50), fpUsed: !!raw?.fpUsed,
     stuns: Array.isArray(raw?.stuns) ? raw.stuns.filter((x: any) => Number.isInteger(x)).slice(0, 20) : [],
     mortalRounds: n(raw?.mortalRounds, 0, 0, 100), activeWeapon: Number.isInteger(raw?.activeWeapon) ? raw.activeWeapon : null,
+    armorWorn: Number.isInteger(raw?.armorWorn) && raw.armorWorn >= 0 ? raw.armorWorn : null,
+    scale: SCALES.includes(raw?.scale) ? raw.scale : d.scale, opponentScale: SCALES.includes(raw?.opponentScale) ? raw.opponentScale : d.opponentScale,
   };
 };
 

@@ -1,7 +1,7 @@
 // MesaPage - modo mesa: rolador (Wild Die, acoes multiplas, CP/FP), ferimentos, round, municao e feed da campanha.
 // Rolagem no servidor quando ha rede (selo "servidor"), dados fisicos digitados, e rolagem local sem rede (selo "offline").
 import { ATTRS, canSpendCP, canSpendFP, applyWound, damageResult, defaultPlayState, format, mortalCheck, nextRound, parse, parseWeaponDamage, penaltyOf, poolForTarget, roll as rollLocal,
-  targetsOf, validWildSeq, cpLimit, stunPenaltyCount, WOUND_STATES, type RollTarget } from '@r2d6/rules';
+  targetsOf, validWildSeq, cpLimit, stunPenaltyCount, wornArmor, scaleAdjust, scaleLabel, SCALES, WOUND_STATES, type RollMods, type RollTarget } from '@r2d6/rules';
 import { Dices, Eye, Minus, Plus, Shield, Swords, Zap } from 'lucide-react';
 import { useEffect, useMemo, useState } from 'react';
 import { useParams } from 'react-router';
@@ -45,6 +45,8 @@ function Mesa({ ch }: { ch: LocalChar }) {
   const [visibility, setVisibility] = useState<'table' | 'gm' | 'private'>(ch.campaignId ? 'table' : 'private');
   const [weaponIdx, setWeaponIdx] = useState(0);
   const [noStr, setNoStr] = useState(false);
+  const [damageKind, setDamageKind] = useState<'energy' | 'physical'>('energy');
+  const [attack, setAttack] = useState(false);
   const [result, setResult] = useState<View | null>(null);
   const [busy, setBusy] = useState(false);
   const [err, setErr] = useState<string | null>(null);
@@ -57,7 +59,12 @@ function Mesa({ ch }: { ch: LocalChar }) {
   const weapon = s.weapons[weaponIdx];
   const dmg = target?.rollType === 'damage' && weapon ? parseWeaponDamage(weapon.damage) : null;
   const bonus = dmg?.bonus || undefined;
-  const pool = target ? poolForTarget(s, ps, target, { bonus, noStr: dmg ? !dmg.str : noStr }) : null;
+  // armadura vestida e escala (B-220): o servidor recalcula com o mesmo play_state
+  const armor = wornArmor(s, ps, cs.mods);
+  const scaled = (ps.scale ?? 'character') !== (ps.opponentScale ?? ps.scale ?? 'character');
+  const canAttack = scaled && !!target && ['skill', 'specialization', 'attribute'].includes(target.rollType);
+  const mods: RollMods = { damageKind: target?.rollType === 'resist' && armor ? damageKind : undefined, attack: canAttack && attack ? true : undefined };
+  const pool = target ? poolForTarget(s, ps, target, { bonus, noStr: dmg ? !dmg.str : noStr, mods, ctx: cs.mods }) : null;
   const pen = penaltyOf(s, ps);
 
   // dados fisicos: N-1 normais + sequencia do Wild Die
@@ -80,7 +87,7 @@ function Mesa({ ch }: { ch: LocalChar }) {
     try {
       if (!online) throw new NetworkError();
       await flush(); // garante que ficha/estado de mesa locais ja estao no servidor (o servidor calcula a parada)
-      const r = await post('/api/rolls', { id, characterId: ch.id, targetKey: target.key, mode: physical ? 'physical' : 'digital', visibility: ch.campaignId ? visibility : 'private', damageBonus: bonus, noStr: dmg ? !dmg.str : noStr, values });
+      const r = await post('/api/rolls', { id, characterId: ch.id, targetKey: target.key, mode: physical ? 'physical' : 'digital', visibility: ch.campaignId ? visibility : 'private', damageBonus: bonus, noStr: dmg ? !dmg.str : noStr, ...mods, values });
       setResult(r.roll);
       afterRoll(r.roll);
     } catch (e) {
@@ -213,6 +220,17 @@ function Mesa({ ch }: { ch: LocalChar }) {
             </div>
           )}
 
+          {target?.rollType === 'resist' && armor && (
+            <div className="flex flex-wrap items-center gap-2" role="group" aria-label="Tipo de dano recebido">
+              <span className="text-sm text-muted">Dano recebido:</span>
+              {([['energy', 'Energia (blaster)'], ['physical', 'Físico']] as const).map(([k, l]) => <button key={k} className={cn('btn sm', damageKind === k && 'primary')} aria-pressed={damageKind === k} onClick={() => setDamageKind(k)}>{l}</button>)}
+            </div>
+          )}
+          {canAttack && (
+            <label className="flex items-center gap-2 text-sm"><input type="checkbox" className="h-5 w-5" checked={attack} onChange={(e) => setAttack(e.target.checked)} />
+              É um ataque contra o {scaleLabel(ps.opponentScale!)} (bônus de escala no ataque)</label>
+          )}
+
           {prefs.rollMode === 'physical' && canAct && (
             <fieldset className="grid gap-2">
               <legend className="label">Valores que saíram na mesa</legend>
@@ -303,6 +321,7 @@ function Mesa({ ch }: { ch: LocalChar }) {
           {!canSpendFP(ps, s.force_points).ok && !ps.fpUsed && <p className="text-xs text-muted">{canSpendFP(ps, s.force_points).reason}</p>}
         </Panel>
 
+        <CombatCard ch={ch} />
         <WoundCard ch={ch} />
         <AmmoCard ch={ch} />
         {ch.campaignId && (
@@ -314,6 +333,46 @@ function Mesa({ ch }: { ch: LocalChar }) {
       {/* botao de rolar sempre ao alcance do polegar (celular) */}
       <button className="btn primary fixed bottom-[4.6rem] right-4 z-20 h-14 w-14 rounded-full p-0 shadow-lg lg:hidden" aria-label="Rolar" disabled={busy || !canAct} onClick={doRoll}><Dices className="h-6 w-6" /></button>
     </Page>
+  );
+}
+
+// ------------------------------------------------------------------ armadura e escala (B-220, p.94-95)
+const scaleOptions = SCALES.map((sc) => <option key={sc} value={sc}>{scaleLabel(sc)}</option>);
+
+function CombatCard({ ch }: { ch: LocalChar }) {
+  const cs = useCatalog()!;
+  const s = ch.sheet, ps = ch.playState ?? defaultPlayState();
+  const armor = wornArmor(s, ps, cs.mods);
+  const prot = armor?.protection;
+  const self = ps.scale ?? 'character', opp = ps.opponentScale ?? self;
+  const patch = (p: Partial<typeof ps>) => setPlayState(ch.id, (cur) => ({ ...cur, ...p }));
+  const resistT = targetsOf(s, cs.creation.skillsById).find((t) => t.key === 'r')!;
+  const resist = (k: 'energy' | 'physical') => poolForTarget(s, ps, resistT, { mods: { damageKind: k }, ctx: cs.mods }).text;
+  const adj = scaleAdjust(self, opp, cs.mods.scaleTable).adjustText;
+  const bigger = SCALES.indexOf(opp as any) > SCALES.indexOf(self as any);
+  return (
+    <Panel className="grid gap-3" aria-labelledby="combat-h">
+      <h2 id="combat-h" className="label !text-[0.8rem]">Armadura e escala</h2>
+      <label className="field"><span>Armadura vestida</span>
+        <select className="input" value={ps.armorWorn ?? ''} onChange={(e) => patch({ armorWorn: e.target.value === '' ? null : Number(e.target.value) })}>
+          <option value="">Nenhuma</option>
+          {s.armor.map((a: any, i: number) => <option key={i} value={i}>{a.type}</option>)}
+        </select></label>
+      {!s.armor.length && <p className="text-xs text-muted">Sem armadura na ficha: adicione em Ficha › Armadura.</p>}
+      {armor && (prot
+        ? <p className="text-sm">Resistência: <span className="mono">{prot.physical ?? '—'}</span> físico, <span className="mono">{prot.energy ?? '—'}</span> energia{prot.dexterity_penalty && <>; <span className="mono">{prot.dexterity_penalty}</span> em Dexterity e perícias dela</>} (p.94).</p>
+        : <p className="text-sm text-muted">Essa peça não tem proteção no catálogo; veja as notas da armadura.</p>)}
+      <div className="grid grid-cols-2 gap-2">
+        <label className="field"><span>Sua escala</span><select className="input" value={self} onChange={(e) => patch({ scale: e.target.value })}>{scaleOptions}</select></label>
+        <label className="field"><span>Escala do oponente</span><select className="input" value={opp} onChange={(e) => patch({ opponentScale: e.target.value })}>{scaleOptions}</select></label>
+      </div>
+      {self !== opp && (
+        <p className="text-sm" role="status">{bigger
+          ? <>O oponente é maior (<span className="mono">{adj}</span>): você soma no <strong>ataque</strong> contra ele e na <strong>esquiva</strong> quando ele ataca; ele soma na resistência e no dano (p.95).</>
+          : <>Você é maior (<span className="mono">{adj}</span>): você soma na <strong>resistência</strong> e no <strong>dano</strong>; o oponente soma no ataque e na esquiva (p.95).</>}</p>
+      )}
+      <p className="text-sm text-muted">Sua resistência agora: energia <span className="mono text-[var(--holo)]">{resist('energy')}</span> · físico <span className="mono text-[var(--holo)]">{resist('physical')}</span></p>
+    </Panel>
   );
 }
 
@@ -350,6 +409,7 @@ function WoundCard({ ch }: { ch: LocalChar }) {
       </div>
       <div className="grid gap-2 border-t border-[var(--line)] pt-2">
         <span className="label flex items-center gap-1"><Swords className="h-3 w-3" aria-hidden />Dano × Resistência (RD-17)</span>
+        <p className="text-xs text-muted">Role "Resistir dano" no rolador: ele já soma a armadura vestida e a escala. Digite aqui o total do dano e o da resistência.</p>
         <div className="grid grid-cols-2 gap-2">
           <label className="field"><span>Dano</span><input className="input mono" inputMode="numeric" value={dmg} onChange={(e) => setDmg(e.target.value.replace(/\D/g, ''))} /></label>
           <label className="field"><span>Resistência</span><input className="input mono" inputMode="numeric" value={res} onChange={(e) => setRes(e.target.value.replace(/\D/g, ''))} /></label>

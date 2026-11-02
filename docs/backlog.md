@@ -55,7 +55,7 @@ Especificação: `docs/product-spec-v2.md`; visual: `docs/visual-direction.md`; 
 | B-108 | Hangar: hero, baias de personagens, campanhas, próxima sessão, atividade | M | F-03 | todo |
 | B-109 | Telas da v1 portadas para o novo visual: assistente (com galeria de cartas de template e espécie), ficha, modo mesa, consulta, glossário, impressão | M | US-01 a US-15 (menos US-13) | todo |
 | B-110 | Retrato: upload, recorte, moldura | S | F-13 | todo |
-| B-111 | Evolução guiada: custo (RD-40), tempo de treino, teste de teto de atributo | S | US-25, F-11, p.25-28 | todo |
+| B-111 | Evolução guiada: custo (RD-40), tempo de treino, teste de teto de atributo | S | US-25, F-11, p.25-28 | done (ficha › Evoluir; lógica em `packages/rules/src/advance.ts`) |
 | B-112 | Linha do tempo do personagem e lista de versões (ver versão antiga) | S | US-25, F-12 | todo |
 | B-113 | Campanha: criar, capa, convite por link e QR, aceitar, papéis, revogar | M | US-26, F-04, D-05 | todo |
 | B-114 | Console do mestre: estado do grupo ao vivo; conceder CP; ajustar ferimento e stuns; aprovar ficha | M | US-27, F-05, D-10 | todo |
@@ -140,6 +140,6 @@ Registro do que o protótipo v2 **não** faz ou faz de forma reduzida. Entrou: f
 | B-217 | Lixeira de fichas (restaurar apagadas) | C | `DELETE` é lógico (`deleted_at`), mas não há tela nem rota de restauração. |
 | B-218 | Dados 3D: refino | C | Cubo com pips em canvas e animação simples (sobe, quica, para na face certa). Sem física, som, nem trilha animada do 6 explodindo. A fileira 2D sempre acompanha o resultado. |
 | B-219 | Paralaxe por giroscópio, sons, Web Push | W | Fora do escopo do protótipo. |
-| B-220 | Armadura e escala na calculadora de dano | S | O modo mesa tem a calculadora dano x resistência (RD-17) sem armadura/escala (`scaleAdjust` existe em `@r2d6/rules`). |
+| B-220 | Armadura e escala na calculadora de dano | S | **Feito:** armadura vestida e escalas no estado de mesa; o servidor soma armadura na resistência (físico/energia), tira da Dexterity e aplica a escala no ataque, esquiva, dano e resistência (p.94-95). |
 | B-221 | Testes de componentes (Testing Library) | S | Cobertura da UI é só e2e (Playwright). |
 | B-222 | WebKit/Safari e dispositivos reais | S | E2E só em Chromium; o layout foi conferido por viewport emulado (375, 768, 1024, 1366). |

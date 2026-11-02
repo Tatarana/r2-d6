@@ -71,6 +71,9 @@ export const createRollBody = z.object({
   visibility: z.enum(['table', 'gm', 'private']).default('table'),
   damageBonus: z.string().max(20).optional(),
   noStr: z.boolean().optional(),
+  /** armadura (fisico/energia) na resistencia e bonus de escala no ataque */
+  damageKind: z.enum(['physical', 'energy']).optional(),
+  attack: z.boolean().optional(),
   /** valores: dados fisicos (mode=physical) ou rolagem feita offline no aparelho (rng=client) */
   values: z.object({ normals: z.array(z.number().int().min(1).max(6)).max(40), wild: z.array(z.number().int().min(1).max(6)).min(1).max(30) }).optional(),
   rng: z.enum(['server', 'client']).default('server'),
