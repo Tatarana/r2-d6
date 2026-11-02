@@ -131,7 +131,7 @@ Registro do que o protótipo v2 **não** faz ou faz de forma reduzida. Entrou: f
 | B-208 | Edição pelo mestre fora de CP/FP/DSP/créditos/ferimento | W | Decisão: mestre só concede, fere e ajusta créditos (registrado no histórico). |
 | B-209 | Diário da sessão, holomapa, presença rica, rolagens secretas do mestre (`S`) | C | `bg.campaign.holomap`, `empty.journal` e `empty.timeline` têm espaço no manifesto, sem tela. |
 | B-210 | Driver S3/R2 para mídia | S | Só o driver `local` (`MEDIA_DIR`); a interface `Storage` está pronta. |
-| B-211 | Migrations reversíveis | S | `drizzle-kit generate` só gera "up". Para produção, escrever os "down" à mão ou adotar um runner com rollback. |
+| B-211 | Migrations reversíveis | S | **Feito:** `<tag>.down.sql` escrito à mão ao lado de cada migração, `npm run db:rollback` (produção exige `--yes`) e teste do ciclo up → down → up. Passo a passo em `docs/deploy.md`. |
 | B-212 | Rate limit e verificação de e-mail em produção | S | Rate limit global e por rota de convite/auth já ligados; verificação de e-mail desligada (`requireEmailVerification: false`) até haver SMTP real. Lista de senhas comuns é curta (~12 itens). |
 | B-213 | Ajv/Zod: tipagem estrita de `rules.ts` e `dice.ts` | C | Porta direta do JS do v1 com `// @ts-nocheck` (testes dos 56 casos protegem o comportamento). Gerar `character-sheet.d.ts` a partir do schema. |
 | B-214 | ESLint e CI | S | Não há linter configurado; `npm run typecheck` e `npm test` rodam à mão. |

@@ -81,6 +81,29 @@ deploy na `main` fica desligado até você:
 2. no GitHub (Settings › Secrets and variables › Actions), criar o segredo `FLY_API_TOKEN` com o token e a variável
    `DEPLOY_ENABLED` = `true`.
 
+## Migrações do banco
+
+Cada deploy aplica as migrações novas antes de a versão entrar (`release_command`). Para mudar o schema:
+
+1. Edite `apps/api/src/db/schema.ts` e rode `npm run db:generate`: o drizzle-kit cria `apps/api/src/db/migrations/<NNNN>_<nome>.sql`.
+2. **Escreva à mão** o `<NNNN>_<nome>.down.sql` ao lado, com o SQL que desfaz o anterior (separe comandos com
+   `--> statement-breakpoint`). O teste `apps/api/tests/migrations.test.ts` falha se faltar o arquivo e confere o ciclo
+   aplicar → desfazer → aplicar num banco descartável.
+3. Prefira migrações aditivas (coluna nova com default, tabela nova). Remover ou renomear coluna em dois passos: primeiro
+   o código para de usar, num deploy seguinte a migração remove.
+
+Desfazer a última migração:
+
+- local: `npm run db:rollback` (ou `npm run db:rollback -- --steps 2`);
+- produção: antes, crie um branch de backup no Neon (Branches › Create branch, a partir de agora). Depois:
+
+```bash
+fly ssh console -C "npm run db:rollback -w @r2d6/api -- --yes"
+```
+
+  e volte o código para a versão anterior (`git revert` do commit e push), senão o próximo deploy reaplica a migração.
+  Se algo der errado, a restauração do Neon (por ponto no tempo ou pelo branch de backup) é o plano B.
+
 ## Operação
 
 - **Logs:** `fly logs`. **Status:** `fly status`.

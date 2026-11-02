@@ -18,6 +18,7 @@
     "db:generate": "npm run db:generate -w @r2d6/api",
     "db:migrate": "npm run db:migrate -w @r2d6/api",
     "db:seed": "npm run db:seed -w @r2d6/api",
+    "db:rollback": "npm run db:rollback -w @r2d6/api --",
     "test": "node scripts/ensure-data.mjs && vitest run",
     "test:e2e": "playwright test",
     "build": "npm run data:build && npm run build -w @r2d6/web",
