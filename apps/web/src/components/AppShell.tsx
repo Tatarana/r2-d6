@@ -57,6 +57,8 @@ const Logo = () => (
   </span>
 );
 
+const NO_CHAR = 'Crie um personagem primeiro (Hangar › Novo personagem)';
+
 export function AppShell() {
   const { platform, landscape } = usePlatform();
   const loc = useLocation();
@@ -75,10 +77,11 @@ export function AppShell() {
     return prefs.activeChar && ids.includes(prefs.activeChar) ? prefs.activeChar : ids[0] ?? null;
   }, [chars, prefs.activeChar]);
 
-  const items: { to: string; label: string; icon: ReactNode; match?: (p: string) => boolean }[] = [
+  // sem personagem, Ficha e Mesa ficam esmaecidas e levam ao Hangar (onde esta "Novo personagem")
+  const items: { to: string; label: string; icon: ReactNode; match?: (p: string) => boolean; disabled?: boolean }[] = [
     { to: '/', label: 'Hangar', icon: <Warehouse />, match: (p) => p === '/' || p.startsWith('/criar') },
-    { to: activeId ? `/ficha/${activeId}` : '/criar', label: 'Ficha', icon: <ScrollText />, match: (p) => p.startsWith('/ficha') },
-    { to: activeId ? `/mesa/${activeId}` : '/criar', label: 'Mesa', icon: <Dices />, match: (p) => p.startsWith('/mesa') },
+    { to: activeId ? `/ficha/${activeId}` : '/', label: 'Ficha', icon: <ScrollText />, match: (p) => p.startsWith('/ficha'), disabled: !activeId },
+    { to: activeId ? `/mesa/${activeId}` : '/', label: 'Mesa', icon: <Dices />, match: (p) => p.startsWith('/mesa'), disabled: !activeId },
     { to: '/campanhas', label: 'Campanha', icon: <Users />, match: (p) => p.startsWith('/campanhas') },
     { to: '/consulta', label: 'Consulta', icon: <BookOpen />, match: (p) => p.startsWith('/consulta') || p.startsWith('/glossario') },
   ];
@@ -110,7 +113,7 @@ export function AppShell() {
           <div className="mb-3 flex items-center justify-between px-1"><Logo />{!prefs.sidebarCollapsed && null}</div>
           <nav className="grid gap-1">
             {items.map((it) => (
-              <NavLink key={it.label} to={it.to} className={() => linkCls(!!it.match?.(loc.pathname))} title={it.label} aria-current={it.match?.(loc.pathname) ? 'page' : undefined}>
+              <NavLink key={it.label} to={it.to} className={() => cn(linkCls(!!it.match?.(loc.pathname)), it.disabled && 'opacity-45')} title={it.disabled ? NO_CHAR : it.label} aria-disabled={it.disabled || undefined} aria-current={it.match?.(loc.pathname) ? 'page' : undefined}>
                 <span className="h-5 w-5 [&>svg]:h-5 [&>svg]:w-5">{it.icon}</span>{!prefs.sidebarCollapsed && it.label}
               </NavLink>
             ))}
@@ -149,8 +152,8 @@ export function AppShell() {
       {platform === 'tablet' && (
         <nav className="glass sticky top-[3.1rem] z-20 flex gap-1 rounded-none border-x-0 border-t-0 px-3" aria-label="Navegação principal">
           {items.map((it) => (
-            <NavLink key={it.label} to={it.to} aria-current={it.match?.(loc.pathname) ? 'page' : undefined}
-              className={() => cn('flex items-center gap-2 border-b-2 px-4 py-3 font-semibold', it.match?.(loc.pathname) ? 'border-[var(--holo)] text-[var(--holo)]' : 'border-transparent text-muted')}>
+            <NavLink key={it.label} to={it.to} aria-current={it.match?.(loc.pathname) ? 'page' : undefined} title={it.disabled ? NO_CHAR : undefined} aria-disabled={it.disabled || undefined}
+              className={() => cn('flex items-center gap-2 border-b-2 px-4 py-3 font-semibold', it.match?.(loc.pathname) ? 'border-[var(--holo)] text-[var(--holo)]' : 'border-transparent text-muted', it.disabled && 'opacity-45')}>
               <span className="[&>svg]:h-5 [&>svg]:w-5">{it.icon}</span>{it.label}
             </NavLink>
           ))}
@@ -191,7 +194,7 @@ export function AppShell() {
           {items.map((it) => {
             const active = !!it.match?.(loc.pathname);
             return (
-              <NavLink key={it.label} to={it.to} aria-current={active ? 'page' : undefined} className={() => cn('grid justify-items-center gap-0.5 py-2 text-[0.7rem] font-semibold', active ? 'text-[var(--holo)]' : 'text-muted')}>
+              <NavLink key={it.label} to={it.to} aria-current={active ? 'page' : undefined} title={it.disabled ? NO_CHAR : undefined} aria-disabled={it.disabled || undefined} className={() => cn('grid justify-items-center gap-0.5 py-2 text-[0.7rem] font-semibold', active ? 'text-[var(--holo)]' : 'text-muted', it.disabled && 'opacity-45')}>
                 <span className="[&>svg]:h-6 [&>svg]:w-6">{it.icon}</span>{it.label}
               </NavLink>
             );

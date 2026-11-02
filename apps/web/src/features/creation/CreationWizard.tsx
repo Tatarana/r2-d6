@@ -57,7 +57,7 @@ export function CreationWizard() {
         <div><h2 className="text-xl font-bold">De onde vem o personagem?</h2><p className="text-muted">Template: atributos, perícias e equipamento prontos (cap. 23). Do zero: espécie + 6D para distribuir (p.23-24).</p></div>
         <div className="grid gap-3 sm:grid-cols-2">
           {([['template', 'Por template', 'create.path.template', 'Escolha um dos 26 modelos do livro e ajuste.'], ['scratch', 'Do zero', 'create.path.scratch', 'Espécie + 6D de atributos, você monta tudo.']] as const).map(([k, l, art, d]) => (
-            <button key={k} type="button" aria-pressed={wiz.origin === k} className={cn('glass chamfer overflow-hidden text-left', wiz.origin === k && 'glow')} onClick={() => (k === 'scratch' ? replace(W.pickScratch()) : upd((w) => { w.origin = 'template'; }))}>
+            <button key={k} type="button" aria-pressed={wiz.origin === k} className={cn('glass chamfer flex flex-col justify-start overflow-hidden text-left', wiz.origin === k && 'glow')} onClick={() => (k === 'scratch' ? replace(W.pickScratch()) : upd((w) => { w.origin = 'template'; }))}>
               <ArtSlot id={art} className="w-full" decorative /><div className="p-3"><strong className="text-lg">{l}</strong><p className="text-sm text-muted">{d}</p></div>
             </button>
           ))}
@@ -68,7 +68,8 @@ export function CreationWizard() {
               const tot = templateDiceTotals(t);
               const art = artItem(`template.${slugify(t.type)}`) ? `template.${slugify(t.type)}` : 'template.smuggler';
               return (
-                <button key={t.id} role="listitem" type="button" aria-pressed={wiz.templateId === t.id} className={cn('glass chamfer-2 overflow-hidden text-left transition-transform hover:-translate-y-0.5', wiz.templateId === t.id && 'glow reticle')}
+                // flex-col + justify-start: o botao centraliza o conteudo por padrao e, com titulos de alturas diferentes na mesma linha, a arte "flutuava" no card
+                <button key={t.id} role="listitem" type="button" aria-pressed={wiz.templateId === t.id} className={cn('glass chamfer-2 flex flex-col justify-start overflow-hidden text-left transition-transform hover:-translate-y-0.5', wiz.templateId === t.id && 'glow reticle')}
                   onClick={() => replace(W.pickTemplate(t))} data-testid={`tpl-${t.id}`}>
                   <ArtSlot id={art} className="w-full" decorative />
                   <div className="p-2.5"><strong>{t.type}</strong><div className="mono text-xs text-muted">{tot.totalText} · Move {t.move} · p.{t.page}</div>{t.force_skills && <Seal kind="raw">Força</Seal>}</div>
