@@ -15,3 +15,8 @@ data/raw-data/*.pdf
 
 # imagens originais antes do processamento
 art-inbox/
+
+# credenciais baixadas (Google OAuth etc.): nunca versionar
+client_secret_*.json
+*.secrets.md
+secrets.txt
