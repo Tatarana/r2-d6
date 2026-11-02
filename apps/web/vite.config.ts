@@ -54,10 +54,13 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,png,webp,woff2,json}'],
+        // artes do universo (centenas de MB com as ondas) ficam fora do download inicial: entram no cache na 1a vez que aparecem (B-225)
+        globIgnores: ['**/art/**'],
         maximumFileSizeToCacheInBytes: 6 * 1024 * 1024,
         navigateFallbackDenylist: [/^\/api\//, /^\/socket\.io\//],
         runtimeCaching: [
           { urlPattern: ({ url }: { url: URL }) => /^\/api\/media\//.test(url.pathname), handler: 'CacheFirst', options: { cacheName: 'retratos', expiration: { maxAgeSeconds: 30 * 86400, maxEntries: 80 } } },
+          { urlPattern: ({ url }: { url: URL }) => /^\/art\//.test(url.pathname), handler: 'StaleWhileRevalidate', options: { cacheName: 'artes', expiration: { maxAgeSeconds: 90 * 86400, maxEntries: 600 } } },
         ],
       },
       devOptions: { enabled: false },

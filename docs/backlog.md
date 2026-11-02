@@ -156,8 +156,8 @@ ondas 1 a 3 de arte em rascunho (350 imagens).
 |---|---|---|---|
 | B-223 | Revisão das 350 artes em rascunho (incluindo IP) e refação das escolhidas | M | Com o Fernando; aprovadas vão com `tools/process_art.py --status approved`. Notas de refação nas pranchas de cada lote. |
 | B-224 | Ícone do app (PWA) e 2 texturas | S | **Feito:** ícone em SVG (`apps/web/public/icons/icon.svg`, PNGs 192/512 gerados dele, dentro da zona segura do Android) e materiais dos dados 3D gerados por código em `DiceTray3D.tsx` (grafite com pips ciano; Wild Die âmbar com veios e pips brancos). |
-| B-225 | Tirar as artes do precache do PWA | S | O service worker baixa ~27 MB de artes na primeira visita; trocar por cache sob demanda (runtime caching). |
-| B-226 | Conferir o registro do service worker em produção | S | No navegador embutido apareceu "unknown error when fetching the script" apesar de `sw.js` responder 200. |
+| B-225 | Tirar as artes do precache do PWA | S | **Feito:** o download inicial caiu de 380 arquivos (~27 MB) para 37 (3,3 MB); as artes entram no cache `artes` na 1ª vez que aparecem (StaleWhileRevalidate, 90 dias) e, offline, uma arte nunca vista cai no placeholder. |
+| B-226 | Conferir o registro do service worker em produção | S | **Verificado:** em https://r2-d6.fly.dev o service worker fica "activated" e controla a página, sem erros. O erro era do navegador embutido, que não registra service worker em `http://localhost` (confirmado com um servidor estático simples). |
 | B-227 | Crabshell Yuuzhan Vong: descrição fiel e nova arte | C | A descrição do manifesto é genérica (não cita vonduun/Yuuzhan Vong). |
 | B-228 | Evolução: acompanhar treino em andamento | C | Hoje o tempo de treino é informativo; a melhora entra ao aplicar. |
 | B-229 | Ícones `icon.*` no manifesto | C | São componentes SVG, não arquivos em `public/art`; o manifesto ainda os marca como sem imagem. |

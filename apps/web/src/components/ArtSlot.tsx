@@ -2,7 +2,7 @@
 // public/art/<id>.webp (ou no caminho do manifesto) e, se nao existir, desenha o placeholder da familia:
 // gradiente + scanlines + icone Lucide a 45% + (em dev) id e descricao curta. A proporcao e fixa para nao haver salto de layout.
 import { Backpack, Car, CircleDashed, Crosshair, IdCard, Rocket, Shield, Target, Image as ImageIcon, Orbit, ScanLine, Sparkles, SquareDashed, TriangleAlert, UserRound, type LucideIcon } from 'lucide-react';
-import type { CSSProperties, ReactNode } from 'react';
+import { useState, type CSSProperties, type ReactNode } from 'react';
 import artFiles from 'virtual:art-index';
 import manifest from '../../../../docs/image-manifest.json';
 import { cn } from '@/lib/cn';
@@ -48,7 +48,10 @@ export function ArtSlot({ id: idOrChain, className, style, ratio, alt, fit = 'co
   const id = chain[0];
   const it = chain.map((c) => byId.get(c)).find(Boolean);
   const hitId = chain.find((c) => artSrc(c));
-  const src = hitId ? artSrc(hitId) : null;
+  // offline, uma arte que nunca foi vista nao esta no cache: cai no placeholder em vez de imagem quebrada (B-225)
+  const [failed, setFailed] = useState<string | null>(null);
+  const found = hitId ? artSrc(hitId) : null;
+  const src = found && found !== failed ? found : null;
   const ph = PLACEHOLDERS[it?.placeholder ?? 'default'] ?? PLACEHOLDERS.default;
   const accent = ph.accent;
   const Icon = ICONS[ph.icon] ?? ImageIcon;
@@ -66,7 +69,7 @@ export function ArtSlot({ id: idOrChain, className, style, ratio, alt, fit = 'co
       role={hidden ? undefined : 'img'} aria-label={hidden ? undefined : text} aria-hidden={hidden ? true : undefined}
     >
       {src ? (
-        <img src={src} alt="" loading={eager ? 'eager' : 'lazy'} decoding="async" className="absolute inset-0 h-full w-full" style={{ objectFit: fit, objectPosition: focal }} />
+        <img src={src} alt="" loading={eager ? 'eager' : 'lazy'} decoding="async" onError={() => setFailed(src)} className="absolute inset-0 h-full w-full" style={{ objectFit: fit, objectPosition: focal }} />
       ) : (
         <>
           <div className="absolute inset-0" style={{ background: ph.gradient.startsWith('none') ? 'transparent' : ph.gradient }} />
