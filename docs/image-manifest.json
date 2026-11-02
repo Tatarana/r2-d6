@@ -6338,11 +6338,20 @@
       "description": "Traje espacial blindado de abordagem com mochila de foguete e capacete selado. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Traje espacial blindado de abordagem com mochila de foguete e capacete selado.",
       "data_ref": "data/armor.json#armored-spacesuit",
-      "file": null,
-      "status": "missing",
+      "file": "art/armor.armored-spacesuit.webp",
+      "status": "draft",
       "fallback": [
         "armor-cat.heavy"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-02",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "armor.medium-battle-armor",
@@ -6360,11 +6369,20 @@
       "description": "Armadura de combate média de placas sobre tecido reforçado. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Armadura de combate média de placas sobre tecido reforçado.",
       "data_ref": "data/armor.json#medium-battle-armor",
-      "file": null,
-      "status": "missing",
+      "file": "art/armor.medium-battle-armor.webp",
+      "status": "draft",
       "fallback": [
         "armor-cat.military"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-02",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "armor.heavy-battle-armor",
@@ -6382,11 +6400,20 @@
       "description": "Armadura de combate pesada moldada, resistente a impacto, com ombreiras largas. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Armadura de combate pesada moldada, resistente a impacto, com ombreiras largas.",
       "data_ref": "data/armor.json#heavy-battle-armor",
-      "file": null,
-      "status": "missing",
+      "file": "art/armor.heavy-battle-armor.webp",
+      "status": "draft",
       "fallback": [
         "armor-cat.heavy"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-02",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "armor.blast-helmet",
@@ -6404,11 +6431,20 @@
       "description": "Capacete de combate com viseira e proteção de nuca. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Capacete de combate com viseira e proteção de nuca.",
       "data_ref": "data/armor.json#blast-helmet",
-      "file": null,
-      "status": "missing",
+      "file": "art/armor.blast-helmet.webp",
+      "status": "draft",
       "fallback": [
         "armor-cat.light"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-02",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "armor.blast-vest",
@@ -6426,11 +6462,20 @@
       "description": "Colete de proteção acolchoado com placas no peito. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Colete de proteção acolchoado com placas no peito.",
       "data_ref": "data/armor.json#blast-vest",
-      "file": null,
-      "status": "missing",
+      "file": "art/armor.blast-vest.webp",
+      "status": "draft",
       "fallback": [
         "armor-cat.light"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-02",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "armor.royal-guard-armor",
@@ -6448,11 +6493,20 @@
       "description": "Armadura da Guarda Real do Imperador, no visual clássico de Star Wars: túnica e manto longo vermelho-carmesim até o chão, elmo vermelho alto e liso com viseira estreita escura, pike de força na mão. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Armadura cerimonial de guarda de honra com elmo alto e manto longo de cor sóbria (design próprio).",
       "data_ref": "data/armor.json#royal-guard-armor",
-      "file": null,
-      "status": "missing",
+      "file": "art/armor.royal-guard-armor.webp",
+      "status": "draft",
       "fallback": [
         "armor-cat.military"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-02",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "armor.combat-jumpsuit",
@@ -6470,11 +6524,20 @@
       "description": "Macacão de combate leve com reforços nos joelhos e cotovelos. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Macacão de combate leve com reforços nos joelhos e cotovelos.",
       "data_ref": "data/armor.json#combat-jumpsuit",
-      "file": null,
-      "status": "missing",
+      "file": "art/armor.combat-jumpsuit.webp",
+      "status": "draft",
       "fallback": [
         "armor-cat.light"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-02",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "armor.corellian-powersuit",
@@ -6492,11 +6555,20 @@
       "description": "Exoesqueleto de carga reforçado adaptado como armadura, com braços servoassistidos. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Exoesqueleto de carga reforçado adaptado como armadura, com braços servoassistidos.",
       "data_ref": "data/armor.json#corellian-powersuit",
-      "file": null,
-      "status": "missing",
+      "file": "art/armor.corellian-powersuit.webp",
+      "status": "draft",
       "fallback": [
         "armor-cat.heavy"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-02",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "armor.armored-flight-suit",
@@ -6514,11 +6586,20 @@
       "description": "Macacão de voo blindado com placas no peito e capacete de piloto. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Macacão de voo blindado com placas no peito e capacete de piloto.",
       "data_ref": "data/armor.json#armored-flight-suit",
-      "file": null,
-      "status": "missing",
+      "file": "art/armor.armored-flight-suit.webp",
+      "status": "draft",
       "fallback": [
         "armor-cat.light"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-02",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "armor.padded-flight-suit",
@@ -6536,11 +6617,20 @@
       "description": "Macacão de voo acolchoado com mangueiras de suporte de vida. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Macacão de voo acolchoado com mangueiras de suporte de vida.",
       "data_ref": "data/armor.json#padded-flight-suit",
-      "file": null,
-      "status": "missing",
+      "file": "art/armor.padded-flight-suit.webp",
+      "status": "draft",
       "fallback": [
         "armor-cat.light"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-02",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "armor.clone-trooper-armor",
@@ -6558,11 +6648,20 @@
       "description": "Armadura de clone trooper da era das Guerras Clônicas, no visual clássico de Star Wars: placas brancas com faixas de unidade coloridas e capacete com visor em T escuro. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Armadura de placas branca com faixas de unidade coloridas e capacete de viseira em T estreita (design próprio).",
       "data_ref": "data/armor.json#clone-trooper-armor",
-      "file": null,
-      "status": "missing",
+      "file": "art/armor.clone-trooper-armor.webp",
+      "status": "draft",
       "fallback": [
         "armor-cat.military"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-02",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "armor.stormtrooper-armor",
@@ -6580,11 +6679,20 @@
       "description": "Armadura de stormtrooper imperial, no visual clássico de Star Wars: placas brancas sobre traje preto, cinto com bolsas, capacete branco fechado de lentes escuras e grade de respiração. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Armadura branca de placas para tropas de choque, capacete fechado de lentes escuras (design próprio).",
       "data_ref": "data/armor.json#stormtrooper-armor",
-      "file": null,
-      "status": "missing",
+      "file": "art/armor.stormtrooper-armor.webp",
+      "status": "draft",
       "fallback": [
         "armor-cat.military"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-02",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "armor.scout-trooper-armor",
@@ -6602,11 +6710,20 @@
       "description": "Armadura de scout trooper imperial, no visual clássico de Star Wars: placas brancas mínimas sobre traje preto, capacete com viseira longa e estreita e pala inclinada. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Armadura leve de batedor, placas mínimas e capacete de viseira estreita.",
       "data_ref": "data/armor.json#scout-trooper-armor",
-      "file": null,
-      "status": "missing",
+      "file": "art/armor.scout-trooper-armor.webp",
+      "status": "draft",
       "fallback": [
         "armor-cat.military"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-02",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "armor.snowtrooper-armor",
@@ -6624,11 +6741,20 @@
       "description": "Armadura de snowtrooper imperial, no visual clássico de Star Wars: placas brancas, saia térmica e capuz de tecido, capacete com máscara respiradora e lentes escuras. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Armadura para clima frio com manto, saia térmica e respirador no capacete.",
       "data_ref": "data/armor.json#snowtrooper-armor",
-      "file": null,
-      "status": "missing",
+      "file": "art/armor.snowtrooper-armor.webp",
+      "status": "draft",
       "fallback": [
         "armor-cat.military"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-02",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "armor.vonduun-crabshell-armor",
@@ -6646,11 +6772,20 @@
       "description": "Carapaça orgânica viva de placas sobrepostas, como a casca de um crustáceo. Planta holográfica em manequim, vista de frente com uma vista de perfil menor ao lado.",
       "alt": "Carapaça orgânica viva de placas sobrepostas, como a casca de um crustáceo.",
       "data_ref": "data/armor.json#vonduun-crabshell-armor",
-      "file": null,
-      "status": "missing",
+      "file": "art/armor.vonduun-crabshell-armor.webp",
+      "status": "draft",
       "fallback": [
         "armor-cat.heavy"
-      ]
+      ],
+      "provenance": {
+        "tool": "bing",
+        "model": "MAI-Image-2.5-Flash",
+        "date": "2026-11-02",
+        "source_size": [
+          1248,
+          832
+        ]
+      }
     },
     {
       "id": "gear-cat.communications",
