@@ -65,7 +65,7 @@ Especificação: `docs/product-spec-v2.md`; visual: `docs/visual-direction.md`; 
 | B-118 | Dados 3D (bandeja, Wild Die âmbar, efeitos de 6 e 1) com fallback 2D e movimento reduzido | S | US-34, F-09 | done |
 | B-119 | Modo mesa sincronizado entre aparelhos do mesmo jogador | S | US-33, F-10 | done |
 | B-120 | Modo baixa luz e Wake Lock | M | US-35, F-15 | done |
-| B-121 | Notas do personagem e Diário da campanha com resumo automático do feed | S | F-14 | todo |
+| B-121 | Notas do personagem e Diário da campanha com resumo automático do feed | S | F-14 | parcial (notas privadas feitas: tabela `character_notes`, só o dono, salvam sozinhas e offline; diário da campanha com abrir/fechar sessão falta) |
 | B-122 | Agenda da sessão: data, local, presença, arquivo .ics | C | F-16 | todo |
 | B-123 | Holomapa estático da campanha | C | F-21 | todo |
 | B-124 | Ficha pública somente leitura por link | S | F-18 | todo |

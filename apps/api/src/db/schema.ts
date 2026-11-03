@@ -117,6 +117,14 @@ export const characters = pgTable('characters', {
   deletedAt: timestamp('deleted_at', { withTimezone: true }),
 }, (t) => [index('char_owner_idx').on(t.ownerId), index('char_campaign_idx').on(t.campaignId), index('char_sync_idx').on(t.syncSeq)]);
 
+// notas do personagem: so o dono le e escreve (F-14); fora da ficha para nunca ir junto com o personagem para a mesa
+export const characterNotes = pgTable('character_notes', {
+  characterId: uuid('character_id').primaryKey().references(() => characters.id, { onDelete: 'cascade' }),
+  ownerId: text('owner_id').notNull().references(() => user.id, { onDelete: 'cascade' }),
+  body: text('body').notNull().default(''),
+  updatedAt: timestamp('updated_at', { withTimezone: true }).notNull().defaultNow(),
+});
+
 export const characterChanges = pgTable('character_changes', {
   characterId: uuid('character_id').notNull().references(() => characters.id, { onDelete: 'cascade' }),
   revision: integer('revision').notNull(),

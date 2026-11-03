@@ -9,7 +9,7 @@ import type { AppCtx, SessionUser } from '../ctx';
 import { schema } from '../db/client';
 import { HttpError, badRequest, conflict, forbidden, notFound, unprocessable } from '../lib/http';
 
-const { characters, characterChanges, characterVersions, campaignMembers, campaigns, media } = schema;
+const { characters, characterChanges, characterNotes, characterVersions, campaignMembers, campaigns, media } = schema;
 export type CharRow = typeof characters.$inferSelect;
 
 const MAX_SHEET_BYTES = 128 * 1024;
@@ -189,6 +189,27 @@ export function registerCharacterRoutes(app: FastifyInstance, ctx: AppCtx) {
     const { row, created } = await createCharacter(ctx, req.user!, body);
     reply.code(created ? 201 : 200);
     return { character: presentCharacter(row, 'owner') };
+  });
+
+  // ---- notas do personagem (F-14): so o dono; para os outros a rota nem existe (404, nao revela que ha notas)
+  const notesBody = z.object({ body: z.string().max(20_000) });
+  const ownNotes = async (req: any) => {
+    const { row, role } = await accessCharacter(ctx, req.user!.id, req.params.id);
+    if (role !== 'owner') throw notFound('Personagem');
+    return row;
+  };
+  app.get('/api/characters/:id/notes', auth, async (req) => {
+    const row = await ownNotes(req);
+    const [n] = await ctx.db.select().from(characterNotes).where(eq(characterNotes.characterId, row.id));
+    return { body: n?.body ?? '', updatedAt: n?.updatedAt ?? null };
+  });
+  app.put('/api/characters/:id/notes', auth, async (req) => {
+    const row = await ownNotes(req);
+    const { body } = notesBody.parse(req.body);
+    const now = new Date();
+    await ctx.db.insert(characterNotes).values({ characterId: row.id, ownerId: row.ownerId, body, updatedAt: now })
+      .onConflictDoUpdate({ target: characterNotes.characterId, set: { body, updatedAt: now } });
+    return { body, updatedAt: now };
   });
 
   app.get('/api/characters/:id', auth, async (req) => {

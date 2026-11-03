@@ -4,7 +4,7 @@ import type { FastifyInstance } from 'fastify';
 import type { AppCtx } from '../ctx';
 import { schema } from '../db/client';
 
-const { characters, characterVersions, campaignMembers, rolls } = schema;
+const { characters, characterNotes, characterVersions, campaignMembers, rolls } = schema;
 
 export function registerMeRoutes(app: FastifyInstance, ctx: AppCtx) {
   app.get('/api/meta', async () => ({
@@ -28,6 +28,7 @@ export function registerMeRoutes(app: FastifyInstance, ctx: AppCtx) {
     const data = {
       exportedAt: new Date().toISOString(), user: req.user,
       characters: chars.map((c) => ({ id: c.id, name: c.name, sheet: c.sheet, playState: c.playState, revision: c.revision, createdAt: c.createdAt })),
+      notes: chars.length ? (await ctx.db.select().from(characterNotes).where(eq(characterNotes.ownerId, uid))).map((n) => ({ characterId: n.characterId, body: n.body, updatedAt: n.updatedAt })) : [],
       versions: versions.filter((v) => mine.has(v.characterId)).map((v) => ({ characterId: v.characterId, revision: v.revision, kind: v.kind, label: v.label, snapshot: v.snapshot, createdAt: v.createdAt })),
       campaigns: await ctx.db.select().from(campaignMembers).where(eq(campaignMembers.userId, uid)),
       rolls: await ctx.db.select().from(rolls).where(eq(rolls.userId, uid)),

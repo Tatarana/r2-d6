@@ -14,6 +14,7 @@ import { applyServerResult, editSheet, useChar } from '@/lib/sync';
 import { templateArt } from '../hangar/Hangar';
 import { AdvanceButton } from './AdvanceDialog';
 import { ConflictDialog } from './ConflictDialog';
+import { NotesPanel } from './NotesPanel';
 
 /** Campo de texto que grava ao sair (evita uma operacao por tecla). */
 export function TextField({ label, value, onCommit, area, mono, inputMode }: { label: string; value: string; onCommit: (v: string) => void; area?: boolean; mono?: boolean; inputMode?: 'numeric' | 'text' }) {
@@ -192,6 +193,8 @@ export function SheetPage() {
               <TextField label="Créditos" mono inputMode="numeric" value={String(s.credits ?? 0)} onCommit={(v) => set((d) => { d.credits = Math.max(0, parseInt(v, 10) || 0); })} />
             </div>
           </Section>
+
+          <NotesPanel characterId={ch.id} />
 
           <Section title="Armas" right={<AddFromCatalog cat="weapons" make={weaponEntry} onAdd={(e) => set((d) => { d.weapons.push(e); })} />}>
             {s.weapons.map((w: any, i: number) => (
